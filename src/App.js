@@ -30,22 +30,25 @@
         return (
             <div className="App">
                 <h1>College Football Map</h1>
-                <div style={{ margin: "1rem" }}>
-                    <label htmlFor="week-select"><strong>Select Week:</strong>{' '}</label>
-                    <select
-                        id="week-select"
-                        value={selectedWeek}
-                        onChange={(e) => setSelectedWeek(Number(e.target.value))}
-                    >
-                        {[...Array(15)].map((_, i) => (
-                            <option key={i + 1} value={i + 1}>Week {i + 1}</option>
-                        ))}
-                    </select>
-                    <div style={{ marginTop: "0.5rem", fontStyle: "italic" }}>
-                        {selectedDateString}
+                <div style={{ margin: "1rem", display: "flex", flexWrap: "wrap", alignItems: "center", gap: "1.5rem" }}>
+                    <div>
+                        <label htmlFor="week-select"><strong>Select Week:</strong>{' '}</label>
+                        <select
+                            id="week-select"
+                            value={selectedWeek}
+                            onChange={(e) => setSelectedWeek(Number(e.target.value))}
+                        >
+                            {[...Array(15)].map((_, i) => (
+                                <option key={i + 1} value={i + 1}>Week {i + 1}</option>
+                            ))}
+                        </select>
+                        <div style={{ marginTop: "0.25rem", fontStyle: "italic", fontSize: "0.9rem" }}>
+                            {selectedDateString}
+                        </div>
                     </div>
+
                     {byeTeams.length > 0 && (
-                        <div style={{ margin: "1rem", display: "flex", gap: "1rem", alignItems: "center", flexWrap: "wrap" }}>
+                        <div style={{ display: "flex", alignItems: "center", flexWrap: "wrap", gap: "1rem" }}>
                             {byeTeams.map((team) => (
                                 <div key={team} style={{ display: "flex", alignItems: "center", gap: "0.5rem" }}>
                                     <img src={LOGOS[team]} alt={team} style={{ width: 30, height: 30 }} />
