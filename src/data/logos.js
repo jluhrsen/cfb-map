@@ -22,6 +22,9 @@ export const LOGOS = {
     "Central Michigan": "https://a.espncdn.com/i/teamlogos/ncaa/500/2110.png",
     "Northern Colorado": "https://upload.wikimedia.org/wikipedia/en/f/f9/Northern_Colorado_Bears_logo.svg",
     "UTSA": "https://a.espncdn.com/i/teamlogos/ncaa/500/2638.png",
+    "Northern Iowa": "https://ur.uni.edu/sites/default/files/inline-uploads/uni_primaryrgb.png",
+    "Utah": "https://1000logos.net/wp-content/uploads/2021/07/Utah-Utes-logo-500x281.png",
+    "Colorado": "https://banner2.cleanpng.com/20180725/aca/7807bad473620dd7e2c16e14f31f3320.webp",
 
     // Placeholder
     "TBD": "https://a.espncdn.com/i/teamlogos/ncaa/500/default.png",
