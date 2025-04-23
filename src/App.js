@@ -17,7 +17,7 @@
 
     function App() {
         const [selectedWeek, setSelectedWeek] = useState(1);
-        const firstSaturday = new Date('2025-09-06');
+        const firstSaturday = new Date(2025, 8, 6);
         const selectedDateString = getSaturdayDate(firstSaturday, selectedWeek);
         const defaultLogo = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpZ1-dHcxFDeEw9c96sfI6kKv03hMN1L_TRw&s";
         const teamSet = new Set();
