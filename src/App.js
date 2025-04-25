@@ -2,7 +2,7 @@
     import 'leaflet/dist/leaflet.css';
     import './App.css';
     import { useMapEvents } from 'react-leaflet';
-    import { Marker, Popup } from 'react-leaflet';
+    import { Marker, Popup, Tooltip } from 'react-leaflet';
     import L from 'leaflet';
     import React, { useState } from 'react';
     import { LOGOS } from './data/logos';
@@ -17,8 +17,8 @@
 
     function App() {
         const [selectedWeek, setSelectedWeek] = useState(1);
-        const firstSaturday = new Date(2025, 8, 6);
-        const selectedDateString = getSaturdayDate(firstSaturday, selectedWeek);
+        const firstGameSaturday = new Date(2025, 7, 30); // Aug 30
+        const selectedDateString = getDateForWeek(firstGameSaturday, selectedWeek);
         const defaultLogo = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpZ1-dHcxFDeEw9c96sfI6kKv03hMN1L_TRw&s";
         const teamSet = new Set();
         games.forEach(game => {
@@ -127,6 +127,9 @@
                                             📍 {game.location.venue}<br />
                                             Kickoff: {game.kickoff}
                                         </Popup>
+                                        <Tooltip direction="right" offset={[20, 0]} permanent>
+                                            {formatGameLabel(game)}
+                                        </Tooltip>
                                     </Marker>
                                 </React.Fragment>
                             );
@@ -161,10 +164,34 @@
         return trackedTeams.filter(team => !teamsWithGames.has(team));
     }
 
-    function getSaturdayDate(startDate, week) {
-        const date = new Date(startDate);
+    function getDateForWeek(startDate, week) {
+        const date = new Date(startDate); // clone to avoid mutating original
         date.setDate(date.getDate() + (week - 1) * 7);
-        return date.toLocaleDateString(undefined, { year: 'numeric', month: 'long', day: 'numeric' });
+        return date.toLocaleDateString(undefined, {
+            year: 'numeric',
+            month: 'long',
+            day: 'numeric',
+        });
+    }
+
+    function formatGameLabel(game) {
+        const [year, month, day] = game.date.split('-').map(Number);
+        const date = new Date(year, month - 1, day);
+        const weekday = date.toLocaleDateString(undefined, { weekday: 'short' });
+        const datePart = date.toLocaleDateString(undefined, { month: 'numeric', day: 'numeric' });
+
+        let timePart = "TBD";
+        if (game.kickoff !== "0h") {
+            const hour = parseInt(game.kickoff.replace('h', ''), 10);
+            const dateForTime = new Date();
+            dateForTime.setHours(hour);
+            timePart = dateForTime.toLocaleTimeString(undefined, {
+                hour: 'numeric',
+                hour12: true,
+            }).toLowerCase(); // e.g., "1 pm"
+        }
+
+        return `${weekday} ${datePart} ${timePart}`;
     }
 
     export default App;

@@ -13,7 +13,7 @@ const LINFIELD_LOGO = LOGOS["Linfield"];
 
 export const Willamette_GAMES = [
     {
-        week: 1,
+        week: 2,
         date: "2025-09-06",
         day: "Saturday",
         kickoff: "13:00",
@@ -24,7 +24,7 @@ export const Willamette_GAMES = [
         location: { lat: 44.9384, lng: -123.0438, venue: "McCulloch Stadium" }
     },
     {
-        week: 2,
+        week: 3,
         date: "2025-09-13",
         day: "Saturday",
         kickoff: "13:00",
@@ -35,7 +35,7 @@ export const Willamette_GAMES = [
         location: { lat: 44.9384, lng: -123.0438, venue: "McCulloch Stadium" }
     },
     {
-        week: 3,
+        week: 4,
         date: "2025-09-20",
         day: "Saturday",
         kickoff: "13:00",
@@ -46,7 +46,7 @@ export const Willamette_GAMES = [
         location: { lat: 34.1006, lng: -117.7678, venue: "Ortmayer Stadium" }
     },
     {
-        week: 5,
+        week: 6,
         date: "2025-10-04",
         day: "Saturday",
         kickoff: "13:00",
@@ -57,7 +57,7 @@ export const Willamette_GAMES = [
         location: { lat: 47.1880, lng: -122.2923, venue: "Sparks Stadium" }
     },
     {
-        week: 6,
+        week: 7,
         date: "2025-10-11",
         day: "Saturday",
         kickoff: "13:00",
@@ -68,7 +68,7 @@ export const Willamette_GAMES = [
         location: { lat: 44.9384, lng: -123.0438, venue: "McCulloch Stadium" }
     },
     {
-        week: 7,
+        week: 8,
         date: "2025-10-18",
         day: "Saturday",
         kickoff: "13:00",
@@ -79,7 +79,7 @@ export const Willamette_GAMES = [
         location: { lat: 47.2618, lng: -122.4817, venue: "Baker Stadium" }
     },
     {
-        week: 8,
+        week: 9,
         date: "2025-10-25",
         day: "Saturday",
         kickoff: "13:00",
@@ -90,7 +90,7 @@ export const Willamette_GAMES = [
         location: { lat: 45.5207, lng: -123.1103, venue: "Hanson Stadium" }
     },
     {
-        week: 9,
+        week: 10,
         date: "2025-11-01",
         day: "Saturday",
         kickoff: "13:00",
@@ -101,7 +101,7 @@ export const Willamette_GAMES = [
         location: { lat: 44.9384, lng: -123.0438, venue: "McCulloch Stadium" }
     },
     {
-        week: 10,
+        week: 11,
         date: "2025-11-08",
         day: "Saturday",
         kickoff: "13:00",
@@ -112,7 +112,7 @@ export const Willamette_GAMES = [
         location: { lat: 44.9384, lng: -123.0438, venue: "McCulloch Stadium" }
     },
     {
-        week: 11,
+        week: 12,
         date: "2025-11-15",
         day: "Saturday",
         kickoff: "13:00",
