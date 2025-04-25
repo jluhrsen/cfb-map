@@ -3,7 +3,7 @@ export const LOGOS = {
     "San José State": "https://a.espncdn.com/i/teamlogos/ncaa/500/23.png",
     "Wyoming": "https://a.espncdn.com/i/teamlogos/ncaa/500/2751.png",
     "Colorado State": "https://a.espncdn.com/i/teamlogos/ncaa/500/36.png",
-    "Air Force": "https://a.espncdn.com/i/teamlogos/ncaa/500/8.png",
+    "Air Force": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Air_Force_Falcons_logo.svg",
     "Fresno State": "https://a.espncdn.com/i/teamlogos/ncaa/500/278.png",
     "Hawai'i": "https://a.espncdn.com/i/teamlogos/ncaa/500/62.png",
     "Nevada": "https://a.espncdn.com/i/teamlogos/ncaa/500/2440.png",
