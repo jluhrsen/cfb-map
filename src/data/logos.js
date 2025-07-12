@@ -39,5 +39,8 @@ export const LOGOS = {
     "Puget Sound": "https://cdn.prestosports.com/action/cdn/logos/id/wpoqmrhctdrju4jh.png",
     "George Fox": "https://cdn.prestosports.com/action/cdn/logos/id/mi23750dj6i6tf21.png",
     "Whitworth": "https://cdn.prestosports.com/action/cdn/logos/id/ekkb9ky91gzlit7x.png",
-    "Linfield": "https://cdn.prestosports.com/action/cdn/logos/id/8ab4hlzfjvtul4nx.png"
+    "Linfield": "https://cdn.prestosports.com/action/cdn/logos/id/8ab4hlzfjvtul4nx.png",
+
+    // NFL teams
+    "Las Vegas Raiders": "https://banner2.cleanpng.com/20180418/vtw/avfke7ehi.webp",
 };
