@@ -42,5 +42,19 @@ export const LOGOS = {
     "Linfield": "https://cdn.prestosports.com/action/cdn/logos/id/8ab4hlzfjvtul4nx.png",
 
     // NFL teams
-    "Las Vegas Raiders": "https://banner2.cleanpng.com/20180418/vtw/avfke7ehi.webp",
+    //"Las Vegas Raiders": "https://banner2.cleanpng.com/20180418/vtw/avfke7ehi.webp",
+    "Arizona Cardinals": "https://i.logocdn.com/nfl/2005/arizona-cardinals.svg",
+    "Las Vegas Raiders": "https://i.logocdn.com/nfl/2020/las-vegas-raiders.svg",
+    "New England Patriots": "https://i.logocdn.com/nfl/2000/new-england-patriots.svg",
+    "Los Angeles Chargers": "https://i.logocdn.com/nfl/2020/los-angeles-chargers.svg",
+    "Washington Commanders": "https://i.logocdn.com/nfl/2022/washington-commanders.svg",
+    "Chicago Bears": "https://i.logocdn.com/nfl/2023/chicago-bears.svg",
+    "Indianapolis Colts": "https://i.logocdn.com/nfl/2002/indianapolis-colts.svg",
+    "Tennessee Titans": "https://i.logocdn.com/nfl/1999/tennessee-titans.svg",
+    "Kansas City Chiefs": "https://i.logocdn.com/nfl/1972/kansas-city-chiefs.svg",
+    "Jacksonville Jaguars": "https://i.logocdn.com/nfl/2013/jacksonville-jaguars.svg",
+    "Denver Broncos": "https://i.logocdn.com/nfl/1997/denver-broncos.svg",
+    "Cleveland Browns": "https://i.logocdn.com/nfl/2015/cleveland-browns@3x.png",
+    "Dallas Cowboys": "https://i.logocdn.com/nfl/1964/dallas-cowboys.svg",
+    "Philadelphia Eagles": "https://i.logocdn.com/nfl/1996/philadelphia-eagles.svg",
 };
