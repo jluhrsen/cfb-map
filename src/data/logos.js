@@ -25,6 +25,7 @@ export const LOGOS = {
     "Northern Iowa": "https://ur.uni.edu/sites/default/files/inline-uploads/uni_primaryrgb.png",
     "Utah": "https://1000logos.net/wp-content/uploads/2021/07/Utah-Utes-logo-500x281.png",
     "Colorado": "https://banner2.cleanpng.com/20180725/aca/7807bad473620dd7e2c16e14f31f3320.webp",
+    "Oregon": "https://1000logos.net/wp-content/uploads/2021/07/Oregon-Ducks-logo.png",
 
     // Placeholder
     "TBD": "https://a.espncdn.com/i/teamlogos/ncaa/500/default.png",
