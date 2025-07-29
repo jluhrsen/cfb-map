@@ -181,17 +181,45 @@
         const datePart = date.toLocaleDateString(undefined, { month: 'numeric', day: 'numeric' });
 
         let timePart = "TBD";
-        if (game.kickoff !== "0h") {
-            const hour = parseInt(game.kickoff.replace('h', ''), 10);
-            const dateForTime = new Date();
-            dateForTime.setHours(hour);
-            timePart = dateForTime.toLocaleTimeString(undefined, {
-                hour: 'numeric',
-                hour12: true,
-            }).toLowerCase(); // e.g., "1 pm"
+        if (game.kickoff !== "0h" && game.kickoff !== "TBD") {
+            const kickoff = game.kickoff.trim();
+
+            // ✅ Case 1: "1p" or "12:30p"
+            let match = kickoff.match(/^(\d{1,2})(?::(\d{2}))?(a|p)$/i);
+            if (match) {
+                let hour = parseInt(match[1], 10);
+                const minutes = parseInt(match[2] || "0", 10);
+                const isPM = match[3].toLowerCase() === "p";
+                if (hour === 12) hour = isPM ? 12 : 0;
+                else if (isPM) hour += 12;
+
+                const dateForTime = new Date();
+                dateForTime.setHours(hour, minutes);
+                timePart = dateForTime.toLocaleTimeString(undefined, {
+                    hour: 'numeric',
+                    minute: '2-digit',
+                    hour12: true,
+                }).toLowerCase();
+            }
+
+            // ✅ Case 2: "HH:MM" (24-hour)
+            else if (/^\d{1,2}:\d{2}$/.test(kickoff)) {
+                const [hourStr, minStr] = kickoff.split(':');
+                const hour = parseInt(hourStr, 10);
+                const minutes = parseInt(minStr, 10);
+                const dateForTime = new Date();
+                dateForTime.setHours(hour, minutes);
+                timePart = dateForTime.toLocaleTimeString(undefined, {
+                    hour: 'numeric',
+                    minute: '2-digit',
+                    hour12: true,
+                }).toLowerCase();
+            }
         }
 
         return `${weekday} ${datePart} ${timePart}`;
     }
+
+
 
     export default App;
