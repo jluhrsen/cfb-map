@@ -1,61 +1,74 @@
-# College Football Game Map
+# Football Game Map
 
-The initial purpose of this project is to quickly visualize the location of the
-college football games that I'm interested in, in case there is a good opportunity
-to travel and watch multiple games in the same vicinity. To start I've included
-the teams of schools where I know some of the players on the team or am close to
-people that attend or live near those schools.
+A comprehensive interactive map showing college football (FBS, FCS, D2, D3) and NFL games. Visualize game locations, plan multi-game trips, and track your favorite teams.
 
-## 🙌 How to Contribute (Add a New Team Schedule)
+## Features
 
-We’d love your help adding new teams! Here’s a simple way to contribute — no advanced experience required.
+- 🗺️ Interactive map with all NCAA and NFL games
+- 🔍 Search and track any team
+- 📅 Week-by-week navigation
+- 🏟️ Automatic daily schedule updates
+- 📱 Mobile responsive
 
-### ✅ Steps:
+## How to Use
 
-1. **Create a GitHub account**  
-   If you don’t already have one, sign up at [github.com](https://github.com).
+1. **Search for teams**: Type in the search box to find and add your favorite teams
+2. **Select week**: Use ◄ ► arrows to navigate between weeks
+3. **Filter divisions**: Toggle FBS, FCS, D2, D3, or NFL checkboxes
+4. **Explore the map**: Click markers to see game details
 
-2. **Fork this repository**  
-   Click the **“Fork”** button (top right) to make your own copy of the project.
+Your selected teams are saved in your browser for future visits.
 
-3. **Clone your fork locally**  
-   Open a terminal and run:
-   ```
-   git clone https://github.com/YOUR_USERNAME/cfb-map.git
-   cd cfb-map
-   ```
+## Development
 
-4. **Create a new schedule file**  
-   Inside `src/schedules/`, copy one of the existing files like `wyoming.js` to a new file with your team’s name (e.g. `notredame.js`).
+### Prerequisites
 
-5. **Fill in your team’s schedule**  
-   Use the same format and update:
-    - `week`, `date`, `home`, `away`, `venue`
-    - `homeLogo` and `awayLogo` using our shared `LOGOS` from `src/data/logos.js`  
-      _(You can ask for help if you can’t find a logo!)_
-    - if you don't know the venue location (latitude/longitude) or name, we can clean that up later, but AI (e.g., chatgpt) may be able to help you
+- Node.js 18+
+- CollegeFootballData.com API key (free at https://collegefootballdata.com)
 
-6. **Update the index**  
-   Add your team’s export to the bottom of `src/schedules/index.js`:
-   ```
-   export { Notre_Dame_GAMES } from './notredame';
-   ```
+### Setup
 
-7. **Commit your changes**
-   ```
-   git add .
-   git commit -m "Add Notre Dame schedule"
-   ```
+```bash
+# Install dependencies
+npm install
 
-8. **Push your fork**
-   ```
-   git push
-   ```
+# Add your API key
+echo "your-api-key" > .collegefootballdata_api.key
 
-9. **Create a Pull Request**  
-   Go to your fork on GitHub and click **“Compare & pull request”**.  
-   Add a short message and submit — we’ll review it and merge it in!
+# Fetch data and generate files
+export CFBD_API_KEY=$(cat .collegefootballdata_api.key)
+npm run build:data
 
----
+# Start development server
+npm start
+```
 
-💬 Need help? Open an [Issue](https://github.com/jluhrsen/cfb-map/issues) or reach out — we’re happy to walk you through it.
+### Build Scripts
+
+- `npm start` - Run development server
+- `npm run build:data` - Fetch and generate game data
+- `npm run build` - Build production bundle
+- `npm test` - Run tests
+
+## Architecture
+
+- **Frontend**: React 19 + Leaflet maps
+- **Data**: Static JSON files generated daily
+- **Deployment**: GitHub Pages
+- **Automation**: GitHub Actions (daily 6 AM ET)
+
+Game data fetched from:
+- CollegeFootballData.com API (NCAA)
+- ESPN API (NFL)
+
+## Contributing
+
+We'd love your help! See [How to Contribute](https://github.com/jluhrsen/cfb-map#-how-to-contribute-add-a-new-team-schedule) for details.
+
+To add missing venues or logos:
+- Venues: Edit `src/data/venues.json`
+- Logos: Edit `src/data/team-logos.json`
+
+## License
+
+See [LICENSE](LICENSE) file for details.
