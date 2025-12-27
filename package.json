@@ -41,6 +41,14 @@
       "last 1 safari version"
     ]
   },
+  "jest": {
+    "transformIgnorePatterns": [
+      "node_modules/(?!(react-leaflet|@react-leaflet)/)"
+    ],
+    "moduleNameMapper": {
+      "\\.(css|less|scss|sass)$": "identity-obj-proxy"
+    }
+  },
   "devDependencies": {
     "gh-pages": "^6.3.0"
   }
