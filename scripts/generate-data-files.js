@@ -69,6 +69,12 @@ function normalizeNCAAGame(game, seasonStart) {
     return null;
   }
 
+  // Skip games without a start date
+  if (!game.start_date) {
+    console.warn(`Missing start_date for game: ${game.home_team} vs ${game.away_team}`);
+    return null;
+  }
+
   const week = game.week || calculateWeek(game.start_date, seasonStart);
 
   return {
@@ -101,6 +107,12 @@ function normalizeNFLGame(game) {
 
   if (!venueData) {
     console.warn(`Missing venue: ${venueName}`);
+    return null;
+  }
+
+  // Skip games without a date
+  if (!game.date) {
+    console.warn(`Missing date for NFL game: ${game.home_team} vs ${game.away_team}`);
     return null;
   }
 
