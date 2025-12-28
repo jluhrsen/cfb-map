@@ -1,0 +1,22 @@
+.division-filter {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.filter-label {
+  font-weight: bold;
+}
+
+.division-checkbox {
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+  cursor: pointer;
+  user-select: none;
+}
+
+.division-checkbox input[type="checkbox"] {
+  cursor: pointer;
+}

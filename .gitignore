@@ -17,9 +17,11 @@
 .env.development.local
 .env.test.local
 .env.production.local
+.worktrees
 
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
 .collegefootballdata_api.key
+build-data/
