@@ -5,6 +5,48 @@ const VENUES = require('../src/data/venues.json');
 const LOGO_OVERRIDES = require('../src/data/team-logos.json');
 
 /**
+ * Find venue data with fuzzy matching
+ * @param {string} venueName - Venue name from API
+ * @returns {Object|null} Venue data with coordinates and matched key
+ */
+function findVenue(venueName) {
+  if (!venueName) return null;
+
+  // Try exact match first
+  if (VENUES[venueName]) {
+    return { ...VENUES[venueName], matchedKey: venueName, matchType: 'exact' };
+  }
+
+  // Try case-insensitive exact match
+  const venueKeys = Object.keys(VENUES);
+  const lowerVenueName = venueName.toLowerCase();
+
+  for (const key of venueKeys) {
+    if (key.toLowerCase() === lowerVenueName) {
+      return { ...VENUES[key], matchedKey: key, matchType: 'case-insensitive' };
+    }
+  }
+
+  // Try partial match (API name contains our key)
+  for (const key of venueKeys) {
+    if (lowerVenueName.includes(key.toLowerCase())) {
+      console.log(`Fuzzy match: "${venueName}" matched to "${key}"`);
+      return { ...VENUES[key], matchedKey: key, matchType: 'partial' };
+    }
+  }
+
+  // Try reverse partial match (our key contains API name)
+  for (const key of venueKeys) {
+    if (key.toLowerCase().includes(lowerVenueName)) {
+      console.log(`Fuzzy match: "${venueName}" matched to "${key}"`);
+      return { ...VENUES[key], matchedKey: key, matchType: 'reverse-partial' };
+    }
+  }
+
+  return null;
+}
+
+/**
  * Calculate week number from date and season start
  * @param {string} dateStr - ISO date string
  * @param {Date} seasonStart - Season start date
@@ -62,7 +104,7 @@ function getDayOfWeek(dateStr) {
  */
 function normalizeNCAAGame(game, seasonStart) {
   const venueName = game.venue;
-  const venueData = VENUES[venueName];
+  const venueData = findVenue(venueName);
 
   if (!venueData) {
     console.warn(`Missing venue: ${venueName}`);
@@ -88,7 +130,7 @@ function normalizeNCAAGame(game, seasonStart) {
     homeLogo: LOGO_OVERRIDES[game.home_team] || game.home_team_logo || null,
     awayLogo: LOGO_OVERRIDES[game.away_team] || game.away_team_logo || null,
     venue: {
-      name: venueName,
+      name: venueData.matchedKey,
       lat: venueData.lat,
       lng: venueData.lng
     },
@@ -103,7 +145,7 @@ function normalizeNCAAGame(game, seasonStart) {
  */
 function normalizeNFLGame(game) {
   const venueName = game.venue;
-  const venueData = VENUES[venueName];
+  const venueData = findVenue(venueName);
 
   if (!venueData) {
     console.warn(`Missing venue: ${venueName}`);
@@ -127,7 +169,7 @@ function normalizeNFLGame(game) {
     homeLogo: LOGO_OVERRIDES[game.home_team] || game.home_team_logo,
     awayLogo: LOGO_OVERRIDES[game.away_team] || game.away_team_logo,
     venue: {
-      name: venueName,
+      name: venueData.matchedKey,
       lat: venueData.lat,
       lng: venueData.lng
     },
