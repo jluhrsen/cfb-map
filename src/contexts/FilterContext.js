@@ -35,7 +35,7 @@ export const FilterProvider = ({ children }) => {
     getStoredValue('selectedTeams', [])
   );
   const [selectedDivisions, setSelectedDivisions] = useState(() =>
-    getStoredValue('selectedDivisions', [])
+    getStoredValue('selectedDivisions', ['fbs', 'fcs', 'd2', 'd3', 'nfl'])
   );
   const [selectedWeek, setSelectedWeek] = useState(() =>
     getStoredValue('selectedWeek', 1)
@@ -65,6 +65,14 @@ export const FilterProvider = ({ children }) => {
   }, [selectedYear]);
 
   // Helper functions for managing filters
+  const addTeam = (teamName) => {
+    setSelectedTeams(prev => [...new Set([...prev, teamName])]);
+  };
+
+  const removeTeam = (teamName) => {
+    setSelectedTeams(prev => prev.filter(t => t !== teamName));
+  };
+
   const toggleTeam = (team) => {
     setSelectedTeams(prev =>
       prev.includes(team)
@@ -95,6 +103,8 @@ export const FilterProvider = ({ children }) => {
     setSelectedWeek,
     selectedYear,
     setSelectedYear,
+    addTeam,
+    removeTeam,
     toggleTeam,
     toggleDivision,
     clearAllFilters,
