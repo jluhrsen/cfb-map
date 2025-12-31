@@ -2,89 +2,64 @@ import React, { createContext, useState, useContext, useEffect } from 'react';
 
 const GameDataContext = createContext();
 
-export const useGameData = () => {
+export function useGameData() {
   const context = useContext(GameDataContext);
   if (!context) {
-    throw new Error('useGameData must be used within a GameDataProvider');
+    throw new Error('useGameData must be used within GameDataProvider');
   }
   return context;
-};
+}
 
-export const GameDataProvider = ({ children }) => {
+export function GameDataProvider({ children }) {
   const [index, setIndex] = useState(null);
-  const [weekData, setWeekData] = useState(null);
+  const [weekData, setWeekData] = useState({});
   const [loading, setLoading] = useState(true);
-  const [error, setError] = useState(null);
 
-  // Load the index.json file on mount
+  // Load index on mount
   useEffect(() => {
-    const loadIndex = async () => {
-      try {
-        setLoading(true);
-        const response = await fetch('/data/index.json');
-        if (!response.ok) {
-          throw new Error(`Failed to load index.json: ${response.statusText}`);
-        }
-        const data = await response.json();
+    fetch(`${process.env.PUBLIC_URL}/data/index.json`)
+      .then(res => res.json())
+      .then(data => {
         setIndex(data);
-        setError(null);
-      } catch (err) {
-        console.error('Error loading index.json:', err);
-        setError(err.message);
-      } finally {
         setLoading(false);
-      }
-    };
-
-    loadIndex();
+      })
+      .catch(error => {
+        console.error('Error loading index:', error);
+        setLoading(false);
+      });
   }, []);
 
-  // Load specific week data
-  const loadWeekData = async (year, week) => {
-    if (!index) {
-      console.warn('Index not loaded yet');
-      return null;
+  /**
+   * Load games for specific week and divisions
+   * @param {number} year - Season year
+   * @param {number} week - Week number
+   * @param {Array<string>} divisions - Divisions to load
+   */
+  const loadWeekData = async (year, week, divisions) => {
+    const key = `${year}-${week}`;
+    if (weekData[key]) {
+      return weekData[key];
     }
 
-    try {
-      setLoading(true);
-      const weekEntry = index.weeks?.find(
-        w => w.year === year && w.week === week
-      );
+    const promises = divisions.map(division =>
+      fetch(`${process.env.PUBLIC_URL}/data/${year}/${division}/week-${week}.json`)
+        .then(res => {
+          if (!res.ok) return [];
+          return res.json();
+        })
+        .catch(() => [])
+    );
 
-      if (!weekEntry) {
-        throw new Error(`No data found for ${year} Week ${week}`);
-      }
+    const results = await Promise.all(promises);
+    const allGames = results.flat();
 
-      const response = await fetch(weekEntry.path);
-      if (!response.ok) {
-        throw new Error(`Failed to load week data: ${response.statusText}`);
-      }
-
-      const data = await response.json();
-      setWeekData(data);
-      setError(null);
-      return data;
-    } catch (err) {
-      console.error('Error loading week data:', err);
-      setError(err.message);
-      return null;
-    } finally {
-      setLoading(false);
-    }
-  };
-
-  const value = {
-    index,
-    weekData,
-    loading,
-    error,
-    loadWeekData,
+    setWeekData(prev => ({ ...prev, [key]: allGames }));
+    return allGames;
   };
 
   return (
-    <GameDataContext.Provider value={value}>
+    <GameDataContext.Provider value={{ index, weekData, loading, loadWeekData }}>
       {children}
     </GameDataContext.Provider>
   );
-};
+}
