@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useRef, useEffect } from 'react';
 import { useFilters } from '../contexts/FilterContext';
 import { useGameData } from '../contexts/GameDataContext';
 import './TeamSelector.css';
@@ -8,6 +8,21 @@ function TeamSelector() {
   const { index } = useGameData();
   const [searchTerm, setSearchTerm] = useState('');
   const [showDropdown, setShowDropdown] = useState(false);
+  const dropdownRef = useRef(null);
+
+  // Close dropdown when clicking outside
+  useEffect(() => {
+    const handleClickOutside = (event) => {
+      if (dropdownRef.current && !dropdownRef.current.contains(event.target)) {
+        setShowDropdown(false);
+      }
+    };
+
+    document.addEventListener('mousedown', handleClickOutside);
+    return () => {
+      document.removeEventListener('mousedown', handleClickOutside);
+    };
+  }, []);
 
   if (!index) return null;
 
@@ -39,10 +54,10 @@ function TeamSelector() {
         ))}
       </div>
 
-      <div className="search-container">
+      <div className="search-container" ref={dropdownRef}>
         <input
           type="text"
-          placeholder="Search to add teams..."
+          placeholder="Search or browse teams..."
           value={searchTerm}
           onChange={(e) => {
             setSearchTerm(e.target.value);
@@ -52,10 +67,10 @@ function TeamSelector() {
           className="search-input"
         />
 
-        {showDropdown && searchTerm && (
+        {showDropdown && (
           <div className="search-dropdown">
             {filteredTeams.length > 0 ? (
-              filteredTeams.slice(0, 10).map(team => (
+              filteredTeams.slice(0, searchTerm ? 10 : 100).map(team => (
                 <div
                   key={team.name}
                   className="search-result"
