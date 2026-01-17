@@ -49,16 +49,23 @@ async function fetchNCAAData(years) {
 
   for (const year of years) {
     console.log(`\nFetching NCAA data for ${year}...`);
-    allData[year] = [];
+    const gamesMap = new Map();
 
     for (const division of DIVISIONS) {
       const games = await fetchGamesForDivision(year, division);
-      allData[year].push(...games);
+
+      // Deduplicate by game ID (API returns all games for each division request)
+      games.forEach(game => {
+        if (!gamesMap.has(game.id)) {
+          gamesMap.set(game.id, game);
+        }
+      });
 
       // Rate limiting: pause between divisions
       await sleep(2000);
     }
 
+    allData[year] = Array.from(gamesMap.values());
     console.log(`Total games for ${year}: ${allData[year].length}`);
   }
 
