@@ -81,7 +81,8 @@ module.exports = { fetchNCAAData, saveNCAAData };
 // CLI usage
 if (require.main === module) {
   const currentYear = new Date().getFullYear();
-  const years = [currentYear, currentYear + 1];
+  // Fetch previous year and current year to handle season transitions
+  const years = [currentYear - 1, currentYear];
 
   fetchNCAAData(years)
     .then(data => saveNCAAData(data, 'build-data/ncaa-raw.json'))

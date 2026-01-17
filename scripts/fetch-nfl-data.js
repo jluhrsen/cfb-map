@@ -83,7 +83,8 @@ module.exports = { fetchNFLData, saveNFLData };
 // CLI usage
 if (require.main === module) {
   const currentYear = new Date().getFullYear();
-  const years = [currentYear, currentYear + 1];
+  // Fetch previous year and current year to handle season transitions
+  const years = [currentYear - 1, currentYear];
 
   fetchNFLData(years)
     .then(data => saveNFLData(data, 'build-data/nfl-raw.json'))

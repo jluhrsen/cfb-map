@@ -41,7 +41,8 @@ export const FilterProvider = ({ children }) => {
     getStoredValue('selectedWeek', 1)
   );
   const [selectedYear, setSelectedYear] = useState(() =>
-    getStoredValue('selectedYear', new Date().getFullYear())
+    // Default to 2025 season (football seasons span calendar years)
+    getStoredValue('selectedYear', 2025)
   );
 
   // Persist selectedTeams to localStorage
