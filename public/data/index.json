@@ -1,7 +1,88 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-01-17T01:56:09.432Z",
-  "weeks": [],
+  "lastUpdated": "2026-01-17T02:18:11.173Z",
+  "weeks": [
+    {
+      "number": 1,
+      "startDate": "2025-08-23",
+      "label": "Week 1"
+    },
+    {
+      "number": 2,
+      "startDate": "2025-09-06",
+      "label": "Week 2"
+    },
+    {
+      "number": 3,
+      "startDate": "2025-09-13",
+      "label": "Week 3"
+    },
+    {
+      "number": 4,
+      "startDate": "2025-09-20",
+      "label": "Week 4"
+    },
+    {
+      "number": 5,
+      "startDate": "2025-09-27",
+      "label": "Week 5"
+    },
+    {
+      "number": 6,
+      "startDate": "2025-10-03",
+      "label": "Week 6"
+    },
+    {
+      "number": 7,
+      "startDate": "2025-10-11",
+      "label": "Week 7"
+    },
+    {
+      "number": 8,
+      "startDate": "2025-10-17",
+      "label": "Week 8"
+    },
+    {
+      "number": 9,
+      "startDate": "2025-10-25",
+      "label": "Week 9"
+    },
+    {
+      "number": 10,
+      "startDate": "2025-10-30",
+      "label": "Week 10"
+    },
+    {
+      "number": 11,
+      "startDate": "2025-11-07",
+      "label": "Week 11"
+    },
+    {
+      "number": 12,
+      "startDate": "2025-11-15",
+      "label": "Week 12"
+    },
+    {
+      "number": 13,
+      "startDate": "2025-11-22",
+      "label": "Week 13"
+    },
+    {
+      "number": 14,
+      "startDate": "2025-11-28",
+      "label": "Week 14"
+    },
+    {
+      "number": 15,
+      "startDate": "2025-12-06",
+      "label": "Week 15"
+    },
+    {
+      "number": 16,
+      "startDate": "2025-12-13",
+      "label": "Week 16"
+    }
+  ],
   "divisions": [
     "fbs",
     "fcs",
@@ -11,10 +92,58 @@
   ],
   "teams": [
     {
+      "name": "Air Force",
+      "division": "fbs",
+      "abbreviation": "AIR",
+      "logo": null
+    },
+    {
+      "name": "Alabama",
+      "division": "fbs",
+      "abbreviation": "ALA",
+      "logo": null
+    },
+    {
+      "name": "Alabama A&M",
+      "division": "fcs",
+      "abbreviation": "ALA",
+      "logo": null
+    },
+    {
+      "name": "App State",
+      "division": "fbs",
+      "abbreviation": "APP",
+      "logo": null
+    },
+    {
       "name": "Arizona Cardinals",
       "division": "nfl",
       "abbreviation": "ARI",
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ari.png"
+    },
+    {
+      "name": "Arkansas",
+      "division": "fbs",
+      "abbreviation": "ARK",
+      "logo": null
+    },
+    {
+      "name": "Arkansas State",
+      "division": "fbs",
+      "abbreviation": "ARK",
+      "logo": null
+    },
+    {
+      "name": "Arkansas-Pine Bluff",
+      "division": "fbs",
+      "abbreviation": "ARK",
+      "logo": null
+    },
+    {
+      "name": "Army",
+      "division": "fbs",
+      "abbreviation": "ARM",
+      "logo": null
     },
     {
       "name": "Atlanta Falcons",
@@ -23,10 +152,46 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/atl.png"
     },
     {
+      "name": "Austin",
+      "division": "d3",
+      "abbreviation": "AUS",
+      "logo": null
+    },
+    {
       "name": "Baltimore Ravens",
       "division": "nfl",
       "abbreviation": "BAL",
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/bal.png"
+    },
+    {
+      "name": "Bethune-Cookman",
+      "division": "fbs",
+      "abbreviation": "BET",
+      "logo": null
+    },
+    {
+      "name": "Boise State",
+      "division": "fbs",
+      "abbreviation": "BOI",
+      "logo": null
+    },
+    {
+      "name": "Boston College",
+      "division": "fbs",
+      "abbreviation": "BOS",
+      "logo": null
+    },
+    {
+      "name": "Bryant",
+      "division": "fcs",
+      "abbreviation": "BRY",
+      "logo": null
+    },
+    {
+      "name": "Bucknell",
+      "division": "fbs",
+      "abbreviation": "BUC",
+      "logo": null
     },
     {
       "name": "Buffalo Bills",
@@ -35,10 +200,58 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/buf.png"
     },
     {
+      "name": "BYU",
+      "division": "fbs",
+      "abbreviation": "BYU",
+      "logo": null
+    },
+    {
+      "name": "California Lutheran University",
+      "division": "d3",
+      "abbreviation": "CAL",
+      "logo": null
+    },
+    {
       "name": "Carolina Panthers",
       "division": "nfl",
       "abbreviation": "CAR",
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/car.png"
+    },
+    {
+      "name": "CENTENARY",
+      "division": "d3",
+      "abbreviation": "CEN",
+      "logo": null
+    },
+    {
+      "name": "Central Arkansas",
+      "division": "fbs",
+      "abbreviation": "CEN",
+      "logo": null
+    },
+    {
+      "name": "Central Michigan",
+      "division": "fbs",
+      "abbreviation": "CEN",
+      "logo": null
+    },
+    {
+      "name": "Central State (OH)",
+      "division": "d2",
+      "abbreviation": "CEN",
+      "logo": null
+    },
+    {
+      "name": "Chapman",
+      "division": "d3",
+      "abbreviation": "CHA",
+      "logo": null
+    },
+    {
+      "name": "Charlotte",
+      "division": "fbs",
+      "abbreviation": "CHA",
+      "logo": null
     },
     {
       "name": "Chicago Bears",
@@ -47,10 +260,22 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/chi.png"
     },
     {
+      "name": "Cincinnati",
+      "division": "fbs",
+      "abbreviation": "CIN",
+      "logo": null
+    },
+    {
       "name": "Cincinnati Bengals",
       "division": "nfl",
       "abbreviation": "CIN",
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cin.png"
+    },
+    {
+      "name": "Claremont-Mudd-Scripps College",
+      "division": "d3",
+      "abbreviation": "CLA",
+      "logo": null
     },
     {
       "name": "Cleveland Browns",
@@ -59,10 +284,28 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cle.png"
     },
     {
+      "name": "Colorado State",
+      "division": "fbs",
+      "abbreviation": "COL",
+      "logo": null
+    },
+    {
+      "name": "Cornell",
+      "division": "fcs",
+      "abbreviation": "COR",
+      "logo": null
+    },
+    {
       "name": "Dallas Cowboys",
       "division": "nfl",
       "abbreviation": "DAL",
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/dal.png"
+    },
+    {
+      "name": "Delaware State",
+      "division": "fcs",
+      "abbreviation": "DEL",
+      "logo": null
     },
     {
       "name": "Denver Broncos",
@@ -77,10 +320,106 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/det.png"
     },
     {
+      "name": "Duke",
+      "division": "fbs",
+      "abbreviation": "DUK",
+      "logo": null
+    },
+    {
+      "name": "Duquesne",
+      "division": "fbs",
+      "abbreviation": "DUQ",
+      "logo": null
+    },
+    {
+      "name": "East Carolina",
+      "division": "fbs",
+      "abbreviation": "EAS",
+      "logo": null
+    },
+    {
+      "name": "Eastern Illinois",
+      "division": "fcs",
+      "abbreviation": "EAS",
+      "logo": null
+    },
+    {
+      "name": "Florida",
+      "division": "fbs",
+      "abbreviation": "FLO",
+      "logo": null
+    },
+    {
+      "name": "Florida A&M",
+      "division": "fcs",
+      "abbreviation": "FLO",
+      "logo": null
+    },
+    {
+      "name": "Florida Atlantic",
+      "division": "fbs",
+      "abbreviation": "FLO",
+      "logo": null
+    },
+    {
+      "name": "Fresno State",
+      "division": "fbs",
+      "abbreviation": "FRE",
+      "logo": null
+    },
+    {
+      "name": "Gardner-Webb",
+      "division": "fcs",
+      "abbreviation": "GAR",
+      "logo": null
+    },
+    {
+      "name": "Georgia",
+      "division": "fbs",
+      "abbreviation": "GEO",
+      "logo": null
+    },
+    {
+      "name": "Georgia Tech",
+      "division": "fbs",
+      "abbreviation": "GEO",
+      "logo": null
+    },
+    {
+      "name": "Grambling",
+      "division": "fcs",
+      "abbreviation": "GRA",
+      "logo": null
+    },
+    {
       "name": "Green Bay Packers",
       "division": "nfl",
       "abbreviation": "GRE",
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png"
+    },
+    {
+      "name": "Gustavus Adolphus",
+      "division": "d3",
+      "abbreviation": "GUS",
+      "logo": null
+    },
+    {
+      "name": "Hawai'i",
+      "division": "fbs",
+      "abbreviation": "HAW",
+      "logo": null
+    },
+    {
+      "name": "Hendrix College",
+      "division": "d3",
+      "abbreviation": "HEN",
+      "logo": null
+    },
+    {
+      "name": "Houston",
+      "division": "fbs",
+      "abbreviation": "HOU",
+      "logo": null
     },
     {
       "name": "Houston Texans",
@@ -89,10 +428,64 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/hou.png"
     },
     {
+      "name": "Howard",
+      "division": "fcs",
+      "abbreviation": "HOW",
+      "logo": null
+    },
+    {
+      "name": "Howard",
+      "division": "fbs",
+      "abbreviation": "HOW",
+      "logo": null
+    },
+    {
+      "name": "Idaho State",
+      "division": "fbs",
+      "abbreviation": "IDA",
+      "logo": null
+    },
+    {
+      "name": "Illinois",
+      "division": "fbs",
+      "abbreviation": "ILL",
+      "logo": null
+    },
+    {
+      "name": "Illinois State",
+      "division": "fcs",
+      "abbreviation": "ILL",
+      "logo": null
+    },
+    {
+      "name": "Indiana",
+      "division": "fbs",
+      "abbreviation": "IND",
+      "logo": null
+    },
+    {
+      "name": "Indiana State",
+      "division": "fcs",
+      "abbreviation": "IND",
+      "logo": null
+    },
+    {
       "name": "Indianapolis Colts",
       "division": "nfl",
       "abbreviation": "IND",
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ind.png"
+    },
+    {
+      "name": "Iowa",
+      "division": "fbs",
+      "abbreviation": "IOW",
+      "logo": null
+    },
+    {
+      "name": "Jackson State",
+      "division": "fcs",
+      "abbreviation": "JAC",
+      "logo": null
     },
     {
       "name": "Jacksonville Jaguars",
@@ -101,16 +494,70 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/jax.png"
     },
     {
+      "name": "James Madison",
+      "division": "fbs",
+      "abbreviation": "JAM",
+      "logo": null
+    },
+    {
+      "name": "Kansas",
+      "division": "fbs",
+      "abbreviation": "KAN",
+      "logo": null
+    },
+    {
       "name": "Kansas City Chiefs",
       "division": "nfl",
       "abbreviation": "KAN",
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/kc.png"
     },
     {
+      "name": "Kansas State",
+      "division": "fbs",
+      "abbreviation": "KAN",
+      "logo": null
+    },
+    {
+      "name": "Kent State",
+      "division": "fbs",
+      "abbreviation": "KEN",
+      "logo": null
+    },
+    {
+      "name": "Kentucky State",
+      "division": "d2",
+      "abbreviation": "KEN",
+      "logo": null
+    },
+    {
+      "name": "La Verne",
+      "division": "d3",
+      "abbreviation": "LA ",
+      "logo": null
+    },
+    {
       "name": "Las Vegas Raiders",
       "division": "nfl",
       "abbreviation": "LAS",
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lv.png"
+    },
+    {
+      "name": "Lewis & Clark College",
+      "division": "d3",
+      "abbreviation": "LEW",
+      "logo": null
+    },
+    {
+      "name": "Lindenwood",
+      "division": "fcs",
+      "abbreviation": "LIN",
+      "logo": null
+    },
+    {
+      "name": "Linfield College",
+      "division": "d3",
+      "abbreviation": "LIN",
+      "logo": null
     },
     {
       "name": "Los Angeles Chargers",
@@ -125,10 +572,100 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lar.png"
     },
     {
+      "name": "Louisiana",
+      "division": "fbs",
+      "abbreviation": "LOU",
+      "logo": null
+    },
+    {
+      "name": "Louisville",
+      "division": "fbs",
+      "abbreviation": "LOU",
+      "logo": null
+    },
+    {
+      "name": "LSU",
+      "division": "fbs",
+      "abbreviation": "LSU",
+      "logo": null
+    },
+    {
+      "name": "LYONCOLL",
+      "division": "d3",
+      "abbreviation": "LYO",
+      "logo": null
+    },
+    {
+      "name": "Maryland",
+      "division": "fbs",
+      "abbreviation": "MAR",
+      "logo": null
+    },
+    {
+      "name": "Massachusetts",
+      "division": "fbs",
+      "abbreviation": "MAS",
+      "logo": null
+    },
+    {
+      "name": "McKendree",
+      "division": "fcs",
+      "abbreviation": "MCK",
+      "logo": null
+    },
+    {
+      "name": "McMurry",
+      "division": "d3",
+      "abbreviation": "MCM",
+      "logo": null
+    },
+    {
+      "name": "Memphis",
+      "division": "fbs",
+      "abbreviation": "MEM",
+      "logo": null
+    },
+    {
+      "name": "Miami",
+      "division": "fbs",
+      "abbreviation": "MIA",
+      "logo": null
+    },
+    {
+      "name": "Miami (OH)",
+      "division": "fbs",
+      "abbreviation": "MIA",
+      "logo": null
+    },
+    {
       "name": "Miami Dolphins",
       "division": "nfl",
       "abbreviation": "MIA",
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/mia.png"
+    },
+    {
+      "name": "Michigan",
+      "division": "fbs",
+      "abbreviation": "MIC",
+      "logo": null
+    },
+    {
+      "name": "Michigan State",
+      "division": "fbs",
+      "abbreviation": "MIC",
+      "logo": null
+    },
+    {
+      "name": "Miles College",
+      "division": "fcs",
+      "abbreviation": "MIL",
+      "logo": null
+    },
+    {
+      "name": "Minnesota",
+      "division": "fbs",
+      "abbreviation": "MIN",
+      "logo": null
     },
     {
       "name": "Minnesota Vikings",
@@ -137,10 +674,82 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/min.png"
     },
     {
+      "name": "Mississippi State",
+      "division": "fbs",
+      "abbreviation": "MIS",
+      "logo": null
+    },
+    {
+      "name": "Missouri",
+      "division": "fbs",
+      "abbreviation": "MIS",
+      "logo": null
+    },
+    {
+      "name": "Montana State",
+      "division": "fbs",
+      "abbreviation": "MON",
+      "logo": null
+    },
+    {
+      "name": "Morehouse College",
+      "division": "fcs",
+      "abbreviation": "MOR",
+      "logo": null
+    },
+    {
+      "name": "Morgan State",
+      "division": "fcs",
+      "abbreviation": "MOR",
+      "logo": null
+    },
+    {
+      "name": "Murray State",
+      "division": "fcs",
+      "abbreviation": "MUR",
+      "logo": null
+    },
+    {
+      "name": "Navy",
+      "division": "fbs",
+      "abbreviation": "NAV",
+      "logo": null
+    },
+    {
+      "name": "NC State",
+      "division": "fbs",
+      "abbreviation": "NC ",
+      "logo": null
+    },
+    {
+      "name": "Nebraska",
+      "division": "fbs",
+      "abbreviation": "NEB",
+      "logo": null
+    },
+    {
+      "name": "Nevada",
+      "division": "fbs",
+      "abbreviation": "NEV",
+      "logo": null
+    },
+    {
       "name": "New England Patriots",
       "division": "nfl",
       "abbreviation": "NEW",
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ne.png"
+    },
+    {
+      "name": "New Haven",
+      "division": "fcs",
+      "abbreviation": "NEW",
+      "logo": null
+    },
+    {
+      "name": "New Mexico",
+      "division": "fbs",
+      "abbreviation": "NEW",
+      "logo": null
     },
     {
       "name": "New Orleans Saints",
@@ -161,10 +770,118 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png"
     },
     {
+      "name": "NEWBERG",
+      "division": "d3",
+      "abbreviation": "NEW",
+      "logo": null
+    },
+    {
+      "name": "Norfolk State",
+      "division": "fcs",
+      "abbreviation": "NOR",
+      "logo": null
+    },
+    {
+      "name": "North Carolina A&T",
+      "division": "fcs",
+      "abbreviation": "NOR",
+      "logo": null
+    },
+    {
+      "name": "North Dakota State",
+      "division": "fcs",
+      "abbreviation": "NOR",
+      "logo": null
+    },
+    {
+      "name": "Northern Colorado",
+      "division": "fbs",
+      "abbreviation": "NOR",
+      "logo": null
+    },
+    {
+      "name": "Northern Iowa",
+      "division": "fbs",
+      "abbreviation": "NOR",
+      "logo": null
+    },
+    {
+      "name": "Northwestern",
+      "division": "fbs",
+      "abbreviation": "NOR",
+      "logo": null
+    },
+    {
+      "name": "Notre Dame",
+      "division": "fbs",
+      "abbreviation": "NOT",
+      "logo": null
+    },
+    {
+      "name": "Ohio State",
+      "division": "fbs",
+      "abbreviation": "OHI",
+      "logo": null
+    },
+    {
+      "name": "Oklahoma",
+      "division": "fbs",
+      "abbreviation": "OKL",
+      "logo": null
+    },
+    {
+      "name": "Oklahoma State",
+      "division": "fbs",
+      "abbreviation": "OKL",
+      "logo": null
+    },
+    {
+      "name": "Ole Miss",
+      "division": "fbs",
+      "abbreviation": "OLE",
+      "logo": null
+    },
+    {
+      "name": "Oregon",
+      "division": "fbs",
+      "abbreviation": "ORE",
+      "logo": null
+    },
+    {
+      "name": "Oregon State",
+      "division": "fbs",
+      "abbreviation": "ORE",
+      "logo": null
+    },
+    {
+      "name": "Pacific (OR)",
+      "division": "d3",
+      "abbreviation": "PAC",
+      "logo": null
+    },
+    {
+      "name": "Pacific Lutheran",
+      "division": "d3",
+      "abbreviation": "PAC",
+      "logo": null
+    },
+    {
+      "name": "Penn State",
+      "division": "fbs",
+      "abbreviation": "PEN",
+      "logo": null
+    },
+    {
       "name": "Philadelphia Eagles",
       "division": "nfl",
       "abbreviation": "PHI",
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/phi.png"
+    },
+    {
+      "name": "Pittsburgh",
+      "division": "fbs",
+      "abbreviation": "PIT",
+      "logo": null
     },
     {
       "name": "Pittsburgh Steelers",
@@ -173,10 +890,52 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/pit.png"
     },
     {
+      "name": "Pomona Pitzer",
+      "division": "d3",
+      "abbreviation": "POM",
+      "logo": null
+    },
+    {
+      "name": "Prairie View A&M",
+      "division": "fcs",
+      "abbreviation": "PRA",
+      "logo": null
+    },
+    {
+      "name": "Puget Sound",
+      "division": "d3",
+      "abbreviation": "PUG",
+      "logo": null
+    },
+    {
+      "name": "Redlands",
+      "division": "d3",
+      "abbreviation": "RED",
+      "logo": null
+    },
+    {
+      "name": "Rhode Island",
+      "division": "fcs",
+      "abbreviation": "RHO",
+      "logo": null
+    },
+    {
+      "name": "Rice",
+      "division": "fbs",
+      "abbreviation": "RIC",
+      "logo": null
+    },
+    {
       "name": "San Francisco 49ers",
       "division": "nfl",
       "abbreviation": "SAN",
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sf.png"
+    },
+    {
+      "name": "San José State",
+      "division": "fbs",
+      "abbreviation": "SAN",
+      "logo": null
     },
     {
       "name": "Seattle Seahawks",
@@ -185,10 +944,100 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sea.png"
     },
     {
+      "name": "Simpson University (Ca)",
+      "division": "d3",
+      "abbreviation": "SIM",
+      "logo": null
+    },
+    {
+      "name": "South Carolina",
+      "division": "fbs",
+      "abbreviation": "SOU",
+      "logo": null
+    },
+    {
+      "name": "South Carolina State",
+      "division": "fbs",
+      "abbreviation": "SOU",
+      "logo": null
+    },
+    {
+      "name": "South Carolina State",
+      "division": "fcs",
+      "abbreviation": "SOU",
+      "logo": null
+    },
+    {
+      "name": "South Dakota",
+      "division": "fcs",
+      "abbreviation": "SOU",
+      "logo": null
+    },
+    {
+      "name": "South Florida",
+      "division": "fbs",
+      "abbreviation": "SOU",
+      "logo": null
+    },
+    {
+      "name": "Southern",
+      "division": "fcs",
+      "abbreviation": "SOU",
+      "logo": null
+    },
+    {
+      "name": "Southern Miss",
+      "division": "fbs",
+      "abbreviation": "SOU",
+      "logo": null
+    },
+    {
+      "name": "Stanford",
+      "division": "fbs",
+      "abbreviation": "STA",
+      "logo": null
+    },
+    {
+      "name": "Stony Brook",
+      "division": "fcs",
+      "abbreviation": "STO",
+      "logo": null
+    },
+    {
+      "name": "Syracuse",
+      "division": "fbs",
+      "abbreviation": "SYR",
+      "logo": null
+    },
+    {
       "name": "Tampa Bay Buccaneers",
       "division": "nfl",
       "abbreviation": "TAM",
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/tb.png"
+    },
+    {
+      "name": "Temple",
+      "division": "fbs",
+      "abbreviation": "TEM",
+      "logo": null
+    },
+    {
+      "name": "Tennessee",
+      "division": "fbs",
+      "abbreviation": "TEN",
+      "logo": null
+    },
+    {
+      "name": "Tennessee State",
+      "division": "fcs",
+      "abbreviation": "TEN",
+      "logo": null
+    },
+    {
+      "name": "Tennessee Tech",
+      "division": "fcs",
+      "abbreviation": "TEN",
+      "logo": null
     },
     {
       "name": "Tennessee Titans",
@@ -197,10 +1046,202 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ten.png"
     },
     {
+      "name": "Texas A&M",
+      "division": "fbs",
+      "abbreviation": "TEX",
+      "logo": null
+    },
+    {
+      "name": "Texas Lutheran",
+      "division": "d3",
+      "abbreviation": "TEX",
+      "logo": null
+    },
+    {
+      "name": "Texas Tech",
+      "division": "fbs",
+      "abbreviation": "TEX",
+      "logo": null
+    },
+    {
+      "name": "Towson",
+      "division": "fcs",
+      "abbreviation": "TOW",
+      "logo": null
+    },
+    {
+      "name": "Trinity University TX",
+      "division": "d3",
+      "abbreviation": "TRI",
+      "logo": null
+    },
+    {
+      "name": "Tulane",
+      "division": "fbs",
+      "abbreviation": "TUL",
+      "logo": null
+    },
+    {
+      "name": "UAlbany",
+      "division": "fcs",
+      "abbreviation": "UAL",
+      "logo": null
+    },
+    {
+      "name": "UCF",
+      "division": "fbs",
+      "abbreviation": "UCF",
+      "logo": null
+    },
+    {
+      "name": "UCLA",
+      "division": "fbs",
+      "abbreviation": "UCL",
+      "logo": null
+    },
+    {
+      "name": "UNLV",
+      "division": "fbs",
+      "abbreviation": "UNL",
+      "logo": null
+    },
+    {
+      "name": "USC",
+      "division": "fbs",
+      "abbreviation": "USC",
+      "logo": null
+    },
+    {
+      "name": "Utah",
+      "division": "fbs",
+      "abbreviation": "UTA",
+      "logo": null
+    },
+    {
+      "name": "Utah State",
+      "division": "fbs",
+      "abbreviation": "UTA",
+      "logo": null
+    },
+    {
+      "name": "UTSA",
+      "division": "fbs",
+      "abbreviation": "UTS",
+      "logo": null
+    },
+    {
+      "name": "Vanderbilt",
+      "division": "fbs",
+      "abbreviation": "VAN",
+      "logo": null
+    },
+    {
+      "name": "Virginia",
+      "division": "fbs",
+      "abbreviation": "VIR",
+      "logo": null
+    },
+    {
+      "name": "Virginia Tech",
+      "division": "fbs",
+      "abbreviation": "VIR",
+      "logo": null
+    },
+    {
+      "name": "Wagner",
+      "division": "fbs",
+      "abbreviation": "WAG",
+      "logo": null
+    },
+    {
+      "name": "Wake Forest",
+      "division": "fbs",
+      "abbreviation": "WAK",
+      "logo": null
+    },
+    {
+      "name": "Washington",
+      "division": "fbs",
+      "abbreviation": "WAS",
+      "logo": null
+    },
+    {
       "name": "Washington Commanders",
       "division": "nfl",
       "abbreviation": "WAS",
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png"
+    },
+    {
+      "name": "Washington State",
+      "division": "fbs",
+      "abbreviation": "WAS",
+      "logo": null
+    },
+    {
+      "name": "West Virginia",
+      "division": "fbs",
+      "abbreviation": "WES",
+      "logo": null
+    },
+    {
+      "name": "Western Illinois",
+      "division": "fcs",
+      "abbreviation": "WES",
+      "logo": null
+    },
+    {
+      "name": "Western Kentucky",
+      "division": "fbs",
+      "abbreviation": "WES",
+      "logo": null
+    },
+    {
+      "name": "Western Michigan",
+      "division": "fbs",
+      "abbreviation": "WES",
+      "logo": null
+    },
+    {
+      "name": "Whitworth",
+      "division": "d3",
+      "abbreviation": "WHI",
+      "logo": null
+    },
+    {
+      "name": "Willamette",
+      "division": "d3",
+      "abbreviation": "WIL",
+      "logo": null
+    },
+    {
+      "name": "Wisconsin",
+      "division": "fbs",
+      "abbreviation": "WIS",
+      "logo": null
+    },
+    {
+      "name": "Wisconsin-Oshkosh",
+      "division": "d3",
+      "abbreviation": "WIS",
+      "logo": null
+    },
+    {
+      "name": "Wisconsin-Stevens Pt",
+      "division": "d3",
+      "abbreviation": "WIS",
+      "logo": null
+    },
+    {
+      "name": "Wyoming",
+      "division": "fbs",
+      "abbreviation": "WYO",
+      "logo": null
+    },
+    {
+      "name": "Youngstown State",
+      "division": "fbs",
+      "abbreviation": "YOU",
+      "logo": null
     }
   ]
 }

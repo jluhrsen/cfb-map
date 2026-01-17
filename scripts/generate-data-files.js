@@ -112,29 +112,38 @@ function normalizeNCAAGame(game, seasonStart) {
   }
 
   // Skip games without a start date
-  if (!game.start_date) {
-    console.warn(`Missing start_date for game: ${game.home_team} vs ${game.away_team}`);
+  if (!game.startDate) {
+    console.warn(`Missing startDate for game: ${game.homeTeam} vs ${game.awayTeam}`);
     return null;
   }
 
-  const week = game.week || calculateWeek(game.start_date, seasonStart);
+  // Use homeClassification to determine actual division (API returns all games regardless of division param)
+  const divisionMap = {
+    'fbs': 'fbs',
+    'fcs': 'fcs',
+    'ii': 'd2',
+    'iii': 'd3'
+  };
+  const actualDivision = divisionMap[game.homeClassification] || game.division;
+
+  const week = game.week || calculateWeek(game.startDate, seasonStart);
 
   return {
-    id: `${game.season}-${game.division}-${game.id}`,
+    id: `${game.season}-${actualDivision}-${game.id}`,
     week,
-    date: game.start_date.split('T')[0],
-    day: getDayOfWeek(game.start_date),
-    kickoff: parseKickoffTime(game.start_date),
-    home: game.home_team,
-    away: game.away_team,
-    homeLogo: LOGO_OVERRIDES[game.home_team] || game.home_team_logo || null,
-    awayLogo: LOGO_OVERRIDES[game.away_team] || game.away_team_logo || null,
+    date: game.startDate.split('T')[0],
+    day: getDayOfWeek(game.startDate),
+    kickoff: parseKickoffTime(game.startDate),
+    home: game.homeTeam,
+    away: game.awayTeam,
+    homeLogo: LOGO_OVERRIDES[game.homeTeam] || null,
+    awayLogo: LOGO_OVERRIDES[game.awayTeam] || null,
     venue: {
       name: venueData.matchedKey,
       lat: venueData.lat,
       lng: venueData.lng
     },
-    division: game.division
+    division: actualDivision
   };
 }
 
