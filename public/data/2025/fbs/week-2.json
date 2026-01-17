@@ -17,6 +17,23 @@
     "division": "fbs"
   },
   {
+    "id": "2025-fbs-401752693",
+    "week": 2,
+    "date": "2025-09-06",
+    "day": "Saturday",
+    "kickoff": "9a",
+    "home": "Texas",
+    "away": "San José State",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/23.png",
+    "venue": {
+      "name": "DKR-Texas Memorial Stadium",
+      "lat": 30.2835,
+      "lng": -97.7326
+    },
+    "division": "fbs"
+  },
+  {
     "id": "2025-fbs-401754529",
     "week": 2,
     "date": "2025-09-06",
@@ -25,7 +42,7 @@
     "home": "Pittsburgh",
     "away": "Central Michigan",
     "homeLogo": null,
-    "awayLogo": null,
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2117.png",
     "venue": {
       "name": "Acrisure Stadium",
       "lat": 40.4468,
@@ -85,6 +102,23 @@
     "division": "fbs"
   },
   {
+    "id": "2025-fbs-401756881",
+    "week": 2,
+    "date": "2025-09-06",
+    "day": "Saturday",
+    "kickoff": "12:30p",
+    "home": "Colorado",
+    "away": "Delaware",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/38.png",
+    "awayLogo": null,
+    "venue": {
+      "name": "Folsom Field",
+      "lat": 40.0095,
+      "lng": -105.2669
+    },
+    "division": "fbs"
+  },
+  {
     "id": "2025-fbs-401760367",
     "week": 2,
     "date": "2025-09-06",
@@ -92,12 +126,29 @@
     "kickoff": "1p",
     "home": "Wyoming",
     "away": "Northern Iowa",
-    "homeLogo": null,
-    "awayLogo": null,
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2751.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2460.png",
     "venue": {
       "name": "War Memorial Stadium",
       "lat": 41.307,
       "lng": -105.5677
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401760365",
+    "week": 2,
+    "date": "2025-09-06",
+    "day": "Saturday",
+    "kickoff": "2p",
+    "home": "Nevada",
+    "away": "Sacramento State",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2440.png",
+    "awayLogo": null,
+    "venue": {
+      "name": "Mackay Stadium",
+      "lat": 39.5468,
+      "lng": -119.8175
     },
     "division": "fbs"
   },
@@ -126,7 +177,7 @@
     "kickoff": "4p",
     "home": "Colorado State",
     "away": "Northern Colorado",
-    "homeLogo": null,
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/36.png",
     "awayLogo": null,
     "venue": {
       "name": "Canvas Stadium",
@@ -177,12 +228,29 @@
     "kickoff": "5p",
     "home": "UNLV",
     "away": "UCLA",
-    "homeLogo": null,
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2439.png",
     "awayLogo": null,
     "venue": {
       "name": "Allegiant Stadium",
       "lat": 36.0909,
       "lng": -115.1833
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401757230",
+    "week": 2,
+    "date": "2025-09-07",
+    "day": "Saturday",
+    "kickoff": "8:59p",
+    "home": "Hawai'i",
+    "away": "Sam Houston",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/62.png",
+    "awayLogo": null,
+    "venue": {
+      "name": "Clarence T.C. Ching Athletics Complex",
+      "lat": 21.294,
+      "lng": -157.818
     },
     "division": "fbs"
   }

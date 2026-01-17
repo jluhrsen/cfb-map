@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-01-17T02:32:11.289Z",
+  "lastUpdated": "2026-01-17T02:45:45.307Z",
   "weeks": [
     {
       "number": 1,
@@ -54,12 +54,12 @@
     },
     {
       "number": 11,
-      "startDate": "2025-11-07",
+      "startDate": "2025-11-05",
       "label": "Week 11"
     },
     {
       "number": 12,
-      "startDate": "2025-11-15",
+      "startDate": "2025-11-12",
       "label": "Week 12"
     },
     {
@@ -95,7 +95,13 @@
       "name": "Air Force",
       "division": "fbs",
       "abbreviation": "AIR",
-      "logo": null
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2005.png"
+    },
+    {
+      "name": "Akron",
+      "division": "fbs",
+      "abbreviation": "AKR",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2006.png"
     },
     {
       "name": "Alabama",
@@ -116,10 +122,22 @@
       "logo": null
     },
     {
+      "name": "Arizona",
+      "division": "fbs",
+      "abbreviation": "ARI",
+      "logo": null
+    },
+    {
       "name": "Arizona Cardinals",
       "division": "nfl",
       "abbreviation": "ARI",
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ari.png"
+    },
+    {
+      "name": "Arizona State",
+      "division": "fbs",
+      "abbreviation": "ARI",
+      "logo": null
     },
     {
       "name": "Arkansas",
@@ -206,6 +224,12 @@
       "logo": null
     },
     {
+      "name": "California",
+      "division": "fbs",
+      "abbreviation": "CAL",
+      "logo": null
+    },
+    {
       "name": "California Lutheran University",
       "division": "d3",
       "abbreviation": "CAL",
@@ -233,7 +257,7 @@
       "name": "Central Michigan",
       "division": "fbs",
       "abbreviation": "CEN",
-      "logo": null
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2117.png"
     },
     {
       "name": "Central State (OH)",
@@ -284,10 +308,16 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cle.png"
     },
     {
+      "name": "Colorado",
+      "division": "fbs",
+      "abbreviation": "COL",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/38.png"
+    },
+    {
       "name": "Colorado State",
       "division": "fbs",
       "abbreviation": "COL",
-      "logo": null
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/36.png"
     },
     {
       "name": "Cornell",
@@ -300,6 +330,12 @@
       "division": "nfl",
       "abbreviation": "DAL",
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/dal.png"
+    },
+    {
+      "name": "Delaware",
+      "division": "fbs",
+      "abbreviation": "DEL",
+      "logo": null
     },
     {
       "name": "Delaware State",
@@ -362,10 +398,16 @@
       "logo": null
     },
     {
+      "name": "Florida State",
+      "division": "fbs",
+      "abbreviation": "FLO",
+      "logo": null
+    },
+    {
       "name": "Fresno State",
       "division": "fbs",
       "abbreviation": "FRE",
-      "logo": null
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/278.png"
     },
     {
       "name": "Gardner-Webb",
@@ -375,6 +417,12 @@
     },
     {
       "name": "Georgia",
+      "division": "fbs",
+      "abbreviation": "GEO",
+      "logo": null
+    },
+    {
+      "name": "Georgia Southern",
       "division": "fbs",
       "abbreviation": "GEO",
       "logo": null
@@ -407,7 +455,7 @@
       "name": "Hawai'i",
       "division": "fbs",
       "abbreviation": "HAW",
-      "logo": null
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/62.png"
     },
     {
       "name": "Hendrix College",
@@ -438,6 +486,12 @@
       "division": "fbs",
       "abbreviation": "HOW",
       "logo": null
+    },
+    {
+      "name": "Idaho",
+      "division": "fbs",
+      "abbreviation": "IDA",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/70.png"
     },
     {
       "name": "Idaho State",
@@ -477,6 +531,12 @@
     },
     {
       "name": "Iowa",
+      "division": "fbs",
+      "abbreviation": "IOW",
+      "logo": null
+    },
+    {
+      "name": "Iowa State",
       "division": "fbs",
       "abbreviation": "IOW",
       "logo": null
@@ -620,6 +680,12 @@
       "logo": null
     },
     {
+      "name": "McNeese",
+      "division": "fbs",
+      "abbreviation": "MCN",
+      "logo": null
+    },
+    {
       "name": "Memphis",
       "division": "fbs",
       "abbreviation": "MEM",
@@ -653,6 +719,12 @@
       "name": "Michigan State",
       "division": "fbs",
       "abbreviation": "MIC",
+      "logo": null
+    },
+    {
+      "name": "Middle Tennessee",
+      "division": "fbs",
+      "abbreviation": "MID",
       "logo": null
     },
     {
@@ -731,7 +803,7 @@
       "name": "Nevada",
       "division": "fbs",
       "abbreviation": "NEV",
-      "logo": null
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2440.png"
     },
     {
       "name": "New England Patriots",
@@ -749,7 +821,7 @@
       "name": "New Mexico",
       "division": "fbs",
       "abbreviation": "NEW",
-      "logo": null
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/167.png"
     },
     {
       "name": "New Orleans Saints",
@@ -803,7 +875,7 @@
       "name": "Northern Iowa",
       "division": "fbs",
       "abbreviation": "NOR",
-      "logo": null
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2460.png"
     },
     {
       "name": "Northwestern",
@@ -896,6 +968,12 @@
       "logo": "https://dbukjj6eu5tsf.cloudfront.net/sidearm.sites/pomapitzer.sidearmsports.com/images/responsive_2023/nav_logo_main.svg"
     },
     {
+      "name": "Portland State",
+      "division": "fbs",
+      "abbreviation": "POR",
+      "logo": null
+    },
+    {
       "name": "Prairie View A&M",
       "division": "fcs",
       "abbreviation": "PRA",
@@ -926,6 +1004,24 @@
       "logo": null
     },
     {
+      "name": "Sacramento State",
+      "division": "fbs",
+      "abbreviation": "SAC",
+      "logo": null
+    },
+    {
+      "name": "Sam Houston",
+      "division": "fbs",
+      "abbreviation": "SAM",
+      "logo": null
+    },
+    {
+      "name": "San Diego State",
+      "division": "fbs",
+      "abbreviation": "SAN",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/21.png"
+    },
+    {
       "name": "San Francisco 49ers",
       "division": "nfl",
       "abbreviation": "SAN",
@@ -935,7 +1031,7 @@
       "name": "San José State",
       "division": "fbs",
       "abbreviation": "SAN",
-      "logo": null
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/23.png"
     },
     {
       "name": "Seattle Seahawks",
@@ -947,6 +1043,12 @@
       "name": "Simpson University (Ca)",
       "division": "d3",
       "abbreviation": "SIM",
+      "logo": null
+    },
+    {
+      "name": "SMU",
+      "division": "fbs",
+      "abbreviation": "SMU",
       "logo": null
     },
     {
@@ -981,6 +1083,12 @@
     },
     {
       "name": "Southern",
+      "division": "fbs",
+      "abbreviation": "SOU",
+      "logo": null
+    },
+    {
+      "name": "Southern",
       "division": "fcs",
       "abbreviation": "SOU",
       "logo": null
@@ -995,6 +1103,12 @@
       "name": "Stanford",
       "division": "fbs",
       "abbreviation": "STA",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/24.png"
+    },
+    {
+      "name": "Stony Brook",
+      "division": "fbs",
+      "abbreviation": "STO",
       "logo": null
     },
     {
@@ -1044,6 +1158,12 @@
       "division": "nfl",
       "abbreviation": "TEN",
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ten.png"
+    },
+    {
+      "name": "Texas",
+      "division": "fbs",
+      "abbreviation": "TEX",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png"
     },
     {
       "name": "Texas A&M",
@@ -1103,7 +1223,7 @@
       "name": "UNLV",
       "division": "fbs",
       "abbreviation": "UNL",
-      "logo": null
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2439.png"
     },
     {
       "name": "USC",
@@ -1115,12 +1235,18 @@
       "name": "Utah",
       "division": "fbs",
       "abbreviation": "UTA",
-      "logo": null
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/254.png"
     },
     {
       "name": "Utah State",
       "division": "fbs",
       "abbreviation": "UTA",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/328.png"
+    },
+    {
+      "name": "UTEP",
+      "division": "fbs",
+      "abbreviation": "UTE",
       "logo": null
     },
     {
@@ -1235,7 +1361,7 @@
       "name": "Wyoming",
       "division": "fbs",
       "abbreviation": "WYO",
-      "logo": null
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2751.png"
     },
     {
       "name": "Youngstown State",

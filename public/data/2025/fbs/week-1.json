@@ -7,7 +7,7 @@
     "kickoff": "1p",
     "home": "UNLV",
     "away": "Idaho State",
-    "homeLogo": null,
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2439.png",
     "awayLogo": null,
     "venue": {
       "name": "Allegiant Stadium",
@@ -25,11 +25,28 @@
     "home": "Kansas",
     "away": "Fresno State",
     "homeLogo": null,
-    "awayLogo": null,
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/278.png",
     "venue": {
       "name": "War Memorial Stadium",
       "lat": 41.307,
       "lng": -105.5677
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401754516",
+    "week": 1,
+    "date": "2025-08-23",
+    "day": "Saturday",
+    "kickoff": "4:30p",
+    "home": "Hawai'i",
+    "away": "Stanford",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/62.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/24.png",
+    "venue": {
+      "name": "Clarence T.C. Ching Athletics Complex",
+      "lat": 21.294,
+      "lng": -157.818
     },
     "division": "fbs"
   },
@@ -47,6 +64,23 @@
       "name": "Raymond James Stadium",
       "lat": 27.9759,
       "lng": -82.5033
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401762789",
+    "week": 1,
+    "date": "2025-08-28",
+    "day": "Thursday",
+    "kickoff": "4p",
+    "home": "Akron",
+    "away": "Wyoming",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2006.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2751.png",
+    "venue": {
+      "name": "InfoCision Stadium",
+      "lat": 41.0726,
+      "lng": -81.5084
     },
     "division": "fbs"
   },
@@ -81,6 +115,23 @@
       "name": "GEHA Field at Arrowhead Stadium",
       "lat": 39.0489,
       "lng": -94.4839
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401760357",
+    "week": 1,
+    "date": "2025-08-29",
+    "day": "Thursday",
+    "kickoff": "7p",
+    "home": "San Diego State",
+    "away": "Stony Brook",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/21.png",
+    "awayLogo": null,
+    "venue": {
+      "name": "Snapdragon Stadium",
+      "lat": 32.7831,
+      "lng": -117.1194
     },
     "division": "fbs"
   },
@@ -136,6 +187,40 @@
     "division": "fbs"
   },
   {
+    "id": "2025-fbs-401754375",
+    "week": 1,
+    "date": "2025-08-30",
+    "day": "Friday",
+    "kickoff": "5p",
+    "home": "Colorado",
+    "away": "Georgia Tech",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/38.png",
+    "awayLogo": null,
+    "venue": {
+      "name": "Folsom Field",
+      "lat": 40.0095,
+      "lng": -105.2669
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401760358",
+    "week": 1,
+    "date": "2025-08-30",
+    "day": "Friday",
+    "kickoff": "7:30p",
+    "home": "San José State",
+    "away": "Central Michigan",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/23.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2117.png",
+    "venue": {
+      "name": "CEFCU Stadium",
+      "lat": 37.3197,
+      "lng": -121.8684
+    },
+    "division": "fbs"
+  },
+  {
     "id": "2025-fbs-401754520",
     "week": 1,
     "date": "2025-08-30",
@@ -177,7 +262,7 @@
     "kickoff": "12:30p",
     "home": "Air Force",
     "away": "Bucknell",
-    "homeLogo": null,
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2005.png",
     "awayLogo": null,
     "venue": {
       "name": "Falcon Stadium",
@@ -204,6 +289,23 @@
     "division": "fbs"
   },
   {
+    "id": "2025-fbs-401757225",
+    "week": 1,
+    "date": "2025-08-30",
+    "day": "Saturday",
+    "kickoff": "4:30p",
+    "home": "Utah State",
+    "away": "UTEP",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/328.png",
+    "awayLogo": null,
+    "venue": {
+      "name": "Maverik Stadium",
+      "lat": 41.7517,
+      "lng": -111.8116
+    },
+    "division": "fbs"
+  },
+  {
     "id": "2025-fbs-401756877",
     "week": 1,
     "date": "2025-08-30",
@@ -217,6 +319,23 @@
       "name": "AT&T Stadium",
       "lat": 32.7473,
       "lng": -97.0945
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401760361",
+    "week": 1,
+    "date": "2025-08-31",
+    "day": "Saturday",
+    "kickoff": "6:30p",
+    "home": "Fresno State",
+    "away": "Georgia Southern",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/278.png",
+    "awayLogo": null,
+    "venue": {
+      "name": "Valley Children's Stadium",
+      "lat": 36.8144,
+      "lng": -119.758
     },
     "division": "fbs"
   },
@@ -323,6 +442,23 @@
     "division": "fbs"
   },
   {
+    "id": "2025-fbs-401778312",
+    "week": 1,
+    "date": "2025-12-25",
+    "day": "Wednesday",
+    "kickoff": "5p",
+    "home": "Hawai'i",
+    "away": "California",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/62.png",
+    "awayLogo": null,
+    "venue": {
+      "name": "Clarence T.C. Ching Athletics Complex",
+      "lat": 21.294,
+      "lng": -157.818
+    },
+    "division": "fbs"
+  },
+  {
     "id": "2025-fbs-401778313",
     "week": 1,
     "date": "2025-12-26",
@@ -331,7 +467,7 @@
     "home": "Northwestern",
     "away": "Central Michigan",
     "homeLogo": null,
-    "awayLogo": null,
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2117.png",
     "venue": {
       "name": "Ford Field",
       "lat": 42.34,
@@ -415,7 +551,7 @@
     "kickoff": "12:30p",
     "home": "Utah",
     "away": "Nebraska",
-    "homeLogo": null,
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/254.png",
     "awayLogo": null,
     "venue": {
       "name": "Allegiant Stadium",
@@ -489,6 +625,23 @@
       "name": "Bank of America Stadium",
       "lat": 35.2258,
       "lng": -80.8528
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401831583",
+    "week": 1,
+    "date": "2026-01-03",
+    "day": "Friday",
+    "kickoff": "5p",
+    "home": "SMU",
+    "away": "Arizona",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Snapdragon Stadium",
+      "lat": 32.7831,
+      "lng": -117.1194
     },
     "division": "fbs"
   },

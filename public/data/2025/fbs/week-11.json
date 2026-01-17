@@ -1,5 +1,22 @@
 [
   {
+    "id": "2025-fbs-401762851",
+    "week": 11,
+    "date": "2025-11-05",
+    "day": "Tuesday",
+    "kickoff": "4p",
+    "home": "Akron",
+    "away": "Massachusetts",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2006.png",
+    "awayLogo": null,
+    "venue": {
+      "name": "InfoCision Stadium",
+      "lat": 41.0726,
+      "lng": -81.5084
+    },
+    "division": "fbs"
+  },
+  {
     "id": "2025-fbs-401762500",
     "week": 11,
     "date": "2025-11-07",
@@ -68,6 +85,40 @@
     "division": "fbs"
   },
   {
+    "id": "2025-fbs-401760406",
+    "week": 11,
+    "date": "2025-11-08",
+    "day": "Saturday",
+    "kickoff": "3p",
+    "home": "San José State",
+    "away": "Air Force",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/23.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2005.png",
+    "venue": {
+      "name": "CEFCU Stadium",
+      "lat": 37.3197,
+      "lng": -121.8684
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401760409",
+    "week": 11,
+    "date": "2025-11-09",
+    "day": "Saturday",
+    "kickoff": "4:30p",
+    "home": "Utah State",
+    "away": "Nevada",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/328.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2440.png",
+    "venue": {
+      "name": "Maverik Stadium",
+      "lat": 41.7517,
+      "lng": -111.8116
+    },
+    "division": "fbs"
+  },
+  {
     "id": "2025-fbs-401760407",
     "week": 11,
     "date": "2025-11-09",
@@ -75,12 +126,29 @@
     "kickoff": "6:30p",
     "home": "Colorado State",
     "away": "UNLV",
-    "homeLogo": null,
-    "awayLogo": null,
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/36.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2439.png",
     "venue": {
       "name": "Canvas Stadium",
       "lat": 40.5749,
       "lng": -105.0896
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401760408",
+    "week": 11,
+    "date": "2025-11-09",
+    "day": "Saturday",
+    "kickoff": "8p",
+    "home": "Hawai'i",
+    "away": "San Diego State",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/62.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/21.png",
+    "venue": {
+      "name": "Clarence T.C. Ching Athletics Complex",
+      "lat": 21.294,
+      "lng": -157.818
     },
     "division": "fbs"
   }

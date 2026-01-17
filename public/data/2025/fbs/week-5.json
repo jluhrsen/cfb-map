@@ -41,8 +41,8 @@
     "kickoff": "1p",
     "home": "Air Force",
     "away": "Hawai'i",
-    "homeLogo": null,
-    "awayLogo": null,
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2005.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/62.png",
     "venue": {
       "name": "Falcon Stadium",
       "lat": 38.9967,
@@ -58,12 +58,29 @@
     "kickoff": "4:30p",
     "home": "Colorado State",
     "away": "Washington State",
-    "homeLogo": null,
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/36.png",
     "awayLogo": null,
     "venue": {
       "name": "Canvas Stadium",
       "lat": 40.5749,
       "lng": -105.0896
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401754549",
+    "week": 5,
+    "date": "2025-09-27",
+    "day": "Saturday",
+    "kickoff": "4:30p",
+    "home": "Stanford",
+    "away": "San José State",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/24.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/23.png",
+    "venue": {
+      "name": "Stanford Stadium",
+      "lat": 37.4344,
+      "lng": -122.1614
     },
     "division": "fbs"
   },
@@ -81,6 +98,23 @@
       "name": "War Memorial Stadium",
       "lat": 41.307,
       "lng": -105.5677
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401756903",
+    "week": 5,
+    "date": "2025-09-28",
+    "day": "Saturday",
+    "kickoff": "7:15p",
+    "home": "Colorado",
+    "away": "BYU",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/38.png",
+    "awayLogo": null,
+    "venue": {
+      "name": "Folsom Field",
+      "lat": 40.0095,
+      "lng": -105.2669
     },
     "division": "fbs"
   }
