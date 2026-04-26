@@ -136,23 +136,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401760420",
-    "week": 13,
-    "date": "2025-11-23",
-    "day": "Saturday",
-    "kickoff": "7:30p",
-    "home": "San Diego State",
-    "away": "San José State",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/21.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/23.png",
-    "venue": {
-      "name": "Snapdragon Stadium",
-      "lat": 32.7831,
-      "lng": -117.1194
-    },
-    "division": "fbs"
-  },
-  {
     "id": "2025-fbs-401760417",
     "week": 13,
     "date": "2025-11-23",
@@ -166,6 +149,23 @@
       "name": "Valley Children's Stadium",
       "lat": 36.8144,
       "lng": -119.758
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401760420",
+    "week": 13,
+    "date": "2025-11-23",
+    "day": "Saturday",
+    "kickoff": "7:30p",
+    "home": "San Diego State",
+    "away": "San José State",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/21.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/23.png",
+    "venue": {
+      "name": "Snapdragon Stadium",
+      "lat": 32.7831,
+      "lng": -117.1194
     },
     "division": "fbs"
   }

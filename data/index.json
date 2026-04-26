@@ -1,6 +1,10 @@
 {
   "season": 2026,
-  "lastUpdated": "2026-01-17T02:45:45.307Z",
+  "availableSeasons": [
+    2025,
+    2026
+  ],
+  "lastUpdated": "2026-04-26T19:49:51.223Z",
   "weeks": [
     {
       "number": 1,
@@ -92,6 +96,12 @@
   ],
   "teams": [
     {
+      "name": "Abilene Christian",
+      "division": "fbs",
+      "abbreviation": "ABI",
+      "logo": null
+    },
+    {
       "name": "Air Force",
       "division": "fbs",
       "abbreviation": "AIR",
@@ -170,6 +180,12 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/atl.png"
     },
     {
+      "name": "Auburn",
+      "division": "fbs",
+      "abbreviation": "AUB",
+      "logo": null
+    },
+    {
       "name": "Austin",
       "division": "d3",
       "abbreviation": "AUS",
@@ -180,6 +196,12 @@
       "division": "nfl",
       "abbreviation": "BAL",
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/bal.png"
+    },
+    {
+      "name": "Baylor",
+      "division": "fbs",
+      "abbreviation": "BAY",
+      "logo": null
     },
     {
       "name": "Bethune-Cookman",
@@ -212,6 +234,12 @@
       "logo": null
     },
     {
+      "name": "Buffalo",
+      "division": "fbs",
+      "abbreviation": "BUF",
+      "logo": null
+    },
+    {
       "name": "Buffalo Bills",
       "division": "nfl",
       "abbreviation": "BUF",
@@ -221,6 +249,12 @@
       "name": "BYU",
       "division": "fbs",
       "abbreviation": "BYU",
+      "logo": null
+    },
+    {
+      "name": "Cal Poly",
+      "division": "fbs",
+      "abbreviation": "CAL",
       "logo": null
     },
     {
@@ -344,6 +378,12 @@
       "logo": null
     },
     {
+      "name": "Delaware State",
+      "division": "fbs",
+      "abbreviation": "DEL",
+      "logo": null
+    },
+    {
       "name": "Denver Broncos",
       "division": "nfl",
       "abbreviation": "DEN",
@@ -380,6 +420,18 @@
       "logo": null
     },
     {
+      "name": "Eastern Michigan",
+      "division": "fbs",
+      "abbreviation": "EAS",
+      "logo": null
+    },
+    {
+      "name": "Elon",
+      "division": "fbs",
+      "abbreviation": "ELO",
+      "logo": null
+    },
+    {
       "name": "Florida",
       "division": "fbs",
       "abbreviation": "FLO",
@@ -392,7 +444,19 @@
       "logo": null
     },
     {
+      "name": "Florida A&M",
+      "division": "fbs",
+      "abbreviation": "FLO",
+      "logo": null
+    },
+    {
       "name": "Florida Atlantic",
+      "division": "fbs",
+      "abbreviation": "FLO",
+      "logo": null
+    },
+    {
+      "name": "Florida International",
       "division": "fbs",
       "abbreviation": "FLO",
       "logo": null
@@ -584,6 +648,12 @@
       "logo": null
     },
     {
+      "name": "Kentucky",
+      "division": "fbs",
+      "abbreviation": "KEN",
+      "logo": null
+    },
+    {
       "name": "Kentucky State",
       "division": "d2",
       "abbreviation": "KEN",
@@ -618,6 +688,12 @@
       "division": "d3",
       "abbreviation": "LIN",
       "logo": "https://cdn.prestosports.com/action/cdn/logos/id/8ab4hlzfjvtul4nx.png"
+    },
+    {
+      "name": "Long Island University",
+      "division": "fbs",
+      "abbreviation": "LON",
+      "logo": null
     },
     {
       "name": "Los Angeles Chargers",
@@ -824,6 +900,12 @@
       "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/167.png"
     },
     {
+      "name": "New Mexico State",
+      "division": "fbs",
+      "abbreviation": "NEW",
+      "logo": null
+    },
+    {
       "name": "New Orleans Saints",
       "division": "nfl",
       "abbreviation": "NEW",
@@ -854,6 +936,12 @@
       "logo": null
     },
     {
+      "name": "North Carolina",
+      "division": "fbs",
+      "abbreviation": "NOR",
+      "logo": null
+    },
+    {
       "name": "North Carolina A&T",
       "division": "fcs",
       "abbreviation": "NOR",
@@ -866,7 +954,19 @@
       "logo": null
     },
     {
+      "name": "North Dakota State",
+      "division": "fbs",
+      "abbreviation": "NOR",
+      "logo": null
+    },
+    {
       "name": "Northern Colorado",
+      "division": "fbs",
+      "abbreviation": "NOR",
+      "logo": null
+    },
+    {
+      "name": "Northern Illinois",
       "division": "fbs",
       "abbreviation": "NOR",
       "logo": null
@@ -887,6 +987,12 @@
       "name": "Notre Dame",
       "division": "fbs",
       "abbreviation": "NOT",
+      "logo": null
+    },
+    {
+      "name": "Ohio",
+      "division": "fbs",
+      "abbreviation": "OHI",
       "logo": null
     },
     {
@@ -998,9 +1104,21 @@
       "logo": null
     },
     {
+      "name": "Rhode Island",
+      "division": "fbs",
+      "abbreviation": "RHO",
+      "logo": null
+    },
+    {
       "name": "Rice",
       "division": "fbs",
       "abbreviation": "RIC",
+      "logo": null
+    },
+    {
+      "name": "Robert Morris",
+      "division": "fbs",
+      "abbreviation": "ROB",
       "logo": null
     },
     {
@@ -1100,6 +1218,12 @@
       "logo": null
     },
     {
+      "name": "Southern Utah",
+      "division": "fbs",
+      "abbreviation": "SOU",
+      "logo": null
+    },
+    {
       "name": "Stanford",
       "division": "fbs",
       "abbreviation": "STA",
@@ -1128,6 +1252,12 @@
       "division": "nfl",
       "abbreviation": "TAM",
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/tb.png"
+    },
+    {
+      "name": "TCU",
+      "division": "fbs",
+      "abbreviation": "TCU",
+      "logo": null
     },
     {
       "name": "Temple",
@@ -1178,9 +1308,21 @@
       "logo": null
     },
     {
+      "name": "Texas State",
+      "division": "fbs",
+      "abbreviation": "TEX",
+      "logo": null
+    },
+    {
       "name": "Texas Tech",
       "division": "fbs",
       "abbreviation": "TEX",
+      "logo": null
+    },
+    {
+      "name": "Toledo",
+      "division": "fbs",
+      "abbreviation": "TOL",
       "logo": null
     },
     {
@@ -1196,9 +1338,21 @@
       "logo": null
     },
     {
+      "name": "Troy",
+      "division": "fbs",
+      "abbreviation": "TRO",
+      "logo": null
+    },
+    {
       "name": "Tulane",
       "division": "fbs",
       "abbreviation": "TUL",
+      "logo": null
+    },
+    {
+      "name": "UAB",
+      "division": "fbs",
+      "abbreviation": "UAB",
       "logo": null
     },
     {
@@ -1217,6 +1371,12 @@
       "name": "UCLA",
       "division": "fbs",
       "abbreviation": "UCL",
+      "logo": null
+    },
+    {
+      "name": "UConn",
+      "division": "fbs",
+      "abbreviation": "UCO",
       "logo": null
     },
     {
@@ -1301,6 +1461,12 @@
       "name": "Washington State",
       "division": "fbs",
       "abbreviation": "WAS",
+      "logo": null
+    },
+    {
+      "name": "Weber State",
+      "division": "fbs",
+      "abbreviation": "WEB",
       "logo": null
     },
     {
