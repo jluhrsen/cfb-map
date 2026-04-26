@@ -1,22 +1,5 @@
 [
   {
-    "id": "2025-fbs-401752758",
-    "week": 10,
-    "date": "2025-11-01",
-    "day": "Saturday",
-    "kickoff": "9a",
-    "home": "Texas",
-    "away": "Vanderbilt",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
-    "awayLogo": null,
-    "venue": {
-      "name": "DKR-Texas Memorial Stadium",
-      "lat": 30.2835,
-      "lng": -97.7326
-    },
-    "division": "fbs"
-  },
-  {
     "id": "2025-fbs-401760401",
     "week": 10,
     "date": "2025-11-01",
@@ -30,6 +13,23 @@
       "name": "Falcon Stadium",
       "lat": 38.9967,
       "lng": -104.8436
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401752758",
+    "week": 10,
+    "date": "2025-11-01",
+    "day": "Saturday",
+    "kickoff": "9a",
+    "home": "Texas",
+    "away": "Vanderbilt",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
+    "awayLogo": null,
+    "venue": {
+      "name": "DKR-Texas Memorial Stadium",
+      "lat": 30.2835,
+      "lng": -97.7326
     },
     "division": "fbs"
   },
@@ -68,23 +68,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401752755",
-    "week": 10,
-    "date": "2025-11-01",
-    "day": "Saturday",
-    "kickoff": "12:30p",
-    "home": "Florida",
-    "away": "Georgia",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "EverBank Stadium",
-      "lat": 30.3239,
-      "lng": -81.6373
-    },
-    "division": "fbs"
-  },
-  {
     "id": "2025-fbs-401754582",
     "week": 10,
     "date": "2025-11-01",
@@ -98,6 +81,23 @@
       "name": "Stanford Stadium",
       "lat": 37.4344,
       "lng": -122.1614
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401752755",
+    "week": 10,
+    "date": "2025-11-01",
+    "day": "Saturday",
+    "kickoff": "12:30p",
+    "home": "Florida",
+    "away": "Georgia",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "EverBank Stadium",
+      "lat": 30.3239,
+      "lng": -81.6373
     },
     "division": "fbs"
   },
@@ -119,23 +119,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401760405",
-    "week": 10,
-    "date": "2025-11-01",
-    "day": "Saturday",
-    "kickoff": "4p",
-    "home": "San Diego State",
-    "away": "Wyoming",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/21.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2751.png",
-    "venue": {
-      "name": "Snapdragon Stadium",
-      "lat": 32.7831,
-      "lng": -117.1194
-    },
-    "division": "fbs"
-  },
-  {
     "id": "2025-fbs-401756937",
     "week": 10,
     "date": "2025-11-01",
@@ -149,6 +132,23 @@
       "name": "Folsom Field",
       "lat": 40.0095,
       "lng": -105.2669
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401760405",
+    "week": 10,
+    "date": "2025-11-01",
+    "day": "Saturday",
+    "kickoff": "4p",
+    "home": "San Diego State",
+    "away": "Wyoming",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/21.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2751.png",
+    "venue": {
+      "name": "Snapdragon Stadium",
+      "lat": 32.7831,
+      "lng": -117.1194
     },
     "division": "fbs"
   },

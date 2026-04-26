@@ -612,23 +612,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401778334",
-    "week": 1,
-    "date": "2026-01-03",
-    "day": "Friday",
-    "kickoff": "5p",
-    "home": "Mississippi State",
-    "away": "Wake Forest",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Bank of America Stadium",
-      "lat": 35.2258,
-      "lng": -80.8528
-    },
-    "division": "fbs"
-  },
-  {
     "id": "2025-fbs-401831583",
     "week": 1,
     "date": "2026-01-03",
@@ -642,6 +625,23 @@
       "name": "Snapdragon Stadium",
       "lat": 32.7831,
       "lng": -117.1194
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401778334",
+    "week": 1,
+    "date": "2026-01-03",
+    "day": "Friday",
+    "kickoff": "5p",
+    "home": "Mississippi State",
+    "away": "Wake Forest",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Bank of America Stadium",
+      "lat": 35.2258,
+      "lng": -80.8528
     },
     "division": "fbs"
   },

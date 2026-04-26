@@ -295,8 +295,10 @@ async function generateDataFiles(ncaaData, nflData, outputDir) {
   }
 
   // Write index file
+  const availableSeasons = [...new Set([...Object.keys(ncaaData), ...Object.keys(nflData)])].map(Number).sort();
   const index = {
     season: new Date().getFullYear(),
+    availableSeasons,
     lastUpdated: new Date().toISOString(),
     weeks: Object.values(weeks).sort((a, b) => a.number - b.number),
     divisions: ['fbs', 'fcs', 'd2', 'd3', 'nfl'],

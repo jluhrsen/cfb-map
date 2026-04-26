@@ -34,23 +34,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401752834",
-    "week": 3,
-    "date": "2025-09-13",
-    "day": "Saturday",
-    "kickoff": "12:30p",
-    "home": "Michigan State",
-    "away": "Youngstown State",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Spartan Stadium",
-      "lat": 37.3975,
-      "lng": -121.8635
-    },
-    "division": "fbs"
-  },
-  {
     "id": "2025-fbs-401752938",
     "week": 3,
     "date": "2025-09-13",
@@ -64,6 +47,23 @@
       "name": "AT&T Stadium",
       "lat": 32.7473,
       "lng": -97.0945
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401752834",
+    "week": 3,
+    "date": "2025-09-13",
+    "day": "Saturday",
+    "kickoff": "12:30p",
+    "home": "Michigan State",
+    "away": "Youngstown State",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Spartan Stadium",
+      "lat": 37.3975,
+      "lng": -121.8635
     },
     "division": "fbs"
   },

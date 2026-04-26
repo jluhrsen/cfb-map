@@ -8,6 +8,7 @@ import { useGameData } from './contexts/GameDataContext';
 import TeamSelector from './components/TeamSelector';
 import WeekSelector from './components/WeekSelector';
 import DivisionFilter from './components/DivisionFilter';
+import SeasonSelector from './components/SeasonSelector';
 
 const defaultLogo = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpZ1-dHcxFDeEw9c96sfI6kKv03hMN1L_TRw&s";
 
@@ -56,6 +57,7 @@ function App() {
       </header>
 
       <div className="controls">
+        <SeasonSelector />
         <WeekSelector />
         <TeamSelector />
         <DivisionFilter />
