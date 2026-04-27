@@ -1,6 +1,6 @@
 {
   "War Memorial Stadium": {
-    "lat": 41.3070,
+    "lat": 41.307,
     "lng": -105.5677,
     "city": "Laramie",
     "state": "WY"
@@ -78,7 +78,7 @@
     "state": "FL"
   },
   "Ford Field": {
-    "lat": 42.3400,
+    "lat": 42.34,
     "lng": -83.0456,
     "city": "Detroit",
     "state": "MI"
@@ -96,14 +96,14 @@
     "state": "MA"
   },
   "Hard Rock Stadium": {
-    "lat": 25.9580,
+    "lat": 25.958,
     "lng": -80.2389,
     "city": "Miami Gardens",
     "state": "FL"
   },
   "Highmark Stadium": {
     "lat": 42.7738,
-    "lng": -78.7870,
+    "lng": -78.787,
     "city": "Orchard Park",
     "state": "NY"
   },
@@ -120,7 +120,7 @@
     "state": "WI"
   },
   "Levi's Stadium": {
-    "lat": 37.4030,
+    "lat": 37.403,
     "lng": -121.9697,
     "city": "Santa Clara",
     "state": "CA"
@@ -156,7 +156,7 @@
     "state": "NJ"
   },
   "M&T Bank Stadium": {
-    "lat": 39.2780,
+    "lat": 39.278,
     "lng": -76.6227,
     "city": "Baltimore",
     "state": "MD"
@@ -181,7 +181,7 @@
   },
   "Paycor Stadium": {
     "lat": 39.0954,
-    "lng": -84.5160,
+    "lng": -84.516,
     "city": "Cincinnati",
     "state": "OH"
   },
@@ -216,7 +216,7 @@
     "state": "MN"
   },
   "Wembley Stadium": {
-    "lat": 51.5560,
+    "lat": 51.556,
     "lng": -0.2795,
     "city": "London",
     "state": "England"
@@ -234,7 +234,7 @@
     "state": "Germany"
   },
   "Santiago Bernabéu": {
-    "lat": 40.4530,
+    "lat": 40.453,
     "lng": -3.6884,
     "city": "Madrid",
     "state": "Spain"
@@ -294,8 +294,8 @@
     "state": "OR"
   },
   "Merritt Field": {
-    "lat": 34.0980,
-    "lng": -117.7140,
+    "lat": 34.098,
+    "lng": -117.714,
     "city": "Claremont",
     "state": "CA"
   },
@@ -318,14 +318,14 @@
     "state": "OH"
   },
   "DKR-Texas Memorial Stadium": {
-    "lat": 30.2835,
-    "lng": -97.7326,
+    "lat": 30.2839,
+    "lng": -97.7325,
     "city": "Austin",
     "state": "TX"
   },
   "Folsom Field": {
-    "lat": 40.0095,
-    "lng": -105.2669,
+    "lat": 40.0096,
+    "lng": -105.2644,
     "city": "Boulder",
     "state": "CO"
   },
@@ -355,14 +355,278 @@
   },
   "Valley Children's Stadium": {
     "lat": 36.8144,
-    "lng": -119.7580,
+    "lng": -119.758,
     "city": "Fresno",
     "state": "CA"
   },
   "Clarence T.C. Ching Athletics Complex": {
-    "lat": 21.2940,
-    "lng": -157.8180,
+    "lat": 21.294,
+    "lng": -157.818,
     "city": "Honolulu",
     "state": "HI"
+  },
+  "Los Angeles Memorial Coliseum": {
+    "lat": 34.0141,
+    "lng": -118.2879,
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  "Rynearson Stadium": {
+    "lat": 42.2473,
+    "lng": -83.6253,
+    "city": "Ypsilanti",
+    "state": "MI"
+  },
+  "Sun Bowl": {
+    "lat": 31.7688,
+    "lng": -106.4992,
+    "city": "El Paso",
+    "state": "TX"
+  },
+  "Ohio Stadium": {
+    "lat": 40.0018,
+    "lng": -83.0197,
+    "city": "Columbus",
+    "state": "OH"
+  },
+  "Michigan Stadium": {
+    "lat": 42.2658,
+    "lng": -83.7487,
+    "city": "Ann Arbor",
+    "state": "MI"
+  },
+  "Bryant-Denny Stadium": {
+    "lat": 33.208,
+    "lng": -87.5502,
+    "city": "Tuscaloosa",
+    "state": "AL"
+  },
+  "Beaver Stadium": {
+    "lat": 40.8122,
+    "lng": -77.8561,
+    "city": "University Park",
+    "state": "PA"
+  },
+  "Kyle Field": {
+    "lat": 30.61,
+    "lng": -96.34,
+    "city": "College Station",
+    "state": "TX"
+  },
+  "Neyland Stadium": {
+    "lat": 35.9551,
+    "lng": -83.9252,
+    "city": "Knoxville",
+    "state": "TN"
+  },
+  "Sanford Stadium": {
+    "lat": 33.9498,
+    "lng": -83.3732,
+    "city": "Athens",
+    "state": "GA"
+  },
+  "Tiger Stadium (LA)": {
+    "lat": 30.4122,
+    "lng": -91.1839,
+    "city": "Baton Rouge",
+    "state": "LA"
+  },
+  "Darrell K Royal-Texas Memorial Stadium": {
+    "lat": 30.2839,
+    "lng": -97.7325,
+    "city": "Austin",
+    "state": "TX"
+  },
+  "Rose Bowl": {
+    "lat": 34.1611,
+    "lng": -118.1676,
+    "city": "Pasadena",
+    "state": "CA"
+  },
+  "Camp Randall Stadium": {
+    "lat": 43.0703,
+    "lng": -89.4124,
+    "city": "Madison",
+    "state": "WI"
+  },
+  "Memorial Stadium (Lincoln, NE)": {
+    "lat": 40.8202,
+    "lng": -96.7055,
+    "city": "Lincoln",
+    "state": "NE"
+  },
+  "Memorial Stadium (Clemson, SC)": {
+    "lat": 34.6784,
+    "lng": -82.8444,
+    "city": "Clemson",
+    "state": "SC"
+  },
+  "Ben Hill Griffin Stadium": {
+    "lat": 29.65,
+    "lng": -82.3486,
+    "city": "Gainesville",
+    "state": "FL"
+  },
+  "Doak Campbell Stadium": {
+    "lat": 30.4384,
+    "lng": -84.3045,
+    "city": "Tallahassee",
+    "state": "FL"
+  },
+  "Jordan-Hare Stadium": {
+    "lat": 32.6017,
+    "lng": -85.4893,
+    "city": "Auburn",
+    "state": "AL"
+  },
+  "Notre Dame Stadium": {
+    "lat": 41.6997,
+    "lng": -86.2347,
+    "city": "Notre Dame",
+    "state": "IN"
+  },
+  "Lane Stadium": {
+    "lat": 37.2206,
+    "lng": -80.4183,
+    "city": "Blacksburg",
+    "state": "VA"
+  },
+  "Kinnick Stadium": {
+    "lat": 41.6581,
+    "lng": -91.5509,
+    "city": "Iowa City",
+    "state": "IA"
+  },
+  "Husky Stadium": {
+    "lat": 47.6504,
+    "lng": -122.3016,
+    "city": "Seattle",
+    "state": "WA"
+  },
+  "Razorback Stadium": {
+    "lat": 36.0684,
+    "lng": -94.1789,
+    "city": "Fayetteville",
+    "state": "AR"
+  },
+  "Arizona Stadium": {
+    "lat": 32.2287,
+    "lng": -110.9489,
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  "Rice-Eccles Stadium": {
+    "lat": 40.7597,
+    "lng": -111.8478,
+    "city": "Salt Lake City",
+    "state": "UT"
+  },
+  "LaVell Edwards Stadium": {
+    "lat": 40.2578,
+    "lng": -111.6563,
+    "city": "Provo",
+    "state": "UT"
+  },
+  "Jack Trice Stadium": {
+    "lat": 42.014,
+    "lng": -93.6356,
+    "city": "Ames",
+    "state": "IA"
+  },
+  "Memorial Stadium (Bloomington, IN)": {
+    "lat": 39.1793,
+    "lng": -86.5232,
+    "city": "Bloomington",
+    "state": "IN"
+  },
+  "Memorial Stadium (Champaign, IL)": {
+    "lat": 40.0993,
+    "lng": -88.2358,
+    "city": "Champaign",
+    "state": "IL"
+  },
+  "Kroger Field": {
+    "lat": 38.022,
+    "lng": -84.5037,
+    "city": "Lexington",
+    "state": "KY"
+  },
+  "Kenan Stadium": {
+    "lat": 35.9096,
+    "lng": -79.0478,
+    "city": "Chapel Hill",
+    "state": "NC"
+  },
+  "California Memorial Stadium": {
+    "lat": 37.8713,
+    "lng": -122.2507,
+    "city": "Berkeley",
+    "state": "CA"
+  },
+  "Boone Pickens Stadium": {
+    "lat": 36.1286,
+    "lng": -97.0651,
+    "city": "Stillwater",
+    "state": "OK"
+  },
+  "JMA Wireless Dome": {
+    "lat": 43.0361,
+    "lng": -76.1364,
+    "city": "Syracuse",
+    "state": "NY"
+  },
+  "Alamodome": {
+    "lat": 29.4191,
+    "lng": -98.4737,
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  "Lanny and Sharon Martin Stadium": {
+    "lat": 34.361,
+    "lng": -103.2067,
+    "city": "Portales",
+    "state": "NM"
+  },
+  "Doyt L. Perry Stadium": {
+    "lat": 41.375,
+    "lng": -83.635,
+    "city": "Bowling Green",
+    "state": "OH"
+  },
+  "Huskie Stadium": {
+    "lat": 41.9308,
+    "lng": -88.7572,
+    "city": "DeKalb",
+    "state": "IL"
+  },
+  "DATCU Stadium": {
+    "lat": 33.2071,
+    "lng": -97.1514,
+    "city": "Denton",
+    "state": "TX"
+  },
+  "SECU Stadium": {
+    "lat": 38.9941,
+    "lng": -76.948,
+    "city": "College Park",
+    "state": "MD"
+  },
+  "TDECU Stadium": {
+    "lat": 29.7211,
+    "lng": -95.3506,
+    "city": "Houston",
+    "state": "TX"
+  },
+  "SHI Stadium": {
+    "lat": 40.5139,
+    "lng": -74.4647,
+    "city": "Piscataway",
+    "state": "NJ"
+  },
+  "FirstBank Stadium": {
+    "lat": 36.0103,
+    "lng": -86.8051,
+    "city": "Nashville",
+    "state": "TN"
   }
 }

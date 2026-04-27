@@ -1,5 +1,22 @@
 [
   {
+    "id": "2025-fcs-401767031",
+    "week": 4,
+    "date": "2025-09-20",
+    "day": "Saturday",
+    "kickoff": "3p",
+    "home": "Campbell",
+    "away": "Bryant",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Lane Stadium",
+      "lat": 37.2206,
+      "lng": -80.4183
+    },
+    "division": "fcs"
+  },
+  {
     "id": "2025-fcs-401767333",
     "week": 4,
     "date": "2025-09-20",
@@ -13,6 +30,23 @@
       "name": "Ford Field",
       "lat": 42.34,
       "lng": -83.0456
+    },
+    "division": "fcs"
+  },
+  {
+    "id": "2025-fcs-401767121",
+    "week": 4,
+    "date": "2025-09-20",
+    "day": "Saturday",
+    "kickoff": "4p",
+    "home": "Houston Christian",
+    "away": "Northern Colorado",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Husky Stadium",
+      "lat": 47.6504,
+      "lng": -122.3016
     },
     "division": "fcs"
   }
