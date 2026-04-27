@@ -4,7 +4,7 @@
     "week": 4,
     "date": "2025-09-20",
     "day": "Saturday",
-    "kickoff": "12p",
+    "kickoff": "7p",
     "home": "Whitworth",
     "away": "Redlands",
     "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/ekkb9ky91gzlit7x.png",
@@ -17,28 +17,11 @@
     "division": "d3"
   },
   {
-    "id": "2025-d3-401777161",
-    "week": 4,
-    "date": "2025-09-20",
-    "day": "Saturday",
-    "kickoff": "12p",
-    "home": "Pacific Lutheran",
-    "away": "Trinity University TX",
-    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/bi1umnuk45dh7ppn.png",
-    "awayLogo": null,
-    "venue": {
-      "name": "Sparks Stadium",
-      "lat": 47.1872,
-      "lng": -122.3005
-    },
-    "division": "d3"
-  },
-  {
     "id": "2025-d3-401778023",
     "week": 4,
     "date": "2025-09-20",
     "day": "Saturday",
-    "kickoff": "12p",
+    "kickoff": "7p",
     "home": "La Verne",
     "away": "Willamette",
     "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/xd9a451s9o7md2nt.png",
@@ -51,36 +34,19 @@
     "division": "d3"
   },
   {
-    "id": "2025-d3-401774266",
+    "id": "2025-d3-401777161",
     "week": 4,
     "date": "2025-09-20",
     "day": "Saturday",
-    "kickoff": "1p",
-    "home": "Linfield College",
-    "away": "Chapman",
-    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/8ab4hlzfjvtul4nx.png",
+    "kickoff": "7p",
+    "home": "Pacific Lutheran",
+    "away": "Trinity University TX",
+    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/bi1umnuk45dh7ppn.png",
     "awayLogo": null,
     "venue": {
-      "name": "Maxwell Field",
-      "lat": 45.2099,
-      "lng": -123.1987
-    },
-    "division": "d3"
-  },
-  {
-    "id": "2025-d3-401774260",
-    "week": 4,
-    "date": "2025-09-20",
-    "day": "Saturday",
-    "kickoff": "1p",
-    "home": "NEWBERG",
-    "away": "Claremont-Mudd-Scripps College",
-    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/mi23750dj6i6tf21.png",
-    "awayLogo": null,
-    "venue": {
-      "name": "Stoffer Family Stadium",
-      "lat": 45.3051,
-      "lng": -122.9677
+      "name": "Sparks Stadium",
+      "lat": 47.1872,
+      "lng": -122.3005
     },
     "division": "d3"
   },
@@ -89,7 +55,7 @@
     "week": 4,
     "date": "2025-09-20",
     "day": "Saturday",
-    "kickoff": "1p",
+    "kickoff": "8p",
     "home": "Pomona Pitzer",
     "away": "Lewis & Clark College",
     "homeLogo": "https://dbukjj6eu5tsf.cloudfront.net/sidearm.sites/pomapitzer.sidearmsports.com/images/responsive_2023/nav_logo_main.svg",
@@ -102,11 +68,28 @@
     "division": "d3"
   },
   {
+    "id": "2025-d3-401774260",
+    "week": 4,
+    "date": "2025-09-20",
+    "day": "Saturday",
+    "kickoff": "8p",
+    "home": "NEWBERG",
+    "away": "Claremont-Mudd-Scripps College",
+    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/mi23750dj6i6tf21.png",
+    "awayLogo": null,
+    "venue": {
+      "name": "Stoffer Family Stadium",
+      "lat": 45.3051,
+      "lng": -122.9677
+    },
+    "division": "d3"
+  },
+  {
     "id": "2025-d3-401777168",
     "week": 4,
     "date": "2025-09-20",
     "day": "Saturday",
-    "kickoff": "1p",
+    "kickoff": "8p",
     "home": "Puget Sound",
     "away": "California Lutheran University",
     "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/wpoqmrhctdrju4jh.png",
@@ -119,11 +102,28 @@
     "division": "d3"
   },
   {
+    "id": "2025-d3-401774266",
+    "week": 4,
+    "date": "2025-09-20",
+    "day": "Saturday",
+    "kickoff": "8p",
+    "home": "Linfield College",
+    "away": "Chapman",
+    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/8ab4hlzfjvtul4nx.png",
+    "awayLogo": null,
+    "venue": {
+      "name": "Maxwell Field",
+      "lat": 45.2099,
+      "lng": -123.1987
+    },
+    "division": "d3"
+  },
+  {
     "id": "2025-d3-401774190",
     "week": 4,
     "date": "2025-09-21",
-    "day": "Saturday",
-    "kickoff": "6p",
+    "day": "Sunday",
+    "kickoff": "1a",
     "home": "Pacific (OR)",
     "away": "Wisconsin-Stevens Pt",
     "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/lkxbjwugyaf69m59.png",

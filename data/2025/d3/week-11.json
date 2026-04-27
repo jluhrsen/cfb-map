@@ -1,44 +1,10 @@
 [
   {
-    "id": "2025-d3-401777151",
-    "week": 11,
-    "date": "2025-11-08",
-    "day": "Saturday",
-    "kickoff": "1p",
-    "home": "Puget Sound",
-    "away": "Linfield College",
-    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/wpoqmrhctdrju4jh.png",
-    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/8ab4hlzfjvtul4nx.png",
-    "venue": {
-      "name": "Baker Stadium",
-      "lat": 47.2605,
-      "lng": -122.4825
-    },
-    "division": "d3"
-  },
-  {
-    "id": "2025-d3-401777165",
-    "week": 11,
-    "date": "2025-11-08",
-    "day": "Saturday",
-    "kickoff": "1p",
-    "home": "Lewis & Clark College",
-    "away": "Pacific Lutheran",
-    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/2i62768ao3nlh5wq.png",
-    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/bi1umnuk45dh7ppn.png",
-    "venue": {
-      "name": "Griswold Stadium",
-      "lat": 45.4519,
-      "lng": -122.6727
-    },
-    "division": "d3"
-  },
-  {
     "id": "2025-d3-401777174",
     "week": 11,
     "date": "2025-11-08",
     "day": "Saturday",
-    "kickoff": "1p",
+    "kickoff": "9p",
     "home": "Willamette",
     "away": "Whitworth",
     "homeLogo": "https://lh3.googleusercontent.com/6tOuPbn-4tztWUJrhNcODPR25WMo6bats7oaCuwY5KNzSTZneTGpKn-Z6PvWnJ0lNSE8hu7916kIwJhR3qYlbVWPYUo3NLgS2EM",
@@ -51,11 +17,45 @@
     "division": "d3"
   },
   {
+    "id": "2025-d3-401777165",
+    "week": 11,
+    "date": "2025-11-08",
+    "day": "Saturday",
+    "kickoff": "9p",
+    "home": "Lewis & Clark College",
+    "away": "Pacific Lutheran",
+    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/2i62768ao3nlh5wq.png",
+    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/bi1umnuk45dh7ppn.png",
+    "venue": {
+      "name": "Griswold Stadium",
+      "lat": 45.4519,
+      "lng": -122.6727
+    },
+    "division": "d3"
+  },
+  {
+    "id": "2025-d3-401777151",
+    "week": 11,
+    "date": "2025-11-08",
+    "day": "Saturday",
+    "kickoff": "9p",
+    "home": "Puget Sound",
+    "away": "Linfield College",
+    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/wpoqmrhctdrju4jh.png",
+    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/8ab4hlzfjvtul4nx.png",
+    "venue": {
+      "name": "Baker Stadium",
+      "lat": 47.2605,
+      "lng": -122.4825
+    },
+    "division": "d3"
+  },
+  {
     "id": "2025-d3-401774271",
     "week": 11,
     "date": "2025-11-08",
     "day": "Saturday",
-    "kickoff": "1p",
+    "kickoff": "9p",
     "home": "La Verne",
     "away": "Chapman",
     "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/xd9a451s9o7md2nt.png",
@@ -72,7 +72,7 @@
     "week": 11,
     "date": "2025-11-08",
     "day": "Saturday",
-    "kickoff": "1:30p",
+    "kickoff": "9:30p",
     "home": "NEWBERG",
     "away": "Pacific (OR)",
     "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/mi23750dj6i6tf21.png",
@@ -88,8 +88,8 @@
     "id": "2025-d3-401783817",
     "week": 11,
     "date": "2025-11-09",
-    "day": "Saturday",
-    "kickoff": "7p",
+    "day": "Sunday",
+    "kickoff": "3a",
     "home": "Pomona Pitzer",
     "away": "California Lutheran University",
     "homeLogo": "https://dbukjj6eu5tsf.cloudfront.net/sidearm.sites/pomapitzer.sidearmsports.com/images/responsive_2023/nav_logo_main.svg",
