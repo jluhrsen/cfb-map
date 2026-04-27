@@ -4,13 +4,14 @@ import { useGameData } from '../contexts/GameDataContext';
 import './WeekSelector.css';
 
 function WeekSelector() {
-  const { selectedWeek, setSelectedWeek } = useFilters();
+  const { selectedWeek, setSelectedWeek, selectedYear } = useFilters();
   const { index } = useGameData();
 
-  if (!index) return null;
+  if (!index || !index.weeksByYear) return null;
 
-  const maxWeek = index.weeks.length || 18;
-  const weekInfo = index.weeks.find(w => w.number === selectedWeek);
+  const weeks = index.weeksByYear[selectedYear] || [];
+  const maxWeek = weeks.length || 18;
+  const weekInfo = weeks.find(w => w.number === selectedWeek);
 
   const handlePrevious = () => {
     if (selectedWeek > 1) {

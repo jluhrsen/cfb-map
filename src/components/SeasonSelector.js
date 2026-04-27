@@ -4,13 +4,15 @@ import { useGameData } from '../contexts/GameDataContext';
 import './SeasonSelector.css';
 
 function SeasonSelector() {
-  const { selectedYear, setSelectedYear } = useFilters();
+  const { selectedYear, setSelectedYear, setSelectedWeek } = useFilters();
   const { index } = useGameData();
 
   if (!index || !index.availableSeasons) return null;
 
   const handleSeasonChange = (e) => {
     setSelectedYear(Number(e.target.value));
+    // Reset to week 1 when changing seasons
+    setSelectedWeek(1);
   };
 
   return (

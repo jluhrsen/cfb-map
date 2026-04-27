@@ -200,11 +200,15 @@ async function generateDataFiles(ncaaData, nflData, outputDir) {
   };
 
   const teams = new Set();
-  const weeks = {};
+  const weeksByYear = {};
 
   for (const [year, games] of Object.entries(ncaaData)) {
     console.log(`\nProcessing NCAA ${year}...`);
     const seasonStart = seasonStarts[year] || new Date(year, 7, 30);
+
+    if (!weeksByYear[year]) {
+      weeksByYear[year] = {};
+    }
 
     const normalized = games
       .map(g => normalizeNCAAGame(g, seasonStart))
@@ -234,8 +238,8 @@ async function generateDataFiles(ncaaData, nflData, outputDir) {
       }
       byDivisionWeek[key].push(game);
 
-      if (!weeks[game.week]) {
-        weeks[game.week] = {
+      if (!weeksByYear[year][game.week]) {
+        weeksByYear[year][game.week] = {
           number: game.week,
           startDate: game.date,
           label: `Week ${game.week}`
@@ -255,6 +259,10 @@ async function generateDataFiles(ncaaData, nflData, outputDir) {
   // Process NFL data
   for (const [year, games] of Object.entries(nflData)) {
     console.log(`\nProcessing NFL ${year}...`);
+
+    if (!weeksByYear[year]) {
+      weeksByYear[year] = {};
+    }
 
     const normalized = games
       .map(g => normalizeNFLGame(g))
@@ -283,6 +291,14 @@ async function generateDataFiles(ncaaData, nflData, outputDir) {
         byWeek[key] = [];
       }
       byWeek[key].push(game);
+
+      if (!weeksByYear[year][game.week]) {
+        weeksByYear[year][game.week] = {
+          number: game.week,
+          startDate: game.date,
+          label: `Week ${game.week}`
+        };
+      }
     });
 
     // Write week files
@@ -296,11 +312,18 @@ async function generateDataFiles(ncaaData, nflData, outputDir) {
 
   // Write index file
   const availableSeasons = [...new Set([...Object.keys(ncaaData), ...Object.keys(nflData)])].map(Number).sort();
+
+  // Convert weeksByYear to sorted arrays
+  const weeksByYearSorted = {};
+  for (const [year, weeksObj] of Object.entries(weeksByYear)) {
+    weeksByYearSorted[year] = Object.values(weeksObj).sort((a, b) => a.number - b.number);
+  }
+
   const index = {
     season: new Date().getFullYear(),
     availableSeasons,
     lastUpdated: new Date().toISOString(),
-    weeks: Object.values(weeks).sort((a, b) => a.number - b.number),
+    weeksByYear: weeksByYearSorted,
     divisions: ['fbs', 'fcs', 'd2', 'd3', 'nfl'],
     teams: Array.from(teams).map(t => JSON.parse(t))
       .sort((a, b) => a.name.localeCompare(b.name))
