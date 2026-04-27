@@ -36,7 +36,8 @@ export function GameDataProvider({ children }) {
    * @param {Array<string>} divisions - Divisions to load
    */
   const loadWeekData = async (year, week, divisions) => {
-    const key = `${year}-${week}`;
+    const sortedDivisions = [...divisions].sort();
+    const key = `${year}-${week}-${sortedDivisions.join(',')}`;
     if (weekData[key]) {
       return weekData[key];
     }
