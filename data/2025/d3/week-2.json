@@ -4,7 +4,7 @@
     "week": 2,
     "date": "2025-09-06",
     "day": "Saturday",
-    "kickoff": "7p",
+    "kickoff": "12p",
     "home": "Willamette",
     "away": "Pomona Pitzer",
     "homeLogo": "https://lh3.googleusercontent.com/6tOuPbn-4tztWUJrhNcODPR25WMo6bats7oaCuwY5KNzSTZneTGpKn-Z6PvWnJ0lNSE8hu7916kIwJhR3qYlbVWPYUo3NLgS2EM",
@@ -21,7 +21,7 @@
     "week": 2,
     "date": "2025-09-06",
     "day": "Saturday",
-    "kickoff": "8p",
+    "kickoff": "1p",
     "home": "Linfield College",
     "away": "Wisconsin-Oshkosh",
     "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/8ab4hlzfjvtul4nx.png",
@@ -34,28 +34,11 @@
     "division": "d3"
   },
   {
-    "id": "2025-d3-401776766",
-    "week": 2,
-    "date": "2025-09-06",
-    "day": "Saturday",
-    "kickoff": "8p",
-    "home": "Whitworth",
-    "away": "Gustavus Adolphus",
-    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/ekkb9ky91gzlit7x.png",
-    "awayLogo": null,
-    "venue": {
-      "name": "Pine Bowl",
-      "lat": 47.7523,
-      "lng": -117.4202
-    },
-    "division": "d3"
-  },
-  {
     "id": "2025-d3-401777166",
     "week": 2,
     "date": "2025-09-06",
     "day": "Saturday",
-    "kickoff": "8p",
+    "kickoff": "1p",
     "home": "Puget Sound",
     "away": "Lewis & Clark College",
     "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/wpoqmrhctdrju4jh.png",
@@ -64,6 +47,23 @@
       "name": "Baker Stadium",
       "lat": 47.2605,
       "lng": -122.4825
+    },
+    "division": "d3"
+  },
+  {
+    "id": "2025-d3-401776766",
+    "week": 2,
+    "date": "2025-09-06",
+    "day": "Saturday",
+    "kickoff": "1p",
+    "home": "Whitworth",
+    "away": "Gustavus Adolphus",
+    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/ekkb9ky91gzlit7x.png",
+    "awayLogo": null,
+    "venue": {
+      "name": "Pine Bowl",
+      "lat": 47.7523,
+      "lng": -117.4202
     },
     "division": "d3"
   }
