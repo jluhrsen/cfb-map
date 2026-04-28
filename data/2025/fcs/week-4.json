@@ -4,7 +4,7 @@
     "week": 4,
     "date": "2025-09-20",
     "day": "Saturday",
-    "kickoff": "3p",
+    "kickoff": "10p",
     "home": "Campbell",
     "away": "Bryant",
     "homeLogo": null,
@@ -17,28 +17,11 @@
     "division": "fcs"
   },
   {
-    "id": "2025-fcs-401767333",
-    "week": 4,
-    "date": "2025-09-20",
-    "day": "Saturday",
-    "kickoff": "4p",
-    "home": "UAlbany",
-    "away": "Cornell",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Ford Field",
-      "lat": 42.34,
-      "lng": -83.0456
-    },
-    "division": "fcs"
-  },
-  {
     "id": "2025-fcs-401767121",
     "week": 4,
     "date": "2025-09-20",
     "day": "Saturday",
-    "kickoff": "4p",
+    "kickoff": "11p",
     "home": "Houston Christian",
     "away": "Northern Colorado",
     "homeLogo": null,
@@ -47,6 +30,23 @@
       "name": "Husky Stadium",
       "lat": 47.6504,
       "lng": -122.3016
+    },
+    "division": "fcs"
+  },
+  {
+    "id": "2025-fcs-401767333",
+    "week": 4,
+    "date": "2025-09-20",
+    "day": "Saturday",
+    "kickoff": "11p",
+    "home": "UAlbany",
+    "away": "Cornell",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Ford Field",
+      "lat": 42.34,
+      "lng": -83.0456
     },
     "division": "fcs"
   }

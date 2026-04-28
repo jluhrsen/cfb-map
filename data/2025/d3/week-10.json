@@ -1,10 +1,27 @@
 [
   {
+    "id": "2025-d3-401774258",
+    "week": 10,
+    "date": "2025-11-01",
+    "day": "Saturday",
+    "kickoff": "8p",
+    "home": "La Verne",
+    "away": "Redlands",
+    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/xd9a451s9o7md2nt.png",
+    "awayLogo": null,
+    "venue": {
+      "name": "Ortmayer Stadium",
+      "lat": 34.1008,
+      "lng": -117.7678
+    },
+    "division": "d3"
+  },
+  {
     "id": "2025-d3-401777144",
     "week": 10,
     "date": "2025-11-01",
     "day": "Saturday",
-    "kickoff": "1p",
+    "kickoff": "8p",
     "home": "Willamette",
     "away": "NEWBERG",
     "homeLogo": "https://lh3.googleusercontent.com/6tOuPbn-4tztWUJrhNcODPR25WMo6bats7oaCuwY5KNzSTZneTGpKn-Z6PvWnJ0lNSE8hu7916kIwJhR3qYlbVWPYUo3NLgS2EM",
@@ -21,7 +38,7 @@
     "week": 10,
     "date": "2025-11-01",
     "day": "Saturday",
-    "kickoff": "1p",
+    "kickoff": "8p",
     "home": "Puget Sound",
     "away": "Pacific (OR)",
     "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/wpoqmrhctdrju4jh.png",
@@ -34,28 +51,11 @@
     "division": "d3"
   },
   {
-    "id": "2025-d3-401774258",
-    "week": 10,
-    "date": "2025-11-01",
-    "day": "Saturday",
-    "kickoff": "1p",
-    "home": "La Verne",
-    "away": "Redlands",
-    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/xd9a451s9o7md2nt.png",
-    "awayLogo": null,
-    "venue": {
-      "name": "Ortmayer Stadium",
-      "lat": 34.1008,
-      "lng": -117.7678
-    },
-    "division": "d3"
-  },
-  {
     "id": "2025-d3-401777150",
     "week": 10,
     "date": "2025-11-01",
     "day": "Saturday",
-    "kickoff": "1p",
+    "kickoff": "8p",
     "home": "Linfield College",
     "away": "Lewis & Clark College",
     "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/8ab4hlzfjvtul4nx.png",
@@ -72,7 +72,7 @@
     "week": 10,
     "date": "2025-11-01",
     "day": "Saturday",
-    "kickoff": "1p",
+    "kickoff": "8p",
     "home": "Whitworth",
     "away": "Pacific Lutheran",
     "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/ekkb9ky91gzlit7x.png",
