@@ -102,19 +102,19 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401752828",
+    "id": "2025-fbs-401752696",
     "week": 3,
     "date": "2025-09-13",
     "day": "Saturday",
     "kickoff": "4p",
-    "home": "Nebraska",
-    "away": "Houston Christian",
+    "home": "Alabama",
+    "away": "Wisconsin",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Memorial Stadium (Lincoln, NE)",
-      "lat": 40.8202,
-      "lng": -96.7055
+      "name": "Bryant-Denny Stadium",
+      "lat": 33.208,
+      "lng": -87.5502
     },
     "division": "fbs"
   },
@@ -136,19 +136,36 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401752696",
+    "id": "2025-fbs-401752828",
     "week": 3,
     "date": "2025-09-13",
     "day": "Saturday",
     "kickoff": "4p",
-    "home": "Alabama",
-    "away": "Wisconsin",
+    "home": "Nebraska",
+    "away": "Houston Christian",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Bryant-Denny Stadium",
-      "lat": 33.208,
-      "lng": -87.5502
+      "name": "Memorial Stadium (Lincoln, NE)",
+      "lat": 40.8202,
+      "lng": -96.7055
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401756891",
+    "week": 3,
+    "date": "2025-09-13",
+    "day": "Saturday",
+    "kickoff": "4p",
+    "home": "Baylor",
+    "away": "Samford",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Lane Stadium",
+      "lat": 37.2206,
+      "lng": -80.4183
     },
     "division": "fbs"
   },
@@ -187,23 +204,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401756891",
-    "week": 3,
-    "date": "2025-09-13",
-    "day": "Saturday",
-    "kickoff": "4p",
-    "home": "Baylor",
-    "away": "Samford",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Lane Stadium",
-      "lat": 37.2206,
-      "lng": -80.4183
-    },
-    "division": "fbs"
-  },
-  {
     "id": "2025-fbs-401752697",
     "week": 3,
     "date": "2025-09-13",
@@ -238,6 +238,40 @@
     "division": "fbs"
   },
   {
+    "id": "2025-fbs-401752835",
+    "week": 3,
+    "date": "2025-09-13",
+    "day": "Saturday",
+    "kickoff": "7:30p",
+    "home": "Penn State",
+    "away": "Villanova",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Beaver Stadium",
+      "lat": 40.8122,
+      "lng": -77.8561
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401752949",
+    "week": 3,
+    "date": "2025-09-13",
+    "day": "Saturday",
+    "kickoff": "7:30p",
+    "home": "North Texas",
+    "away": "Washington State",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "DATCU Stadium",
+      "lat": 33.2071,
+      "lng": -97.1514
+    },
+    "division": "fbs"
+  },
+  {
     "id": "2025-fbs-401752833",
     "week": 3,
     "date": "2025-09-13",
@@ -251,23 +285,6 @@
       "name": "SHI Stadium",
       "lat": 40.5139,
       "lng": -74.4647
-    },
-    "division": "fbs"
-  },
-  {
-    "id": "2025-fbs-401762467",
-    "week": 3,
-    "date": "2025-09-13",
-    "day": "Saturday",
-    "kickoff": "7:30p",
-    "home": "UTSA",
-    "away": "Incarnate Word",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Alamodome",
-      "lat": 29.4191,
-      "lng": -98.4737
     },
     "division": "fbs"
   },
@@ -306,19 +323,19 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401752835",
+    "id": "2025-fbs-401762467",
     "week": 3,
     "date": "2025-09-13",
     "day": "Saturday",
     "kickoff": "7:30p",
-    "home": "Penn State",
-    "away": "Villanova",
+    "home": "UTSA",
+    "away": "Incarnate Word",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Beaver Stadium",
-      "lat": 40.8122,
-      "lng": -77.8561
+      "name": "Alamodome",
+      "lat": 29.4191,
+      "lng": -98.4737
     },
     "division": "fbs"
   },
@@ -353,23 +370,6 @@
       "name": "Spartan Stadium",
       "lat": 37.3975,
       "lng": -121.8635
-    },
-    "division": "fbs"
-  },
-  {
-    "id": "2025-fbs-401752949",
-    "week": 3,
-    "date": "2025-09-13",
-    "day": "Saturday",
-    "kickoff": "7:30p",
-    "home": "North Texas",
-    "away": "Washington State",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "DATCU Stadium",
-      "lat": 33.2071,
-      "lng": -97.1514
     },
     "division": "fbs"
   },
@@ -510,40 +510,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401752698",
-    "week": 3,
-    "date": "2025-09-13",
-    "day": "Saturday",
-    "kickoff": "11:30p",
-    "home": "Kentucky",
-    "away": "Eastern Michigan",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Kroger Field",
-      "lat": 38.022,
-      "lng": -84.5037
-    },
-    "division": "fbs"
-  },
-  {
-    "id": "2025-fbs-401752830",
-    "week": 3,
-    "date": "2025-09-13",
-    "day": "Saturday",
-    "kickoff": "11:30p",
-    "home": "Iowa",
-    "away": "Massachusetts",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Kinnick Stadium",
-      "lat": 41.6581,
-      "lng": -91.5509
-    },
-    "division": "fbs"
-  },
-  {
     "id": "2025-fbs-401752699",
     "week": 3,
     "date": "2025-09-13",
@@ -574,6 +540,40 @@
       "name": "Notre Dame Stadium",
       "lat": 41.6997,
       "lng": -86.2347
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401752698",
+    "week": 3,
+    "date": "2025-09-13",
+    "day": "Saturday",
+    "kickoff": "11:30p",
+    "home": "Kentucky",
+    "away": "Eastern Michigan",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Kroger Field",
+      "lat": 38.022,
+      "lng": -84.5037
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401752830",
+    "week": 3,
+    "date": "2025-09-13",
+    "day": "Saturday",
+    "kickoff": "11:30p",
+    "home": "Iowa",
+    "away": "Massachusetts",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Kinnick Stadium",
+      "lat": 41.6581,
+      "lng": -91.5509
     },
     "division": "fbs"
   },

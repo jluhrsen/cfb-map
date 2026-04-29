@@ -1,22 +1,5 @@
 [
   {
-    "id": "2025-d3-401774258",
-    "week": 10,
-    "date": "2025-11-01",
-    "day": "Saturday",
-    "kickoff": "8p",
-    "home": "La Verne",
-    "away": "Redlands",
-    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/xd9a451s9o7md2nt.png",
-    "awayLogo": null,
-    "venue": {
-      "name": "Ortmayer Stadium",
-      "lat": 34.1008,
-      "lng": -117.7678
-    },
-    "division": "d3"
-  },
-  {
     "id": "2025-d3-401777144",
     "week": 10,
     "date": "2025-11-01",
@@ -30,23 +13,6 @@
       "name": "McCulloch Stadium",
       "lat": 44.9388,
       "lng": -123.0355
-    },
-    "division": "d3"
-  },
-  {
-    "id": "2025-d3-401777157",
-    "week": 10,
-    "date": "2025-11-01",
-    "day": "Saturday",
-    "kickoff": "8p",
-    "home": "Puget Sound",
-    "away": "Pacific (OR)",
-    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/wpoqmrhctdrju4jh.png",
-    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/lkxbjwugyaf69m59.png",
-    "venue": {
-      "name": "Baker Stadium",
-      "lat": 47.2605,
-      "lng": -122.4825
     },
     "division": "d3"
   },
@@ -68,6 +34,23 @@
     "division": "d3"
   },
   {
+    "id": "2025-d3-401774258",
+    "week": 10,
+    "date": "2025-11-01",
+    "day": "Saturday",
+    "kickoff": "8p",
+    "home": "La Verne",
+    "away": "Redlands",
+    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/xd9a451s9o7md2nt.png",
+    "awayLogo": null,
+    "venue": {
+      "name": "Ortmayer Stadium",
+      "lat": 34.1008,
+      "lng": -117.7678
+    },
+    "division": "d3"
+  },
+  {
     "id": "2025-d3-401777164",
     "week": 10,
     "date": "2025-11-01",
@@ -81,6 +64,23 @@
       "name": "Pine Bowl",
       "lat": 47.7523,
       "lng": -117.4202
+    },
+    "division": "d3"
+  },
+  {
+    "id": "2025-d3-401777157",
+    "week": 10,
+    "date": "2025-11-01",
+    "day": "Saturday",
+    "kickoff": "8p",
+    "home": "Puget Sound",
+    "away": "Pacific (OR)",
+    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/wpoqmrhctdrju4jh.png",
+    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/lkxbjwugyaf69m59.png",
+    "venue": {
+      "name": "Baker Stadium",
+      "lat": 47.2605,
+      "lng": -122.4825
     },
     "division": "d3"
   }

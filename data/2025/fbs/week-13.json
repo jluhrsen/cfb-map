@@ -51,40 +51,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401756958",
-    "week": 13,
-    "date": "2025-11-22",
-    "day": "Saturday",
-    "kickoff": "5p",
-    "home": "Iowa State",
-    "away": "Kansas",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Jack Trice Stadium",
-      "lat": 42.014,
-      "lng": -93.6356
-    },
-    "division": "fbs"
-  },
-  {
-    "id": "2025-fbs-401754603",
-    "week": 13,
-    "date": "2025-11-22",
-    "day": "Saturday",
-    "kickoff": "5p",
-    "home": "Virginia Tech",
-    "away": "Miami",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Lane Stadium",
-      "lat": 37.2206,
-      "lng": -80.4183
-    },
-    "division": "fbs"
-  },
-  {
     "id": "2025-fbs-401752912",
     "week": 13,
     "date": "2025-11-22",
@@ -102,6 +68,23 @@
     "division": "fbs"
   },
   {
+    "id": "2025-fbs-401756958",
+    "week": 13,
+    "date": "2025-11-22",
+    "day": "Saturday",
+    "kickoff": "5p",
+    "home": "Iowa State",
+    "away": "Kansas",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Jack Trice Stadium",
+      "lat": 42.014,
+      "lng": -93.6356
+    },
+    "division": "fbs"
+  },
+  {
     "id": "2025-fbs-401752781",
     "week": 13,
     "date": "2025-11-22",
@@ -115,6 +98,23 @@
       "name": "Kyle Field",
       "lat": 30.61,
       "lng": -96.34
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401754603",
+    "week": 13,
+    "date": "2025-11-22",
+    "day": "Saturday",
+    "kickoff": "5p",
+    "home": "Virginia Tech",
+    "away": "Miami",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Lane Stadium",
+      "lat": 37.2206,
+      "lng": -80.4183
     },
     "division": "fbs"
   },
@@ -221,23 +221,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401762513",
-    "week": 13,
-    "date": "2025-11-22",
-    "day": "Saturday",
-    "kickoff": "8:30p",
-    "home": "UTSA",
-    "away": "East Carolina",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Alamodome",
-      "lat": 29.4191,
-      "lng": -98.4737
-    },
-    "division": "fbs"
-  },
-  {
     "id": "2025-fbs-401754604",
     "week": 13,
     "date": "2025-11-22",
@@ -306,19 +289,19 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401754600",
+    "id": "2025-fbs-401762513",
     "week": 13,
     "date": "2025-11-22",
     "day": "Saturday",
     "kickoff": "8:30p",
-    "home": "North Carolina",
-    "away": "Duke",
+    "home": "UTSA",
+    "away": "East Carolina",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Kenan Stadium",
-      "lat": 35.9096,
-      "lng": -79.0478
+      "name": "Alamodome",
+      "lat": 29.4191,
+      "lng": -98.4737
     },
     "division": "fbs"
   },
@@ -336,6 +319,23 @@
       "name": "DKR-Texas Memorial Stadium",
       "lat": 30.2839,
       "lng": -97.7325
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401754600",
+    "week": 13,
+    "date": "2025-11-22",
+    "day": "Saturday",
+    "kickoff": "8:30p",
+    "home": "North Carolina",
+    "away": "Duke",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Kenan Stadium",
+      "lat": 35.9096,
+      "lng": -79.0478
     },
     "division": "fbs"
   },
@@ -459,23 +459,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401752775",
-    "week": 13,
-    "date": "2025-11-23",
-    "day": "Sunday",
-    "kickoff": "12:30a",
-    "home": "Florida",
-    "away": "Tennessee",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Ben Hill Griffin Stadium",
-      "lat": 29.65,
-      "lng": -82.3486
-    },
-    "division": "fbs"
-  },
-  {
     "id": "2025-fbs-401754599",
     "week": 13,
     "date": "2025-11-23",
@@ -506,6 +489,23 @@
       "name": "Camp Randall Stadium",
       "lat": 43.0703,
       "lng": -89.4124
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401752775",
+    "week": 13,
+    "date": "2025-11-23",
+    "day": "Sunday",
+    "kickoff": "12:30a",
+    "home": "Florida",
+    "away": "Tennessee",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Ben Hill Griffin Stadium",
+      "lat": 29.65,
+      "lng": -82.3486
     },
     "division": "fbs"
   },
