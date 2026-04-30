@@ -34,23 +34,6 @@
     "division": "d3"
   },
   {
-    "id": "2025-d3-401777158",
-    "week": 12,
-    "date": "2025-11-15",
-    "day": "Saturday",
-    "kickoff": "9p",
-    "home": "Pacific (OR)",
-    "away": "Lewis & Clark College",
-    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/lkxbjwugyaf69m59.png",
-    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/2i62768ao3nlh5wq.png",
-    "venue": {
-      "name": "Hanson Stadium",
-      "lat": 45.5195,
-      "lng": -123.1107
-    },
-    "division": "d3"
-  },
-  {
     "id": "2025-d3-401777152",
     "week": 12,
     "date": "2025-11-15",
@@ -68,19 +51,19 @@
     "division": "d3"
   },
   {
-    "id": "2025-d3-401777146",
+    "id": "2025-d3-401777158",
     "week": 12,
     "date": "2025-11-15",
     "day": "Saturday",
     "kickoff": "9p",
-    "home": "Pacific Lutheran",
-    "away": "NEWBERG",
-    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/bi1umnuk45dh7ppn.png",
-    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/mi23750dj6i6tf21.png",
+    "home": "Pacific (OR)",
+    "away": "Lewis & Clark College",
+    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/lkxbjwugyaf69m59.png",
+    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/2i62768ao3nlh5wq.png",
     "venue": {
-      "name": "Sparks Stadium",
-      "lat": 47.1872,
-      "lng": -122.3005
+      "name": "Hanson Stadium",
+      "lat": 45.5195,
+      "lng": -123.1107
     },
     "division": "d3"
   },
@@ -98,6 +81,23 @@
       "name": "War Memorial Stadium",
       "lat": 41.307,
       "lng": -105.5677
+    },
+    "division": "d3"
+  },
+  {
+    "id": "2025-d3-401777146",
+    "week": 12,
+    "date": "2025-11-15",
+    "day": "Saturday",
+    "kickoff": "9p",
+    "home": "Pacific Lutheran",
+    "away": "NEWBERG",
+    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/bi1umnuk45dh7ppn.png",
+    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/mi23750dj6i6tf21.png",
+    "venue": {
+      "name": "Sparks Stadium",
+      "lat": 47.1872,
+      "lng": -122.3005
     },
     "division": "d3"
   },
