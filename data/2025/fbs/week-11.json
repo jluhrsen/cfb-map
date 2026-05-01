@@ -51,23 +51,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401756945",
-    "week": 11,
-    "date": "2025-11-08",
-    "day": "Saturday",
-    "kickoff": "5p",
-    "home": "Texas Tech",
-    "away": "BYU",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "AT&T Stadium",
-      "lat": 32.7473,
-      "lng": -97.0945
-    },
-    "division": "fbs"
-  },
-  {
     "id": "2025-fbs-401752893",
     "week": 11,
     "date": "2025-11-08",
@@ -81,6 +64,23 @@
       "name": "Beaver Stadium",
       "lat": 40.8122,
       "lng": -77.8561
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401756945",
+    "week": 11,
+    "date": "2025-11-08",
+    "day": "Saturday",
+    "kickoff": "5p",
+    "home": "Texas Tech",
+    "away": "BYU",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "AT&T Stadium",
+      "lat": 32.7473,
+      "lng": -97.0945
     },
     "division": "fbs"
   },
@@ -170,6 +170,23 @@
     "division": "fbs"
   },
   {
+    "id": "2025-fbs-401756943",
+    "week": 11,
+    "date": "2025-11-08",
+    "day": "Saturday",
+    "kickoff": "8:30p",
+    "home": "Arizona",
+    "away": "Kansas",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Arizona Stadium",
+      "lat": 32.2287,
+      "lng": -110.9489
+    },
+    "division": "fbs"
+  },
+  {
     "id": "2025-fbs-401752898",
     "week": 11,
     "date": "2025-11-08",
@@ -200,23 +217,6 @@
       "name": "War Memorial Stadium",
       "lat": 41.307,
       "lng": -105.5677
-    },
-    "division": "fbs"
-  },
-  {
-    "id": "2025-fbs-401756943",
-    "week": 11,
-    "date": "2025-11-08",
-    "day": "Saturday",
-    "kickoff": "8:30p",
-    "home": "Arizona",
-    "away": "Kansas",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Arizona Stadium",
-      "lat": 32.2287,
-      "lng": -110.9489
     },
     "division": "fbs"
   },
@@ -306,23 +306,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401752759",
-    "week": 11,
-    "date": "2025-11-09",
-    "day": "Sunday",
-    "kickoff": "12:30a",
-    "home": "Alabama",
-    "away": "LSU",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Bryant-Denny Stadium",
-      "lat": 33.208,
-      "lng": -87.5502
-    },
-    "division": "fbs"
-  },
-  {
     "id": "2025-fbs-401757166",
     "week": 11,
     "date": "2025-11-09",
@@ -370,6 +353,23 @@
       "name": "Maverik Stadium",
       "lat": 41.7517,
       "lng": -111.8116
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401752759",
+    "week": 11,
+    "date": "2025-11-09",
+    "day": "Sunday",
+    "kickoff": "12:30a",
+    "home": "Alabama",
+    "away": "LSU",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Bryant-Denny Stadium",
+      "lat": 33.208,
+      "lng": -87.5502
     },
     "division": "fbs"
   },

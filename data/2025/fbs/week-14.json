@@ -17,23 +17,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401762871",
-    "week": 14,
-    "date": "2025-11-28",
-    "day": "Friday",
-    "kickoff": "5p",
-    "home": "Northern Illinois",
-    "away": "Kent State",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Huskie Stadium",
-      "lat": 41.9308,
-      "lng": -88.7572
-    },
-    "division": "fbs"
-  },
-  {
     "id": "2025-fbs-401756964",
     "week": 14,
     "date": "2025-11-28",
@@ -64,6 +47,23 @@
       "name": "Memorial Stadium (Lincoln, NE)",
       "lat": 40.8202,
       "lng": -96.7055
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401762871",
+    "week": 14,
+    "date": "2025-11-28",
+    "day": "Friday",
+    "kickoff": "5p",
+    "home": "Northern Illinois",
+    "away": "Kent State",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Huskie Stadium",
+      "lat": 41.9308,
+      "lng": -88.7572
     },
     "division": "fbs"
   },
@@ -255,6 +255,23 @@
     "division": "fbs"
   },
   {
+    "id": "2025-fbs-401762441",
+    "week": 14,
+    "date": "2025-11-29",
+    "day": "Saturday",
+    "kickoff": "8:30p",
+    "home": "UTSA",
+    "away": "Army",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Alamodome",
+      "lat": 29.4191,
+      "lng": -98.4737
+    },
+    "division": "fbs"
+  },
+  {
     "id": "2025-fbs-401752917",
     "week": 14,
     "date": "2025-11-29",
@@ -268,40 +285,6 @@
       "name": "Husky Stadium",
       "lat": 47.6504,
       "lng": -122.3016
-    },
-    "division": "fbs"
-  },
-  {
-    "id": "2025-fbs-401752791",
-    "week": 14,
-    "date": "2025-11-29",
-    "day": "Saturday",
-    "kickoff": "8:30p",
-    "home": "Tennessee",
-    "away": "Vanderbilt",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Neyland Stadium",
-      "lat": 35.9551,
-      "lng": -83.9252
-    },
-    "division": "fbs"
-  },
-  {
-    "id": "2025-fbs-401752920",
-    "week": 14,
-    "date": "2025-11-29",
-    "day": "Saturday",
-    "kickoff": "8:30p",
-    "home": "Rutgers",
-    "away": "Penn State",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "SHI Stadium",
-      "lat": 40.5139,
-      "lng": -74.4647
     },
     "division": "fbs"
   },
@@ -323,19 +306,36 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401762441",
+    "id": "2025-fbs-401752920",
     "week": 14,
     "date": "2025-11-29",
     "day": "Saturday",
     "kickoff": "8:30p",
-    "home": "UTSA",
-    "away": "Army",
+    "home": "Rutgers",
+    "away": "Penn State",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Alamodome",
-      "lat": 29.4191,
-      "lng": -98.4737
+      "name": "SHI Stadium",
+      "lat": 40.5139,
+      "lng": -74.4647
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401752791",
+    "week": 14,
+    "date": "2025-11-29",
+    "day": "Saturday",
+    "kickoff": "8:30p",
+    "home": "Tennessee",
+    "away": "Vanderbilt",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Neyland Stadium",
+      "lat": 35.9551,
+      "lng": -83.9252
     },
     "division": "fbs"
   },
@@ -391,23 +391,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401752784",
-    "week": 14,
-    "date": "2025-11-30",
-    "day": "Sunday",
-    "kickoff": "12:30a",
-    "home": "Auburn",
-    "away": "Alabama",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Jordan-Hare Stadium",
-      "lat": 32.6017,
-      "lng": -85.4893
-    },
-    "division": "fbs"
-  },
-  {
     "id": "2025-fbs-401752919",
     "week": 14,
     "date": "2025-11-30",
@@ -421,6 +404,23 @@
       "name": "Los Angeles Memorial Coliseum",
       "lat": 34.0141,
       "lng": -118.2879
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401752784",
+    "week": 14,
+    "date": "2025-11-30",
+    "day": "Sunday",
+    "kickoff": "12:30a",
+    "home": "Auburn",
+    "away": "Alabama",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Jordan-Hare Stadium",
+      "lat": 32.6017,
+      "lng": -85.4893
     },
     "division": "fbs"
   },

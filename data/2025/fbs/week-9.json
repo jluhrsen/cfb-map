@@ -34,19 +34,19 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401762848",
+    "id": "2025-fbs-401756932",
     "week": 9,
     "date": "2025-10-25",
     "day": "Saturday",
     "kickoff": "4p",
-    "home": "Eastern Michigan",
-    "away": "Ohio",
+    "home": "Kansas",
+    "away": "Kansas State",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Rynearson Stadium",
-      "lat": 42.2473,
-      "lng": -83.6253
+      "name": "War Memorial Stadium",
+      "lat": 41.307,
+      "lng": -105.5677
     },
     "division": "fbs"
   },
@@ -68,19 +68,19 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401756932",
+    "id": "2025-fbs-401754573",
     "week": 9,
     "date": "2025-10-25",
     "day": "Saturday",
     "kickoff": "4p",
-    "home": "Kansas",
-    "away": "Kansas State",
+    "home": "North Carolina",
+    "away": "Virginia",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "War Memorial Stadium",
-      "lat": 41.307,
-      "lng": -105.5677
+      "name": "Kenan Stadium",
+      "lat": 35.9096,
+      "lng": -79.0478
     },
     "division": "fbs"
   },
@@ -102,19 +102,19 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401754573",
+    "id": "2025-fbs-401762848",
     "week": 9,
     "date": "2025-10-25",
     "day": "Saturday",
     "kickoff": "4p",
-    "home": "North Carolina",
-    "away": "Virginia",
+    "home": "Eastern Michigan",
+    "away": "Ohio",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Kenan Stadium",
-      "lat": 35.9096,
-      "lng": -79.0478
+      "name": "Rynearson Stadium",
+      "lat": 42.2473,
+      "lng": -83.6253
     },
     "division": "fbs"
   },
@@ -153,23 +153,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401756931",
-    "week": 9,
-    "date": "2025-10-25",
-    "day": "Saturday",
-    "kickoff": "7:30p",
-    "home": "Iowa State",
-    "away": "BYU",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Jack Trice Stadium",
-      "lat": 42.014,
-      "lng": -93.6356
-    },
-    "division": "fbs"
-  },
-  {
     "id": "2025-fbs-401752882",
     "week": 9,
     "date": "2025-10-25",
@@ -187,19 +170,19 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401752880",
+    "id": "2025-fbs-401760399",
     "week": 9,
     "date": "2025-10-25",
     "day": "Saturday",
     "kickoff": "7:30p",
-    "home": "Washington",
-    "away": "Illinois",
-    "homeLogo": null,
-    "awayLogo": null,
+    "home": "Fresno State",
+    "away": "San Diego State",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/278.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/21.png",
     "venue": {
-      "name": "Husky Stadium",
-      "lat": 47.6504,
-      "lng": -122.3016
+      "name": "Valley Children's Stadium",
+      "lat": 36.8144,
+      "lng": -119.758
     },
     "division": "fbs"
   },
@@ -238,6 +221,40 @@
     "division": "fbs"
   },
   {
+    "id": "2025-fbs-401756931",
+    "week": 9,
+    "date": "2025-10-25",
+    "day": "Saturday",
+    "kickoff": "7:30p",
+    "home": "Iowa State",
+    "away": "BYU",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Jack Trice Stadium",
+      "lat": 42.014,
+      "lng": -93.6356
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401752880",
+    "week": 9,
+    "date": "2025-10-25",
+    "day": "Saturday",
+    "kickoff": "7:30p",
+    "home": "Washington",
+    "away": "Illinois",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Husky Stadium",
+      "lat": 47.6504,
+      "lng": -122.3016
+    },
+    "division": "fbs"
+  },
+  {
     "id": "2025-fbs-401754574",
     "week": 9,
     "date": "2025-10-25",
@@ -251,23 +268,6 @@
       "name": "Acrisure Stadium",
       "lat": 40.4468,
       "lng": -80.0158
-    },
-    "division": "fbs"
-  },
-  {
-    "id": "2025-fbs-401760399",
-    "week": 9,
-    "date": "2025-10-25",
-    "day": "Saturday",
-    "kickoff": "7:30p",
-    "home": "Fresno State",
-    "away": "San Diego State",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/278.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/21.png",
-    "venue": {
-      "name": "Valley Children's Stadium",
-      "lat": 36.8144,
-      "lng": -119.758
     },
     "division": "fbs"
   },
@@ -289,23 +289,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401754572",
-    "week": 9,
-    "date": "2025-10-25",
-    "day": "Saturday",
-    "kickoff": "11p",
-    "home": "Miami",
-    "away": "Stanford",
-    "homeLogo": null,
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/24.png",
-    "venue": {
-      "name": "Hard Rock Stadium",
-      "lat": 25.958,
-      "lng": -80.2389
-    },
-    "division": "fbs"
-  },
-  {
     "id": "2025-fbs-401752886",
     "week": 9,
     "date": "2025-10-25",
@@ -323,19 +306,36 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401760398",
+    "id": "2025-fbs-401754572",
+    "week": 9,
+    "date": "2025-10-25",
+    "day": "Saturday",
+    "kickoff": "11p",
+    "home": "Miami",
+    "away": "Stanford",
+    "homeLogo": null,
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/24.png",
+    "venue": {
+      "name": "Hard Rock Stadium",
+      "lat": 25.958,
+      "lng": -80.2389
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401752748",
     "week": 9,
     "date": "2025-10-25",
     "day": "Saturday",
     "kickoff": "11:30p",
-    "home": "Wyoming",
-    "away": "Colorado State",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2751.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/36.png",
+    "home": "LSU",
+    "away": "Texas A&M",
+    "homeLogo": null,
+    "awayLogo": null,
     "venue": {
-      "name": "War Memorial Stadium",
-      "lat": 41.307,
-      "lng": -105.5677
+      "name": "Tiger Stadium (LA)",
+      "lat": 30.4122,
+      "lng": -91.1839
     },
     "division": "fbs"
   },
@@ -357,19 +357,19 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401752748",
+    "id": "2025-fbs-401760398",
     "week": 9,
     "date": "2025-10-25",
     "day": "Saturday",
     "kickoff": "11:30p",
-    "home": "LSU",
-    "away": "Texas A&M",
-    "homeLogo": null,
-    "awayLogo": null,
+    "home": "Wyoming",
+    "away": "Colorado State",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2751.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/36.png",
     "venue": {
-      "name": "Tiger Stadium (LA)",
-      "lat": 30.4122,
-      "lng": -91.1839
+      "name": "War Memorial Stadium",
+      "lat": 41.307,
+      "lng": -105.5677
     },
     "division": "fbs"
   },
