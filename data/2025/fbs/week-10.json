@@ -51,57 +51,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401752889",
-    "week": 10,
-    "date": "2025-11-01",
-    "day": "Saturday",
-    "kickoff": "4p",
-    "home": "Ohio State",
-    "away": "Penn State",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Ohio Stadium",
-      "lat": 40.0018,
-      "lng": -83.0197
-    },
-    "division": "fbs"
-  },
-  {
-    "id": "2025-fbs-401756936",
-    "week": 10,
-    "date": "2025-11-01",
-    "day": "Saturday",
-    "kickoff": "4p",
-    "home": "Baylor",
-    "away": "UCF",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Lane Stadium",
-      "lat": 37.2206,
-      "lng": -80.4183
-    },
-    "division": "fbs"
-  },
-  {
-    "id": "2025-fbs-401756938",
-    "week": 10,
-    "date": "2025-11-01",
-    "day": "Saturday",
-    "kickoff": "4p",
-    "home": "Houston",
-    "away": "West Virginia",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "TDECU Stadium",
-      "lat": 29.7211,
-      "lng": -95.3506
-    },
-    "division": "fbs"
-  },
-  {
     "id": "2025-fbs-401754577",
     "week": 10,
     "date": "2025-11-01",
@@ -132,6 +81,57 @@
       "name": "DKR-Texas Memorial Stadium",
       "lat": 30.2839,
       "lng": -97.7325
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401752891",
+    "week": 10,
+    "date": "2025-11-01",
+    "day": "Saturday",
+    "kickoff": "4p",
+    "home": "Illinois",
+    "away": "Rutgers",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Memorial Stadium (Champaign, IL)",
+      "lat": 40.0993,
+      "lng": -88.2358
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401752889",
+    "week": 10,
+    "date": "2025-11-01",
+    "day": "Saturday",
+    "kickoff": "4p",
+    "home": "Ohio State",
+    "away": "Penn State",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Ohio Stadium",
+      "lat": 40.0018,
+      "lng": -83.0197
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401756936",
+    "week": 10,
+    "date": "2025-11-01",
+    "day": "Saturday",
+    "kickoff": "4p",
+    "home": "Baylor",
+    "away": "UCF",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Lane Stadium",
+      "lat": 37.2206,
+      "lng": -80.4183
     },
     "division": "fbs"
   },
@@ -170,19 +170,19 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401752891",
+    "id": "2025-fbs-401756938",
     "week": 10,
     "date": "2025-11-01",
     "day": "Saturday",
     "kickoff": "4p",
-    "home": "Illinois",
-    "away": "Rutgers",
+    "home": "Houston",
+    "away": "West Virginia",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Memorial Stadium (Champaign, IL)",
-      "lat": 40.0993,
-      "lng": -88.2358
+      "name": "TDECU Stadium",
+      "lat": 29.7211,
+      "lng": -95.3506
     },
     "division": "fbs"
   },
@@ -272,23 +272,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401752887",
-    "week": 10,
-    "date": "2025-11-01",
-    "day": "Saturday",
-    "kickoff": "7:30p",
-    "home": "Maryland",
-    "away": "Indiana",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "SECU Stadium",
-      "lat": 38.9941,
-      "lng": -76.948
-    },
-    "division": "fbs"
-  },
-  {
     "id": "2025-fbs-401752755",
     "week": 10,
     "date": "2025-11-01",
@@ -323,6 +306,23 @@
     "division": "fbs"
   },
   {
+    "id": "2025-fbs-401752887",
+    "week": 10,
+    "date": "2025-11-01",
+    "day": "Saturday",
+    "kickoff": "7:30p",
+    "home": "Maryland",
+    "away": "Indiana",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "SECU Stadium",
+      "lat": 38.9941,
+      "lng": -76.948
+    },
+    "division": "fbs"
+  },
+  {
     "id": "2025-fbs-401754576",
     "week": 10,
     "date": "2025-11-01",
@@ -336,23 +336,6 @@
       "name": "California Memorial Stadium",
       "lat": 37.8713,
       "lng": -122.2507
-    },
-    "division": "fbs"
-  },
-  {
-    "id": "2025-fbs-401756940",
-    "week": 10,
-    "date": "2025-11-01",
-    "day": "Saturday",
-    "kickoff": "8p",
-    "home": "Kansas",
-    "away": "Oklahoma State",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "War Memorial Stadium",
-      "lat": 41.307,
-      "lng": -105.5677
     },
     "division": "fbs"
   },
@@ -374,6 +357,23 @@
     "division": "fbs"
   },
   {
+    "id": "2025-fbs-401756940",
+    "week": 10,
+    "date": "2025-11-01",
+    "day": "Saturday",
+    "kickoff": "8p",
+    "home": "Kansas",
+    "away": "Oklahoma State",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "War Memorial Stadium",
+      "lat": 41.307,
+      "lng": -105.5677
+    },
+    "division": "fbs"
+  },
+  {
     "id": "2025-fbs-401752890",
     "week": 10,
     "date": "2025-11-01",
@@ -387,23 +387,6 @@
       "name": "Michigan Stadium",
       "lat": 42.2658,
       "lng": -83.7487
-    },
-    "division": "fbs"
-  },
-  {
-    "id": "2025-fbs-401756937",
-    "week": 10,
-    "date": "2025-11-01",
-    "day": "Saturday",
-    "kickoff": "11p",
-    "home": "Colorado",
-    "away": "Arizona",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/38.png",
-    "awayLogo": null,
-    "venue": {
-      "name": "Folsom Field",
-      "lat": 40.0096,
-      "lng": -105.2644
     },
     "division": "fbs"
   },
@@ -425,36 +408,19 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401752892",
+    "id": "2025-fbs-401756937",
     "week": 10,
     "date": "2025-11-01",
     "day": "Saturday",
-    "kickoff": "11:30p",
-    "home": "Nebraska",
-    "away": "USC",
-    "homeLogo": null,
+    "kickoff": "11p",
+    "home": "Colorado",
+    "away": "Arizona",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/38.png",
     "awayLogo": null,
     "venue": {
-      "name": "Memorial Stadium (Lincoln, NE)",
-      "lat": 40.8202,
-      "lng": -96.7055
-    },
-    "division": "fbs"
-  },
-  {
-    "id": "2025-fbs-401752757",
-    "week": 10,
-    "date": "2025-11-01",
-    "day": "Saturday",
-    "kickoff": "11:30p",
-    "home": "Tennessee",
-    "away": "Oklahoma",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Neyland Stadium",
-      "lat": 35.9551,
-      "lng": -83.9252
+      "name": "Folsom Field",
+      "lat": 40.0096,
+      "lng": -105.2644
     },
     "division": "fbs"
   },
@@ -489,6 +455,40 @@
       "name": "Jordan-Hare Stadium",
       "lat": 32.6017,
       "lng": -85.4893
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401752757",
+    "week": 10,
+    "date": "2025-11-01",
+    "day": "Saturday",
+    "kickoff": "11:30p",
+    "home": "Tennessee",
+    "away": "Oklahoma",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Neyland Stadium",
+      "lat": 35.9551,
+      "lng": -83.9252
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401752892",
+    "week": 10,
+    "date": "2025-11-01",
+    "day": "Saturday",
+    "kickoff": "11:30p",
+    "home": "Nebraska",
+    "away": "USC",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Memorial Stadium (Lincoln, NE)",
+      "lat": 40.8202,
+      "lng": -96.7055
     },
     "division": "fbs"
   },

@@ -1,22 +1,5 @@
 [
   {
-    "id": "2025-d3-401777173",
-    "week": 9,
-    "date": "2025-10-25",
-    "day": "Saturday",
-    "kickoff": "8p",
-    "home": "Lewis & Clark College",
-    "away": "Whitworth",
-    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/2i62768ao3nlh5wq.png",
-    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/ekkb9ky91gzlit7x.png",
-    "venue": {
-      "name": "Griswold Stadium",
-      "lat": 45.4519,
-      "lng": -122.6727
-    },
-    "division": "d3"
-  },
-  {
     "id": "2025-d3-401777149",
     "week": 9,
     "date": "2025-10-25",
@@ -30,6 +13,23 @@
       "name": "Sparks Stadium",
       "lat": 47.1872,
       "lng": -122.3005
+    },
+    "division": "d3"
+  },
+  {
+    "id": "2025-d3-401777173",
+    "week": 9,
+    "date": "2025-10-25",
+    "day": "Saturday",
+    "kickoff": "8p",
+    "home": "Lewis & Clark College",
+    "away": "Whitworth",
+    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/2i62768ao3nlh5wq.png",
+    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/ekkb9ky91gzlit7x.png",
+    "venue": {
+      "name": "Griswold Stadium",
+      "lat": 45.4519,
+      "lng": -122.6727
     },
     "division": "d3"
   },

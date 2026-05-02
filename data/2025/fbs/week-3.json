@@ -85,23 +85,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401752838",
-    "week": 3,
-    "date": "2025-09-13",
-    "day": "Saturday",
-    "kickoff": "4p",
-    "home": "Maryland",
-    "away": "Towson",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "SECU Stadium",
-      "lat": 38.9941,
-      "lng": -76.948
-    },
-    "division": "fbs"
-  },
-  {
     "id": "2025-fbs-401752831",
     "week": 3,
     "date": "2025-09-13",
@@ -119,19 +102,19 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401756891",
+    "id": "2025-fbs-401752838",
     "week": 3,
     "date": "2025-09-13",
     "day": "Saturday",
     "kickoff": "4p",
-    "home": "Baylor",
-    "away": "Samford",
+    "home": "Maryland",
+    "away": "Towson",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Lane Stadium",
-      "lat": 37.2206,
-      "lng": -80.4183
+      "name": "SECU Stadium",
+      "lat": 38.9941,
+      "lng": -76.948
     },
     "division": "fbs"
   },
@@ -204,6 +187,23 @@
     "division": "fbs"
   },
   {
+    "id": "2025-fbs-401756891",
+    "week": 3,
+    "date": "2025-09-13",
+    "day": "Saturday",
+    "kickoff": "4p",
+    "home": "Baylor",
+    "away": "Samford",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Lane Stadium",
+      "lat": 37.2206,
+      "lng": -80.4183
+    },
+    "division": "fbs"
+  },
+  {
     "id": "2025-fbs-401752697",
     "week": 3,
     "date": "2025-09-13",
@@ -238,23 +238,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401752938",
-    "week": 3,
-    "date": "2025-09-13",
-    "day": "Saturday",
-    "kickoff": "7:30p",
-    "home": "Texas Tech",
-    "away": "Oregon State",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "AT&T Stadium",
-      "lat": 32.7473,
-      "lng": -97.0945
-    },
-    "division": "fbs"
-  },
-  {
     "id": "2025-fbs-401752833",
     "week": 3,
     "date": "2025-09-13",
@@ -272,36 +255,19 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401752835",
+    "id": "2025-fbs-401752938",
     "week": 3,
     "date": "2025-09-13",
     "day": "Saturday",
     "kickoff": "7:30p",
-    "home": "Penn State",
-    "away": "Villanova",
+    "home": "Texas Tech",
+    "away": "Oregon State",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Beaver Stadium",
-      "lat": 40.8122,
-      "lng": -77.8561
-    },
-    "division": "fbs"
-  },
-  {
-    "id": "2025-fbs-401752949",
-    "week": 3,
-    "date": "2025-09-13",
-    "day": "Saturday",
-    "kickoff": "7:30p",
-    "home": "North Texas",
-    "away": "Washington State",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "DATCU Stadium",
-      "lat": 33.2071,
-      "lng": -97.1514
+      "name": "AT&T Stadium",
+      "lat": 32.7473,
+      "lng": -97.0945
     },
     "division": "fbs"
   },
@@ -323,19 +289,19 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401762467",
+    "id": "2025-fbs-401752949",
     "week": 3,
     "date": "2025-09-13",
     "day": "Saturday",
     "kickoff": "7:30p",
-    "home": "UTSA",
-    "away": "Incarnate Word",
+    "home": "North Texas",
+    "away": "Washington State",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Alamodome",
-      "lat": 29.4191,
-      "lng": -98.4737
+      "name": "DATCU Stadium",
+      "lat": 33.2071,
+      "lng": -97.1514
     },
     "division": "fbs"
   },
@@ -370,6 +336,40 @@
       "name": "Spartan Stadium",
       "lat": 37.3975,
       "lng": -121.8635
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401752835",
+    "week": 3,
+    "date": "2025-09-13",
+    "day": "Saturday",
+    "kickoff": "7:30p",
+    "home": "Penn State",
+    "away": "Villanova",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Beaver Stadium",
+      "lat": 40.8122,
+      "lng": -77.8561
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401762467",
+    "week": 3,
+    "date": "2025-09-13",
+    "day": "Saturday",
+    "kickoff": "7:30p",
+    "home": "UTSA",
+    "away": "Incarnate Word",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Alamodome",
+      "lat": 29.4191,
+      "lng": -98.4737
     },
     "division": "fbs"
   },
@@ -442,6 +442,23 @@
     "division": "fbs"
   },
   {
+    "id": "2025-fbs-401754536",
+    "week": 3,
+    "date": "2025-09-13",
+    "day": "Saturday",
+    "kickoff": "11p",
+    "home": "Virginia Tech",
+    "away": "Old Dominion",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Lane Stadium",
+      "lat": 37.2206,
+      "lng": -80.4183
+    },
+    "division": "fbs"
+  },
+  {
     "id": "2025-fbs-401752829",
     "week": 3,
     "date": "2025-09-13",
@@ -472,23 +489,6 @@
       "name": "Ohio Stadium",
       "lat": 40.0018,
       "lng": -83.0197
-    },
-    "division": "fbs"
-  },
-  {
-    "id": "2025-fbs-401754536",
-    "week": 3,
-    "date": "2025-09-13",
-    "day": "Saturday",
-    "kickoff": "11p",
-    "home": "Virginia Tech",
-    "away": "Old Dominion",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Lane Stadium",
-      "lat": 37.2206,
-      "lng": -80.4183
     },
     "division": "fbs"
   },

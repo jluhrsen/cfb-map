@@ -1,5 +1,22 @@
 [
   {
+    "id": "2025-d3-401777153",
+    "week": 3,
+    "date": "2025-09-13",
+    "day": "Saturday",
+    "kickoff": "8p",
+    "home": "Willamette",
+    "away": "Pacific (OR)",
+    "homeLogo": "https://lh3.googleusercontent.com/6tOuPbn-4tztWUJrhNcODPR25WMo6bats7oaCuwY5KNzSTZneTGpKn-Z6PvWnJ0lNSE8hu7916kIwJhR3qYlbVWPYUo3NLgS2EM",
+    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/lkxbjwugyaf69m59.png",
+    "venue": {
+      "name": "McCulloch Stadium",
+      "lat": 44.9388,
+      "lng": -123.0355
+    },
+    "division": "d3"
+  },
+  {
     "id": "2025-d3-401777139",
     "week": 3,
     "date": "2025-09-13",
@@ -30,23 +47,6 @@
       "name": "Sparks Stadium",
       "lat": 47.1872,
       "lng": -122.3005
-    },
-    "division": "d3"
-  },
-  {
-    "id": "2025-d3-401777153",
-    "week": 3,
-    "date": "2025-09-13",
-    "day": "Saturday",
-    "kickoff": "8p",
-    "home": "Willamette",
-    "away": "Pacific (OR)",
-    "homeLogo": "https://lh3.googleusercontent.com/6tOuPbn-4tztWUJrhNcODPR25WMo6bats7oaCuwY5KNzSTZneTGpKn-Z6PvWnJ0lNSE8hu7916kIwJhR3qYlbVWPYUo3NLgS2EM",
-    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/lkxbjwugyaf69m59.png",
-    "venue": {
-      "name": "McCulloch Stadium",
-      "lat": 44.9388,
-      "lng": -123.0355
     },
     "division": "d3"
   }

@@ -187,23 +187,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401752898",
-    "week": 11,
-    "date": "2025-11-08",
-    "day": "Saturday",
-    "kickoff": "8:30p",
-    "home": "Iowa",
-    "away": "Oregon",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Kinnick Stadium",
-      "lat": 41.6581,
-      "lng": -91.5509
-    },
-    "division": "fbs"
-  },
-  {
     "id": "2025-fbs-401752763",
     "week": 11,
     "date": "2025-11-08",
@@ -217,6 +200,23 @@
       "name": "War Memorial Stadium",
       "lat": 41.307,
       "lng": -105.5677
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401752898",
+    "week": 11,
+    "date": "2025-11-08",
+    "day": "Saturday",
+    "kickoff": "8:30p",
+    "home": "Iowa",
+    "away": "Oregon",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Kinnick Stadium",
+      "lat": 41.6581,
+      "lng": -91.5509
     },
     "division": "fbs"
   },
@@ -306,23 +306,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401757166",
-    "week": 11,
-    "date": "2025-11-09",
-    "day": "Sunday",
-    "kickoff": "12:30a",
-    "home": "Notre Dame",
-    "away": "Navy",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Notre Dame Stadium",
-      "lat": 41.6997,
-      "lng": -86.2347
-    },
-    "division": "fbs"
-  },
-  {
     "id": "2025-fbs-401752760",
     "week": 11,
     "date": "2025-11-09",
@@ -340,19 +323,19 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401760409",
+    "id": "2025-fbs-401757166",
     "week": 11,
     "date": "2025-11-09",
     "day": "Sunday",
     "kickoff": "12:30a",
-    "home": "Utah State",
-    "away": "Nevada",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/328.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2440.png",
+    "home": "Notre Dame",
+    "away": "Navy",
+    "homeLogo": null,
+    "awayLogo": null,
     "venue": {
-      "name": "Maverik Stadium",
-      "lat": 41.7517,
-      "lng": -111.8116
+      "name": "Notre Dame Stadium",
+      "lat": 41.6997,
+      "lng": -86.2347
     },
     "division": "fbs"
   },
@@ -370,6 +353,23 @@
       "name": "Bryant-Denny Stadium",
       "lat": 33.208,
       "lng": -87.5502
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401760409",
+    "week": 11,
+    "date": "2025-11-09",
+    "day": "Sunday",
+    "kickoff": "12:30a",
+    "home": "Utah State",
+    "away": "Nevada",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/328.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2440.png",
+    "venue": {
+      "name": "Maverik Stadium",
+      "lat": 41.7517,
+      "lng": -111.8116
     },
     "division": "fbs"
   },

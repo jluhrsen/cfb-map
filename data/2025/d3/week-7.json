@@ -1,22 +1,5 @@
 [
   {
-    "id": "2025-d3-401783816",
-    "week": 7,
-    "date": "2025-10-11",
-    "day": "Saturday",
-    "kickoff": "8p",
-    "home": "La Verne",
-    "away": "California Lutheran University",
-    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/xd9a451s9o7md2nt.png",
-    "awayLogo": null,
-    "venue": {
-      "name": "Ortmayer Stadium",
-      "lat": 34.1008,
-      "lng": -117.7678
-    },
-    "division": "d3"
-  },
-  {
     "id": "2025-d3-401777163",
     "week": 7,
     "date": "2025-10-11",
@@ -30,6 +13,23 @@
       "name": "Baker Stadium",
       "lat": 47.2605,
       "lng": -122.4825
+    },
+    "division": "d3"
+  },
+  {
+    "id": "2025-d3-401783816",
+    "week": 7,
+    "date": "2025-10-11",
+    "day": "Saturday",
+    "kickoff": "8p",
+    "home": "La Verne",
+    "away": "California Lutheran University",
+    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/xd9a451s9o7md2nt.png",
+    "awayLogo": null,
+    "venue": {
+      "name": "Ortmayer Stadium",
+      "lat": 34.1008,
+      "lng": -117.7678
     },
     "division": "d3"
   },
