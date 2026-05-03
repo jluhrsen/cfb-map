@@ -34,40 +34,6 @@
     "division": "d3"
   },
   {
-    "id": "2025-d3-401777152",
-    "week": 12,
-    "date": "2025-11-15",
-    "day": "Saturday",
-    "kickoff": "9p",
-    "home": "Linfield College",
-    "away": "Willamette",
-    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/8ab4hlzfjvtul4nx.png",
-    "awayLogo": "https://lh3.googleusercontent.com/6tOuPbn-4tztWUJrhNcODPR25WMo6bats7oaCuwY5KNzSTZneTGpKn-Z6PvWnJ0lNSE8hu7916kIwJhR3qYlbVWPYUo3NLgS2EM",
-    "venue": {
-      "name": "Maxwell Field",
-      "lat": 45.2099,
-      "lng": -123.1987
-    },
-    "division": "d3"
-  },
-  {
-    "id": "2025-d3-401777146",
-    "week": 12,
-    "date": "2025-11-15",
-    "day": "Saturday",
-    "kickoff": "9p",
-    "home": "Pacific Lutheran",
-    "away": "NEWBERG",
-    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/bi1umnuk45dh7ppn.png",
-    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/mi23750dj6i6tf21.png",
-    "venue": {
-      "name": "Sparks Stadium",
-      "lat": 47.1872,
-      "lng": -122.3005
-    },
-    "division": "d3"
-  },
-  {
     "id": "2025-d3-401777158",
     "week": 12,
     "date": "2025-11-15",
@@ -85,6 +51,23 @@
     "division": "d3"
   },
   {
+    "id": "2025-d3-401777152",
+    "week": 12,
+    "date": "2025-11-15",
+    "day": "Saturday",
+    "kickoff": "9p",
+    "home": "Linfield College",
+    "away": "Willamette",
+    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/8ab4hlzfjvtul4nx.png",
+    "awayLogo": "https://lh3.googleusercontent.com/6tOuPbn-4tztWUJrhNcODPR25WMo6bats7oaCuwY5KNzSTZneTGpKn-Z6PvWnJ0lNSE8hu7916kIwJhR3qYlbVWPYUo3NLgS2EM",
+    "venue": {
+      "name": "Maxwell Field",
+      "lat": 45.2099,
+      "lng": -123.1987
+    },
+    "division": "d3"
+  },
+  {
     "id": "2025-d3-401834155",
     "week": 12,
     "date": "2025-11-15",
@@ -98,6 +81,23 @@
       "name": "War Memorial Stadium",
       "lat": 41.307,
       "lng": -105.5677
+    },
+    "division": "d3"
+  },
+  {
+    "id": "2025-d3-401777146",
+    "week": 12,
+    "date": "2025-11-15",
+    "day": "Saturday",
+    "kickoff": "9p",
+    "home": "Pacific Lutheran",
+    "away": "NEWBERG",
+    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/bi1umnuk45dh7ppn.png",
+    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/mi23750dj6i6tf21.png",
+    "venue": {
+      "name": "Sparks Stadium",
+      "lat": 47.1872,
+      "lng": -122.3005
     },
     "division": "d3"
   },

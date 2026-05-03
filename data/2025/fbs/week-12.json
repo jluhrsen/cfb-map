@@ -34,19 +34,19 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401752772",
+    "id": "2025-fbs-401754597",
     "week": 12,
     "date": "2025-11-15",
     "day": "Saturday",
     "kickoff": "5p",
-    "home": "Texas A&M",
-    "away": "South Carolina",
+    "home": "Pittsburgh",
+    "away": "Notre Dame",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Kyle Field",
-      "lat": 30.61,
-      "lng": -96.34
+      "name": "Acrisure Stadium",
+      "lat": 40.4468,
+      "lng": -80.0158
     },
     "division": "fbs"
   },
@@ -68,6 +68,23 @@
     "division": "fbs"
   },
   {
+    "id": "2025-fbs-401752772",
+    "week": 12,
+    "date": "2025-11-15",
+    "day": "Saturday",
+    "kickoff": "5p",
+    "home": "Texas A&M",
+    "away": "South Carolina",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Kyle Field",
+      "lat": 30.61,
+      "lng": -96.34
+    },
+    "division": "fbs"
+  },
+  {
     "id": "2025-fbs-401756952",
     "week": 12,
     "date": "2025-11-15",
@@ -81,23 +98,6 @@
       "name": "Boone Pickens Stadium",
       "lat": 36.1286,
       "lng": -97.0651
-    },
-    "division": "fbs"
-  },
-  {
-    "id": "2025-fbs-401754597",
-    "week": 12,
-    "date": "2025-11-15",
-    "day": "Saturday",
-    "kickoff": "5p",
-    "home": "Pittsburgh",
-    "away": "Notre Dame",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Acrisure Stadium",
-      "lat": 40.4468,
-      "lng": -80.0158
     },
     "division": "fbs"
   },
@@ -136,19 +136,19 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401756953",
+    "id": "2025-fbs-401752903",
     "week": 12,
     "date": "2025-11-15",
     "day": "Saturday",
     "kickoff": "8:30p",
-    "home": "Texas Tech",
-    "away": "UCF",
+    "home": "Michigan State",
+    "away": "Penn State",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "AT&T Stadium",
-      "lat": 32.7473,
-      "lng": -97.0945
+      "name": "Spartan Stadium",
+      "lat": 37.3975,
+      "lng": -121.8635
     },
     "division": "fbs"
   },
@@ -166,23 +166,6 @@
       "name": "Bryant-Denny Stadium",
       "lat": 33.208,
       "lng": -87.5502
-    },
-    "division": "fbs"
-  },
-  {
-    "id": "2025-fbs-401752906",
-    "week": 12,
-    "date": "2025-11-15",
-    "day": "Saturday",
-    "kickoff": "8:30p",
-    "home": "Illinois",
-    "away": "Maryland",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Memorial Stadium (Champaign, IL)",
-      "lat": 40.0993,
-      "lng": -88.2358
     },
     "division": "fbs"
   },
@@ -221,19 +204,19 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401752903",
+    "id": "2025-fbs-401752906",
     "week": 12,
     "date": "2025-11-15",
     "day": "Saturday",
     "kickoff": "8:30p",
-    "home": "Michigan State",
-    "away": "Penn State",
+    "home": "Illinois",
+    "away": "Maryland",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Spartan Stadium",
-      "lat": 37.3975,
-      "lng": -121.8635
+      "name": "Memorial Stadium (Champaign, IL)",
+      "lat": 40.0993,
+      "lng": -88.2358
     },
     "division": "fbs"
   },
@@ -251,6 +234,23 @@
       "name": "Hard Rock Stadium",
       "lat": 25.958,
       "lng": -80.2389
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401756953",
+    "week": 12,
+    "date": "2025-11-15",
+    "day": "Saturday",
+    "kickoff": "8:30p",
+    "home": "Texas Tech",
+    "away": "UCF",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "AT&T Stadium",
+      "lat": 32.7473,
+      "lng": -97.0945
     },
     "division": "fbs"
   },
@@ -323,23 +323,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401752766",
-    "week": 12,
-    "date": "2025-11-16",
-    "day": "Sunday",
-    "kickoff": "12:30a",
-    "home": "Georgia",
-    "away": "Texas",
-    "homeLogo": null,
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
-    "venue": {
-      "name": "Sanford Stadium",
-      "lat": 33.9498,
-      "lng": -83.3732
-    },
-    "division": "fbs"
-  },
-  {
     "id": "2025-fbs-401752900",
     "week": 12,
     "date": "2025-11-16",
@@ -353,6 +336,23 @@
       "name": "Ohio Stadium",
       "lat": 40.0018,
       "lng": -83.0197
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401752766",
+    "week": 12,
+    "date": "2025-11-16",
+    "day": "Sunday",
+    "kickoff": "12:30a",
+    "home": "Georgia",
+    "away": "Texas",
+    "homeLogo": null,
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
+    "venue": {
+      "name": "Sanford Stadium",
+      "lat": 33.9498,
+      "lng": -83.3732
     },
     "division": "fbs"
   },

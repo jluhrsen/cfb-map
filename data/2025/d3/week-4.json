@@ -1,5 +1,22 @@
 [
   {
+    "id": "2025-d3-401777161",
+    "week": 4,
+    "date": "2025-09-20",
+    "day": "Saturday",
+    "kickoff": "7p",
+    "home": "Pacific Lutheran",
+    "away": "Trinity University TX",
+    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/bi1umnuk45dh7ppn.png",
+    "awayLogo": null,
+    "venue": {
+      "name": "Sparks Stadium",
+      "lat": 47.1872,
+      "lng": -122.3005
+    },
+    "division": "d3"
+  },
+  {
     "id": "2025-d3-401778023",
     "week": 4,
     "date": "2025-09-20",
@@ -30,23 +47,6 @@
       "name": "Pine Bowl",
       "lat": 47.7523,
       "lng": -117.4202
-    },
-    "division": "d3"
-  },
-  {
-    "id": "2025-d3-401777161",
-    "week": 4,
-    "date": "2025-09-20",
-    "day": "Saturday",
-    "kickoff": "7p",
-    "home": "Pacific Lutheran",
-    "away": "Trinity University TX",
-    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/bi1umnuk45dh7ppn.png",
-    "awayLogo": null,
-    "venue": {
-      "name": "Sparks Stadium",
-      "lat": 47.1872,
-      "lng": -122.3005
     },
     "division": "d3"
   },

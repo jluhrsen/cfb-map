@@ -153,6 +153,23 @@
     "division": "fbs"
   },
   {
+    "id": "2025-fbs-401752774",
+    "week": 13,
+    "date": "2025-11-22",
+    "day": "Saturday",
+    "kickoff": "7p",
+    "home": "Auburn",
+    "away": "Mercer",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Jordan-Hare Stadium",
+      "lat": 32.6017,
+      "lng": -85.4893
+    },
+    "division": "fbs"
+  },
+  {
     "id": "2025-fbs-401752773",
     "week": 13,
     "date": "2025-11-22",
@@ -187,23 +204,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401752774",
-    "week": 13,
-    "date": "2025-11-22",
-    "day": "Saturday",
-    "kickoff": "7p",
-    "home": "Auburn",
-    "away": "Mercer",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Jordan-Hare Stadium",
-      "lat": 32.6017,
-      "lng": -85.4893
-    },
-    "division": "fbs"
-  },
-  {
     "id": "2025-fbs-401757309",
     "week": 13,
     "date": "2025-11-22",
@@ -217,6 +217,40 @@
       "name": "Sun Bowl",
       "lat": 31.7688,
       "lng": -106.4992
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401752913",
+    "week": 13,
+    "date": "2025-11-22",
+    "day": "Saturday",
+    "kickoff": "8:30p",
+    "home": "Iowa",
+    "away": "Michigan State",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Kinnick Stadium",
+      "lat": 41.6581,
+      "lng": -91.5509
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401754600",
+    "week": 13,
+    "date": "2025-11-22",
+    "day": "Saturday",
+    "kickoff": "8:30p",
+    "home": "North Carolina",
+    "away": "Duke",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Kenan Stadium",
+      "lat": 35.9096,
+      "lng": -79.0478
     },
     "division": "fbs"
   },
@@ -255,57 +289,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401752780",
-    "week": 13,
-    "date": "2025-11-22",
-    "day": "Saturday",
-    "kickoff": "8:30p",
-    "home": "Texas",
-    "away": "Arkansas",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
-    "awayLogo": null,
-    "venue": {
-      "name": "DKR-Texas Memorial Stadium",
-      "lat": 30.2839,
-      "lng": -97.7325
-    },
-    "division": "fbs"
-  },
-  {
-    "id": "2025-fbs-401754600",
-    "week": 13,
-    "date": "2025-11-22",
-    "day": "Saturday",
-    "kickoff": "8:30p",
-    "home": "North Carolina",
-    "away": "Duke",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Kenan Stadium",
-      "lat": 35.9096,
-      "lng": -79.0478
-    },
-    "division": "fbs"
-  },
-  {
-    "id": "2025-fbs-401752913",
-    "week": 13,
-    "date": "2025-11-22",
-    "day": "Saturday",
-    "kickoff": "8:30p",
-    "home": "Iowa",
-    "away": "Michigan State",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Kinnick Stadium",
-      "lat": 41.6581,
-      "lng": -91.5509
-    },
-    "division": "fbs"
-  },
-  {
     "id": "2025-fbs-401752911",
     "week": 13,
     "date": "2025-11-22",
@@ -336,6 +319,23 @@
       "name": "FirstBank Stadium",
       "lat": 36.0103,
       "lng": -86.8051
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401752780",
+    "week": 13,
+    "date": "2025-11-22",
+    "day": "Saturday",
+    "kickoff": "8:30p",
+    "home": "Texas",
+    "away": "Arkansas",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
+    "awayLogo": null,
+    "venue": {
+      "name": "DKR-Texas Memorial Stadium",
+      "lat": 30.2839,
+      "lng": -97.7325
     },
     "division": "fbs"
   },
@@ -374,23 +374,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401752914",
-    "week": 13,
-    "date": "2025-11-22",
-    "day": "Saturday",
-    "kickoff": "9p",
-    "home": "Maryland",
-    "away": "Michigan",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "SECU Stadium",
-      "lat": 38.9941,
-      "lng": -76.948
-    },
-    "division": "fbs"
-  },
-  {
     "id": "2025-fbs-401756957",
     "week": 13,
     "date": "2025-11-22",
@@ -404,6 +387,23 @@
       "name": "TDECU Stadium",
       "lat": 29.7211,
       "lng": -95.3506
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401752914",
+    "week": 13,
+    "date": "2025-11-22",
+    "day": "Saturday",
+    "kickoff": "9p",
+    "home": "Maryland",
+    "away": "Michigan",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "SECU Stadium",
+      "lat": 38.9941,
+      "lng": -76.948
     },
     "division": "fbs"
   },
@@ -459,19 +459,19 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401762514",
+    "id": "2025-fbs-401752915",
     "week": 13,
     "date": "2025-11-23",
     "day": "Sunday",
     "kickoff": "12:30a",
-    "home": "Rice",
-    "away": "North Texas",
+    "home": "Wisconsin",
+    "away": "Illinois",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Jack Trice Stadium",
-      "lat": 42.014,
-      "lng": -93.6356
+      "name": "Camp Randall Stadium",
+      "lat": 43.0703,
+      "lng": -89.4124
     },
     "division": "fbs"
   },
@@ -493,6 +493,23 @@
     "division": "fbs"
   },
   {
+    "id": "2025-fbs-401762514",
+    "week": 13,
+    "date": "2025-11-23",
+    "day": "Sunday",
+    "kickoff": "12:30a",
+    "home": "Rice",
+    "away": "North Texas",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Jack Trice Stadium",
+      "lat": 42.014,
+      "lng": -93.6356
+    },
+    "division": "fbs"
+  },
+  {
     "id": "2025-fbs-401754599",
     "week": 13,
     "date": "2025-11-23",
@@ -506,23 +523,6 @@
       "name": "Stanford Stadium",
       "lat": 37.4344,
       "lng": -122.1614
-    },
-    "division": "fbs"
-  },
-  {
-    "id": "2025-fbs-401752915",
-    "week": 13,
-    "date": "2025-11-23",
-    "day": "Sunday",
-    "kickoff": "12:30a",
-    "home": "Wisconsin",
-    "away": "Illinois",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Camp Randall Stadium",
-      "lat": 43.0703,
-      "lng": -89.4124
     },
     "division": "fbs"
   },
@@ -578,23 +578,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401752910",
-    "week": 13,
-    "date": "2025-11-23",
-    "day": "Sunday",
-    "kickoff": "3:30a",
-    "home": "UCLA",
-    "away": "Washington",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Rose Bowl",
-      "lat": 34.1611,
-      "lng": -118.1676
-    },
-    "division": "fbs"
-  },
-  {
     "id": "2025-fbs-401760420",
     "week": 13,
     "date": "2025-11-23",
@@ -608,6 +591,23 @@
       "name": "Snapdragon Stadium",
       "lat": 32.7831,
       "lng": -117.1194
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401752910",
+    "week": 13,
+    "date": "2025-11-23",
+    "day": "Sunday",
+    "kickoff": "3:30a",
+    "home": "UCLA",
+    "away": "Washington",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Rose Bowl",
+      "lat": 34.1611,
+      "lng": -118.1676
     },
     "division": "fbs"
   }

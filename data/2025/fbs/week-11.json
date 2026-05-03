@@ -238,23 +238,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401752899",
-    "week": 11,
-    "date": "2025-11-08",
-    "day": "Saturday",
-    "kickoff": "9:30p",
-    "home": "Wisconsin",
-    "away": "Washington",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Camp Randall Stadium",
-      "lat": 43.0703,
-      "lng": -89.4124
-    },
-    "division": "fbs"
-  },
-  {
     "id": "2025-fbs-401754588",
     "week": 11,
     "date": "2025-11-08",
@@ -268,6 +251,23 @@
       "name": "Kenan Stadium",
       "lat": 35.9096,
       "lng": -79.0478
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401752899",
+    "week": 11,
+    "date": "2025-11-08",
+    "day": "Saturday",
+    "kickoff": "9:30p",
+    "home": "Wisconsin",
+    "away": "Washington",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Camp Randall Stadium",
+      "lat": 43.0703,
+      "lng": -89.4124
     },
     "division": "fbs"
   },
@@ -306,23 +306,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401752760",
-    "week": 11,
-    "date": "2025-11-09",
-    "day": "Sunday",
-    "kickoff": "12:30a",
-    "home": "Kentucky",
-    "away": "Florida",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Kroger Field",
-      "lat": 38.022,
-      "lng": -84.5037
-    },
-    "division": "fbs"
-  },
-  {
     "id": "2025-fbs-401757166",
     "week": 11,
     "date": "2025-11-09",
@@ -340,19 +323,19 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401752759",
+    "id": "2025-fbs-401752760",
     "week": 11,
     "date": "2025-11-09",
     "day": "Sunday",
     "kickoff": "12:30a",
-    "home": "Alabama",
-    "away": "LSU",
+    "home": "Kentucky",
+    "away": "Florida",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Bryant-Denny Stadium",
-      "lat": 33.208,
-      "lng": -87.5502
+      "name": "Kroger Field",
+      "lat": 38.022,
+      "lng": -84.5037
     },
     "division": "fbs"
   },
@@ -370,6 +353,23 @@
       "name": "Maverik Stadium",
       "lat": 41.7517,
       "lng": -111.8116
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401752759",
+    "week": 11,
+    "date": "2025-11-09",
+    "day": "Sunday",
+    "kickoff": "12:30a",
+    "home": "Alabama",
+    "away": "LSU",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Bryant-Denny Stadium",
+      "lat": 33.208,
+      "lng": -87.5502
     },
     "division": "fbs"
   },
