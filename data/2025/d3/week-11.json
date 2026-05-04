@@ -1,5 +1,22 @@
 [
   {
+    "id": "2025-d3-401774271",
+    "week": 11,
+    "date": "2025-11-08",
+    "day": "Saturday",
+    "kickoff": "9p",
+    "home": "La Verne",
+    "away": "Chapman",
+    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/xd9a451s9o7md2nt.png",
+    "awayLogo": null,
+    "venue": {
+      "name": "Ortmayer Stadium",
+      "lat": 34.1008,
+      "lng": -117.7678
+    },
+    "division": "d3"
+  },
+  {
     "id": "2025-d3-401777165",
     "week": 11,
     "date": "2025-11-08",
@@ -30,23 +47,6 @@
       "name": "Baker Stadium",
       "lat": 47.2605,
       "lng": -122.4825
-    },
-    "division": "d3"
-  },
-  {
-    "id": "2025-d3-401774271",
-    "week": 11,
-    "date": "2025-11-08",
-    "day": "Saturday",
-    "kickoff": "9p",
-    "home": "La Verne",
-    "away": "Chapman",
-    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/xd9a451s9o7md2nt.png",
-    "awayLogo": null,
-    "venue": {
-      "name": "Ortmayer Stadium",
-      "lat": 34.1008,
-      "lng": -117.7678
     },
     "division": "d3"
   },
