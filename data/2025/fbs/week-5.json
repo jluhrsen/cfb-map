@@ -1,18 +1,18 @@
 [
   {
-    "id": "2025-fbs-401752850",
+    "id": "2025-fbs-401752717",
     "week": 5,
     "date": "2025-09-27",
     "day": "Saturday",
     "kickoff": "4p",
-    "home": "Illinois",
-    "away": "USC",
+    "home": "Arkansas",
+    "away": "Notre Dame",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Memorial Stadium (Champaign, IL)",
-      "lat": 40.0993,
-      "lng": -88.2358
+      "name": "Razorback Stadium",
+      "lat": 36.0684,
+      "lng": -94.1789
     },
     "division": "fbs"
   },
@@ -30,6 +30,40 @@
       "name": "Acrisure Stadium",
       "lat": 40.4468,
       "lng": -80.0158
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401756905",
+    "week": 5,
+    "date": "2025-09-27",
+    "day": "Saturday",
+    "kickoff": "4p",
+    "home": "Kansas",
+    "away": "Cincinnati",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "War Memorial Stadium",
+      "lat": 41.307,
+      "lng": -105.5677
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401752850",
+    "week": 5,
+    "date": "2025-09-27",
+    "day": "Saturday",
+    "kickoff": "4p",
+    "home": "Illinois",
+    "away": "USC",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Memorial Stadium (Champaign, IL)",
+      "lat": 40.0993,
+      "lng": -88.2358
     },
     "division": "fbs"
   },
@@ -68,40 +102,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401756905",
-    "week": 5,
-    "date": "2025-09-27",
-    "day": "Saturday",
-    "kickoff": "4p",
-    "home": "Kansas",
-    "away": "Cincinnati",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "War Memorial Stadium",
-      "lat": 41.307,
-      "lng": -105.5677
-    },
-    "division": "fbs"
-  },
-  {
-    "id": "2025-fbs-401752717",
-    "week": 5,
-    "date": "2025-09-27",
-    "day": "Saturday",
-    "kickoff": "4p",
-    "home": "Arkansas",
-    "away": "Notre Dame",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Razorback Stadium",
-      "lat": 36.0684,
-      "lng": -94.1789
-    },
-    "division": "fbs"
-  },
-  {
     "id": "2025-fbs-401752725",
     "week": 5,
     "date": "2025-09-27",
@@ -119,6 +119,23 @@
     "division": "fbs"
   },
   {
+    "id": "2025-fbs-401756907",
+    "week": 5,
+    "date": "2025-09-27",
+    "day": "Saturday",
+    "kickoff": "7:30p",
+    "home": "Oklahoma State",
+    "away": "Baylor",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Boone Pickens Stadium",
+      "lat": 36.1286,
+      "lng": -97.0651
+    },
+    "division": "fbs"
+  },
+  {
     "id": "2025-fbs-401760380",
     "week": 5,
     "date": "2025-09-27",
@@ -132,6 +149,40 @@
       "name": "Huskie Stadium",
       "lat": 41.9308,
       "lng": -88.7572
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401752724",
+    "week": 5,
+    "date": "2025-09-27",
+    "day": "Saturday",
+    "kickoff": "7:30p",
+    "home": "Texas A&M",
+    "away": "Auburn",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Kyle Field",
+      "lat": 30.61,
+      "lng": -96.34
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401752852",
+    "week": 5,
+    "date": "2025-09-27",
+    "day": "Saturday",
+    "kickoff": "7:30p",
+    "home": "Washington",
+    "away": "Ohio State",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Husky Stadium",
+      "lat": 47.6504,
+      "lng": -122.3016
     },
     "division": "fbs"
   },
@@ -170,57 +221,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401752852",
-    "week": 5,
-    "date": "2025-09-27",
-    "day": "Saturday",
-    "kickoff": "7:30p",
-    "home": "Washington",
-    "away": "Ohio State",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Husky Stadium",
-      "lat": 47.6504,
-      "lng": -122.3016
-    },
-    "division": "fbs"
-  },
-  {
-    "id": "2025-fbs-401752724",
-    "week": 5,
-    "date": "2025-09-27",
-    "day": "Saturday",
-    "kickoff": "7:30p",
-    "home": "Texas A&M",
-    "away": "Auburn",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Kyle Field",
-      "lat": 30.61,
-      "lng": -96.34
-    },
-    "division": "fbs"
-  },
-  {
-    "id": "2025-fbs-401756907",
-    "week": 5,
-    "date": "2025-09-27",
-    "day": "Saturday",
-    "kickoff": "7:30p",
-    "home": "Oklahoma State",
-    "away": "Baylor",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Boone Pickens Stadium",
-      "lat": 36.1286,
-      "lng": -97.0651
-    },
-    "division": "fbs"
-  },
-  {
     "id": "2025-fbs-401760378",
     "week": 5,
     "date": "2025-09-27",
@@ -251,6 +251,23 @@
       "name": "Jack Trice Stadium",
       "lat": 42.014,
       "lng": -93.6356
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401752854",
+    "week": 5,
+    "date": "2025-09-27",
+    "day": "Saturday",
+    "kickoff": "11:30p",
+    "home": "Penn State",
+    "away": "Oregon",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Beaver Stadium",
+      "lat": 40.8122,
+      "lng": -77.8561
     },
     "division": "fbs"
   },
@@ -289,40 +306,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401752718",
-    "week": 5,
-    "date": "2025-09-27",
-    "day": "Saturday",
-    "kickoff": "11:30p",
-    "home": "Georgia",
-    "away": "Alabama",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Sanford Stadium",
-      "lat": 33.9498,
-      "lng": -83.3732
-    },
-    "division": "fbs"
-  },
-  {
-    "id": "2025-fbs-401752854",
-    "week": 5,
-    "date": "2025-09-27",
-    "day": "Saturday",
-    "kickoff": "11:30p",
-    "home": "Penn State",
-    "away": "Oregon",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Beaver Stadium",
-      "lat": 40.8122,
-      "lng": -77.8561
-    },
-    "division": "fbs"
-  },
-  {
     "id": "2025-fbs-401752950",
     "week": 5,
     "date": "2025-09-27",
@@ -336,6 +319,23 @@
       "name": "Canvas Stadium",
       "lat": 40.5749,
       "lng": -105.0896
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401752718",
+    "week": 5,
+    "date": "2025-09-27",
+    "day": "Saturday",
+    "kickoff": "11:30p",
+    "home": "Georgia",
+    "away": "Alabama",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Sanford Stadium",
+      "lat": 33.9498,
+      "lng": -83.3732
     },
     "division": "fbs"
   },

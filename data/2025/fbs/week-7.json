@@ -34,23 +34,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401752862",
-    "week": 7,
-    "date": "2025-10-11",
-    "day": "Saturday",
-    "kickoff": "1a",
-    "home": "Washington",
-    "away": "Rutgers",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Husky Stadium",
-      "lat": 47.6504,
-      "lng": -122.3016
-    },
-    "division": "fbs"
-  },
-  {
     "id": "2025-fbs-401760388",
     "week": 7,
     "date": "2025-10-11",
@@ -68,70 +51,36 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401752863",
+    "id": "2025-fbs-401752862",
     "week": 7,
     "date": "2025-10-11",
     "day": "Saturday",
-    "kickoff": "4p",
-    "home": "Michigan State",
-    "away": "UCLA",
+    "kickoff": "1a",
+    "home": "Washington",
+    "away": "Rutgers",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Spartan Stadium",
-      "lat": 37.3975,
-      "lng": -121.8635
+      "name": "Husky Stadium",
+      "lat": 47.6504,
+      "lng": -122.3016
     },
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401754559",
+    "id": "2025-fbs-401752865",
     "week": 7,
     "date": "2025-10-11",
     "day": "Saturday",
     "kickoff": "4p",
-    "home": "Florida State",
-    "away": "Pittsburgh",
+    "home": "Illinois",
+    "away": "Ohio State",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Doak Campbell Stadium",
-      "lat": 30.4384,
-      "lng": -84.3045
-    },
-    "division": "fbs"
-  },
-  {
-    "id": "2025-fbs-401762835",
-    "week": 7,
-    "date": "2025-10-11",
-    "day": "Saturday",
-    "kickoff": "4p",
-    "home": "Bowling Green",
-    "away": "Toledo",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Doyt L. Perry Stadium",
-      "lat": 41.375,
-      "lng": -83.635
-    },
-    "division": "fbs"
-  },
-  {
-    "id": "2025-fbs-401752734",
-    "week": 7,
-    "date": "2025-10-11",
-    "day": "Saturday",
-    "kickoff": "4p",
-    "home": "Missouri",
-    "away": "Alabama",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "War Memorial Stadium",
-      "lat": 41.307,
-      "lng": -105.5677
+      "name": "Memorial Stadium (Champaign, IL)",
+      "lat": 40.0993,
+      "lng": -88.2358
     },
     "division": "fbs"
   },
@@ -153,6 +102,40 @@
     "division": "fbs"
   },
   {
+    "id": "2025-fbs-401752863",
+    "week": 7,
+    "date": "2025-10-11",
+    "day": "Saturday",
+    "kickoff": "4p",
+    "home": "Michigan State",
+    "away": "UCLA",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Spartan Stadium",
+      "lat": 37.3975,
+      "lng": -121.8635
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401752734",
+    "week": 7,
+    "date": "2025-10-11",
+    "day": "Saturday",
+    "kickoff": "4p",
+    "home": "Missouri",
+    "away": "Alabama",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "War Memorial Stadium",
+      "lat": 41.307,
+      "lng": -105.5677
+    },
+    "division": "fbs"
+  },
+  {
     "id": "2025-fbs-401762833",
     "week": 7,
     "date": "2025-10-11",
@@ -170,19 +153,36 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401752865",
+    "id": "2025-fbs-401762835",
     "week": 7,
     "date": "2025-10-11",
     "day": "Saturday",
     "kickoff": "4p",
-    "home": "Illinois",
-    "away": "Ohio State",
+    "home": "Bowling Green",
+    "away": "Toledo",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Memorial Stadium (Champaign, IL)",
-      "lat": 40.0993,
-      "lng": -88.2358
+      "name": "Doyt L. Perry Stadium",
+      "lat": 41.375,
+      "lng": -83.635
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401754559",
+    "week": 7,
+    "date": "2025-10-11",
+    "day": "Saturday",
+    "kickoff": "4p",
+    "home": "Florida State",
+    "away": "Pittsburgh",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Doak Campbell Stadium",
+      "lat": 30.4384,
+      "lng": -84.3045
     },
     "division": "fbs"
   },
@@ -238,23 +238,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401752870",
-    "week": 7,
-    "date": "2025-10-11",
-    "day": "Saturday",
-    "kickoff": "7:30p",
-    "home": "Oregon",
-    "away": "Indiana",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Autzen Stadium",
-      "lat": 44.0584,
-      "lng": -123.0681
-    },
-    "division": "fbs"
-  },
-  {
     "id": "2025-fbs-401756918",
     "week": 7,
     "date": "2025-10-11",
@@ -268,6 +251,23 @@
       "name": "Folsom Field",
       "lat": 40.0096,
       "lng": -105.2644
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401752870",
+    "week": 7,
+    "date": "2025-10-11",
+    "day": "Saturday",
+    "kickoff": "7:30p",
+    "home": "Oregon",
+    "away": "Indiana",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Autzen Stadium",
+      "lat": 44.0584,
+      "lng": -123.0681
     },
     "division": "fbs"
   },
@@ -357,23 +357,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401760391",
-    "week": 7,
-    "date": "2025-10-11",
-    "day": "Saturday",
-    "kickoff": "11p",
-    "home": "Wyoming",
-    "away": "San José State",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2751.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/23.png",
-    "venue": {
-      "name": "War Memorial Stadium",
-      "lat": 41.307,
-      "lng": -105.5677
-    },
-    "division": "fbs"
-  },
-  {
     "id": "2025-fbs-401752737",
     "week": 7,
     "date": "2025-10-11",
@@ -387,6 +370,23 @@
       "name": "Kyle Field",
       "lat": 30.61,
       "lng": -96.34
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401760391",
+    "week": 7,
+    "date": "2025-10-11",
+    "day": "Saturday",
+    "kickoff": "11p",
+    "home": "Wyoming",
+    "away": "San José State",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2751.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/23.png",
+    "venue": {
+      "name": "War Memorial Stadium",
+      "lat": 41.307,
+      "lng": -105.5677
     },
     "division": "fbs"
   },

@@ -153,23 +153,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401754587",
-    "week": 11,
-    "date": "2025-11-08",
-    "day": "Saturday",
-    "kickoff": "8:30p",
-    "home": "Miami",
-    "away": "Syracuse",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Hard Rock Stadium",
-      "lat": 25.958,
-      "lng": -80.2389
-    },
-    "division": "fbs"
-  },
-  {
     "id": "2025-fbs-401752898",
     "week": 11,
     "date": "2025-11-08",
@@ -187,23 +170,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401756943",
-    "week": 11,
-    "date": "2025-11-08",
-    "day": "Saturday",
-    "kickoff": "8:30p",
-    "home": "Arizona",
-    "away": "Kansas",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Arizona Stadium",
-      "lat": 32.2287,
-      "lng": -110.9489
-    },
-    "division": "fbs"
-  },
-  {
     "id": "2025-fbs-401752763",
     "week": 11,
     "date": "2025-11-08",
@@ -217,6 +183,40 @@
       "name": "War Memorial Stadium",
       "lat": 41.307,
       "lng": -105.5677
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401754587",
+    "week": 11,
+    "date": "2025-11-08",
+    "day": "Saturday",
+    "kickoff": "8:30p",
+    "home": "Miami",
+    "away": "Syracuse",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Hard Rock Stadium",
+      "lat": 25.958,
+      "lng": -80.2389
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401756943",
+    "week": 11,
+    "date": "2025-11-08",
+    "day": "Saturday",
+    "kickoff": "8:30p",
+    "home": "Arizona",
+    "away": "Kansas",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Arizona Stadium",
+      "lat": 32.2287,
+      "lng": -110.9489
     },
     "division": "fbs"
   },
@@ -323,23 +323,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401752760",
-    "week": 11,
-    "date": "2025-11-09",
-    "day": "Sunday",
-    "kickoff": "12:30a",
-    "home": "Kentucky",
-    "away": "Florida",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Kroger Field",
-      "lat": 38.022,
-      "lng": -84.5037
-    },
-    "division": "fbs"
-  },
-  {
     "id": "2025-fbs-401757166",
     "week": 11,
     "date": "2025-11-09",
@@ -353,6 +336,23 @@
       "name": "Notre Dame Stadium",
       "lat": 41.6997,
       "lng": -86.2347
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401752760",
+    "week": 11,
+    "date": "2025-11-09",
+    "day": "Sunday",
+    "kickoff": "12:30a",
+    "home": "Kentucky",
+    "away": "Florida",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Kroger Field",
+      "lat": 38.022,
+      "lng": -84.5037
     },
     "division": "fbs"
   },
