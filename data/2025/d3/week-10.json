@@ -1,39 +1,5 @@
 [
   {
-    "id": "2025-d3-401777144",
-    "week": 10,
-    "date": "2025-11-01",
-    "day": "Saturday",
-    "kickoff": "8p",
-    "home": "Willamette",
-    "away": "NEWBERG",
-    "homeLogo": "https://lh3.googleusercontent.com/6tOuPbn-4tztWUJrhNcODPR25WMo6bats7oaCuwY5KNzSTZneTGpKn-Z6PvWnJ0lNSE8hu7916kIwJhR3qYlbVWPYUo3NLgS2EM",
-    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/mi23750dj6i6tf21.png",
-    "venue": {
-      "name": "McCulloch Stadium",
-      "lat": 44.9388,
-      "lng": -123.0355
-    },
-    "division": "d3"
-  },
-  {
-    "id": "2025-d3-401777164",
-    "week": 10,
-    "date": "2025-11-01",
-    "day": "Saturday",
-    "kickoff": "8p",
-    "home": "Whitworth",
-    "away": "Pacific Lutheran",
-    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/ekkb9ky91gzlit7x.png",
-    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/bi1umnuk45dh7ppn.png",
-    "venue": {
-      "name": "Pine Bowl",
-      "lat": 47.7523,
-      "lng": -117.4202
-    },
-    "division": "d3"
-  },
-  {
     "id": "2025-d3-401777150",
     "week": 10,
     "date": "2025-11-01",
@@ -68,6 +34,23 @@
     "division": "d3"
   },
   {
+    "id": "2025-d3-401777164",
+    "week": 10,
+    "date": "2025-11-01",
+    "day": "Saturday",
+    "kickoff": "8p",
+    "home": "Whitworth",
+    "away": "Pacific Lutheran",
+    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/ekkb9ky91gzlit7x.png",
+    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/bi1umnuk45dh7ppn.png",
+    "venue": {
+      "name": "Pine Bowl",
+      "lat": 47.7523,
+      "lng": -117.4202
+    },
+    "division": "d3"
+  },
+  {
     "id": "2025-d3-401774258",
     "week": 10,
     "date": "2025-11-01",
@@ -81,6 +64,23 @@
       "name": "Ortmayer Stadium",
       "lat": 34.1008,
       "lng": -117.7678
+    },
+    "division": "d3"
+  },
+  {
+    "id": "2025-d3-401777144",
+    "week": 10,
+    "date": "2025-11-01",
+    "day": "Saturday",
+    "kickoff": "8p",
+    "home": "Willamette",
+    "away": "NEWBERG",
+    "homeLogo": "https://lh3.googleusercontent.com/6tOuPbn-4tztWUJrhNcODPR25WMo6bats7oaCuwY5KNzSTZneTGpKn-Z6PvWnJ0lNSE8hu7916kIwJhR3qYlbVWPYUo3NLgS2EM",
+    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/mi23750dj6i6tf21.png",
+    "venue": {
+      "name": "McCulloch Stadium",
+      "lat": 44.9388,
+      "lng": -123.0355
     },
     "division": "d3"
   }

@@ -17,23 +17,6 @@
     "division": "d3"
   },
   {
-    "id": "2025-d3-401777166",
-    "week": 2,
-    "date": "2025-09-06",
-    "day": "Saturday",
-    "kickoff": "8p",
-    "home": "Puget Sound",
-    "away": "Lewis & Clark College",
-    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/wpoqmrhctdrju4jh.png",
-    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/2i62768ao3nlh5wq.png",
-    "venue": {
-      "name": "Baker Stadium",
-      "lat": 47.2605,
-      "lng": -122.4825
-    },
-    "division": "d3"
-  },
-  {
     "id": "2025-d3-401774175",
     "week": 2,
     "date": "2025-09-06",
@@ -64,6 +47,23 @@
       "name": "Pine Bowl",
       "lat": 47.7523,
       "lng": -117.4202
+    },
+    "division": "d3"
+  },
+  {
+    "id": "2025-d3-401777166",
+    "week": 2,
+    "date": "2025-09-06",
+    "day": "Saturday",
+    "kickoff": "8p",
+    "home": "Puget Sound",
+    "away": "Lewis & Clark College",
+    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/wpoqmrhctdrju4jh.png",
+    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/2i62768ao3nlh5wq.png",
+    "venue": {
+      "name": "Baker Stadium",
+      "lat": 47.2605,
+      "lng": -122.4825
     },
     "division": "d3"
   }

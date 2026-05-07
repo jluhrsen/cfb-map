@@ -85,53 +85,19 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401752838",
+    "id": "2025-fbs-401752703",
     "week": 3,
     "date": "2025-09-13",
     "day": "Saturday",
     "kickoff": "4p",
-    "home": "Maryland",
-    "away": "Towson",
+    "home": "Temple",
+    "away": "Oklahoma",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "SECU Stadium",
-      "lat": 38.9941,
-      "lng": -76.948
-    },
-    "division": "fbs"
-  },
-  {
-    "id": "2025-fbs-401752831",
-    "week": 3,
-    "date": "2025-09-13",
-    "day": "Saturday",
-    "kickoff": "4p",
-    "home": "Northwestern",
-    "away": "Oregon",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Lanny and Sharon Martin Stadium",
-      "lat": 34.361,
-      "lng": -103.2067
-    },
-    "division": "fbs"
-  },
-  {
-    "id": "2025-fbs-401756891",
-    "week": 3,
-    "date": "2025-09-13",
-    "day": "Saturday",
-    "kickoff": "4p",
-    "home": "Baylor",
-    "away": "Samford",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Lane Stadium",
-      "lat": 37.2206,
-      "lng": -80.4183
+      "name": "Lincoln Financial Field",
+      "lat": 39.9008,
+      "lng": -75.1675
     },
     "division": "fbs"
   },
@@ -170,6 +136,23 @@
     "division": "fbs"
   },
   {
+    "id": "2025-fbs-401756891",
+    "week": 3,
+    "date": "2025-09-13",
+    "day": "Saturday",
+    "kickoff": "4p",
+    "home": "Baylor",
+    "away": "Samford",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Lane Stadium",
+      "lat": 37.2206,
+      "lng": -80.4183
+    },
+    "division": "fbs"
+  },
+  {
     "id": "2025-fbs-401752696",
     "week": 3,
     "date": "2025-09-13",
@@ -187,19 +170,36 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401752703",
+    "id": "2025-fbs-401752838",
     "week": 3,
     "date": "2025-09-13",
     "day": "Saturday",
     "kickoff": "4p",
-    "home": "Temple",
-    "away": "Oklahoma",
+    "home": "Maryland",
+    "away": "Towson",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Lincoln Financial Field",
-      "lat": 39.9008,
-      "lng": -75.1675
+      "name": "SECU Stadium",
+      "lat": 38.9941,
+      "lng": -76.948
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401752831",
+    "week": 3,
+    "date": "2025-09-13",
+    "day": "Saturday",
+    "kickoff": "4p",
+    "home": "Northwestern",
+    "away": "Oregon",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Lanny and Sharon Martin Stadium",
+      "lat": 34.361,
+      "lng": -103.2067
     },
     "division": "fbs"
   },
@@ -255,19 +255,19 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401754639",
+    "id": "2025-fbs-401762467",
     "week": 3,
     "date": "2025-09-13",
     "day": "Saturday",
     "kickoff": "7:30p",
-    "home": "North Carolina",
-    "away": "Richmond",
+    "home": "UTSA",
+    "away": "Incarnate Word",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Kenan Stadium",
-      "lat": 35.9096,
-      "lng": -79.0478
+      "name": "Alamodome",
+      "lat": 29.4191,
+      "lng": -98.4737
     },
     "division": "fbs"
   },
@@ -289,19 +289,19 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401752835",
+    "id": "2025-fbs-401752834",
     "week": 3,
     "date": "2025-09-13",
     "day": "Saturday",
     "kickoff": "7:30p",
-    "home": "Penn State",
-    "away": "Villanova",
+    "home": "Michigan State",
+    "away": "Youngstown State",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Beaver Stadium",
-      "lat": 40.8122,
-      "lng": -77.8561
+      "name": "Spartan Stadium",
+      "lat": 37.3975,
+      "lng": -121.8635
     },
     "division": "fbs"
   },
@@ -323,36 +323,19 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401762467",
+    "id": "2025-fbs-401754639",
     "week": 3,
     "date": "2025-09-13",
     "day": "Saturday",
     "kickoff": "7:30p",
-    "home": "UTSA",
-    "away": "Incarnate Word",
+    "home": "North Carolina",
+    "away": "Richmond",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Alamodome",
-      "lat": 29.4191,
-      "lng": -98.4737
-    },
-    "division": "fbs"
-  },
-  {
-    "id": "2025-fbs-401752834",
-    "week": 3,
-    "date": "2025-09-13",
-    "day": "Saturday",
-    "kickoff": "7:30p",
-    "home": "Michigan State",
-    "away": "Youngstown State",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Spartan Stadium",
-      "lat": 37.3975,
-      "lng": -121.8635
+      "name": "Kenan Stadium",
+      "lat": 35.9096,
+      "lng": -79.0478
     },
     "division": "fbs"
   },
@@ -370,6 +353,23 @@
       "name": "Neyland Stadium",
       "lat": 35.9551,
       "lng": -83.9252
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401752835",
+    "week": 3,
+    "date": "2025-09-13",
+    "day": "Saturday",
+    "kickoff": "7:30p",
+    "home": "Penn State",
+    "away": "Villanova",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Beaver Stadium",
+      "lat": 40.8122,
+      "lng": -77.8561
     },
     "division": "fbs"
   },
@@ -459,19 +459,19 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401752827",
+    "id": "2025-fbs-401752829",
     "week": 3,
     "date": "2025-09-13",
     "day": "Saturday",
     "kickoff": "11p",
-    "home": "Ohio State",
-    "away": "Ohio",
+    "home": "Illinois",
+    "away": "Western Michigan",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Ohio Stadium",
-      "lat": 40.0018,
-      "lng": -83.0197
+      "name": "Memorial Stadium (Champaign, IL)",
+      "lat": 40.0993,
+      "lng": -88.2358
     },
     "division": "fbs"
   },
@@ -493,36 +493,19 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401752829",
+    "id": "2025-fbs-401752827",
     "week": 3,
     "date": "2025-09-13",
     "day": "Saturday",
     "kickoff": "11p",
-    "home": "Illinois",
-    "away": "Western Michigan",
+    "home": "Ohio State",
+    "away": "Ohio",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Memorial Stadium (Champaign, IL)",
-      "lat": 40.0993,
-      "lng": -88.2358
-    },
-    "division": "fbs"
-  },
-  {
-    "id": "2025-fbs-401752699",
-    "week": 3,
-    "date": "2025-09-13",
-    "day": "Saturday",
-    "kickoff": "11:30p",
-    "home": "LSU",
-    "away": "Florida",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Tiger Stadium (LA)",
-      "lat": 30.4122,
-      "lng": -91.1839
+      "name": "Ohio Stadium",
+      "lat": 40.0018,
+      "lng": -83.0197
     },
     "division": "fbs"
   },
@@ -544,19 +527,19 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401752830",
+    "id": "2025-fbs-401752699",
     "week": 3,
     "date": "2025-09-13",
     "day": "Saturday",
     "kickoff": "11:30p",
-    "home": "Iowa",
-    "away": "Massachusetts",
+    "home": "LSU",
+    "away": "Florida",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Kinnick Stadium",
-      "lat": 41.6581,
-      "lng": -91.5509
+      "name": "Tiger Stadium (LA)",
+      "lat": 30.4122,
+      "lng": -91.1839
     },
     "division": "fbs"
   },
@@ -574,6 +557,23 @@
       "name": "Kroger Field",
       "lat": 38.022,
       "lng": -84.5037
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401752830",
+    "week": 3,
+    "date": "2025-09-13",
+    "day": "Saturday",
+    "kickoff": "11:30p",
+    "home": "Iowa",
+    "away": "Massachusetts",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Kinnick Stadium",
+      "lat": 41.6581,
+      "lng": -91.5509
     },
     "division": "fbs"
   },
@@ -629,23 +629,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401752840",
-    "week": 3,
-    "date": "2025-09-14",
-    "day": "Sunday",
-    "kickoff": "2:30a",
-    "home": "California",
-    "away": "Minnesota",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "California Memorial Stadium",
-      "lat": 37.8713,
-      "lng": -122.2507
-    },
-    "division": "fbs"
-  },
-  {
     "id": "2025-fbs-401754533",
     "week": 3,
     "date": "2025-09-14",
@@ -659,6 +642,23 @@
       "name": "Stanford Stadium",
       "lat": 37.4344,
       "lng": -122.1614
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401752840",
+    "week": 3,
+    "date": "2025-09-14",
+    "day": "Sunday",
+    "kickoff": "2:30a",
+    "home": "California",
+    "away": "Minnesota",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "California Memorial Stadium",
+      "lat": 37.8713,
+      "lng": -122.2507
     },
     "division": "fbs"
   },
