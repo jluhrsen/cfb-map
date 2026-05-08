@@ -34,57 +34,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401754529",
-    "week": 2,
-    "date": "2025-09-06",
-    "day": "Saturday",
-    "kickoff": "4p",
-    "home": "Pittsburgh",
-    "away": "Central Michigan",
-    "homeLogo": null,
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2117.png",
-    "venue": {
-      "name": "Acrisure Stadium",
-      "lat": 40.4468,
-      "lng": -80.0158
-    },
-    "division": "fbs"
-  },
-  {
-    "id": "2025-fbs-401752811",
-    "week": 2,
-    "date": "2025-09-06",
-    "day": "Saturday",
-    "kickoff": "4p",
-    "home": "Penn State",
-    "away": "Florida International",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Beaver Stadium",
-      "lat": 40.8122,
-      "lng": -77.8561
-    },
-    "division": "fbs"
-  },
-  {
-    "id": "2025-fbs-401752812",
-    "week": 2,
-    "date": "2025-09-06",
-    "day": "Saturday",
-    "kickoff": "4p",
-    "home": "Indiana",
-    "away": "Kennesaw State",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Memorial Stadium (Bloomington, IN)",
-      "lat": 39.1793,
-      "lng": -86.5232
-    },
-    "division": "fbs"
-  },
-  {
     "id": "2025-fbs-401752822",
     "week": 2,
     "date": "2025-09-06",
@@ -102,36 +51,19 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401756885",
+    "id": "2025-fbs-401754529",
     "week": 2,
     "date": "2025-09-06",
     "day": "Saturday",
     "kickoff": "4p",
-    "home": "Texas Tech",
-    "away": "Kent State",
+    "home": "Pittsburgh",
+    "away": "Central Michigan",
     "homeLogo": null,
-    "awayLogo": null,
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2117.png",
     "venue": {
-      "name": "AT&T Stadium",
-      "lat": 32.7473,
-      "lng": -97.0945
-    },
-    "division": "fbs"
-  },
-  {
-    "id": "2025-fbs-401754621",
-    "week": 2,
-    "date": "2025-09-06",
-    "day": "Saturday",
-    "kickoff": "4p",
-    "home": "Florida State",
-    "away": "East Texas A&M",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Doak Campbell Stadium",
-      "lat": 30.4384,
-      "lng": -84.3045
+      "name": "Acrisure Stadium",
+      "lat": 40.4468,
+      "lng": -80.0158
     },
     "division": "fbs"
   },
@@ -153,6 +85,23 @@
     "division": "fbs"
   },
   {
+    "id": "2025-fbs-401756885",
+    "week": 2,
+    "date": "2025-09-06",
+    "day": "Saturday",
+    "kickoff": "4p",
+    "home": "Texas Tech",
+    "away": "Kent State",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "AT&T Stadium",
+      "lat": 32.7473,
+      "lng": -97.0945
+    },
+    "division": "fbs"
+  },
+  {
     "id": "2025-fbs-401754618",
     "week": 2,
     "date": "2025-09-06",
@@ -166,6 +115,57 @@
       "name": "JMA Wireless Dome",
       "lat": 43.0361,
       "lng": -76.1364
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401752812",
+    "week": 2,
+    "date": "2025-09-06",
+    "day": "Saturday",
+    "kickoff": "4p",
+    "home": "Indiana",
+    "away": "Kennesaw State",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Memorial Stadium (Bloomington, IN)",
+      "lat": 39.1793,
+      "lng": -86.5232
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401754621",
+    "week": 2,
+    "date": "2025-09-06",
+    "day": "Saturday",
+    "kickoff": "4p",
+    "home": "Florida State",
+    "away": "East Texas A&M",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Doak Campbell Stadium",
+      "lat": 30.4384,
+      "lng": -84.3045
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401752811",
+    "week": 2,
+    "date": "2025-09-06",
+    "day": "Saturday",
+    "kickoff": "4p",
+    "home": "Penn State",
+    "away": "Florida International",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Beaver Stadium",
+      "lat": 40.8122,
+      "lng": -77.8561
     },
     "division": "fbs"
   },
@@ -204,23 +204,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401752685",
-    "week": 2,
-    "date": "2025-09-06",
-    "day": "Saturday",
-    "kickoff": "7:30p",
-    "home": "Georgia",
-    "away": "Austin Peay",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Sanford Stadium",
-      "lat": 33.9498,
-      "lng": -83.3732
-    },
-    "division": "fbs"
-  },
-  {
     "id": "2025-fbs-401752824",
     "week": 2,
     "date": "2025-09-06",
@@ -255,36 +238,19 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401752686",
+    "id": "2025-fbs-401752685",
     "week": 2,
     "date": "2025-09-06",
     "day": "Saturday",
     "kickoff": "7:30p",
-    "home": "Kentucky",
-    "away": "Ole Miss",
+    "home": "Georgia",
+    "away": "Austin Peay",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Kroger Field",
-      "lat": 38.022,
-      "lng": -84.5037
-    },
-    "division": "fbs"
-  },
-  {
-    "id": "2025-fbs-401754637",
-    "week": 2,
-    "date": "2025-09-06",
-    "day": "Saturday",
-    "kickoff": "7:30p",
-    "home": "Clemson",
-    "away": "Troy",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Memorial Stadium (Clemson, SC)",
-      "lat": 34.6784,
-      "lng": -82.8444
+      "name": "Sanford Stadium",
+      "lat": 33.9498,
+      "lng": -83.3732
     },
     "division": "fbs"
   },
@@ -306,19 +272,19 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401752692",
+    "id": "2025-fbs-401752689",
     "week": 2,
     "date": "2025-09-06",
     "day": "Saturday",
     "kickoff": "7:30p",
-    "home": "Tennessee",
-    "away": "East Tennessee State",
+    "home": "Missouri",
+    "away": "Kansas",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Neyland Stadium",
-      "lat": 35.9551,
-      "lng": -83.9252
+      "name": "War Memorial Stadium",
+      "lat": 41.307,
+      "lng": -105.5677
     },
     "division": "fbs"
   },
@@ -340,19 +306,19 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401752689",
+    "id": "2025-fbs-401754637",
     "week": 2,
     "date": "2025-09-06",
     "day": "Saturday",
     "kickoff": "7:30p",
-    "home": "Missouri",
-    "away": "Kansas",
+    "home": "Clemson",
+    "away": "Troy",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "War Memorial Stadium",
-      "lat": 41.307,
-      "lng": -105.5677
+      "name": "Memorial Stadium (Clemson, SC)",
+      "lat": 34.6784,
+      "lng": -82.8444
     },
     "division": "fbs"
   },
@@ -370,6 +336,40 @@
       "name": "SHI Stadium",
       "lat": 40.5139,
       "lng": -74.4647
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401752686",
+    "week": 2,
+    "date": "2025-09-06",
+    "day": "Saturday",
+    "kickoff": "7:30p",
+    "home": "Kentucky",
+    "away": "Ole Miss",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Kroger Field",
+      "lat": 38.022,
+      "lng": -84.5037
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401752692",
+    "week": 2,
+    "date": "2025-09-06",
+    "day": "Saturday",
+    "kickoff": "7:30p",
+    "home": "Tennessee",
+    "away": "East Tennessee State",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Neyland Stadium",
+      "lat": 35.9551,
+      "lng": -83.9252
     },
     "division": "fbs"
   },
@@ -425,23 +425,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401752682",
-    "week": 2,
-    "date": "2025-09-06",
-    "day": "Saturday",
-    "kickoff": "9p",
-    "home": "Arkansas",
-    "away": "Arkansas State",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "War Memorial Stadium",
-      "lat": 41.307,
-      "lng": -105.5677
-    },
-    "division": "fbs"
-  },
-  {
     "id": "2025-fbs-401760365",
     "week": 2,
     "date": "2025-09-06",
@@ -455,6 +438,23 @@
       "name": "Mackay Stadium",
       "lat": 39.5468,
       "lng": -119.8175
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401752682",
+    "week": 2,
+    "date": "2025-09-06",
+    "day": "Saturday",
+    "kickoff": "9p",
+    "home": "Arkansas",
+    "away": "Arkansas State",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "War Memorial Stadium",
+      "lat": 41.307,
+      "lng": -105.5677
     },
     "division": "fbs"
   },
@@ -493,6 +493,23 @@
     "division": "fbs"
   },
   {
+    "id": "2025-fbs-401754641",
+    "week": 2,
+    "date": "2025-09-06",
+    "day": "Saturday",
+    "kickoff": "11p",
+    "home": "Miami",
+    "away": "Bethune-Cookman",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Hard Rock Stadium",
+      "lat": 25.958,
+      "lng": -80.2389
+    },
+    "division": "fbs"
+  },
+  {
     "id": "2025-fbs-401760364",
     "week": 2,
     "date": "2025-09-06",
@@ -506,23 +523,6 @@
       "name": "Canvas Stadium",
       "lat": 40.5749,
       "lng": -105.0896
-    },
-    "division": "fbs"
-  },
-  {
-    "id": "2025-fbs-401762795",
-    "week": 2,
-    "date": "2025-09-06",
-    "day": "Saturday",
-    "kickoff": "11p",
-    "home": "Eastern Michigan",
-    "away": "Long Island University",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Rynearson Stadium",
-      "lat": 42.2473,
-      "lng": -83.6253
     },
     "division": "fbs"
   },
@@ -544,19 +544,70 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401754641",
+    "id": "2025-fbs-401762795",
     "week": 2,
     "date": "2025-09-06",
     "day": "Saturday",
     "kickoff": "11p",
-    "home": "Miami",
-    "away": "Bethune-Cookman",
+    "home": "Eastern Michigan",
+    "away": "Long Island University",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Hard Rock Stadium",
-      "lat": 25.958,
-      "lng": -80.2389
+      "name": "Rynearson Stadium",
+      "lat": 42.2473,
+      "lng": -83.6253
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401752810",
+    "week": 2,
+    "date": "2025-09-06",
+    "day": "Saturday",
+    "kickoff": "11:30p",
+    "home": "Nebraska",
+    "away": "Akron",
+    "homeLogo": null,
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2006.png",
+    "venue": {
+      "name": "Memorial Stadium (Lincoln, NE)",
+      "lat": 40.8202,
+      "lng": -96.7055
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401752683",
+    "week": 2,
+    "date": "2025-09-06",
+    "day": "Saturday",
+    "kickoff": "11:30p",
+    "home": "Auburn",
+    "away": "Ball State",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Jordan-Hare Stadium",
+      "lat": 32.6017,
+      "lng": -85.4893
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401752687",
+    "week": 2,
+    "date": "2025-09-06",
+    "day": "Saturday",
+    "kickoff": "11:30p",
+    "home": "LSU",
+    "away": "Louisiana Tech",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Tiger Stadium (LA)",
+      "lat": 30.4122,
+      "lng": -91.1839
     },
     "division": "fbs"
   },
@@ -608,57 +659,6 @@
       "name": "Lane Stadium",
       "lat": 37.2206,
       "lng": -80.4183
-    },
-    "division": "fbs"
-  },
-  {
-    "id": "2025-fbs-401752810",
-    "week": 2,
-    "date": "2025-09-06",
-    "day": "Saturday",
-    "kickoff": "11:30p",
-    "home": "Nebraska",
-    "away": "Akron",
-    "homeLogo": null,
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2006.png",
-    "venue": {
-      "name": "Memorial Stadium (Lincoln, NE)",
-      "lat": 40.8202,
-      "lng": -96.7055
-    },
-    "division": "fbs"
-  },
-  {
-    "id": "2025-fbs-401752687",
-    "week": 2,
-    "date": "2025-09-06",
-    "day": "Saturday",
-    "kickoff": "11:30p",
-    "home": "LSU",
-    "away": "Louisiana Tech",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Tiger Stadium (LA)",
-      "lat": 30.4122,
-      "lng": -91.1839
-    },
-    "division": "fbs"
-  },
-  {
-    "id": "2025-fbs-401752683",
-    "week": 2,
-    "date": "2025-09-06",
-    "day": "Saturday",
-    "kickoff": "11:30p",
-    "home": "Auburn",
-    "away": "Ball State",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Jordan-Hare Stadium",
-      "lat": 32.6017,
-      "lng": -85.4893
     },
     "division": "fbs"
   },

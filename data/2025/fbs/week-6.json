@@ -34,23 +34,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401756909",
-    "week": 6,
-    "date": "2025-10-04",
-    "day": "Saturday",
-    "kickoff": "2:30a",
-    "home": "BYU",
-    "away": "West Virginia",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "LaVell Edwards Stadium",
-      "lat": 40.2578,
-      "lng": -111.6563
-    },
-    "division": "fbs"
-  },
-  {
     "id": "2025-fbs-401760382",
     "week": 6,
     "date": "2025-10-04",
@@ -68,36 +51,36 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401754550",
+    "id": "2025-fbs-401756909",
     "week": 6,
     "date": "2025-10-04",
     "day": "Saturday",
-    "kickoff": "4p",
-    "home": "Pittsburgh",
-    "away": "Boston College",
+    "kickoff": "2:30a",
+    "home": "BYU",
+    "away": "West Virginia",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Acrisure Stadium",
-      "lat": 40.4468,
-      "lng": -80.0158
+      "name": "LaVell Edwards Stadium",
+      "lat": 40.2578,
+      "lng": -111.6563
     },
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401752728",
+    "id": "2025-fbs-401754552",
     "week": 6,
     "date": "2025-10-04",
     "day": "Saturday",
     "kickoff": "4p",
-    "home": "Georgia",
-    "away": "Kentucky",
+    "home": "North Carolina",
+    "away": "Clemson",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Sanford Stadium",
-      "lat": 33.9498,
-      "lng": -83.3732
+      "name": "Kenan Stadium",
+      "lat": 35.9096,
+      "lng": -79.0478
     },
     "division": "fbs"
   },
@@ -119,6 +102,23 @@
     "division": "fbs"
   },
   {
+    "id": "2025-fbs-401754550",
+    "week": 6,
+    "date": "2025-10-04",
+    "day": "Saturday",
+    "kickoff": "4p",
+    "home": "Pittsburgh",
+    "away": "Boston College",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Acrisure Stadium",
+      "lat": 40.4468,
+      "lng": -80.0158
+    },
+    "division": "fbs"
+  },
+  {
     "id": "2025-fbs-401756911",
     "week": 6,
     "date": "2025-10-04",
@@ -136,19 +136,19 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401754552",
+    "id": "2025-fbs-401752728",
     "week": 6,
     "date": "2025-10-04",
     "day": "Saturday",
     "kickoff": "4p",
-    "home": "North Carolina",
-    "away": "Clemson",
+    "home": "Georgia",
+    "away": "Kentucky",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Kenan Stadium",
-      "lat": 35.9096,
-      "lng": -79.0478
+      "name": "Sanford Stadium",
+      "lat": 33.9498,
+      "lng": -83.3732
     },
     "division": "fbs"
   },
@@ -204,57 +204,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401762829",
-    "week": 6,
-    "date": "2025-10-04",
-    "day": "Saturday",
-    "kickoff": "7:30p",
-    "home": "Akron",
-    "away": "Central Michigan",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2006.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2117.png",
-    "venue": {
-      "name": "InfoCision Stadium",
-      "lat": 41.0726,
-      "lng": -81.5084
-    },
-    "division": "fbs"
-  },
-  {
-    "id": "2025-fbs-401752726",
-    "week": 6,
-    "date": "2025-10-04",
-    "day": "Saturday",
-    "kickoff": "7:30p",
-    "home": "Alabama",
-    "away": "Vanderbilt",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Bryant-Denny Stadium",
-      "lat": 33.208,
-      "lng": -87.5502
-    },
-    "division": "fbs"
-  },
-  {
-    "id": "2025-fbs-401752855",
-    "week": 6,
-    "date": "2025-10-04",
-    "day": "Saturday",
-    "kickoff": "7:30p",
-    "home": "UCLA",
-    "away": "Penn State",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Rose Bowl",
-      "lat": 34.1611,
-      "lng": -118.1676
-    },
-    "division": "fbs"
-  },
-  {
     "id": "2025-fbs-401752857",
     "week": 6,
     "date": "2025-10-04",
@@ -289,6 +238,23 @@
     "division": "fbs"
   },
   {
+    "id": "2025-fbs-401757165",
+    "week": 6,
+    "date": "2025-10-04",
+    "day": "Saturday",
+    "kickoff": "7:30p",
+    "home": "Notre Dame",
+    "away": "Boise State",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Notre Dame Stadium",
+      "lat": 41.6997,
+      "lng": -86.2347
+    },
+    "division": "fbs"
+  },
+  {
     "id": "2025-fbs-401752858",
     "week": 6,
     "date": "2025-10-04",
@@ -302,6 +268,23 @@
       "name": "Lanny and Sharon Martin Stadium",
       "lat": 34.361,
       "lng": -103.2067
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401752855",
+    "week": 6,
+    "date": "2025-10-04",
+    "day": "Saturday",
+    "kickoff": "7:30p",
+    "home": "UCLA",
+    "away": "Penn State",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Rose Bowl",
+      "lat": 34.1611,
+      "lng": -118.1676
     },
     "division": "fbs"
   },
@@ -323,19 +306,36 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401757165",
+    "id": "2025-fbs-401762829",
     "week": 6,
     "date": "2025-10-04",
     "day": "Saturday",
     "kickoff": "7:30p",
-    "home": "Notre Dame",
-    "away": "Boise State",
+    "home": "Akron",
+    "away": "Central Michigan",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2006.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2117.png",
+    "venue": {
+      "name": "InfoCision Stadium",
+      "lat": 41.0726,
+      "lng": -81.5084
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401752726",
+    "week": 6,
+    "date": "2025-10-04",
+    "day": "Saturday",
+    "kickoff": "7:30p",
+    "home": "Alabama",
+    "away": "Vanderbilt",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Notre Dame Stadium",
-      "lat": 41.6997,
-      "lng": -86.2347
+      "name": "Bryant-Denny Stadium",
+      "lat": 33.208,
+      "lng": -87.5502
     },
     "division": "fbs"
   },
@@ -357,23 +357,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401760385",
-    "week": 6,
-    "date": "2025-10-04",
-    "day": "Saturday",
-    "kickoff": "11p",
-    "home": "Wyoming",
-    "away": "UNLV",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2751.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2439.png",
-    "venue": {
-      "name": "War Memorial Stadium",
-      "lat": 41.307,
-      "lng": -105.5677
-    },
-    "division": "fbs"
-  },
-  {
     "id": "2025-fbs-401762477",
     "week": 6,
     "date": "2025-10-04",
@@ -391,6 +374,23 @@
     "division": "fbs"
   },
   {
+    "id": "2025-fbs-401760385",
+    "week": 6,
+    "date": "2025-10-04",
+    "day": "Saturday",
+    "kickoff": "11p",
+    "home": "Wyoming",
+    "away": "UNLV",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2751.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2439.png",
+    "venue": {
+      "name": "War Memorial Stadium",
+      "lat": 41.307,
+      "lng": -105.5677
+    },
+    "division": "fbs"
+  },
+  {
     "id": "2025-fbs-401756913",
     "week": 6,
     "date": "2025-10-04",
@@ -404,23 +404,6 @@
       "name": "TDECU Stadium",
       "lat": 29.7211,
       "lng": -95.3506
-    },
-    "division": "fbs"
-  },
-  {
-    "id": "2025-fbs-401752859",
-    "week": 6,
-    "date": "2025-10-04",
-    "day": "Saturday",
-    "kickoff": "11:30p",
-    "home": "Ohio State",
-    "away": "Minnesota",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Ohio Stadium",
-      "lat": 40.0018,
-      "lng": -83.0197
     },
     "division": "fbs"
   },
@@ -459,19 +442,19 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401760383",
+    "id": "2025-fbs-401752859",
     "week": 6,
-    "date": "2025-10-05",
-    "day": "Sunday",
-    "kickoff": "2:30a",
-    "home": "Fresno State",
-    "away": "Nevada",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/278.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2440.png",
+    "date": "2025-10-04",
+    "day": "Saturday",
+    "kickoff": "11:30p",
+    "home": "Ohio State",
+    "away": "Minnesota",
+    "homeLogo": null,
+    "awayLogo": null,
     "venue": {
-      "name": "Valley Children's Stadium",
-      "lat": 36.8144,
-      "lng": -119.758
+      "name": "Ohio Stadium",
+      "lat": 40.0018,
+      "lng": -83.0197
     },
     "division": "fbs"
   },
@@ -489,6 +472,23 @@
       "name": "California Memorial Stadium",
       "lat": 37.8713,
       "lng": -122.2507
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401760383",
+    "week": 6,
+    "date": "2025-10-05",
+    "day": "Sunday",
+    "kickoff": "2:30a",
+    "home": "Fresno State",
+    "away": "Nevada",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/278.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2440.png",
+    "venue": {
+      "name": "Valley Children's Stadium",
+      "lat": 36.8144,
+      "lng": -119.758
     },
     "division": "fbs"
   }
