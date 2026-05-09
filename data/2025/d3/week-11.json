@@ -1,18 +1,18 @@
 [
   {
-    "id": "2025-d3-401777165",
+    "id": "2025-d3-401777174",
     "week": 11,
     "date": "2025-11-08",
     "day": "Saturday",
     "kickoff": "9p",
-    "home": "Lewis & Clark College",
-    "away": "Pacific Lutheran",
-    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/2i62768ao3nlh5wq.png",
-    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/bi1umnuk45dh7ppn.png",
+    "home": "Willamette",
+    "away": "Whitworth",
+    "homeLogo": "https://lh3.googleusercontent.com/6tOuPbn-4tztWUJrhNcODPR25WMo6bats7oaCuwY5KNzSTZneTGpKn-Z6PvWnJ0lNSE8hu7916kIwJhR3qYlbVWPYUo3NLgS2EM",
+    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/ekkb9ky91gzlit7x.png",
     "venue": {
-      "name": "Griswold Stadium",
-      "lat": 45.4519,
-      "lng": -122.6727
+      "name": "McCulloch Stadium",
+      "lat": 44.9388,
+      "lng": -123.0355
     },
     "division": "d3"
   },
@@ -34,6 +34,23 @@
     "division": "d3"
   },
   {
+    "id": "2025-d3-401777165",
+    "week": 11,
+    "date": "2025-11-08",
+    "day": "Saturday",
+    "kickoff": "9p",
+    "home": "Lewis & Clark College",
+    "away": "Pacific Lutheran",
+    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/2i62768ao3nlh5wq.png",
+    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/bi1umnuk45dh7ppn.png",
+    "venue": {
+      "name": "Griswold Stadium",
+      "lat": 45.4519,
+      "lng": -122.6727
+    },
+    "division": "d3"
+  },
+  {
     "id": "2025-d3-401777151",
     "week": 11,
     "date": "2025-11-08",
@@ -47,23 +64,6 @@
       "name": "Baker Stadium",
       "lat": 47.2605,
       "lng": -122.4825
-    },
-    "division": "d3"
-  },
-  {
-    "id": "2025-d3-401777174",
-    "week": 11,
-    "date": "2025-11-08",
-    "day": "Saturday",
-    "kickoff": "9p",
-    "home": "Willamette",
-    "away": "Whitworth",
-    "homeLogo": "https://lh3.googleusercontent.com/6tOuPbn-4tztWUJrhNcODPR25WMo6bats7oaCuwY5KNzSTZneTGpKn-Z6PvWnJ0lNSE8hu7916kIwJhR3qYlbVWPYUo3NLgS2EM",
-    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/ekkb9ky91gzlit7x.png",
-    "venue": {
-      "name": "McCulloch Stadium",
-      "lat": 44.9388,
-      "lng": -123.0355
     },
     "division": "d3"
   },

@@ -51,23 +51,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401756945",
-    "week": 11,
-    "date": "2025-11-08",
-    "day": "Saturday",
-    "kickoff": "5p",
-    "home": "Texas Tech",
-    "away": "BYU",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "AT&T Stadium",
-      "lat": 32.7473,
-      "lng": -97.0945
-    },
-    "division": "fbs"
-  },
-  {
     "id": "2025-fbs-401752893",
     "week": 11,
     "date": "2025-11-08",
@@ -81,6 +64,23 @@
       "name": "Beaver Stadium",
       "lat": 40.8122,
       "lng": -77.8561
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401756945",
+    "week": 11,
+    "date": "2025-11-08",
+    "day": "Saturday",
+    "kickoff": "5p",
+    "home": "Texas Tech",
+    "away": "BYU",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "AT&T Stadium",
+      "lat": 32.7473,
+      "lng": -97.0945
     },
     "division": "fbs"
   },
@@ -153,23 +153,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401752763",
-    "week": 11,
-    "date": "2025-11-08",
-    "day": "Saturday",
-    "kickoff": "8:30p",
-    "home": "Missouri",
-    "away": "Texas A&M",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "War Memorial Stadium",
-      "lat": 41.307,
-      "lng": -105.5677
-    },
-    "division": "fbs"
-  },
-  {
     "id": "2025-fbs-401754587",
     "week": 11,
     "date": "2025-11-08",
@@ -183,6 +166,23 @@
       "name": "Hard Rock Stadium",
       "lat": 25.958,
       "lng": -80.2389
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401752763",
+    "week": 11,
+    "date": "2025-11-08",
+    "day": "Saturday",
+    "kickoff": "8:30p",
+    "home": "Missouri",
+    "away": "Texas A&M",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "War Memorial Stadium",
+      "lat": 41.307,
+      "lng": -105.5677
     },
     "division": "fbs"
   },
@@ -323,23 +323,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401757166",
-    "week": 11,
-    "date": "2025-11-09",
-    "day": "Sunday",
-    "kickoff": "12:30a",
-    "home": "Notre Dame",
-    "away": "Navy",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Notre Dame Stadium",
-      "lat": 41.6997,
-      "lng": -86.2347
-    },
-    "division": "fbs"
-  },
-  {
     "id": "2025-fbs-401752760",
     "week": 11,
     "date": "2025-11-09",
@@ -353,6 +336,23 @@
       "name": "Kroger Field",
       "lat": 38.022,
       "lng": -84.5037
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401757166",
+    "week": 11,
+    "date": "2025-11-09",
+    "day": "Sunday",
+    "kickoff": "12:30a",
+    "home": "Notre Dame",
+    "away": "Navy",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Notre Dame Stadium",
+      "lat": 41.6997,
+      "lng": -86.2347
     },
     "division": "fbs"
   },

@@ -1,52 +1,18 @@
 [
   {
-    "id": "2025-fbs-401761617",
+    "id": "2025-fbs-401754545",
     "week": 5,
     "date": "2025-09-27",
     "day": "Saturday",
     "kickoff": "4p",
-    "home": "North Texas",
-    "away": "South Alabama",
+    "home": "Syracuse",
+    "away": "Duke",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "DATCU Stadium",
-      "lat": 33.2071,
-      "lng": -97.1514
-    },
-    "division": "fbs"
-  },
-  {
-    "id": "2025-fbs-401752717",
-    "week": 5,
-    "date": "2025-09-27",
-    "day": "Saturday",
-    "kickoff": "4p",
-    "home": "Arkansas",
-    "away": "Notre Dame",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Razorback Stadium",
-      "lat": 36.0684,
-      "lng": -94.1789
-    },
-    "division": "fbs"
-  },
-  {
-    "id": "2025-fbs-401756905",
-    "week": 5,
-    "date": "2025-09-27",
-    "day": "Saturday",
-    "kickoff": "4p",
-    "home": "Kansas",
-    "away": "Cincinnati",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "War Memorial Stadium",
-      "lat": 41.307,
-      "lng": -105.5677
+      "name": "JMA Wireless Dome",
+      "lat": 43.0361,
+      "lng": -76.1364
     },
     "division": "fbs"
   },
@@ -68,19 +34,19 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401754545",
+    "id": "2025-fbs-401752717",
     "week": 5,
     "date": "2025-09-27",
     "day": "Saturday",
     "kickoff": "4p",
-    "home": "Syracuse",
-    "away": "Duke",
+    "home": "Arkansas",
+    "away": "Notre Dame",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "JMA Wireless Dome",
-      "lat": 43.0361,
-      "lng": -76.1364
+      "name": "Razorback Stadium",
+      "lat": 36.0684,
+      "lng": -94.1789
     },
     "division": "fbs"
   },
@@ -102,6 +68,40 @@
     "division": "fbs"
   },
   {
+    "id": "2025-fbs-401761617",
+    "week": 5,
+    "date": "2025-09-27",
+    "day": "Saturday",
+    "kickoff": "4p",
+    "home": "North Texas",
+    "away": "South Alabama",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "DATCU Stadium",
+      "lat": 33.2071,
+      "lng": -97.1514
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401756905",
+    "week": 5,
+    "date": "2025-09-27",
+    "day": "Saturday",
+    "kickoff": "4p",
+    "home": "Kansas",
+    "away": "Cincinnati",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "War Memorial Stadium",
+      "lat": 41.307,
+      "lng": -105.5677
+    },
+    "division": "fbs"
+  },
+  {
     "id": "2025-fbs-401752725",
     "week": 5,
     "date": "2025-09-27",
@@ -115,6 +115,23 @@
       "name": "FirstBank Stadium",
       "lat": 36.0103,
       "lng": -86.8051
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401752852",
+    "week": 5,
+    "date": "2025-09-27",
+    "day": "Saturday",
+    "kickoff": "7:30p",
+    "home": "Washington",
+    "away": "Ohio State",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Husky Stadium",
+      "lat": 47.6504,
+      "lng": -122.3016
     },
     "division": "fbs"
   },
@@ -136,23 +153,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401752724",
-    "week": 5,
-    "date": "2025-09-27",
-    "day": "Saturday",
-    "kickoff": "7:30p",
-    "home": "Texas A&M",
-    "away": "Auburn",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Kyle Field",
-      "lat": 30.61,
-      "lng": -96.34
-    },
-    "division": "fbs"
-  },
-  {
     "id": "2025-fbs-401752853",
     "week": 5,
     "date": "2025-09-27",
@@ -166,23 +166,6 @@
       "name": "Kinnick Stadium",
       "lat": 41.6581,
       "lng": -91.5509
-    },
-    "division": "fbs"
-  },
-  {
-    "id": "2025-fbs-401752852",
-    "week": 5,
-    "date": "2025-09-27",
-    "day": "Saturday",
-    "kickoff": "7:30p",
-    "home": "Washington",
-    "away": "Ohio State",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Husky Stadium",
-      "lat": 47.6504,
-      "lng": -122.3016
     },
     "division": "fbs"
   },
@@ -217,6 +200,23 @@
       "name": "Huskie Stadium",
       "lat": 41.9308,
       "lng": -88.7572
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401752724",
+    "week": 5,
+    "date": "2025-09-27",
+    "day": "Saturday",
+    "kickoff": "7:30p",
+    "home": "Texas A&M",
+    "away": "Auburn",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Kyle Field",
+      "lat": 30.61,
+      "lng": -96.34
     },
     "division": "fbs"
   },
@@ -272,19 +272,19 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401752718",
+    "id": "2025-fbs-401752721",
     "week": 5,
     "date": "2025-09-27",
     "day": "Saturday",
     "kickoff": "11:30p",
-    "home": "Georgia",
-    "away": "Alabama",
+    "home": "Missouri",
+    "away": "Massachusetts",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Sanford Stadium",
-      "lat": 33.9498,
-      "lng": -83.3732
+      "name": "War Memorial Stadium",
+      "lat": 41.307,
+      "lng": -105.5677
     },
     "division": "fbs"
   },
@@ -323,19 +323,19 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401752721",
+    "id": "2025-fbs-401752718",
     "week": 5,
     "date": "2025-09-27",
     "day": "Saturday",
     "kickoff": "11:30p",
-    "home": "Missouri",
-    "away": "Massachusetts",
+    "home": "Georgia",
+    "away": "Alabama",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "War Memorial Stadium",
-      "lat": 41.307,
-      "lng": -105.5677
+      "name": "Sanford Stadium",
+      "lat": 33.9498,
+      "lng": -83.3732
     },
     "division": "fbs"
   },
