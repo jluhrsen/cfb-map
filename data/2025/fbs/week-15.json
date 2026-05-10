@@ -1,22 +1,5 @@
 [
   {
-    "id": "2025-fbs-401777327",
-    "week": 15,
-    "date": "2025-12-06",
-    "day": "Saturday",
-    "kickoff": "5p",
-    "home": "Texas Tech",
-    "away": "BYU",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "AT&T Stadium",
-      "lat": 32.7473,
-      "lng": -97.0945
-    },
-    "division": "fbs"
-  },
-  {
     "id": "2025-fbs-401777329",
     "week": 15,
     "date": "2025-12-06",
@@ -30,6 +13,23 @@
       "name": "Ford Field",
       "lat": 42.34,
       "lng": -83.0456
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401777327",
+    "week": 15,
+    "date": "2025-12-06",
+    "day": "Saturday",
+    "kickoff": "5p",
+    "home": "Texas Tech",
+    "away": "BYU",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "AT&T Stadium",
+      "lat": 32.7473,
+      "lng": -97.0945
     },
     "division": "fbs"
   },
