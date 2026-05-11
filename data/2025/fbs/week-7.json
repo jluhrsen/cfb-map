@@ -68,6 +68,40 @@
     "division": "fbs"
   },
   {
+    "id": "2025-fbs-401752863",
+    "week": 7,
+    "date": "2025-10-11",
+    "day": "Saturday",
+    "kickoff": "4p",
+    "home": "Michigan State",
+    "away": "UCLA",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Spartan Stadium",
+      "lat": 37.3975,
+      "lng": -121.8635
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401756920",
+    "week": 7,
+    "date": "2025-10-11",
+    "day": "Saturday",
+    "kickoff": "4p",
+    "home": "Oklahoma State",
+    "away": "Houston",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Boone Pickens Stadium",
+      "lat": 36.1286,
+      "lng": -97.0651
+    },
+    "division": "fbs"
+  },
+  {
     "id": "2025-fbs-401752865",
     "week": 7,
     "date": "2025-10-11",
@@ -102,36 +136,19 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401762835",
+    "id": "2025-fbs-401762833",
     "week": 7,
     "date": "2025-10-11",
     "day": "Saturday",
     "kickoff": "4p",
-    "home": "Bowling Green",
-    "away": "Toledo",
-    "homeLogo": null,
+    "home": "Akron",
+    "away": "Miami (OH)",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2006.png",
     "awayLogo": null,
     "venue": {
-      "name": "Doyt L. Perry Stadium",
-      "lat": 41.375,
-      "lng": -83.635
-    },
-    "division": "fbs"
-  },
-  {
-    "id": "2025-fbs-401756920",
-    "week": 7,
-    "date": "2025-10-11",
-    "day": "Saturday",
-    "kickoff": "4p",
-    "home": "Oklahoma State",
-    "away": "Houston",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Boone Pickens Stadium",
-      "lat": 36.1286,
-      "lng": -97.0651
+      "name": "InfoCision Stadium",
+      "lat": 41.0726,
+      "lng": -81.5084
     },
     "division": "fbs"
   },
@@ -153,36 +170,19 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401752863",
+    "id": "2025-fbs-401762835",
     "week": 7,
     "date": "2025-10-11",
     "day": "Saturday",
     "kickoff": "4p",
-    "home": "Michigan State",
-    "away": "UCLA",
+    "home": "Bowling Green",
+    "away": "Toledo",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Spartan Stadium",
-      "lat": 37.3975,
-      "lng": -121.8635
-    },
-    "division": "fbs"
-  },
-  {
-    "id": "2025-fbs-401762833",
-    "week": 7,
-    "date": "2025-10-11",
-    "day": "Saturday",
-    "kickoff": "4p",
-    "home": "Akron",
-    "away": "Miami (OH)",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2006.png",
-    "awayLogo": null,
-    "venue": {
-      "name": "InfoCision Stadium",
-      "lat": 41.0726,
-      "lng": -81.5084
+      "name": "Doyt L. Perry Stadium",
+      "lat": 41.375,
+      "lng": -83.635
     },
     "division": "fbs"
   },
@@ -204,36 +204,19 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401752870",
+    "id": "2025-fbs-401752866",
     "week": 7,
     "date": "2025-10-11",
     "day": "Saturday",
     "kickoff": "7:30p",
-    "home": "Oregon",
-    "away": "Indiana",
+    "home": "Penn State",
+    "away": "Northwestern",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Autzen Stadium",
-      "lat": 44.0584,
-      "lng": -123.0681
-    },
-    "division": "fbs"
-  },
-  {
-    "id": "2025-fbs-401752867",
-    "week": 7,
-    "date": "2025-10-11",
-    "day": "Saturday",
-    "kickoff": "7:30p",
-    "home": "Maryland",
-    "away": "Nebraska",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "SECU Stadium",
-      "lat": 38.9941,
-      "lng": -76.948
+      "name": "Beaver Stadium",
+      "lat": 40.8122,
+      "lng": -77.8561
     },
     "division": "fbs"
   },
@@ -255,36 +238,36 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401756918",
+    "id": "2025-fbs-401752867",
     "week": 7,
     "date": "2025-10-11",
     "day": "Saturday",
     "kickoff": "7:30p",
-    "home": "Colorado",
-    "away": "Iowa State",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/38.png",
+    "home": "Maryland",
+    "away": "Nebraska",
+    "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Folsom Field",
-      "lat": 40.0096,
-      "lng": -105.2644
+      "name": "SECU Stadium",
+      "lat": 38.9941,
+      "lng": -76.948
     },
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401752866",
+    "id": "2025-fbs-401752870",
     "week": 7,
     "date": "2025-10-11",
     "day": "Saturday",
     "kickoff": "7:30p",
-    "home": "Penn State",
-    "away": "Northwestern",
+    "home": "Oregon",
+    "away": "Indiana",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Beaver Stadium",
-      "lat": 40.8122,
-      "lng": -77.8561
+      "name": "Autzen Stadium",
+      "lat": 44.0584,
+      "lng": -123.0681
     },
     "division": "fbs"
   },
@@ -302,6 +285,23 @@
       "name": "Notre Dame Stadium",
       "lat": 41.6997,
       "lng": -86.2347
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401756918",
+    "week": 7,
+    "date": "2025-10-11",
+    "day": "Saturday",
+    "kickoff": "7:30p",
+    "home": "Colorado",
+    "away": "Iowa State",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/38.png",
+    "awayLogo": null,
+    "venue": {
+      "name": "Folsom Field",
+      "lat": 40.0096,
+      "lng": -105.2644
     },
     "division": "fbs"
   },
@@ -391,6 +391,23 @@
     "division": "fbs"
   },
   {
+    "id": "2025-fbs-401756921",
+    "week": 7,
+    "date": "2025-10-11",
+    "day": "Saturday",
+    "kickoff": "11:30p",
+    "home": "Texas Tech",
+    "away": "Kansas",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "AT&T Stadium",
+      "lat": 32.7473,
+      "lng": -97.0945
+    },
+    "division": "fbs"
+  },
+  {
     "id": "2025-fbs-401762485",
     "week": 7,
     "date": "2025-10-11",
@@ -438,23 +455,6 @@
       "name": "Los Angeles Memorial Coliseum",
       "lat": 34.0141,
       "lng": -118.2879
-    },
-    "division": "fbs"
-  },
-  {
-    "id": "2025-fbs-401756921",
-    "week": 7,
-    "date": "2025-10-11",
-    "day": "Saturday",
-    "kickoff": "11:30p",
-    "home": "Texas Tech",
-    "away": "Kansas",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "AT&T Stadium",
-      "lat": 32.7473,
-      "lng": -97.0945
     },
     "division": "fbs"
   },
