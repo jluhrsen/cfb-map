@@ -1,22 +1,5 @@
 [
   {
-    "id": "2025-d3-401777147",
-    "week": 7,
-    "date": "2025-10-11",
-    "day": "Saturday",
-    "kickoff": "8p",
-    "home": "Linfield College",
-    "away": "Pacific (OR)",
-    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/8ab4hlzfjvtul4nx.png",
-    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/lkxbjwugyaf69m59.png",
-    "venue": {
-      "name": "Maxwell Field",
-      "lat": 45.2099,
-      "lng": -123.1987
-    },
-    "division": "d3"
-  },
-  {
     "id": "2025-d3-401777163",
     "week": 7,
     "date": "2025-10-11",
@@ -51,19 +34,19 @@
     "division": "d3"
   },
   {
-    "id": "2025-d3-401777141",
+    "id": "2025-d3-401777147",
     "week": 7,
     "date": "2025-10-11",
     "day": "Saturday",
     "kickoff": "8p",
-    "home": "Whitworth",
-    "away": "NEWBERG",
-    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/ekkb9ky91gzlit7x.png",
-    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/mi23750dj6i6tf21.png",
+    "home": "Linfield College",
+    "away": "Pacific (OR)",
+    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/8ab4hlzfjvtul4nx.png",
+    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/lkxbjwugyaf69m59.png",
     "venue": {
-      "name": "Pine Bowl",
-      "lat": 47.7523,
-      "lng": -117.4202
+      "name": "Maxwell Field",
+      "lat": 45.2099,
+      "lng": -123.1987
     },
     "division": "d3"
   },
@@ -81,6 +64,23 @@
       "name": "McCulloch Stadium",
       "lat": 44.9388,
       "lng": -123.0355
+    },
+    "division": "d3"
+  },
+  {
+    "id": "2025-d3-401777141",
+    "week": 7,
+    "date": "2025-10-11",
+    "day": "Saturday",
+    "kickoff": "8p",
+    "home": "Whitworth",
+    "away": "NEWBERG",
+    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/ekkb9ky91gzlit7x.png",
+    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/mi23750dj6i6tf21.png",
+    "venue": {
+      "name": "Pine Bowl",
+      "lat": 47.7523,
+      "lng": -117.4202
     },
     "division": "d3"
   },
