@@ -17,23 +17,6 @@
     "division": "d3"
   },
   {
-    "id": "2025-d3-401774175",
-    "week": 2,
-    "date": "2025-09-06",
-    "day": "Saturday",
-    "kickoff": "8p",
-    "home": "Linfield College",
-    "away": "Wisconsin-Oshkosh",
-    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/8ab4hlzfjvtul4nx.png",
-    "awayLogo": null,
-    "venue": {
-      "name": "Maxwell Field",
-      "lat": 45.2099,
-      "lng": -123.1987
-    },
-    "division": "d3"
-  },
-  {
     "id": "2025-d3-401776766",
     "week": 2,
     "date": "2025-09-06",
@@ -64,6 +47,23 @@
       "name": "Baker Stadium",
       "lat": 47.2605,
       "lng": -122.4825
+    },
+    "division": "d3"
+  },
+  {
+    "id": "2025-d3-401774175",
+    "week": 2,
+    "date": "2025-09-06",
+    "day": "Saturday",
+    "kickoff": "8p",
+    "home": "Linfield College",
+    "away": "Wisconsin-Oshkosh",
+    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/8ab4hlzfjvtul4nx.png",
+    "awayLogo": null,
+    "venue": {
+      "name": "Maxwell Field",
+      "lat": 45.2099,
+      "lng": -123.1987
     },
     "division": "d3"
   }
