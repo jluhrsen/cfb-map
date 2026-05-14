@@ -1,22 +1,5 @@
 [
   {
-    "id": "2025-d3-401777155",
-    "week": 8,
-    "date": "2025-10-18",
-    "day": "Saturday",
-    "kickoff": "8p",
-    "home": "Pacific Lutheran",
-    "away": "Pacific (OR)",
-    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/bi1umnuk45dh7ppn.png",
-    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/lkxbjwugyaf69m59.png",
-    "venue": {
-      "name": "Sparks Stadium",
-      "lat": 47.1872,
-      "lng": -122.3005
-    },
-    "division": "d3"
-  },
-  {
     "id": "2025-d3-401777170",
     "week": 8,
     "date": "2025-10-18",
@@ -30,6 +13,23 @@
       "name": "Baker Stadium",
       "lat": 47.2605,
       "lng": -122.4825
+    },
+    "division": "d3"
+  },
+  {
+    "id": "2025-d3-401777155",
+    "week": 8,
+    "date": "2025-10-18",
+    "day": "Saturday",
+    "kickoff": "8p",
+    "home": "Pacific Lutheran",
+    "away": "Pacific (OR)",
+    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/bi1umnuk45dh7ppn.png",
+    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/lkxbjwugyaf69m59.png",
+    "venue": {
+      "name": "Sparks Stadium",
+      "lat": 47.1872,
+      "lng": -122.3005
     },
     "division": "d3"
   },

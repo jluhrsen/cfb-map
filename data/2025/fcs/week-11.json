@@ -1,22 +1,5 @@
 [
   {
-    "id": "2025-fcs-401767137",
-    "week": 11,
-    "date": "2025-11-08",
-    "day": "Saturday",
-    "kickoff": "6p",
-    "home": "UAlbany",
-    "away": "Bryant",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Ford Field",
-      "lat": 42.34,
-      "lng": -83.0456
-    },
-    "division": "fcs"
-  },
-  {
     "id": "2025-fcs-401767443",
     "week": 11,
     "date": "2025-11-08",
@@ -30,6 +13,23 @@
       "name": "War Memorial Stadium",
       "lat": 41.307,
       "lng": -105.5677
+    },
+    "division": "fcs"
+  },
+  {
+    "id": "2025-fcs-401767137",
+    "week": 11,
+    "date": "2025-11-08",
+    "day": "Saturday",
+    "kickoff": "6p",
+    "home": "UAlbany",
+    "away": "Bryant",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Ford Field",
+      "lat": 42.34,
+      "lng": -83.0456
     },
     "division": "fcs"
   },
