@@ -34,23 +34,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401756964",
-    "week": 14,
-    "date": "2025-11-28",
-    "day": "Friday",
-    "kickoff": "5p",
-    "home": "Kansas",
-    "away": "Utah",
-    "homeLogo": null,
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/254.png",
-    "venue": {
-      "name": "War Memorial Stadium",
-      "lat": 41.307,
-      "lng": -105.5677
-    },
-    "division": "fbs"
-  },
-  {
     "id": "2025-fbs-401762871",
     "week": 14,
     "date": "2025-11-28",
@@ -64,6 +47,23 @@
       "name": "Huskie Stadium",
       "lat": 41.9308,
       "lng": -88.7572
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401756964",
+    "week": 14,
+    "date": "2025-11-28",
+    "day": "Friday",
+    "kickoff": "5p",
+    "home": "Kansas",
+    "away": "Utah",
+    "homeLogo": null,
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/254.png",
+    "venue": {
+      "name": "War Memorial Stadium",
+      "lat": 41.307,
+      "lng": -105.5677
     },
     "division": "fbs"
   },
@@ -85,23 +85,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401762442",
-    "week": 14,
-    "date": "2025-11-28",
-    "day": "Friday",
-    "kickoff": "8:30p",
-    "home": "North Texas",
-    "away": "Temple",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "DATCU Stadium",
-      "lat": 33.2071,
-      "lng": -97.1514
-    },
-    "division": "fbs"
-  },
-  {
     "id": "2025-fbs-401752786",
     "week": 14,
     "date": "2025-11-28",
@@ -115,6 +98,23 @@
       "name": "Mercedes-Benz Stadium",
       "lat": 33.7553,
       "lng": -84.4006
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401762442",
+    "week": 14,
+    "date": "2025-11-28",
+    "day": "Friday",
+    "kickoff": "8:30p",
+    "home": "North Texas",
+    "away": "Temple",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "DATCU Stadium",
+      "lat": 33.2071,
+      "lng": -97.1514
     },
     "division": "fbs"
   },
@@ -153,19 +153,19 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401754611",
+    "id": "2025-fbs-401756966",
     "week": 14,
     "date": "2025-11-29",
     "day": "Saturday",
     "kickoff": "5p",
-    "home": "Pittsburgh",
-    "away": "Miami",
+    "home": "Oklahoma State",
+    "away": "Iowa State",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Acrisure Stadium",
-      "lat": 40.4468,
-      "lng": -80.0158
+      "name": "Boone Pickens Stadium",
+      "lat": 36.1286,
+      "lng": -97.0651
     },
     "division": "fbs"
   },
@@ -187,19 +187,19 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401756966",
+    "id": "2025-fbs-401754611",
     "week": 14,
     "date": "2025-11-29",
     "day": "Saturday",
     "kickoff": "5p",
-    "home": "Oklahoma State",
-    "away": "Iowa State",
+    "home": "Pittsburgh",
+    "away": "Miami",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Boone Pickens Stadium",
-      "lat": 36.1286,
-      "lng": -97.0651
+      "name": "Acrisure Stadium",
+      "lat": 40.4468,
+      "lng": -80.0158
     },
     "division": "fbs"
   },
@@ -255,23 +255,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401762441",
-    "week": 14,
-    "date": "2025-11-29",
-    "day": "Saturday",
-    "kickoff": "8:30p",
-    "home": "UTSA",
-    "away": "Army",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Alamodome",
-      "lat": 29.4191,
-      "lng": -98.4737
-    },
-    "division": "fbs"
-  },
-  {
     "id": "2025-fbs-401752791",
     "week": 14,
     "date": "2025-11-29",
@@ -289,23 +272,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401752920",
-    "week": 14,
-    "date": "2025-11-29",
-    "day": "Saturday",
-    "kickoff": "8:30p",
-    "home": "Rutgers",
-    "away": "Penn State",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "SHI Stadium",
-      "lat": 40.5139,
-      "lng": -74.4647
-    },
-    "division": "fbs"
-  },
-  {
     "id": "2025-fbs-401752917",
     "week": 14,
     "date": "2025-11-29",
@@ -319,6 +285,40 @@
       "name": "Husky Stadium",
       "lat": 47.6504,
       "lng": -122.3016
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401762441",
+    "week": 14,
+    "date": "2025-11-29",
+    "day": "Saturday",
+    "kickoff": "8:30p",
+    "home": "UTSA",
+    "away": "Army",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Alamodome",
+      "lat": 29.4191,
+      "lng": -98.4737
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401752920",
+    "week": 14,
+    "date": "2025-11-29",
+    "day": "Saturday",
+    "kickoff": "8:30p",
+    "home": "Rutgers",
+    "away": "Penn State",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "SHI Stadium",
+      "lat": 40.5139,
+      "lng": -74.4647
     },
     "division": "fbs"
   },
@@ -357,23 +357,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401752923",
-    "week": 14,
-    "date": "2025-11-30",
-    "day": "Sunday",
-    "kickoff": "12a",
-    "home": "Michigan State",
-    "away": "Maryland",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Ford Field",
-      "lat": 42.34,
-      "lng": -83.0456
-    },
-    "division": "fbs"
-  },
-  {
     "id": "2025-fbs-401762520",
     "week": 14,
     "date": "2025-11-30",
@@ -391,19 +374,36 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401752784",
+    "id": "2025-fbs-401752923",
+    "week": 14,
+    "date": "2025-11-30",
+    "day": "Sunday",
+    "kickoff": "12a",
+    "home": "Michigan State",
+    "away": "Maryland",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Ford Field",
+      "lat": 42.34,
+      "lng": -83.0456
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401752922",
     "week": 14,
     "date": "2025-11-30",
     "day": "Sunday",
     "kickoff": "12:30a",
-    "home": "Auburn",
-    "away": "Alabama",
+    "home": "Illinois",
+    "away": "Northwestern",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Jordan-Hare Stadium",
-      "lat": 32.6017,
-      "lng": -85.4893
+      "name": "Memorial Stadium (Champaign, IL)",
+      "lat": 40.0993,
+      "lng": -88.2358
     },
     "division": "fbs"
   },
@@ -425,19 +425,19 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401752922",
+    "id": "2025-fbs-401752784",
     "week": 14,
     "date": "2025-11-30",
     "day": "Sunday",
     "kickoff": "12:30a",
-    "home": "Illinois",
-    "away": "Northwestern",
+    "home": "Auburn",
+    "away": "Alabama",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Memorial Stadium (Champaign, IL)",
-      "lat": 40.0993,
-      "lng": -88.2358
+      "name": "Jordan-Hare Stadium",
+      "lat": 32.6017,
+      "lng": -85.4893
     },
     "division": "fbs"
   },

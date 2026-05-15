@@ -34,223 +34,19 @@
     "division": "fbs"
   },
   {
-    "id": "2026-fbs-401864519",
+    "id": "2026-fbs-401862796",
     "week": 6,
     "date": "2026-10-10",
     "day": "Saturday",
     "kickoff": "4a",
-    "home": "San José State",
-    "away": "Wyoming",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/23.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2751.png",
-    "venue": {
-      "name": "CEFCU Stadium",
-      "lat": 37.3197,
-      "lng": -121.8684
-    },
-    "division": "fbs"
-  },
-  {
-    "id": "2026-fbs-401858257",
-    "week": 6,
-    "date": "2026-10-10",
-    "day": "Saturday",
-    "kickoff": "4a",
-    "home": "Notre Dame",
-    "away": "Stanford",
-    "homeLogo": null,
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/24.png",
-    "venue": {
-      "name": "Notre Dame Stadium",
-      "lat": 41.6997,
-      "lng": -86.2347
-    },
-    "division": "fbs"
-  },
-  {
-    "id": "2026-fbs-401858480",
-    "week": 6,
-    "date": "2026-10-10",
-    "day": "Saturday",
-    "kickoff": "4a",
-    "home": "Michigan State",
-    "away": "Illinois",
+    "home": "North Texas",
+    "away": "Charlotte",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Spartan Stadium",
-      "lat": 37.3975,
-      "lng": -121.8635
-    },
-    "division": "fbs"
-  },
-  {
-    "id": "2026-fbs-401858256",
-    "week": 6,
-    "date": "2026-10-10",
-    "day": "Saturday",
-    "kickoff": "4a",
-    "home": "Pittsburgh",
-    "away": "North Carolina",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Acrisure Stadium",
-      "lat": 40.4468,
-      "lng": -80.0158
-    },
-    "division": "fbs"
-  },
-  {
-    "id": "2026-fbs-401864518",
-    "week": 6,
-    "date": "2026-10-10",
-    "day": "Saturday",
-    "kickoff": "4a",
-    "home": "UNLV",
-    "away": "North Dakota State",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2439.png",
-    "awayLogo": null,
-    "venue": {
-      "name": "Allegiant Stadium",
-      "lat": 36.0909,
-      "lng": -115.1833
-    },
-    "division": "fbs"
-  },
-  {
-    "id": "2026-fbs-401856826",
-    "week": 6,
-    "date": "2026-10-10",
-    "day": "Saturday",
-    "kickoff": "4a",
-    "home": "BYU",
-    "away": "Iowa State",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "LaVell Edwards Stadium",
-      "lat": 40.2578,
-      "lng": -111.6563
-    },
-    "division": "fbs"
-  },
-  {
-    "id": "2026-fbs-401856712",
-    "week": 6,
-    "date": "2026-10-10",
-    "day": "Saturday",
-    "kickoff": "4a",
-    "home": "Alabama",
-    "away": "Georgia",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Bryant-Denny Stadium",
-      "lat": 33.208,
-      "lng": -87.5502
-    },
-    "division": "fbs"
-  },
-  {
-    "id": "2026-fbs-401864516",
-    "week": 6,
-    "date": "2026-10-10",
-    "day": "Saturday",
-    "kickoff": "4a",
-    "home": "Northern Illinois",
-    "away": "Air Force",
-    "homeLogo": null,
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2005.png",
-    "venue": {
-      "name": "Huskie Stadium",
-      "lat": 41.9308,
-      "lng": -88.7572
-    },
-    "division": "fbs"
-  },
-  {
-    "id": "2026-fbs-401860901",
-    "week": 6,
-    "date": "2026-10-10",
-    "day": "Saturday",
-    "kickoff": "4a",
-    "home": "Fresno State",
-    "away": "Boise State",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/278.png",
-    "awayLogo": null,
-    "venue": {
-      "name": "Valley Children's Stadium",
-      "lat": 36.8144,
-      "lng": -119.758
-    },
-    "division": "fbs"
-  },
-  {
-    "id": "2026-fbs-401858483",
-    "week": 6,
-    "date": "2026-10-10",
-    "day": "Saturday",
-    "kickoff": "4a",
-    "home": "Ohio State",
-    "away": "Maryland",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Ohio Stadium",
-      "lat": 40.0018,
-      "lng": -83.0197
-    },
-    "division": "fbs"
-  },
-  {
-    "id": "2026-fbs-401866436",
-    "week": 6,
-    "date": "2026-10-10",
-    "day": "Saturday",
-    "kickoff": "4a",
-    "home": "Bowling Green",
-    "away": "Sacramento State",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Doyt L. Perry Stadium",
-      "lat": 41.375,
-      "lng": -83.635
-    },
-    "division": "fbs"
-  },
-  {
-    "id": "2026-fbs-401856827",
-    "week": 6,
-    "date": "2026-10-10",
-    "day": "Saturday",
-    "kickoff": "4a",
-    "home": "Utah",
-    "away": "Kansas",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/254.png",
-    "awayLogo": null,
-    "venue": {
-      "name": "Rice-Eccles Stadium",
-      "lat": 40.7597,
-      "lng": -111.8478
-    },
-    "division": "fbs"
-  },
-  {
-    "id": "2026-fbs-401856824",
-    "week": 6,
-    "date": "2026-10-10",
-    "day": "Saturday",
-    "kickoff": "4a",
-    "home": "Oklahoma State",
-    "away": "UCF",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Boone Pickens Stadium",
-      "lat": 36.1286,
-      "lng": -97.0651
+      "name": "DATCU Stadium",
+      "lat": 33.2071,
+      "lng": -97.1514
     },
     "division": "fbs"
   },
@@ -272,70 +68,19 @@
     "division": "fbs"
   },
   {
-    "id": "2026-fbs-401856713",
+    "id": "2026-fbs-401856824",
     "week": 6,
     "date": "2026-10-10",
     "day": "Saturday",
     "kickoff": "4a",
-    "home": "Arkansas",
-    "away": "Tennessee",
+    "home": "Oklahoma State",
+    "away": "UCF",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Razorback Stadium",
-      "lat": 36.0684,
-      "lng": -94.1789
-    },
-    "division": "fbs"
-  },
-  {
-    "id": "2026-fbs-401856718",
-    "week": 6,
-    "date": "2026-10-10",
-    "day": "Saturday",
-    "kickoff": "4a",
-    "home": "Vanderbilt",
-    "away": "Ole Miss",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "FirstBank Stadium",
-      "lat": 36.0103,
-      "lng": -86.8051
-    },
-    "division": "fbs"
-  },
-  {
-    "id": "2026-fbs-401862796",
-    "week": 6,
-    "date": "2026-10-10",
-    "day": "Saturday",
-    "kickoff": "4a",
-    "home": "North Texas",
-    "away": "Charlotte",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "DATCU Stadium",
-      "lat": 33.2071,
-      "lng": -97.1514
-    },
-    "division": "fbs"
-  },
-  {
-    "id": "2026-fbs-401861964",
-    "week": 6,
-    "date": "2026-10-10",
-    "day": "Saturday",
-    "kickoff": "4a",
-    "home": "Temple",
-    "away": "UConn",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Lincoln Financial Field",
-      "lat": 39.9008,
-      "lng": -75.1675
+      "name": "Boone Pickens Stadium",
+      "lat": 36.1286,
+      "lng": -97.0651
     },
     "division": "fbs"
   },
@@ -357,19 +102,53 @@
     "division": "fbs"
   },
   {
-    "id": "2026-fbs-401856715",
+    "id": "2026-fbs-401858484",
     "week": 6,
     "date": "2026-10-10",
     "day": "Saturday",
     "kickoff": "4a",
-    "home": "Kentucky",
-    "away": "LSU",
+    "home": "Oregon",
+    "away": "UCLA",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Kroger Field",
-      "lat": 38.022,
-      "lng": -84.5037
+      "name": "Autzen Stadium",
+      "lat": 44.0584,
+      "lng": -123.0681
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2026-fbs-401856714",
+    "week": 6,
+    "date": "2026-10-10",
+    "day": "Saturday",
+    "kickoff": "4a",
+    "home": "Florida",
+    "away": "South Carolina",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Ben Hill Griffin Stadium",
+      "lat": 29.65,
+      "lng": -82.3486
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2026-fbs-401864517",
+    "week": 6,
+    "date": "2026-10-10",
+    "day": "Saturday",
+    "kickoff": "4a",
+    "home": "UTEP",
+    "away": "Nevada",
+    "homeLogo": null,
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2440.png",
+    "venue": {
+      "name": "Sun Bowl",
+      "lat": 31.7688,
+      "lng": -106.4992
     },
     "division": "fbs"
   },
@@ -391,36 +170,206 @@
     "division": "fbs"
   },
   {
-    "id": "2026-fbs-401858484",
+    "id": "2026-fbs-401861964",
     "week": 6,
     "date": "2026-10-10",
     "day": "Saturday",
     "kickoff": "4a",
-    "home": "Oregon",
-    "away": "UCLA",
+    "home": "Temple",
+    "away": "UConn",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Autzen Stadium",
-      "lat": 44.0584,
-      "lng": -123.0681
+      "name": "Lincoln Financial Field",
+      "lat": 39.9008,
+      "lng": -75.1675
     },
     "division": "fbs"
   },
   {
-    "id": "2026-fbs-401866435",
+    "id": "2026-fbs-401864516",
     "week": 6,
     "date": "2026-10-10",
     "day": "Saturday",
     "kickoff": "4a",
-    "home": "Akron",
-    "away": "Eastern Michigan",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2006.png",
+    "home": "Northern Illinois",
+    "away": "Air Force",
+    "homeLogo": null,
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2005.png",
+    "venue": {
+      "name": "Huskie Stadium",
+      "lat": 41.9308,
+      "lng": -88.7572
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2026-fbs-401856713",
+    "week": 6,
+    "date": "2026-10-10",
+    "day": "Saturday",
+    "kickoff": "4a",
+    "home": "Arkansas",
+    "away": "Tennessee",
+    "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "InfoCision Stadium",
-      "lat": 41.0726,
-      "lng": -81.5084
+      "name": "Razorback Stadium",
+      "lat": 36.0684,
+      "lng": -94.1789
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2026-fbs-401864519",
+    "week": 6,
+    "date": "2026-10-10",
+    "day": "Saturday",
+    "kickoff": "4a",
+    "home": "San José State",
+    "away": "Wyoming",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/23.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2751.png",
+    "venue": {
+      "name": "CEFCU Stadium",
+      "lat": 37.3197,
+      "lng": -121.8684
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2026-fbs-401864518",
+    "week": 6,
+    "date": "2026-10-10",
+    "day": "Saturday",
+    "kickoff": "4a",
+    "home": "UNLV",
+    "away": "North Dakota State",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2439.png",
+    "awayLogo": null,
+    "venue": {
+      "name": "Allegiant Stadium",
+      "lat": 36.0909,
+      "lng": -115.1833
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2026-fbs-401858483",
+    "week": 6,
+    "date": "2026-10-10",
+    "day": "Saturday",
+    "kickoff": "4a",
+    "home": "Ohio State",
+    "away": "Maryland",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Ohio Stadium",
+      "lat": 40.0018,
+      "lng": -83.0197
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2026-fbs-401856718",
+    "week": 6,
+    "date": "2026-10-10",
+    "day": "Saturday",
+    "kickoff": "4a",
+    "home": "Vanderbilt",
+    "away": "Ole Miss",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "FirstBank Stadium",
+      "lat": 36.0103,
+      "lng": -86.8051
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2026-fbs-401856827",
+    "week": 6,
+    "date": "2026-10-10",
+    "day": "Saturday",
+    "kickoff": "4a",
+    "home": "Utah",
+    "away": "Kansas",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/254.png",
+    "awayLogo": null,
+    "venue": {
+      "name": "Rice-Eccles Stadium",
+      "lat": 40.7597,
+      "lng": -111.8478
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2026-fbs-401856826",
+    "week": 6,
+    "date": "2026-10-10",
+    "day": "Saturday",
+    "kickoff": "4a",
+    "home": "BYU",
+    "away": "Iowa State",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "LaVell Edwards Stadium",
+      "lat": 40.2578,
+      "lng": -111.6563
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2026-fbs-401858257",
+    "week": 6,
+    "date": "2026-10-10",
+    "day": "Saturday",
+    "kickoff": "4a",
+    "home": "Notre Dame",
+    "away": "Stanford",
+    "homeLogo": null,
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/24.png",
+    "venue": {
+      "name": "Notre Dame Stadium",
+      "lat": 41.6997,
+      "lng": -86.2347
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2026-fbs-401860901",
+    "week": 6,
+    "date": "2026-10-10",
+    "day": "Saturday",
+    "kickoff": "4a",
+    "home": "Fresno State",
+    "away": "Boise State",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/278.png",
+    "awayLogo": null,
+    "venue": {
+      "name": "Valley Children's Stadium",
+      "lat": 36.8144,
+      "lng": -119.758
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2026-fbs-401856712",
+    "week": 6,
+    "date": "2026-10-10",
+    "day": "Saturday",
+    "kickoff": "4a",
+    "home": "Alabama",
+    "away": "Georgia",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Bryant-Denny Stadium",
+      "lat": 33.208,
+      "lng": -87.5502
     },
     "division": "fbs"
   },
@@ -459,36 +408,87 @@
     "division": "fbs"
   },
   {
-    "id": "2026-fbs-401864517",
+    "id": "2026-fbs-401858480",
     "week": 6,
     "date": "2026-10-10",
     "day": "Saturday",
     "kickoff": "4a",
-    "home": "UTEP",
-    "away": "Nevada",
+    "home": "Michigan State",
+    "away": "Illinois",
     "homeLogo": null,
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2440.png",
+    "awayLogo": null,
     "venue": {
-      "name": "Sun Bowl",
-      "lat": 31.7688,
-      "lng": -106.4992
+      "name": "Spartan Stadium",
+      "lat": 37.3975,
+      "lng": -121.8635
     },
     "division": "fbs"
   },
   {
-    "id": "2026-fbs-401856714",
+    "id": "2026-fbs-401866436",
     "week": 6,
     "date": "2026-10-10",
     "day": "Saturday",
     "kickoff": "4a",
-    "home": "Florida",
-    "away": "South Carolina",
+    "home": "Bowling Green",
+    "away": "Sacramento State",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Ben Hill Griffin Stadium",
-      "lat": 29.65,
-      "lng": -82.3486
+      "name": "Doyt L. Perry Stadium",
+      "lat": 41.375,
+      "lng": -83.635
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2026-fbs-401856715",
+    "week": 6,
+    "date": "2026-10-10",
+    "day": "Saturday",
+    "kickoff": "4a",
+    "home": "Kentucky",
+    "away": "LSU",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Kroger Field",
+      "lat": 38.022,
+      "lng": -84.5037
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2026-fbs-401858256",
+    "week": 6,
+    "date": "2026-10-10",
+    "day": "Saturday",
+    "kickoff": "4a",
+    "home": "Pittsburgh",
+    "away": "North Carolina",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Acrisure Stadium",
+      "lat": 40.4468,
+      "lng": -80.0158
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2026-fbs-401866435",
+    "week": 6,
+    "date": "2026-10-10",
+    "day": "Saturday",
+    "kickoff": "4a",
+    "home": "Akron",
+    "away": "Eastern Michigan",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2006.png",
+    "awayLogo": null,
+    "venue": {
+      "name": "InfoCision Stadium",
+      "lat": 41.0726,
+      "lng": -81.5084
     },
     "division": "fbs"
   }

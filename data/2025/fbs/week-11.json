@@ -153,6 +153,23 @@
     "division": "fbs"
   },
   {
+    "id": "2025-fbs-401754587",
+    "week": 11,
+    "date": "2025-11-08",
+    "day": "Saturday",
+    "kickoff": "8:30p",
+    "home": "Miami",
+    "away": "Syracuse",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Hard Rock Stadium",
+      "lat": 25.958,
+      "lng": -80.2389
+    },
+    "division": "fbs"
+  },
+  {
     "id": "2025-fbs-401756943",
     "week": 11,
     "date": "2025-11-08",
@@ -166,23 +183,6 @@
       "name": "Arizona Stadium",
       "lat": 32.2287,
       "lng": -110.9489
-    },
-    "division": "fbs"
-  },
-  {
-    "id": "2025-fbs-401752898",
-    "week": 11,
-    "date": "2025-11-08",
-    "day": "Saturday",
-    "kickoff": "8:30p",
-    "home": "Iowa",
-    "away": "Oregon",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Kinnick Stadium",
-      "lat": 41.6581,
-      "lng": -91.5509
     },
     "division": "fbs"
   },
@@ -204,19 +204,19 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401754587",
+    "id": "2025-fbs-401752898",
     "week": 11,
     "date": "2025-11-08",
     "day": "Saturday",
     "kickoff": "8:30p",
-    "home": "Miami",
-    "away": "Syracuse",
+    "home": "Iowa",
+    "away": "Oregon",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Hard Rock Stadium",
-      "lat": 25.958,
-      "lng": -80.2389
+      "name": "Kinnick Stadium",
+      "lat": 41.6581,
+      "lng": -91.5509
     },
     "division": "fbs"
   },
@@ -323,6 +323,23 @@
     "division": "fbs"
   },
   {
+    "id": "2025-fbs-401752760",
+    "week": 11,
+    "date": "2025-11-09",
+    "day": "Sunday",
+    "kickoff": "12:30a",
+    "home": "Kentucky",
+    "away": "Florida",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Kroger Field",
+      "lat": 38.022,
+      "lng": -84.5037
+    },
+    "division": "fbs"
+  },
+  {
     "id": "2025-fbs-401757166",
     "week": 11,
     "date": "2025-11-09",
@@ -353,23 +370,6 @@
       "name": "Bryant-Denny Stadium",
       "lat": 33.208,
       "lng": -87.5502
-    },
-    "division": "fbs"
-  },
-  {
-    "id": "2025-fbs-401752760",
-    "week": 11,
-    "date": "2025-11-09",
-    "day": "Sunday",
-    "kickoff": "12:30a",
-    "home": "Kentucky",
-    "away": "Florida",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Kroger Field",
-      "lat": 38.022,
-      "lng": -84.5037
     },
     "division": "fbs"
   },
