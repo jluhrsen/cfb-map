@@ -85,19 +85,19 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401752856",
+    "id": "2025-fbs-401754552",
     "week": 6,
     "date": "2025-10-04",
     "day": "Saturday",
     "kickoff": "4p",
-    "home": "Michigan",
-    "away": "Wisconsin",
+    "home": "North Carolina",
+    "away": "Clemson",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Michigan Stadium",
-      "lat": 42.2658,
-      "lng": -83.7487
+      "name": "Kenan Stadium",
+      "lat": 35.9096,
+      "lng": -79.0478
     },
     "division": "fbs"
   },
@@ -119,19 +119,19 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401754552",
+    "id": "2025-fbs-401752856",
     "week": 6,
     "date": "2025-10-04",
     "day": "Saturday",
     "kickoff": "4p",
-    "home": "North Carolina",
-    "away": "Clemson",
+    "home": "Michigan",
+    "away": "Wisconsin",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Kenan Stadium",
-      "lat": 35.9096,
-      "lng": -79.0478
+      "name": "Michigan Stadium",
+      "lat": 42.2658,
+      "lng": -83.7487
     },
     "division": "fbs"
   },
@@ -204,6 +204,23 @@
     "division": "fbs"
   },
   {
+    "id": "2025-fbs-401752855",
+    "week": 6,
+    "date": "2025-10-04",
+    "day": "Saturday",
+    "kickoff": "7:30p",
+    "home": "UCLA",
+    "away": "Penn State",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Rose Bowl",
+      "lat": 34.1611,
+      "lng": -118.1676
+    },
+    "division": "fbs"
+  },
+  {
     "id": "2025-fbs-401762829",
     "week": 6,
     "date": "2025-10-04",
@@ -217,23 +234,6 @@
       "name": "InfoCision Stadium",
       "lat": 41.0726,
       "lng": -81.5084
-    },
-    "division": "fbs"
-  },
-  {
-    "id": "2025-fbs-401752727",
-    "week": 6,
-    "date": "2025-10-04",
-    "day": "Saturday",
-    "kickoff": "7:30p",
-    "home": "Florida",
-    "away": "Texas",
-    "homeLogo": null,
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
-    "venue": {
-      "name": "Ben Hill Griffin Stadium",
-      "lat": 29.65,
-      "lng": -82.3486
     },
     "division": "fbs"
   },
@@ -272,19 +272,19 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401752855",
+    "id": "2025-fbs-401752858",
     "week": 6,
     "date": "2025-10-04",
     "day": "Saturday",
     "kickoff": "7:30p",
-    "home": "UCLA",
-    "away": "Penn State",
+    "home": "Northwestern",
+    "away": "UL Monroe",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Rose Bowl",
-      "lat": 34.1611,
-      "lng": -118.1676
+      "name": "Lanny and Sharon Martin Stadium",
+      "lat": 34.361,
+      "lng": -103.2067
     },
     "division": "fbs"
   },
@@ -323,19 +323,19 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401752858",
+    "id": "2025-fbs-401752727",
     "week": 6,
     "date": "2025-10-04",
     "day": "Saturday",
     "kickoff": "7:30p",
-    "home": "Northwestern",
-    "away": "UL Monroe",
+    "home": "Florida",
+    "away": "Texas",
     "homeLogo": null,
-    "awayLogo": null,
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
     "venue": {
-      "name": "Lanny and Sharon Martin Stadium",
-      "lat": 34.361,
-      "lng": -103.2067
+      "name": "Ben Hill Griffin Stadium",
+      "lat": 29.65,
+      "lng": -82.3486
     },
     "division": "fbs"
   },
@@ -425,23 +425,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401752859",
-    "week": 6,
-    "date": "2025-10-04",
-    "day": "Saturday",
-    "kickoff": "11:30p",
-    "home": "Ohio State",
-    "away": "Minnesota",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Ohio Stadium",
-      "lat": 40.0018,
-      "lng": -83.0197
-    },
-    "division": "fbs"
-  },
-  {
     "id": "2025-fbs-401754553",
     "week": 6,
     "date": "2025-10-04",
@@ -455,6 +438,23 @@
       "name": "Doak Campbell Stadium",
       "lat": 30.4384,
       "lng": -84.3045
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401752859",
+    "week": 6,
+    "date": "2025-10-04",
+    "day": "Saturday",
+    "kickoff": "11:30p",
+    "home": "Ohio State",
+    "away": "Minnesota",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Ohio Stadium",
+      "lat": 40.0018,
+      "lng": -83.0197
     },
     "division": "fbs"
   },

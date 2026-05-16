@@ -1,22 +1,5 @@
 [
   {
-    "id": "2025-d3-401777161",
-    "week": 4,
-    "date": "2025-09-20",
-    "day": "Saturday",
-    "kickoff": "7p",
-    "home": "Pacific Lutheran",
-    "away": "Trinity University TX",
-    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/bi1umnuk45dh7ppn.png",
-    "awayLogo": null,
-    "venue": {
-      "name": "Sparks Stadium",
-      "lat": 47.1872,
-      "lng": -122.3005
-    },
-    "division": "d3"
-  },
-  {
     "id": "2025-d3-401774252",
     "week": 4,
     "date": "2025-09-20",
@@ -30,6 +13,23 @@
       "name": "Pine Bowl",
       "lat": 47.7523,
       "lng": -117.4202
+    },
+    "division": "d3"
+  },
+  {
+    "id": "2025-d3-401777161",
+    "week": 4,
+    "date": "2025-09-20",
+    "day": "Saturday",
+    "kickoff": "7p",
+    "home": "Pacific Lutheran",
+    "away": "Trinity University TX",
+    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/bi1umnuk45dh7ppn.png",
+    "awayLogo": null,
+    "venue": {
+      "name": "Sparks Stadium",
+      "lat": 47.1872,
+      "lng": -122.3005
     },
     "division": "d3"
   },
@@ -51,23 +51,6 @@
     "division": "d3"
   },
   {
-    "id": "2025-d3-401774266",
-    "week": 4,
-    "date": "2025-09-20",
-    "day": "Saturday",
-    "kickoff": "8p",
-    "home": "Linfield College",
-    "away": "Chapman",
-    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/8ab4hlzfjvtul4nx.png",
-    "awayLogo": null,
-    "venue": {
-      "name": "Maxwell Field",
-      "lat": 45.2099,
-      "lng": -123.1987
-    },
-    "division": "d3"
-  },
-  {
     "id": "2025-d3-401774260",
     "week": 4,
     "date": "2025-09-20",
@@ -81,6 +64,23 @@
       "name": "Stoffer Family Stadium",
       "lat": 45.3051,
       "lng": -122.9677
+    },
+    "division": "d3"
+  },
+  {
+    "id": "2025-d3-401774266",
+    "week": 4,
+    "date": "2025-09-20",
+    "day": "Saturday",
+    "kickoff": "8p",
+    "home": "Linfield College",
+    "away": "Chapman",
+    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/8ab4hlzfjvtul4nx.png",
+    "awayLogo": null,
+    "venue": {
+      "name": "Maxwell Field",
+      "lat": 45.2099,
+      "lng": -123.1987
     },
     "division": "d3"
   },

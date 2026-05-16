@@ -17,6 +17,23 @@
     "division": "fbs"
   },
   {
+    "id": "2025-fbs-401756964",
+    "week": 14,
+    "date": "2025-11-28",
+    "day": "Friday",
+    "kickoff": "5p",
+    "home": "Kansas",
+    "away": "Utah",
+    "homeLogo": null,
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/254.png",
+    "venue": {
+      "name": "War Memorial Stadium",
+      "lat": 41.307,
+      "lng": -105.5677
+    },
+    "division": "fbs"
+  },
+  {
     "id": "2025-fbs-401752916",
     "week": 14,
     "date": "2025-11-28",
@@ -47,23 +64,6 @@
       "name": "Huskie Stadium",
       "lat": 41.9308,
       "lng": -88.7572
-    },
-    "division": "fbs"
-  },
-  {
-    "id": "2025-fbs-401756964",
-    "week": 14,
-    "date": "2025-11-28",
-    "day": "Friday",
-    "kickoff": "5p",
-    "home": "Kansas",
-    "away": "Utah",
-    "homeLogo": null,
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/254.png",
-    "venue": {
-      "name": "War Memorial Stadium",
-      "lat": 41.307,
-      "lng": -105.5677
     },
     "division": "fbs"
   },
@@ -153,6 +153,23 @@
     "division": "fbs"
   },
   {
+    "id": "2025-fbs-401752921",
+    "week": 14,
+    "date": "2025-11-29",
+    "day": "Saturday",
+    "kickoff": "5p",
+    "home": "Michigan",
+    "away": "Ohio State",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Michigan Stadium",
+      "lat": 42.2658,
+      "lng": -83.7487
+    },
+    "division": "fbs"
+  },
+  {
     "id": "2025-fbs-401756966",
     "week": 14,
     "date": "2025-11-29",
@@ -166,23 +183,6 @@
       "name": "Boone Pickens Stadium",
       "lat": 36.1286,
       "lng": -97.0651
-    },
-    "division": "fbs"
-  },
-  {
-    "id": "2025-fbs-401756962",
-    "week": 14,
-    "date": "2025-11-29",
-    "day": "Saturday",
-    "kickoff": "5p",
-    "home": "Baylor",
-    "away": "Houston",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Lane Stadium",
-      "lat": 37.2206,
-      "lng": -80.4183
     },
     "division": "fbs"
   },
@@ -204,19 +204,19 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401752921",
+    "id": "2025-fbs-401756962",
     "week": 14,
     "date": "2025-11-29",
     "day": "Saturday",
     "kickoff": "5p",
-    "home": "Michigan",
-    "away": "Ohio State",
+    "home": "Baylor",
+    "away": "Houston",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Michigan Stadium",
-      "lat": 42.2658,
-      "lng": -83.7487
+      "name": "Lane Stadium",
+      "lat": 37.2206,
+      "lng": -80.4183
     },
     "division": "fbs"
   },
@@ -255,23 +255,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401752791",
-    "week": 14,
-    "date": "2025-11-29",
-    "day": "Saturday",
-    "kickoff": "8:30p",
-    "home": "Tennessee",
-    "away": "Vanderbilt",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Neyland Stadium",
-      "lat": 35.9551,
-      "lng": -83.9252
-    },
-    "division": "fbs"
-  },
-  {
     "id": "2025-fbs-401752917",
     "week": 14,
     "date": "2025-11-29",
@@ -289,19 +272,19 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401762441",
+    "id": "2025-fbs-401752791",
     "week": 14,
     "date": "2025-11-29",
     "day": "Saturday",
     "kickoff": "8:30p",
-    "home": "UTSA",
-    "away": "Army",
+    "home": "Tennessee",
+    "away": "Vanderbilt",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Alamodome",
-      "lat": 29.4191,
-      "lng": -98.4737
+      "name": "Neyland Stadium",
+      "lat": 35.9551,
+      "lng": -83.9252
     },
     "division": "fbs"
   },
@@ -336,6 +319,23 @@
       "name": "Razorback Stadium",
       "lat": 36.0684,
       "lng": -94.1789
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401762441",
+    "week": 14,
+    "date": "2025-11-29",
+    "day": "Saturday",
+    "kickoff": "8:30p",
+    "home": "UTSA",
+    "away": "Army",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Alamodome",
+      "lat": 29.4191,
+      "lng": -98.4737
     },
     "division": "fbs"
   },
@@ -408,23 +408,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401752919",
-    "week": 14,
-    "date": "2025-11-30",
-    "day": "Sunday",
-    "kickoff": "12:30a",
-    "home": "USC",
-    "away": "UCLA",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Los Angeles Memorial Coliseum",
-      "lat": 34.0141,
-      "lng": -118.2879
-    },
-    "division": "fbs"
-  },
-  {
     "id": "2025-fbs-401752784",
     "week": 14,
     "date": "2025-11-30",
@@ -438,6 +421,23 @@
       "name": "Jordan-Hare Stadium",
       "lat": 32.6017,
       "lng": -85.4893
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401752919",
+    "week": 14,
+    "date": "2025-11-30",
+    "day": "Sunday",
+    "kickoff": "12:30a",
+    "home": "USC",
+    "away": "UCLA",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Los Angeles Memorial Coliseum",
+      "lat": 34.0141,
+      "lng": -118.2879
     },
     "division": "fbs"
   },

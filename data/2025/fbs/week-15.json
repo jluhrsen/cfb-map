@@ -51,23 +51,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401777353",
-    "week": 15,
-    "date": "2025-12-07",
-    "day": "Sunday",
-    "kickoff": "1a",
-    "home": "Ohio State",
-    "away": "Indiana",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Lucas Oil Stadium",
-      "lat": 39.7601,
-      "lng": -86.1639
-    },
-    "division": "fbs"
-  },
-  {
     "id": "2025-fbs-401777328",
     "week": 15,
     "date": "2025-12-07",
@@ -81,6 +64,23 @@
       "name": "Bank of America Stadium",
       "lat": 35.2258,
       "lng": -80.8528
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401777353",
+    "week": 15,
+    "date": "2025-12-07",
+    "day": "Sunday",
+    "kickoff": "1a",
+    "home": "Ohio State",
+    "away": "Indiana",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Lucas Oil Stadium",
+      "lat": 39.7601,
+      "lng": -86.1639
     },
     "division": "fbs"
   }

@@ -51,36 +51,19 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401762499",
+    "id": "2025-fbs-401752889",
     "week": 10,
     "date": "2025-11-01",
     "day": "Saturday",
     "kickoff": "4p",
-    "home": "North Texas",
-    "away": "Navy",
+    "home": "Ohio State",
+    "away": "Penn State",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "DATCU Stadium",
-      "lat": 33.2071,
-      "lng": -97.1514
-    },
-    "division": "fbs"
-  },
-  {
-    "id": "2025-fbs-401752891",
-    "week": 10,
-    "date": "2025-11-01",
-    "day": "Saturday",
-    "kickoff": "4p",
-    "home": "Illinois",
-    "away": "Rutgers",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Memorial Stadium (Champaign, IL)",
-      "lat": 40.0993,
-      "lng": -88.2358
+      "name": "Ohio Stadium",
+      "lat": 40.0018,
+      "lng": -83.0197
     },
     "division": "fbs"
   },
@@ -102,6 +85,23 @@
     "division": "fbs"
   },
   {
+    "id": "2025-fbs-401756936",
+    "week": 10,
+    "date": "2025-11-01",
+    "day": "Saturday",
+    "kickoff": "4p",
+    "home": "Baylor",
+    "away": "UCF",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Lane Stadium",
+      "lat": 37.2206,
+      "lng": -80.4183
+    },
+    "division": "fbs"
+  },
+  {
     "id": "2025-fbs-401762849",
     "week": 10,
     "date": "2025-11-01",
@@ -119,19 +119,19 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401752758",
+    "id": "2025-fbs-401762499",
     "week": 10,
     "date": "2025-11-01",
     "day": "Saturday",
     "kickoff": "4p",
-    "home": "Texas",
-    "away": "Vanderbilt",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
+    "home": "North Texas",
+    "away": "Navy",
+    "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "DKR-Texas Memorial Stadium",
-      "lat": 30.2839,
-      "lng": -97.7325
+      "name": "DATCU Stadium",
+      "lat": 33.2071,
+      "lng": -97.1514
     },
     "division": "fbs"
   },
@@ -153,36 +153,36 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401756936",
+    "id": "2025-fbs-401752758",
     "week": 10,
     "date": "2025-11-01",
     "day": "Saturday",
     "kickoff": "4p",
-    "home": "Baylor",
-    "away": "UCF",
-    "homeLogo": null,
+    "home": "Texas",
+    "away": "Vanderbilt",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
     "awayLogo": null,
     "venue": {
-      "name": "Lane Stadium",
-      "lat": 37.2206,
-      "lng": -80.4183
+      "name": "DKR-Texas Memorial Stadium",
+      "lat": 30.2839,
+      "lng": -97.7325
     },
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401752889",
+    "id": "2025-fbs-401752891",
     "week": 10,
     "date": "2025-11-01",
     "day": "Saturday",
     "kickoff": "4p",
-    "home": "Ohio State",
-    "away": "Penn State",
+    "home": "Illinois",
+    "away": "Rutgers",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Ohio Stadium",
-      "lat": 40.0018,
-      "lng": -83.0197
+      "name": "Memorial Stadium (Champaign, IL)",
+      "lat": 40.0993,
+      "lng": -88.2358
     },
     "division": "fbs"
   },
@@ -272,23 +272,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401754582",
-    "week": 10,
-    "date": "2025-11-01",
-    "day": "Saturday",
-    "kickoff": "7:30p",
-    "home": "Stanford",
-    "away": "Pittsburgh",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/24.png",
-    "awayLogo": null,
-    "venue": {
-      "name": "Stanford Stadium",
-      "lat": 37.4344,
-      "lng": -122.1614
-    },
-    "division": "fbs"
-  },
-  {
     "id": "2025-fbs-401752755",
     "week": 10,
     "date": "2025-11-01",
@@ -323,6 +306,23 @@
     "division": "fbs"
   },
   {
+    "id": "2025-fbs-401754582",
+    "week": 10,
+    "date": "2025-11-01",
+    "day": "Saturday",
+    "kickoff": "7:30p",
+    "home": "Stanford",
+    "away": "Pittsburgh",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/24.png",
+    "awayLogo": null,
+    "venue": {
+      "name": "Stanford Stadium",
+      "lat": 37.4344,
+      "lng": -122.1614
+    },
+    "division": "fbs"
+  },
+  {
     "id": "2025-fbs-401754576",
     "week": 10,
     "date": "2025-11-01",
@@ -340,23 +340,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401756940",
-    "week": 10,
-    "date": "2025-11-01",
-    "day": "Saturday",
-    "kickoff": "8p",
-    "home": "Kansas",
-    "away": "Oklahoma State",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "War Memorial Stadium",
-      "lat": 41.307,
-      "lng": -105.5677
-    },
-    "division": "fbs"
-  },
-  {
     "id": "2025-fbs-401752753",
     "week": 10,
     "date": "2025-11-01",
@@ -370,6 +353,23 @@
       "name": "Razorback Stadium",
       "lat": 36.0684,
       "lng": -94.1789
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401756940",
+    "week": 10,
+    "date": "2025-11-01",
+    "day": "Saturday",
+    "kickoff": "8p",
+    "home": "Kansas",
+    "away": "Oklahoma State",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "War Memorial Stadium",
+      "lat": 41.307,
+      "lng": -105.5677
     },
     "division": "fbs"
   },
@@ -425,19 +425,19 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401752757",
+    "id": "2025-fbs-401754578",
     "week": 10,
     "date": "2025-11-01",
     "day": "Saturday",
     "kickoff": "11:30p",
-    "home": "Tennessee",
-    "away": "Oklahoma",
+    "home": "Florida State",
+    "away": "Wake Forest",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Neyland Stadium",
-      "lat": 35.9551,
-      "lng": -83.9252
+      "name": "Doak Campbell Stadium",
+      "lat": 30.4384,
+      "lng": -84.3045
     },
     "division": "fbs"
   },
@@ -459,6 +459,23 @@
     "division": "fbs"
   },
   {
+    "id": "2025-fbs-401752757",
+    "week": 10,
+    "date": "2025-11-01",
+    "day": "Saturday",
+    "kickoff": "11:30p",
+    "home": "Tennessee",
+    "away": "Oklahoma",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Neyland Stadium",
+      "lat": 35.9551,
+      "lng": -83.9252
+    },
+    "division": "fbs"
+  },
+  {
     "id": "2025-fbs-401752754",
     "week": 10,
     "date": "2025-11-01",
@@ -472,23 +489,6 @@
       "name": "Jordan-Hare Stadium",
       "lat": 32.6017,
       "lng": -85.4893
-    },
-    "division": "fbs"
-  },
-  {
-    "id": "2025-fbs-401754578",
-    "week": 10,
-    "date": "2025-11-01",
-    "day": "Saturday",
-    "kickoff": "11:30p",
-    "home": "Florida State",
-    "away": "Wake Forest",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Doak Campbell Stadium",
-      "lat": 30.4384,
-      "lng": -84.3045
     },
     "division": "fbs"
   },
