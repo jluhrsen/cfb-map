@@ -45,7 +45,7 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./build
-          cname: # Add custom domain here if desired
+          cname: cfb.luhrsenlounge.net
 
       - name: Notify on failure
         if: failure()
