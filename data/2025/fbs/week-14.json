@@ -34,23 +34,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401752916",
-    "week": 14,
-    "date": "2025-11-28",
-    "day": "Friday",
-    "kickoff": "5p",
-    "home": "Nebraska",
-    "away": "Iowa",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Memorial Stadium (Lincoln, NE)",
-      "lat": 40.8202,
-      "lng": -96.7055
-    },
-    "division": "fbs"
-  },
-  {
     "id": "2025-fbs-401762871",
     "week": 14,
     "date": "2025-11-28",
@@ -64,6 +47,23 @@
       "name": "Huskie Stadium",
       "lat": 41.9308,
       "lng": -88.7572
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401752916",
+    "week": 14,
+    "date": "2025-11-28",
+    "day": "Friday",
+    "kickoff": "5p",
+    "home": "Nebraska",
+    "away": "Iowa",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Memorial Stadium (Lincoln, NE)",
+      "lat": 40.8202,
+      "lng": -96.7055
     },
     "division": "fbs"
   },
@@ -85,23 +85,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401752786",
-    "week": 14,
-    "date": "2025-11-28",
-    "day": "Friday",
-    "kickoff": "8:30p",
-    "home": "Georgia Tech",
-    "away": "Georgia",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Mercedes-Benz Stadium",
-      "lat": 33.7553,
-      "lng": -84.4006
-    },
-    "division": "fbs"
-  },
-  {
     "id": "2025-fbs-401762442",
     "week": 14,
     "date": "2025-11-28",
@@ -115,6 +98,23 @@
       "name": "DATCU Stadium",
       "lat": 33.2071,
       "lng": -97.1514
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401752786",
+    "week": 14,
+    "date": "2025-11-28",
+    "day": "Friday",
+    "kickoff": "8:30p",
+    "home": "Georgia Tech",
+    "away": "Georgia",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Mercedes-Benz Stadium",
+      "lat": 33.7553,
+      "lng": -84.4006
     },
     "division": "fbs"
   },
@@ -153,19 +153,19 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401752921",
+    "id": "2025-fbs-401754611",
     "week": 14,
     "date": "2025-11-29",
     "day": "Saturday",
     "kickoff": "5p",
-    "home": "Michigan",
-    "away": "Ohio State",
+    "home": "Pittsburgh",
+    "away": "Miami",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Michigan Stadium",
-      "lat": 42.2658,
-      "lng": -83.7487
+      "name": "Acrisure Stadium",
+      "lat": 40.4468,
+      "lng": -80.0158
     },
     "division": "fbs"
   },
@@ -187,23 +187,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401754611",
-    "week": 14,
-    "date": "2025-11-29",
-    "day": "Saturday",
-    "kickoff": "5p",
-    "home": "Pittsburgh",
-    "away": "Miami",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Acrisure Stadium",
-      "lat": 40.4468,
-      "lng": -80.0158
-    },
-    "division": "fbs"
-  },
-  {
     "id": "2025-fbs-401756962",
     "week": 14,
     "date": "2025-11-29",
@@ -217,6 +200,23 @@
       "name": "Lane Stadium",
       "lat": 37.2206,
       "lng": -80.4183
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401752921",
+    "week": 14,
+    "date": "2025-11-29",
+    "day": "Saturday",
+    "kickoff": "5p",
+    "home": "Michigan",
+    "away": "Ohio State",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Michigan Stadium",
+      "lat": 42.2658,
+      "lng": -83.7487
     },
     "division": "fbs"
   },
@@ -255,36 +255,19 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401752917",
+    "id": "2025-fbs-401762441",
     "week": 14,
     "date": "2025-11-29",
     "day": "Saturday",
     "kickoff": "8:30p",
-    "home": "Washington",
-    "away": "Oregon",
+    "home": "UTSA",
+    "away": "Army",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Husky Stadium",
-      "lat": 47.6504,
-      "lng": -122.3016
-    },
-    "division": "fbs"
-  },
-  {
-    "id": "2025-fbs-401752791",
-    "week": 14,
-    "date": "2025-11-29",
-    "day": "Saturday",
-    "kickoff": "8:30p",
-    "home": "Tennessee",
-    "away": "Vanderbilt",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Neyland Stadium",
-      "lat": 35.9551,
-      "lng": -83.9252
+      "name": "Alamodome",
+      "lat": 29.4191,
+      "lng": -98.4737
     },
     "division": "fbs"
   },
@@ -323,19 +306,36 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401762441",
+    "id": "2025-fbs-401752791",
     "week": 14,
     "date": "2025-11-29",
     "day": "Saturday",
     "kickoff": "8:30p",
-    "home": "UTSA",
-    "away": "Army",
+    "home": "Tennessee",
+    "away": "Vanderbilt",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Alamodome",
-      "lat": 29.4191,
-      "lng": -98.4737
+      "name": "Neyland Stadium",
+      "lat": 35.9551,
+      "lng": -83.9252
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401752917",
+    "week": 14,
+    "date": "2025-11-29",
+    "day": "Saturday",
+    "kickoff": "8:30p",
+    "home": "Washington",
+    "away": "Oregon",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Husky Stadium",
+      "lat": 47.6504,
+      "lng": -122.3016
     },
     "division": "fbs"
   },

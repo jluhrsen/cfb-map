@@ -17,36 +17,19 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401756905",
+    "id": "2025-fbs-401752850",
     "week": 5,
     "date": "2025-09-27",
     "day": "Saturday",
     "kickoff": "4p",
-    "home": "Kansas",
-    "away": "Cincinnati",
+    "home": "Illinois",
+    "away": "USC",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "War Memorial Stadium",
-      "lat": 41.307,
-      "lng": -105.5677
-    },
-    "division": "fbs"
-  },
-  {
-    "id": "2025-fbs-401754545",
-    "week": 5,
-    "date": "2025-09-27",
-    "day": "Saturday",
-    "kickoff": "4p",
-    "home": "Syracuse",
-    "away": "Duke",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "JMA Wireless Dome",
-      "lat": 43.0361,
-      "lng": -76.1364
+      "name": "Memorial Stadium (Champaign, IL)",
+      "lat": 40.0993,
+      "lng": -88.2358
     },
     "division": "fbs"
   },
@@ -68,23 +51,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401752850",
-    "week": 5,
-    "date": "2025-09-27",
-    "day": "Saturday",
-    "kickoff": "4p",
-    "home": "Illinois",
-    "away": "USC",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Memorial Stadium (Champaign, IL)",
-      "lat": 40.0993,
-      "lng": -88.2358
-    },
-    "division": "fbs"
-  },
-  {
     "id": "2025-fbs-401761617",
     "week": 5,
     "date": "2025-09-27",
@@ -98,6 +64,40 @@
       "name": "DATCU Stadium",
       "lat": 33.2071,
       "lng": -97.1514
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401754545",
+    "week": 5,
+    "date": "2025-09-27",
+    "day": "Saturday",
+    "kickoff": "4p",
+    "home": "Syracuse",
+    "away": "Duke",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "JMA Wireless Dome",
+      "lat": 43.0361,
+      "lng": -76.1364
+    },
+    "division": "fbs"
+  },
+  {
+    "id": "2025-fbs-401756905",
+    "week": 5,
+    "date": "2025-09-27",
+    "day": "Saturday",
+    "kickoff": "4p",
+    "home": "Kansas",
+    "away": "Cincinnati",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "War Memorial Stadium",
+      "lat": 41.307,
+      "lng": -105.5677
     },
     "division": "fbs"
   },
@@ -119,6 +119,23 @@
     "division": "fbs"
   },
   {
+    "id": "2025-fbs-401752724",
+    "week": 5,
+    "date": "2025-09-27",
+    "day": "Saturday",
+    "kickoff": "7:30p",
+    "home": "Texas A&M",
+    "away": "Auburn",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Kyle Field",
+      "lat": 30.61,
+      "lng": -96.34
+    },
+    "division": "fbs"
+  },
+  {
     "id": "2025-fbs-401752853",
     "week": 5,
     "date": "2025-09-27",
@@ -132,23 +149,6 @@
       "name": "Kinnick Stadium",
       "lat": 41.6581,
       "lng": -91.5509
-    },
-    "division": "fbs"
-  },
-  {
-    "id": "2025-fbs-401760380",
-    "week": 5,
-    "date": "2025-09-27",
-    "day": "Saturday",
-    "kickoff": "7:30p",
-    "home": "Northern Illinois",
-    "away": "San Diego State",
-    "homeLogo": null,
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/21.png",
-    "venue": {
-      "name": "Huskie Stadium",
-      "lat": 41.9308,
-      "lng": -88.7572
     },
     "division": "fbs"
   },
@@ -204,19 +204,19 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401752724",
+    "id": "2025-fbs-401760380",
     "week": 5,
     "date": "2025-09-27",
     "day": "Saturday",
     "kickoff": "7:30p",
-    "home": "Texas A&M",
-    "away": "Auburn",
+    "home": "Northern Illinois",
+    "away": "San Diego State",
     "homeLogo": null,
-    "awayLogo": null,
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/21.png",
     "venue": {
-      "name": "Kyle Field",
-      "lat": 30.61,
-      "lng": -96.34
+      "name": "Huskie Stadium",
+      "lat": 41.9308,
+      "lng": -88.7572
     },
     "division": "fbs"
   },
@@ -272,19 +272,19 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401754549",
+    "id": "2025-fbs-401752718",
     "week": 5,
     "date": "2025-09-27",
     "day": "Saturday",
     "kickoff": "11:30p",
-    "home": "Stanford",
-    "away": "San José State",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/24.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/23.png",
+    "home": "Georgia",
+    "away": "Alabama",
+    "homeLogo": null,
+    "awayLogo": null,
     "venue": {
-      "name": "Stanford Stadium",
-      "lat": 37.4344,
-      "lng": -122.1614
+      "name": "Sanford Stadium",
+      "lat": 33.9498,
+      "lng": -83.3732
     },
     "division": "fbs"
   },
@@ -306,19 +306,19 @@
     "division": "fbs"
   },
   {
-    "id": "2025-fbs-401752718",
+    "id": "2025-fbs-401754549",
     "week": 5,
     "date": "2025-09-27",
     "day": "Saturday",
     "kickoff": "11:30p",
-    "home": "Georgia",
-    "away": "Alabama",
-    "homeLogo": null,
-    "awayLogo": null,
+    "home": "Stanford",
+    "away": "San José State",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/24.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/23.png",
     "venue": {
-      "name": "Sanford Stadium",
-      "lat": 33.9498,
-      "lng": -83.3732
+      "name": "Stanford Stadium",
+      "lat": 37.4344,
+      "lng": -122.1614
     },
     "division": "fbs"
   },
