@@ -147,22 +147,22 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752898",
-    "sourceId": 401752898,
+    "id": "2025-ncaa-401752763",
+    "sourceId": 401752763,
     "week": 11,
     "date": "2025-11-08",
     "day": "Saturday",
     "kickoff": "8:30p",
-    "home": "Iowa",
-    "away": "Oregon",
+    "home": "Missouri",
+    "away": "Texas A&M",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Kinnick Stadium",
-      "lat": 41.6581,
-      "lng": -91.5509
+      "name": "Memorial Stadium",
+      "lat": 38.9628,
+      "lng": -95.2464
     },
     "missingVenue": false,
     "division": "fbs"
@@ -189,22 +189,22 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752763",
-    "sourceId": 401752763,
+    "id": "2025-ncaa-401752898",
+    "sourceId": 401752898,
     "week": 11,
     "date": "2025-11-08",
     "day": "Saturday",
     "kickoff": "8:30p",
-    "home": "Missouri",
-    "away": "Texas A&M",
+    "home": "Iowa",
+    "away": "Oregon",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Memorial Stadium",
-      "lat": 38.9628,
-      "lng": -95.2464
+      "name": "Kinnick Stadium",
+      "lat": 41.6581,
+      "lng": -91.5509
     },
     "missingVenue": false,
     "division": "fbs"
@@ -336,22 +336,22 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752760",
-    "sourceId": 401752760,
+    "id": "2025-ncaa-401752759",
+    "sourceId": 401752759,
     "week": 11,
     "date": "2025-11-09",
     "day": "Sunday",
     "kickoff": "12:30a",
-    "home": "Kentucky",
-    "away": "Florida",
+    "home": "Alabama",
+    "away": "LSU",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Kroger Field",
-      "lat": 38.022,
-      "lng": -84.5037
+      "name": "Bryant-Denny Stadium",
+      "lat": 33.208,
+      "lng": -87.5502
     },
     "missingVenue": false,
     "division": "fbs"
@@ -399,22 +399,22 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752759",
-    "sourceId": 401752759,
+    "id": "2025-ncaa-401752760",
+    "sourceId": 401752760,
     "week": 11,
     "date": "2025-11-09",
     "day": "Sunday",
     "kickoff": "12:30a",
-    "home": "Alabama",
-    "away": "LSU",
+    "home": "Kentucky",
+    "away": "Florida",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Bryant-Denny Stadium",
-      "lat": 33.208,
-      "lng": -87.5502
+      "name": "Kroger Field",
+      "lat": 38.022,
+      "lng": -84.5037
     },
     "missingVenue": false,
     "division": "fbs"

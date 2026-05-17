@@ -21,27 +21,6 @@
     "division": "fcs"
   },
   {
-    "id": "2025-ncaa-401767082",
-    "sourceId": 401767082,
-    "week": 5,
-    "date": "2025-09-27",
-    "day": "Saturday",
-    "kickoff": "7p",
-    "home": "Northern Colorado",
-    "away": "Idaho State",
-    "homeDivision": "fcs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Nottingham Field",
-      "lat": 40.4071,
-      "lng": -104.7017
-    },
-    "missingVenue": false,
-    "division": "fcs"
-  },
-  {
     "id": "2025-ncaa-401767398",
     "sourceId": 401767398,
     "week": 5,
@@ -58,6 +37,27 @@
       "name": "Lucas Oil Stadium",
       "lat": 39.7601,
       "lng": -86.1639
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
+    "id": "2025-ncaa-401767082",
+    "sourceId": 401767082,
+    "week": 5,
+    "date": "2025-09-27",
+    "day": "Saturday",
+    "kickoff": "7p",
+    "home": "Northern Colorado",
+    "away": "Idaho State",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Nottingham Field",
+      "lat": 40.4071,
+      "lng": -104.7017
     },
     "missingVenue": false,
     "division": "fcs"
@@ -137,7 +137,7 @@
     "homeDivision": "fcs",
     "awayDivision": "fcs",
     "homeLogo": null,
-    "awayLogo": null,
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/13.png",
     "venue": {
       "name": "Hornet Stadium",
       "lat": 38.5598,
