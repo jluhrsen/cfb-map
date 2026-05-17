@@ -21,6 +21,27 @@
     "division": "fbs"
   },
   {
+    "id": "2025-ncaa-401767453",
+    "sourceId": 401767453,
+    "week": 13,
+    "date": "2025-11-22",
+    "day": "Saturday",
+    "kickoff": "6p",
+    "home": "Indiana State",
+    "away": "Murray State",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Memorial Stadium",
+      "lat": 38.9628,
+      "lng": -95.2464
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
     "id": "2025-ncaa-401767367",
     "sourceId": 401767367,
     "week": 13,
@@ -42,25 +63,25 @@
     "division": "fcs"
   },
   {
-    "id": "2025-ncaa-401767453",
-    "sourceId": 401767453,
+    "id": "2025-ncaa-401752773",
+    "sourceId": 401752773,
     "week": 13,
     "date": "2025-11-22",
     "day": "Saturday",
-    "kickoff": "6p",
-    "home": "Indiana State",
-    "away": "Murray State",
-    "homeDivision": "fcs",
+    "kickoff": "7p",
+    "home": "Alabama",
+    "away": "Eastern Illinois",
+    "homeDivision": "fbs",
     "awayDivision": "fcs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Memorial Stadium",
-      "lat": 38.9628,
-      "lng": -95.2464
+      "name": "Bryant-Denny Stadium",
+      "lat": 33.208,
+      "lng": -87.5502
     },
     "missingVenue": false,
-    "division": "fcs"
+    "division": "fbs"
   },
   {
     "id": "2025-ncaa-401767104",
@@ -100,27 +121,6 @@
       "name": "Jordan-Hare Stadium",
       "lat": 32.6017,
       "lng": -85.4893
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2025-ncaa-401752773",
-    "sourceId": 401752773,
-    "week": 13,
-    "date": "2025-11-22",
-    "day": "Saturday",
-    "kickoff": "7p",
-    "home": "Alabama",
-    "away": "Eastern Illinois",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Bryant-Denny Stadium",
-      "lat": 33.208,
-      "lng": -87.5502
     },
     "missingVenue": false,
     "division": "fbs"

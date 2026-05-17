@@ -147,27 +147,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752692",
-    "sourceId": 401752692,
-    "week": 2,
-    "date": "2025-09-06",
-    "day": "Saturday",
-    "kickoff": "7:30p",
-    "home": "Tennessee",
-    "away": "East Tennessee State",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Neyland Stadium",
-      "lat": 35.9551,
-      "lng": -83.9252
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401752815",
     "sourceId": 401752815,
     "week": 2,
@@ -184,6 +163,27 @@
       "name": "Ohio Stadium",
       "lat": 40.0018,
       "lng": -83.0197
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401752692",
+    "sourceId": 401752692,
+    "week": 2,
+    "date": "2025-09-06",
+    "day": "Saturday",
+    "kickoff": "7:30p",
+    "home": "Tennessee",
+    "away": "East Tennessee State",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Neyland Stadium",
+      "lat": 35.9551,
+      "lng": -83.9252
     },
     "missingVenue": false,
     "division": "fbs"
@@ -210,27 +210,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401767112",
-    "sourceId": 401767112,
-    "week": 2,
-    "date": "2025-09-06",
-    "day": "Saturday",
-    "kickoff": "9p",
-    "home": "Northern Arizona",
-    "away": "Utah Tech",
-    "homeDivision": "fcs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Walkup Skydome",
-      "lat": 35.1803,
-      "lng": -111.6544
-    },
-    "missingVenue": false,
-    "division": "fcs"
-  },
-  {
     "id": "2025-ncaa-401760365",
     "sourceId": 401760365,
     "week": 2,
@@ -250,6 +229,27 @@
     },
     "missingVenue": false,
     "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401767112",
+    "sourceId": 401767112,
+    "week": 2,
+    "date": "2025-09-06",
+    "day": "Saturday",
+    "kickoff": "9p",
+    "home": "Northern Arizona",
+    "away": "Utah Tech",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Walkup Skydome",
+      "lat": 35.1803,
+      "lng": -111.6544
+    },
+    "missingVenue": false,
+    "division": "fcs"
   },
   {
     "id": "2025-ncaa-401754530",
@@ -294,22 +294,22 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401754641",
-    "sourceId": 401754641,
+    "id": "2025-ncaa-401762795",
+    "sourceId": 401762795,
     "week": 2,
     "date": "2025-09-06",
     "day": "Saturday",
     "kickoff": "11p",
-    "home": "Miami",
-    "away": "Bethune-Cookman",
+    "home": "Eastern Michigan",
+    "away": "Long Island University",
     "homeDivision": "fbs",
     "awayDivision": "fcs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Hard Rock Stadium",
-      "lat": 25.958,
-      "lng": -80.2389
+      "name": "Rynearson Stadium",
+      "lat": 42.2473,
+      "lng": -83.6253
     },
     "missingVenue": false,
     "division": "fbs"
@@ -336,22 +336,22 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401762795",
-    "sourceId": 401762795,
+    "id": "2025-ncaa-401754641",
+    "sourceId": 401754641,
     "week": 2,
     "date": "2025-09-06",
     "day": "Saturday",
     "kickoff": "11p",
-    "home": "Eastern Michigan",
-    "away": "Long Island University",
+    "home": "Miami",
+    "away": "Bethune-Cookman",
     "homeDivision": "fbs",
     "awayDivision": "fcs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Rynearson Stadium",
-      "lat": 42.2473,
-      "lng": -83.6253
+      "name": "Hard Rock Stadium",
+      "lat": 25.958,
+      "lng": -80.2389
     },
     "missingVenue": false,
     "division": "fbs"
