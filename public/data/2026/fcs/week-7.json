@@ -61,5 +61,27 @@
     },
     "missingVenue": false,
     "division": "fbs"
+  },
+  {
+    "id": "2026-manual-cal-poly-8",
+    "sourceId": "2026-manual-cal-poly-8",
+    "source": "manual",
+    "week": 7,
+    "date": "2026-10-17",
+    "day": "Friday",
+    "kickoff": "TBD",
+    "home": "Northern Colorado",
+    "away": "Cal Poly",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Nottingham Field",
+      "lat": 40.4071,
+      "lng": -104.7017
+    },
+    "missingVenue": false,
+    "division": "fcs"
   }
 ]

@@ -124,5 +124,27 @@
     },
     "missingVenue": false,
     "division": "fbs"
+  },
+  {
+    "id": "2026-manual-cal-poly-5",
+    "sourceId": "2026-manual-cal-poly-5",
+    "source": "manual",
+    "week": 4,
+    "date": "2026-09-26",
+    "day": "Friday",
+    "kickoff": "TBD",
+    "home": "Eastern Washington",
+    "away": "Cal Poly",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Roos Field",
+      "lat": 47.4901,
+      "lng": -117.5888
+    },
+    "missingVenue": false,
+    "division": "fcs"
   }
 ]

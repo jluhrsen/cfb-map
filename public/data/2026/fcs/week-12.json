@@ -40,5 +40,27 @@
     },
     "missingVenue": false,
     "division": "fbs"
+  },
+  {
+    "id": "2026-manual-cal-poly-12",
+    "sourceId": "2026-manual-cal-poly-12",
+    "source": "manual",
+    "week": 12,
+    "date": "2026-11-21",
+    "day": "Friday",
+    "kickoff": "TBD",
+    "home": "UC Davis",
+    "away": "Cal Poly",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "UC Davis Health Stadium",
+      "lat": 38.5382,
+      "lng": -121.7595
+    },
+    "missingVenue": false,
+    "division": "fcs"
   }
 ]

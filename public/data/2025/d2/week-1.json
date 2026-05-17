@@ -40,5 +40,26 @@
     },
     "missingVenue": false,
     "division": "d2"
+  },
+  {
+    "id": "2025-ncaa-401767119",
+    "sourceId": 401767119,
+    "week": 1,
+    "date": "2025-08-30",
+    "day": "Saturday",
+    "kickoff": "12p",
+    "home": "Northern Colorado",
+    "away": "Chadron St",
+    "homeDivision": "fcs",
+    "awayDivision": "d2",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Nottingham Field",
+      "lat": 40.4071,
+      "lng": -104.7017
+    },
+    "missingVenue": false,
+    "division": "fcs"
   }
 ]
