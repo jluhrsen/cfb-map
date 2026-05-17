@@ -3,6 +3,7 @@ const path = require('path');
 
 const VENUES = require('../src/data/venues.json');
 const LOGO_OVERRIDES = require('../src/data/team-logos.json');
+const MANUAL_GAMES = require('../src/data/manual-games.json');
 
 const NCAA_DIVISION_MAP = {
   'fbs': 'fbs',
@@ -162,6 +163,38 @@ function normalizeNCAAGame(game, seasonStart) {
   };
 }
 
+function normalizeManualGame(game) {
+  const venueData = findVenue(game.venue);
+
+  return {
+    id: game.id,
+    sourceId: game.id,
+    source: 'manual',
+    week: game.week,
+    date: game.date,
+    day: getDayOfWeek(game.date),
+    kickoff: game.kickoff || 'TBD',
+    home: game.home,
+    away: game.away,
+    homeDivision: game.homeDivision || game.division,
+    awayDivision: game.awayDivision || game.division,
+    homeLogo: LOGO_OVERRIDES[game.home] || null,
+    awayLogo: LOGO_OVERRIDES[game.away] || null,
+    venue: venueData ? {
+      name: venueData.matchedKey,
+      lat: venueData.lat,
+      lng: venueData.lng
+    } : {
+      name: game.venue || 'TBD',
+      lat: null,
+      lng: null,
+      missing: true
+    },
+    missingVenue: !venueData,
+    division: game.division || game.homeDivision || game.awayDivision
+  };
+}
+
 /**
  * Normalize NFL game data
  * @param {Object} game - Raw game data from ESPN API
@@ -238,8 +271,12 @@ async function generateDataFiles(ncaaData, nflData, outputDir) {
     const normalized = games
       .map(g => normalizeNCAAGame(g, seasonStart))
       .filter(g => g !== null);
-    const mappable = normalized.filter(g => !g.missingVenue);
-    const missingVenueGames = normalized.filter(g => g.missingVenue);
+    const normalizedManual = (MANUAL_GAMES[year] || [])
+      .map(g => normalizeManualGame(g))
+      .filter(g => g !== null);
+    const combined = [...normalized, ...normalizedManual];
+    const mappable = combined.filter(g => !g.missingVenue);
+    const missingVenueGames = combined.filter(g => g.missingVenue);
 
     missingVenueGames.forEach(game => {
       diagnostics[year].missingVenues.push({
@@ -255,7 +292,7 @@ async function generateDataFiles(ncaaData, nflData, outputDir) {
     });
     logMissingVenueSummary(year, 'NCAA', missingVenueGames);
 
-    console.log(`  Normalized ${mappable.length} mappable games (${missingVenueGames.length} missing venues, ${games.length - normalized.length} missing dates)`);
+    console.log(`  Normalized ${mappable.length} mappable games (${missingVenueGames.length} missing venues, ${games.length - normalized.length} missing dates, ${normalizedManual.length} manual games)`);
 
     // Group by division and week
     const byDivisionWeek = {};

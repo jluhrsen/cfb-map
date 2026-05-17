@@ -2,6 +2,7 @@ const fs = require('fs').promises;
 const path = require('path');
 
 const MAIN_TEAMS = require('../config/main-teams.json');
+const MANUAL_GAMES = require('../src/data/manual-games.json');
 
 const DIVISION_MAP = {
   fbs: 'fbs',
@@ -16,6 +17,10 @@ function teamNames(team) {
 }
 
 function hasTeam(game, names, sport) {
+  if (game.source === 'manual') {
+    return names.has(game.home) || names.has(game.away);
+  }
+
   if (sport === 'nfl') {
     return names.has(game.home_team) || names.has(game.away_team);
   }
@@ -24,6 +29,7 @@ function hasTeam(game, names, sport) {
 }
 
 function rawGameKey(game, sport) {
+  if (game.source === 'manual') return game.id;
   return sport === 'nfl' ? `nfl-${game.id}` : `${game.season}-ncaa-${game.id}`;
 }
 
@@ -68,7 +74,7 @@ async function loadGeneratedGames(dataDir, year) {
 }
 
 function getYears(rawData, nflData) {
-  return [...new Set([...Object.keys(rawData), ...Object.keys(nflData)])].sort();
+  return [...new Set([...Object.keys(rawData), ...Object.keys(nflData), ...Object.keys(MANUAL_GAMES)])].sort();
 }
 
 async function verify({ dataDir = 'public/data', rawDir = 'build-data' } = {}) {
@@ -85,7 +91,12 @@ async function verify({ dataDir = 'public/data', rawDir = 'build-data' } = {}) {
       const names = teamNames(team);
       const rawGames = team.sport === 'nfl'
         ? (nflRaw[year] || []).filter(game => hasTeam(game, names, 'nfl'))
-        : (ncaaRaw[year] || []).filter(game => hasTeam(game, names, 'ncaa'));
+        : [
+          ...(ncaaRaw[year] || []).filter(game => hasTeam(game, names, 'ncaa')),
+          ...(MANUAL_GAMES[year] || [])
+            .map(game => ({ ...game, source: 'manual' }))
+            .filter(game => hasTeam(game, names, 'ncaa'))
+        ];
 
       if (rawGames.length === 0) {
         summary.push(`${year} ${team.name}: no source games found`);
@@ -107,7 +118,9 @@ async function verify({ dataDir = 'public/data', rawDir = 'build-data' } = {}) {
           .slice(0, 5)
           .map(game => team.sport === 'nfl'
             ? `${game.away_team} at ${game.home_team} (${game.venue || 'unknown venue'})`
-            : `${game.awayTeam} at ${game.homeTeam} (${game.venue || 'unknown venue'})`)
+            : game.source === 'manual'
+              ? `${game.away} at ${game.home} (${game.venue || 'unknown venue'})`
+              : `${game.awayTeam} at ${game.homeTeam} (${game.venue || 'unknown venue'})`)
           .join('; ');
         failures.push(`${year} ${team.name}: ${missingGenerated.length} source games missing from generated data: ${examples}`);
       }
@@ -125,6 +138,12 @@ async function verify({ dataDir = 'public/data', rawDir = 'build-data' } = {}) {
         }
 
         const rawDivisions = rawGames.map(game => {
+          if (game.source === 'manual') {
+            if (names.has(game.home)) return game.homeDivision || game.division;
+            if (names.has(game.away)) return game.awayDivision || game.division;
+            return null;
+          }
+
           if (names.has(game.homeTeam)) return normalizeDivision(game.homeClassification, game.division);
           if (names.has(game.awayTeam)) return normalizeDivision(game.awayClassification, game.division);
           return null;
