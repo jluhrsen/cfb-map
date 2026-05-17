@@ -1,21 +1,22 @@
 [
   {
-    "id": "2025-ncaa-401767398",
-    "sourceId": 401767398,
+    "id": "2025-ncaa-401767081",
+    "sourceId": 401767081,
+    "sourceWeek": 4,
     "week": 5,
-    "date": "2025-09-27",
+    "date": "2025-09-20",
     "day": "Saturday",
-    "kickoff": "7p",
-    "home": "Morgan State",
-    "away": "Miles College",
+    "kickoff": "10p",
+    "home": "Idaho State",
+    "away": "Lincoln (CA)",
     "homeDivision": "fcs",
     "awayDivision": "d2",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Lucas Oil Stadium",
-      "lat": 39.7601,
-      "lng": -86.1639
+      "name": "Holt Arena",
+      "lat": 42.8723,
+      "lng": -112.4341
     },
     "missingVenue": false,
     "division": "fcs"

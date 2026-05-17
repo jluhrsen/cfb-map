@@ -1,0 +1,46 @@
+[
+  {
+    "id": "2025-ncaa-401833987",
+    "sourceId": 401833987,
+    "sourceWeek": 16,
+    "week": 17,
+    "date": "2025-12-13",
+    "day": "Saturday",
+    "kickoff": "8:30p",
+    "home": "Montana",
+    "away": "South Dakota",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Washington-Grizzly Stadium",
+      "lat": 46.8601,
+      "lng": -113.9845
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
+    "id": "2025-ncaa-401778123",
+    "sourceId": 401778123,
+    "sourceWeek": 1,
+    "week": 17,
+    "date": "2025-12-13",
+    "day": "Saturday",
+    "kickoff": "5p",
+    "home": "Prairie View A&M",
+    "away": "South Carolina State",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Mercedes-Benz Stadium",
+      "lat": 33.7553,
+      "lng": -84.4006
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  }
+]

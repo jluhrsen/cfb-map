@@ -1,63 +1,22 @@
 [
   {
-    "id": "2025-ncaa-401836198",
-    "sourceId": 401836198,
+    "id": "2025-ncaa-401767420",
+    "sourceId": 401767420,
+    "sourceWeek": 14,
     "week": 15,
-    "date": "2025-12-06",
-    "day": "Saturday",
-    "kickoff": "6p",
-    "home": "North Dakota State",
-    "away": "Illinois State",
-    "homeDivision": "fcs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Fargodome",
-      "lat": 46.9028,
-      "lng": -96.8013
-    },
-    "missingVenue": false,
-    "division": "fcs"
-  },
-  {
-    "id": "2025-ncaa-401836216",
-    "sourceId": 401836216,
-    "week": 15,
-    "date": "2025-12-06",
+    "date": "2025-11-29",
     "day": "Saturday",
     "kickoff": "7p",
-    "home": "Stephen F. Austin",
-    "away": "Abilene Christian",
+    "home": "Southern",
+    "away": "Grambling",
     "homeDivision": "fcs",
     "awayDivision": "fcs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Homer Bryce Stadium",
-      "lat": 31.6204,
-      "lng": -94.6486
-    },
-    "missingVenue": false,
-    "division": "fcs"
-  },
-  {
-    "id": "2025-ncaa-401836197",
-    "sourceId": 401836197,
-    "week": 15,
-    "date": "2025-12-06",
-    "day": "Saturday",
-    "kickoff": "7p",
-    "home": "Montana",
-    "away": "South Dakota State",
-    "homeDivision": "fcs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Washington-Grizzly Stadium",
-      "lat": 46.8601,
-      "lng": -113.9845
+      "name": "Caesars Superdome",
+      "lat": 29.9511,
+      "lng": -90.0812
     },
     "missingVenue": false,
     "division": "fcs"
