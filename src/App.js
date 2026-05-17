@@ -2,7 +2,7 @@ import { MapContainer, TileLayer, Marker, Popup, Tooltip } from 'react-leaflet';
 import 'leaflet/dist/leaflet.css';
 import './App.css';
 import L from 'leaflet';
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import { useFilters } from './contexts/FilterContext';
 import { useGameData } from './contexts/GameDataContext';
 import TeamSelector from './components/TeamSelector';
@@ -13,10 +13,18 @@ import SeasonSelector from './components/SeasonSelector';
 const defaultLogo = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpZ1-dHcxFDeEw9c96sfI6kKv03hMN1L_TRw&s";
 
 function App() {
-  const { selectedTeams, selectedDivisions, selectedWeek, selectedYear } = useFilters();
-  const { loadWeekData, loading } = useGameData();
+  const {
+    selectedTeams,
+    selectedDivisions,
+    selectedWeek,
+    selectedYear,
+    setSelectedWeek,
+    setSelectedYear
+  } = useFilters();
+  const { index, loadWeekData, loading } = useGameData();
   const [games, setGames] = useState([]);
   const [loadingGames, setLoadingGames] = useState(false);
+  const lastAutoLocatedTeams = useRef('');
 
   // Load games when filters change
   useEffect(() => {
@@ -40,6 +48,70 @@ function App() {
         setLoadingGames(false);
       });
   }, [selectedTeams, selectedDivisions, selectedWeek, selectedYear, loadWeekData]);
+
+  // When a new team is selected, move to the first available game instead of
+  // leaving the map on an empty default week/year.
+  useEffect(() => {
+    if (!index || selectedTeams.length === 0) {
+      lastAutoLocatedTeams.current = '';
+      return;
+    }
+
+    const teamsKey = selectedTeams.slice().sort().join('|');
+    if (teamsKey === lastAutoLocatedTeams.current) {
+      return;
+    }
+
+    lastAutoLocatedTeams.current = teamsKey;
+    let cancelled = false;
+
+    const findAvailableGame = async () => {
+      const divisionsToSearch = index.divisions || selectedDivisions;
+      const years = [
+        selectedYear,
+        ...(index.availableSeasons || [])
+          .filter(year => year !== selectedYear)
+          .sort((a, b) => b - a)
+      ];
+
+      for (const year of years) {
+        const weeks = index.weeksByYear?.[year] || [];
+        const orderedWeeks = [...weeks].sort((a, b) => a.number - b.number);
+
+        for (const week of orderedWeeks) {
+          const weekGames = await loadWeekData(year, week.number, divisionsToSearch);
+          const matchingGame = weekGames.find(game =>
+            selectedTeams.includes(game.home) || selectedTeams.includes(game.away)
+          );
+
+          if (matchingGame && !cancelled) {
+            if (year !== selectedYear) {
+              setSelectedYear(year);
+            }
+            if (week.number !== selectedWeek) {
+              setSelectedWeek(week.number);
+            }
+            return;
+          }
+        }
+      }
+    };
+
+    findAvailableGame();
+
+    return () => {
+      cancelled = true;
+    };
+  }, [
+    index,
+    selectedTeams,
+    selectedDivisions,
+    selectedWeek,
+    selectedYear,
+    loadWeekData,
+    setSelectedWeek,
+    setSelectedYear
+  ]);
 
   if (loading) {
     return (
