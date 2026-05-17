@@ -19,5 +19,27 @@
     },
     "missingVenue": false,
     "division": "fbs"
+  },
+  {
+    "id": "2026-manual-cal-poly-6",
+    "sourceId": "2026-manual-cal-poly-6",
+    "source": "manual",
+    "week": 5,
+    "date": "2026-10-03",
+    "day": "Saturday",
+    "kickoff": "TBD",
+    "home": "Cal Poly",
+    "away": "Weber State",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Mustang Memorial Field Presented by French Hospital",
+      "lat": 35.3005,
+      "lng": -120.6587
+    },
+    "missingVenue": false,
+    "division": "fcs"
   }
 ]

@@ -42,6 +42,27 @@
     "division": "fcs"
   },
   {
+    "id": "2025-ncaa-401767109",
+    "sourceId": 401767109,
+    "week": 10,
+    "date": "2025-11-01",
+    "day": "Saturday",
+    "kickoff": "6p",
+    "home": "Northern Colorado",
+    "away": "Montana State",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Nottingham Field",
+      "lat": 40.4071,
+      "lng": -104.7017
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
     "id": "2025-ncaa-401767513",
     "sourceId": 401767513,
     "week": 10,
@@ -79,6 +100,27 @@
       "name": "Torero Stadium",
       "lat": 32.7741,
       "lng": -117.1833
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
+    "id": "2025-ncaa-401767066",
+    "sourceId": 401767066,
+    "week": 10,
+    "date": "2025-11-01",
+    "day": "Saturday",
+    "kickoff": "8p",
+    "home": "Eastern Washington",
+    "away": "Sacramento State",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Roos Field",
+      "lat": 47.4901,
+      "lng": -117.5888
     },
     "missingVenue": false,
     "division": "fcs"

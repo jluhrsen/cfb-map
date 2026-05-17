@@ -42,22 +42,22 @@
     "division": "fcs"
   },
   {
-    "id": "2025-ncaa-401767083",
-    "sourceId": 401767083,
+    "id": "2025-ncaa-401767063",
+    "sourceId": 401767063,
     "week": 6,
-    "date": "2025-10-05",
-    "day": "Sunday",
-    "kickoff": "12a",
-    "home": "Idaho State",
-    "away": "Montana",
+    "date": "2025-10-04",
+    "day": "Saturday",
+    "kickoff": "11p",
+    "home": "Eastern Washington",
+    "away": "Portland State",
     "homeDivision": "fcs",
     "awayDivision": "fcs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Holt Arena",
-      "lat": 42.8723,
-      "lng": -112.4341
+      "name": "Roos Field",
+      "lat": 47.4901,
+      "lng": -117.5888
     },
     "missingVenue": false,
     "division": "fcs"
@@ -79,6 +79,27 @@
       "name": "Alex G. Spanos Stadium",
       "lat": 35.3005,
       "lng": -120.6587
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
+    "id": "2025-ncaa-401767083",
+    "sourceId": 401767083,
+    "week": 6,
+    "date": "2025-10-05",
+    "day": "Sunday",
+    "kickoff": "12a",
+    "home": "Idaho State",
+    "away": "Montana",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Holt Arena",
+      "lat": 42.8723,
+      "lng": -112.4341
     },
     "missingVenue": false,
     "division": "fcs"
