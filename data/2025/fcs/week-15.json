@@ -21,27 +21,6 @@
     "division": "fcs"
   },
   {
-    "id": "2025-ncaa-401836216",
-    "sourceId": 401836216,
-    "week": 15,
-    "date": "2025-12-06",
-    "day": "Saturday",
-    "kickoff": "7p",
-    "home": "Stephen F. Austin",
-    "away": "Abilene Christian",
-    "homeDivision": "fcs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Homer Bryce Stadium",
-      "lat": 31.6204,
-      "lng": -94.6486
-    },
-    "missingVenue": false,
-    "division": "fcs"
-  },
-  {
     "id": "2025-ncaa-401836197",
     "sourceId": 401836197,
     "week": 15,
@@ -58,6 +37,27 @@
       "name": "Washington-Grizzly Stadium",
       "lat": 46.8601,
       "lng": -113.9845
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
+    "id": "2025-ncaa-401836216",
+    "sourceId": 401836216,
+    "week": 15,
+    "date": "2025-12-06",
+    "day": "Saturday",
+    "kickoff": "7p",
+    "home": "Stephen F. Austin",
+    "away": "Abilene Christian",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Homer Bryce Stadium",
+      "lat": 31.6204,
+      "lng": -94.6486
     },
     "missingVenue": false,
     "division": "fcs"

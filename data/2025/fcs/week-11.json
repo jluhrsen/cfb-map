@@ -21,22 +21,22 @@
     "division": "fcs"
   },
   {
-    "id": "2025-ncaa-401767474",
-    "sourceId": 401767474,
+    "id": "2025-ncaa-401767365",
+    "sourceId": 401767365,
     "week": 11,
     "date": "2025-11-08",
     "day": "Saturday",
     "kickoff": "8p",
-    "home": "Houston Christian",
-    "away": "Stephen F. Austin",
+    "home": "Alabama State",
+    "away": "Texas Southern",
     "homeDivision": "fcs",
     "awayDivision": "fcs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Husky Stadium",
-      "lat": 47.6504,
-      "lng": -122.3016
+      "name": "Hornet Stadium",
+      "lat": 38.5598,
+      "lng": -121.4242
     },
     "missingVenue": false,
     "division": "fcs"
@@ -63,43 +63,22 @@
     "division": "fcs"
   },
   {
-    "id": "2025-ncaa-401767365",
-    "sourceId": 401767365,
+    "id": "2025-ncaa-401767474",
+    "sourceId": 401767474,
     "week": 11,
     "date": "2025-11-08",
     "day": "Saturday",
     "kickoff": "8p",
-    "home": "Alabama State",
-    "away": "Texas Southern",
+    "home": "Houston Christian",
+    "away": "Stephen F. Austin",
     "homeDivision": "fcs",
     "awayDivision": "fcs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Hornet Stadium",
-      "lat": 38.5598,
-      "lng": -121.4242
-    },
-    "missingVenue": false,
-    "division": "fcs"
-  },
-  {
-    "id": "2025-ncaa-401767077",
-    "sourceId": 401767077,
-    "week": 11,
-    "date": "2025-11-08",
-    "day": "Saturday",
-    "kickoff": "11p",
-    "home": "Idaho State",
-    "away": "Cal Poly",
-    "homeDivision": "fcs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Holt Arena",
-      "lat": 42.8723,
-      "lng": -112.4341
+      "name": "Husky Stadium",
+      "lat": 47.6504,
+      "lng": -122.3016
     },
     "missingVenue": false,
     "division": "fcs"
@@ -121,6 +100,27 @@
       "name": "Walkup Skydome",
       "lat": 35.1803,
       "lng": -111.6544
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
+    "id": "2025-ncaa-401767077",
+    "sourceId": 401767077,
+    "week": 11,
+    "date": "2025-11-08",
+    "day": "Saturday",
+    "kickoff": "11p",
+    "home": "Idaho State",
+    "away": "Cal Poly",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Holt Arena",
+      "lat": 42.8723,
+      "lng": -112.4341
     },
     "missingVenue": false,
     "division": "fcs"

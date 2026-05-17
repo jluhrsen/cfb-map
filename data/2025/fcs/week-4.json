@@ -1,26 +1,5 @@
 [
   {
-    "id": "2025-ncaa-401762470",
-    "sourceId": 401762470,
-    "week": 4,
-    "date": "2025-09-20",
-    "day": "Saturday",
-    "kickoff": "4p",
-    "home": "South Florida",
-    "away": "South Carolina State",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Raymond James Stadium",
-      "lat": 27.9759,
-      "lng": -82.5033
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401754617",
     "sourceId": 401754617,
     "week": 4,
@@ -37,6 +16,27 @@
       "name": "Lane Stadium",
       "lat": 37.2206,
       "lng": -80.4183
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401762470",
+    "sourceId": 401762470,
+    "week": 4,
+    "date": "2025-09-20",
+    "day": "Saturday",
+    "kickoff": "4p",
+    "home": "South Florida",
+    "away": "South Carolina State",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Raymond James Stadium",
+      "lat": 27.9759,
+      "lng": -82.5033
     },
     "missingVenue": false,
     "division": "fbs"
@@ -210,27 +210,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401760377",
-    "sourceId": 401760377,
-    "week": 4,
-    "date": "2025-09-21",
-    "day": "Sunday",
-    "kickoff": "12a",
-    "home": "Utah State",
-    "away": "McNeese",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/328.png",
-    "awayLogo": null,
-    "venue": {
-      "name": "Maverik Stadium",
-      "lat": 41.7517,
-      "lng": -111.8116
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401761612",
     "sourceId": 401761612,
     "week": 4,
@@ -271,6 +250,27 @@
     },
     "missingVenue": false,
     "division": "fcs"
+  },
+  {
+    "id": "2025-ncaa-401760377",
+    "sourceId": 401760377,
+    "week": 4,
+    "date": "2025-09-21",
+    "day": "Sunday",
+    "kickoff": "12a",
+    "home": "Utah State",
+    "away": "McNeese",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/328.png",
+    "awayLogo": null,
+    "venue": {
+      "name": "Maverik Stadium",
+      "lat": 41.7517,
+      "lng": -111.8116
+    },
+    "missingVenue": false,
+    "division": "fbs"
   },
   {
     "id": "2025-ncaa-401767132",

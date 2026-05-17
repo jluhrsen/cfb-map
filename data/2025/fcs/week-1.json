@@ -21,27 +21,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401767446",
-    "sourceId": 401767446,
-    "week": 1,
-    "date": "2025-08-28",
-    "day": "Thursday",
-    "kickoff": "10p",
-    "home": "Indiana State",
-    "away": "McKendree",
-    "homeDivision": "fcs",
-    "awayDivision": "d2",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Memorial Stadium",
-      "lat": 38.9628,
-      "lng": -95.2464
-    },
-    "missingVenue": false,
-    "division": "fcs"
-  },
-  {
     "id": "2025-ncaa-401762790",
     "sourceId": 401762790,
     "week": 1,
@@ -63,16 +42,16 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752674",
-    "sourceId": 401752674,
+    "id": "2025-ncaa-401767446",
+    "sourceId": 401767446,
     "week": 1,
     "date": "2025-08-28",
     "day": "Thursday",
-    "kickoff": "11:30p",
-    "home": "Missouri",
-    "away": "Central Arkansas",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
+    "kickoff": "10p",
+    "home": "Indiana State",
+    "away": "McKendree",
+    "homeDivision": "fcs",
+    "awayDivision": "d2",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
@@ -81,7 +60,7 @@
       "lng": -95.2464
     },
     "missingVenue": false,
-    "division": "fbs"
+    "division": "fcs"
   },
   {
     "id": "2025-ncaa-401756876",
@@ -100,6 +79,27 @@
       "name": "Boone Pickens Stadium",
       "lat": 36.1286,
       "lng": -97.0651
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401752674",
+    "sourceId": 401752674,
+    "week": 1,
+    "date": "2025-08-28",
+    "day": "Thursday",
+    "kickoff": "11:30p",
+    "home": "Missouri",
+    "away": "Central Arkansas",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Memorial Stadium",
+      "lat": 38.9628,
+      "lng": -95.2464
     },
     "missingVenue": false,
     "division": "fbs"
@@ -252,27 +252,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401756853",
-    "sourceId": 401756853,
-    "week": 1,
-    "date": "2025-08-30",
-    "day": "Saturday",
-    "kickoff": "7:30p",
-    "home": "Iowa State",
-    "away": "South Dakota",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Jack Trice Stadium",
-      "lat": 42.014,
-      "lng": -93.6356
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401760359",
     "sourceId": 401760359,
     "week": 1,
@@ -289,6 +268,27 @@
       "name": "Falcon Stadium",
       "lat": 38.9967,
       "lng": -104.8436
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401756853",
+    "sourceId": 401756853,
+    "week": 1,
+    "date": "2025-08-30",
+    "day": "Saturday",
+    "kickoff": "7:30p",
+    "home": "Iowa State",
+    "away": "South Dakota",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Jack Trice Stadium",
+      "lat": 42.014,
+      "lng": -93.6356
     },
     "missingVenue": false,
     "division": "fbs"
@@ -441,27 +441,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401762435",
-    "sourceId": 401762435,
-    "week": 1,
-    "date": "2025-08-31",
-    "day": "Sunday",
-    "kickoff": "12a",
-    "home": "North Texas",
-    "away": "Lamar",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "DATCU Stadium",
-      "lat": 33.2071,
-      "lng": -97.1514
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401767070",
     "sourceId": 401767070,
     "week": 1,
@@ -481,6 +460,27 @@
     },
     "missingVenue": false,
     "division": "fcs"
+  },
+  {
+    "id": "2025-ncaa-401762435",
+    "sourceId": 401762435,
+    "week": 1,
+    "date": "2025-08-31",
+    "day": "Sunday",
+    "kickoff": "12a",
+    "home": "North Texas",
+    "away": "Lamar",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "DATCU Stadium",
+      "lat": 33.2071,
+      "lng": -97.1514
+    },
+    "missingVenue": false,
+    "division": "fbs"
   },
   {
     "id": "2025-ncaa-401756851",

@@ -147,27 +147,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752898",
-    "sourceId": 401752898,
-    "week": 11,
-    "date": "2025-11-08",
-    "day": "Saturday",
-    "kickoff": "8:30p",
-    "home": "Iowa",
-    "away": "Oregon",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Kinnick Stadium",
-      "lat": 41.6581,
-      "lng": -91.5509
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401754587",
     "sourceId": 401754587,
     "week": 11,
@@ -205,6 +184,27 @@
       "name": "Memorial Stadium",
       "lat": 38.9628,
       "lng": -95.2464
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401752898",
+    "sourceId": 401752898,
+    "week": 11,
+    "date": "2025-11-08",
+    "day": "Saturday",
+    "kickoff": "8:30p",
+    "home": "Iowa",
+    "away": "Oregon",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Kinnick Stadium",
+      "lat": 41.6581,
+      "lng": -91.5509
     },
     "missingVenue": false,
     "division": "fbs"
@@ -252,27 +252,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401754588",
-    "sourceId": 401754588,
-    "week": 11,
-    "date": "2025-11-08",
-    "day": "Saturday",
-    "kickoff": "9:30p",
-    "home": "North Carolina",
-    "away": "Stanford",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/24.png",
-    "venue": {
-      "name": "Kenan Stadium",
-      "lat": 35.9096,
-      "lng": -79.0478
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401752899",
     "sourceId": 401752899,
     "week": 11,
@@ -289,6 +268,27 @@
       "name": "Camp Randall Stadium",
       "lat": 43.0703,
       "lng": -89.4124
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401754588",
+    "sourceId": 401754588,
+    "week": 11,
+    "date": "2025-11-08",
+    "day": "Saturday",
+    "kickoff": "9:30p",
+    "home": "North Carolina",
+    "away": "Stanford",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/24.png",
+    "venue": {
+      "name": "Kenan Stadium",
+      "lat": 35.9096,
+      "lng": -79.0478
     },
     "missingVenue": false,
     "division": "fbs"
@@ -336,22 +336,22 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752759",
-    "sourceId": 401752759,
+    "id": "2025-ncaa-401760409",
+    "sourceId": 401760409,
     "week": 11,
     "date": "2025-11-09",
     "day": "Sunday",
     "kickoff": "12:30a",
-    "home": "Alabama",
-    "away": "LSU",
+    "home": "Utah State",
+    "away": "Nevada",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/328.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2440.png",
     "venue": {
-      "name": "Bryant-Denny Stadium",
-      "lat": 33.208,
-      "lng": -87.5502
+      "name": "Maverik Stadium",
+      "lat": 41.7517,
+      "lng": -111.8116
     },
     "missingVenue": false,
     "division": "fbs"
@@ -399,22 +399,22 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401760409",
-    "sourceId": 401760409,
+    "id": "2025-ncaa-401752759",
+    "sourceId": 401752759,
     "week": 11,
     "date": "2025-11-09",
     "day": "Sunday",
     "kickoff": "12:30a",
-    "home": "Utah State",
-    "away": "Nevada",
+    "home": "Alabama",
+    "away": "LSU",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/328.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2440.png",
+    "homeLogo": null,
+    "awayLogo": null,
     "venue": {
-      "name": "Maverik Stadium",
-      "lat": 41.7517,
-      "lng": -111.8116
+      "name": "Bryant-Denny Stadium",
+      "lat": 33.208,
+      "lng": -87.5502
     },
     "missingVenue": false,
     "division": "fbs"
