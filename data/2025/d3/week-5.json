@@ -1,12 +1,15 @@
 [
   {
-    "id": "2025-d3-401774261",
+    "id": "2025-ncaa-401774261",
+    "sourceId": 401774261,
     "week": 5,
     "date": "2025-09-28",
     "day": "Sunday",
     "kickoff": "2a",
     "home": "Pomona Pitzer",
     "away": "Claremont-Mudd-Scripps College",
+    "homeDivision": "d3",
+    "awayDivision": "d3",
     "homeLogo": "https://dbukjj6eu5tsf.cloudfront.net/sidearm.sites/pomapitzer.sidearmsports.com/images/responsive_2023/nav_logo_main.svg",
     "awayLogo": null,
     "venue": {
@@ -14,6 +17,7 @@
       "lat": 34.098,
       "lng": -117.714
     },
+    "missingVenue": false,
     "division": "d3"
   }
 ]

@@ -1,12 +1,36 @@
 [
   {
-    "id": "2025-fcs-401767228",
+    "id": "2025-ncaa-401767101",
+    "sourceId": 401767101,
+    "week": 9,
+    "date": "2025-10-25",
+    "day": "Saturday",
+    "kickoff": "2:30a",
+    "home": "Sacramento State",
+    "away": "Montana",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Hornet Stadium",
+      "lat": 38.5598,
+      "lng": -121.4242
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
+    "id": "2025-ncaa-401767228",
+    "sourceId": 401767228,
     "week": 9,
     "date": "2025-10-25",
     "day": "Saturday",
     "kickoff": "6:30p",
     "home": "Tennessee State",
     "away": "Western Illinois",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
@@ -14,16 +38,20 @@
       "lat": 36.1665,
       "lng": -86.7713
     },
+    "missingVenue": false,
     "division": "fcs"
   },
   {
-    "id": "2025-fcs-401767472",
+    "id": "2025-ncaa-401767472",
+    "sourceId": 401767472,
     "week": 9,
     "date": "2025-10-25",
     "day": "Saturday",
     "kickoff": "7p",
     "home": "Houston Christian",
     "away": "SE Louisiana",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
@@ -31,16 +59,20 @@
       "lat": 47.6504,
       "lng": -122.3016
     },
+    "missingVenue": false,
     "division": "fcs"
   },
   {
-    "id": "2025-fcs-401767419",
+    "id": "2025-ncaa-401767419",
+    "sourceId": 401767419,
     "week": 9,
     "date": "2025-10-25",
     "day": "Saturday",
     "kickoff": "10p",
     "home": "Grambling",
     "away": "Jackson State",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
@@ -48,6 +80,49 @@
       "lat": 36.0909,
       "lng": -115.1833
     },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
+    "id": "2025-ncaa-401767085",
+    "sourceId": 401767085,
+    "week": 9,
+    "date": "2025-10-25",
+    "day": "Saturday",
+    "kickoff": "10p",
+    "home": "Idaho State",
+    "away": "Northern Arizona",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Holt Arena",
+      "lat": 42.8723,
+      "lng": -112.4341
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
+    "id": "2025-ncaa-401767075",
+    "sourceId": 401767075,
+    "week": 9,
+    "date": "2025-10-26",
+    "day": "Sunday",
+    "kickoff": "12a",
+    "home": "Cal Poly",
+    "away": "Montana State",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Alex G. Spanos Stadium",
+      "lat": 35.3005,
+      "lng": -120.6587
+    },
+    "missingVenue": false,
     "division": "fcs"
   }
 ]

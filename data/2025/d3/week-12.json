@@ -1,12 +1,15 @@
 [
   {
-    "id": "2025-d3-401834154",
+    "id": "2025-ncaa-401834154",
+    "sourceId": 401834154,
     "week": 12,
     "date": "2025-11-15",
     "day": "Saturday",
     "kickoff": "4p",
     "home": "Austin",
     "away": "CENTENARY",
+    "homeDivision": "d3",
+    "awayDivision": "d3",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
@@ -14,67 +17,20 @@
       "lat": 41.307,
       "lng": -105.5677
     },
+    "missingVenue": false,
     "division": "d3"
   },
   {
-    "id": "2025-d3-401777171",
-    "week": 12,
-    "date": "2025-11-15",
-    "day": "Saturday",
-    "kickoff": "8p",
-    "home": "Whitworth",
-    "away": "Puget Sound",
-    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/ekkb9ky91gzlit7x.png",
-    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/wpoqmrhctdrju4jh.png",
-    "venue": {
-      "name": "Pine Bowl",
-      "lat": 47.7523,
-      "lng": -117.4202
-    },
-    "division": "d3"
-  },
-  {
-    "id": "2025-d3-401777158",
-    "week": 12,
-    "date": "2025-11-15",
-    "day": "Saturday",
-    "kickoff": "9p",
-    "home": "Pacific (OR)",
-    "away": "Lewis & Clark College",
-    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/lkxbjwugyaf69m59.png",
-    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/2i62768ao3nlh5wq.png",
-    "venue": {
-      "name": "Hanson Stadium",
-      "lat": 45.5195,
-      "lng": -123.1107
-    },
-    "division": "d3"
-  },
-  {
-    "id": "2025-d3-401777152",
-    "week": 12,
-    "date": "2025-11-15",
-    "day": "Saturday",
-    "kickoff": "9p",
-    "home": "Linfield College",
-    "away": "Willamette",
-    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/8ab4hlzfjvtul4nx.png",
-    "awayLogo": "https://lh3.googleusercontent.com/6tOuPbn-4tztWUJrhNcODPR25WMo6bats7oaCuwY5KNzSTZneTGpKn-Z6PvWnJ0lNSE8hu7916kIwJhR3qYlbVWPYUo3NLgS2EM",
-    "venue": {
-      "name": "Maxwell Field",
-      "lat": 45.2099,
-      "lng": -123.1987
-    },
-    "division": "d3"
-  },
-  {
-    "id": "2025-d3-401834155",
+    "id": "2025-ncaa-401834155",
+    "sourceId": 401834155,
     "week": 12,
     "date": "2025-11-15",
     "day": "Saturday",
     "kickoff": "9p",
     "home": "Hendrix College",
     "away": "LYONCOLL",
+    "homeDivision": "d3",
+    "awayDivision": "d3",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
@@ -82,16 +38,20 @@
       "lat": 41.307,
       "lng": -105.5677
     },
+    "missingVenue": false,
     "division": "d3"
   },
   {
-    "id": "2025-d3-401777146",
+    "id": "2025-ncaa-401777146",
+    "sourceId": 401777146,
     "week": 12,
     "date": "2025-11-15",
     "day": "Saturday",
     "kickoff": "9p",
     "home": "Pacific Lutheran",
     "away": "NEWBERG",
+    "homeDivision": "d3",
+    "awayDivision": "d3",
     "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/bi1umnuk45dh7ppn.png",
     "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/mi23750dj6i6tf21.png",
     "venue": {
@@ -99,16 +59,62 @@
       "lat": 47.1872,
       "lng": -122.3005
     },
+    "missingVenue": false,
     "division": "d3"
   },
   {
-    "id": "2025-d3-401834156",
+    "id": "2025-ncaa-401777158",
+    "sourceId": 401777158,
+    "week": 12,
+    "date": "2025-11-15",
+    "day": "Saturday",
+    "kickoff": "9p",
+    "home": "Pacific (OR)",
+    "away": "Lewis & Clark College",
+    "homeDivision": "d3",
+    "awayDivision": "d3",
+    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/lkxbjwugyaf69m59.png",
+    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/2i62768ao3nlh5wq.png",
+    "venue": {
+      "name": "Hanson Stadium",
+      "lat": 45.5195,
+      "lng": -123.1107
+    },
+    "missingVenue": false,
+    "division": "d3"
+  },
+  {
+    "id": "2025-ncaa-401777152",
+    "sourceId": 401777152,
+    "week": 12,
+    "date": "2025-11-15",
+    "day": "Saturday",
+    "kickoff": "9p",
+    "home": "Linfield College",
+    "away": "Willamette",
+    "homeDivision": "d3",
+    "awayDivision": "d3",
+    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/8ab4hlzfjvtul4nx.png",
+    "awayLogo": "https://lh3.googleusercontent.com/6tOuPbn-4tztWUJrhNcODPR25WMo6bats7oaCuwY5KNzSTZneTGpKn-Z6PvWnJ0lNSE8hu7916kIwJhR3qYlbVWPYUo3NLgS2EM",
+    "venue": {
+      "name": "Maxwell Field",
+      "lat": 45.2099,
+      "lng": -123.1987
+    },
+    "missingVenue": false,
+    "division": "d3"
+  },
+  {
+    "id": "2025-ncaa-401834156",
+    "sourceId": 401834156,
     "week": 12,
     "date": "2025-11-16",
     "day": "Sunday",
     "kickoff": "2a",
     "home": "Texas Lutheran",
     "away": "McMurry",
+    "homeDivision": "d3",
+    "awayDivision": "d3",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
@@ -116,6 +122,7 @@
       "lat": 41.307,
       "lng": -105.5677
     },
+    "missingVenue": false,
     "division": "d3"
   }
 ]

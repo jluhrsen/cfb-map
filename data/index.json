@@ -4,7 +4,7 @@
     2025,
     2026
   ],
-  "lastUpdated": "2026-05-16T18:42:24.120Z",
+  "lastUpdated": "2026-05-17T00:59:59.779Z",
   "weeksByYear": {
     "2025": [
       {
@@ -54,7 +54,7 @@
       },
       {
         "number": 10,
-        "startDate": "2025-10-30",
+        "startDate": "2025-10-29",
         "label": "Week 10"
       },
       {
@@ -201,7 +201,7 @@
   "teams": [
     {
       "name": "Abilene Christian",
-      "division": "fbs",
+      "division": "fcs",
       "abbreviation": "ABI",
       "logo": null
     },
@@ -225,12 +225,12 @@
     },
     {
       "name": "Alabama A&M",
-      "division": "fbs",
+      "division": "fcs",
       "abbreviation": "ALA",
       "logo": null
     },
     {
-      "name": "Alabama A&M",
+      "name": "Alabama State",
       "division": "fcs",
       "abbreviation": "ALA",
       "logo": null
@@ -266,14 +266,8 @@
       "logo": null
     },
     {
-      "name": "Arkansas State",
-      "division": "fbs",
-      "abbreviation": "ARK",
-      "logo": null
-    },
-    {
       "name": "Arkansas-Pine Bluff",
-      "division": "fbs",
+      "division": "fcs",
       "abbreviation": "ARK",
       "logo": null
     },
@@ -303,7 +297,7 @@
     },
     {
       "name": "Austin Peay",
-      "division": "fbs",
+      "division": "fcs",
       "abbreviation": "AUS",
       "logo": null
     },
@@ -327,7 +321,7 @@
     },
     {
       "name": "Bethune-Cookman",
-      "division": "fbs",
+      "division": "fcs",
       "abbreviation": "BET",
       "logo": null
     },
@@ -350,14 +344,8 @@
       "logo": null
     },
     {
-      "name": "Bryant",
-      "division": "fcs",
-      "abbreviation": "BRY",
-      "logo": null
-    },
-    {
       "name": "Bucknell",
-      "division": "fbs",
+      "division": "fcs",
       "abbreviation": "BUC",
       "logo": null
     },
@@ -374,6 +362,12 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/buf.png"
     },
     {
+      "name": "Butler",
+      "division": "fcs",
+      "abbreviation": "BUT",
+      "logo": null
+    },
+    {
       "name": "BYU",
       "division": "fbs",
       "abbreviation": "BYU",
@@ -381,7 +375,7 @@
     },
     {
       "name": "Cal Poly",
-      "division": "fbs",
+      "division": "fcs",
       "abbreviation": "CAL",
       "logo": null
     },
@@ -404,12 +398,6 @@
       "logo": null
     },
     {
-      "name": "Campbell",
-      "division": "fbs",
-      "abbreviation": "CAM",
-      "logo": null
-    },
-    {
       "name": "Carolina Panthers",
       "division": "nfl",
       "abbreviation": "CAR",
@@ -423,7 +411,7 @@
     },
     {
       "name": "Central Arkansas",
-      "division": "fbs",
+      "division": "fcs",
       "abbreviation": "CEN",
       "logo": null
     },
@@ -440,6 +428,12 @@
       "logo": null
     },
     {
+      "name": "Central Washington",
+      "division": "d2",
+      "abbreviation": "CEN",
+      "logo": null
+    },
+    {
       "name": "Chapman",
       "division": "d3",
       "abbreviation": "CHA",
@@ -447,7 +441,7 @@
     },
     {
       "name": "Charleston Southern",
-      "division": "fbs",
+      "division": "fcs",
       "abbreviation": "CHA",
       "logo": null
     },
@@ -459,7 +453,7 @@
     },
     {
       "name": "Chattanooga",
-      "division": "fbs",
+      "division": "fcs",
       "abbreviation": "CHA",
       "logo": null
     },
@@ -501,7 +495,7 @@
     },
     {
       "name": "Colgate",
-      "division": "fbs",
+      "division": "fcs",
       "abbreviation": "COL",
       "logo": null
     },
@@ -518,16 +512,16 @@
       "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/36.png"
     },
     {
-      "name": "Cornell",
-      "division": "fcs",
-      "abbreviation": "COR",
-      "logo": null
-    },
-    {
       "name": "Dallas Cowboys",
       "division": "nfl",
       "abbreviation": "DAL",
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/dal.png"
+    },
+    {
+      "name": "Dayton",
+      "division": "fcs",
+      "abbreviation": "DAY",
+      "logo": null
     },
     {
       "name": "Delaware",
@@ -538,12 +532,6 @@
     {
       "name": "Delaware State",
       "division": "fcs",
-      "abbreviation": "DEL",
-      "logo": null
-    },
-    {
-      "name": "Delaware State",
-      "division": "fbs",
       "abbreviation": "DEL",
       "logo": null
     },
@@ -560,6 +548,12 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/det.png"
     },
     {
+      "name": "Drake",
+      "division": "fcs",
+      "abbreviation": "DRA",
+      "logo": null
+    },
+    {
       "name": "Duke",
       "division": "fbs",
       "abbreviation": "DUK",
@@ -567,7 +561,7 @@
     },
     {
       "name": "Duquesne",
-      "division": "fbs",
+      "division": "fcs",
       "abbreviation": "DUQ",
       "logo": null
     },
@@ -579,25 +573,19 @@
     },
     {
       "name": "East Tennessee State",
-      "division": "fbs",
+      "division": "fcs",
       "abbreviation": "EAS",
       "logo": null
     },
     {
       "name": "East Texas A&M",
-      "division": "fbs",
-      "abbreviation": "EAS",
-      "logo": null
-    },
-    {
-      "name": "Eastern Illinois",
       "division": "fcs",
       "abbreviation": "EAS",
       "logo": null
     },
     {
       "name": "Eastern Illinois",
-      "division": "fbs",
+      "division": "fcs",
       "abbreviation": "EAS",
       "logo": null
     },
@@ -609,19 +597,13 @@
     },
     {
       "name": "Eastern Washington",
-      "division": "fbs",
+      "division": "fcs",
       "abbreviation": "EAS",
       "logo": null
     },
     {
       "name": "Elon",
       "division": "fcs",
-      "abbreviation": "ELO",
-      "logo": null
-    },
-    {
-      "name": "Elon",
-      "division": "fbs",
       "abbreviation": "ELO",
       "logo": null
     },
@@ -634,12 +616,6 @@
     {
       "name": "Florida A&M",
       "division": "fcs",
-      "abbreviation": "FLO",
-      "logo": null
-    },
-    {
-      "name": "Florida A&M",
-      "division": "fbs",
       "abbreviation": "FLO",
       "logo": null
     },
@@ -662,6 +638,12 @@
       "logo": null
     },
     {
+      "name": "Fordham",
+      "division": "fcs",
+      "abbreviation": "FOR",
+      "logo": null
+    },
+    {
       "name": "Fresno State",
       "division": "fbs",
       "abbreviation": "FRE",
@@ -670,12 +652,6 @@
     {
       "name": "Furman",
       "division": "fcs",
-      "abbreviation": "FUR",
-      "logo": null
-    },
-    {
-      "name": "Furman",
-      "division": "fbs",
       "abbreviation": "FUR",
       "logo": null
     },
@@ -711,12 +687,6 @@
     },
     {
       "name": "Grambling",
-      "division": "fbs",
-      "abbreviation": "GRA",
-      "logo": null
-    },
-    {
-      "name": "Grambling",
       "division": "fcs",
       "abbreviation": "GRA",
       "logo": null
@@ -726,12 +696,6 @@
       "division": "nfl",
       "abbreviation": "GRE",
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png"
-    },
-    {
-      "name": "Gustavus Adolphus",
-      "division": "d3",
-      "abbreviation": "GUS",
-      "logo": null
     },
     {
       "name": "Hawai'i",
@@ -747,7 +711,7 @@
     },
     {
       "name": "Holy Cross",
-      "division": "fbs",
+      "division": "fcs",
       "abbreviation": "HOL",
       "logo": null
     },
@@ -764,12 +728,6 @@
       "logo": null
     },
     {
-      "name": "Houston Christian",
-      "division": "fbs",
-      "abbreviation": "HOU",
-      "logo": null
-    },
-    {
       "name": "Houston Texans",
       "division": "nfl",
       "abbreviation": "HOU",
@@ -782,20 +740,14 @@
       "logo": null
     },
     {
-      "name": "Howard",
-      "division": "fbs",
-      "abbreviation": "HOW",
-      "logo": null
-    },
-    {
       "name": "Idaho",
-      "division": "fbs",
+      "division": "fcs",
       "abbreviation": "IDA",
       "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/70.png"
     },
     {
       "name": "Idaho State",
-      "division": "fbs",
+      "division": "fcs",
       "abbreviation": "IDA",
       "logo": null
     },
@@ -809,18 +761,6 @@
       "name": "Illinois State",
       "division": "fcs",
       "abbreviation": "ILL",
-      "logo": null
-    },
-    {
-      "name": "Illinois State",
-      "division": "fbs",
-      "abbreviation": "ILL",
-      "logo": null
-    },
-    {
-      "name": "Incarnate Word",
-      "division": "fbs",
-      "abbreviation": "INC",
       "logo": null
     },
     {
@@ -838,12 +778,6 @@
     {
       "name": "Indiana State",
       "division": "fcs",
-      "abbreviation": "IND",
-      "logo": null
-    },
-    {
-      "name": "Indiana State",
-      "division": "fbs",
       "abbreviation": "IND",
       "logo": null
     },
@@ -939,13 +873,13 @@
     },
     {
       "name": "Lafayette",
-      "division": "fbs",
+      "division": "fcs",
       "abbreviation": "LAF",
       "logo": null
     },
     {
       "name": "Lamar",
-      "division": "fbs",
+      "division": "fcs",
       "abbreviation": "LAM",
       "logo": null
     },
@@ -968,14 +902,14 @@
       "logo": null
     },
     {
-      "name": "Lindenwood",
-      "division": "fcs",
+      "name": "Lincoln (CA)",
+      "division": "d2",
       "abbreviation": "LIN",
       "logo": null
     },
     {
       "name": "Lindenwood",
-      "division": "fbs",
+      "division": "fcs",
       "abbreviation": "LIN",
       "logo": null
     },
@@ -987,13 +921,13 @@
     },
     {
       "name": "Little Rock",
-      "division": "fcs",
+      "division": "fbs",
       "abbreviation": "LIT",
       "logo": null
     },
     {
       "name": "Long Island University",
-      "division": "fbs",
+      "division": "fcs",
       "abbreviation": "LON",
       "logo": null
     },
@@ -1059,7 +993,7 @@
     },
     {
       "name": "McKendree",
-      "division": "fcs",
+      "division": "d2",
       "abbreviation": "MCK",
       "logo": null
     },
@@ -1071,7 +1005,7 @@
     },
     {
       "name": "McNeese",
-      "division": "fbs",
+      "division": "fcs",
       "abbreviation": "MCN",
       "logo": null
     },
@@ -1083,7 +1017,13 @@
     },
     {
       "name": "Mercer",
-      "division": "fbs",
+      "division": "fcs",
+      "abbreviation": "MER",
+      "logo": null
+    },
+    {
+      "name": "Mercyhurst",
+      "division": "fcs",
       "abbreviation": "MER",
       "logo": null
     },
@@ -1125,7 +1065,7 @@
     },
     {
       "name": "Miles College",
-      "division": "fcs",
+      "division": "d2",
       "abbreviation": "MIL",
       "logo": null
     },
@@ -1148,6 +1088,12 @@
       "logo": null
     },
     {
+      "name": "Mississippi Valley State",
+      "division": "fcs",
+      "abbreviation": "MIS",
+      "logo": null
+    },
+    {
       "name": "Missouri",
       "division": "fbs",
       "abbreviation": "MIS",
@@ -1160,8 +1106,8 @@
       "logo": null
     },
     {
-      "name": "Montana State",
-      "division": "fbs",
+      "name": "Montana",
+      "division": "fcs",
       "abbreviation": "MON",
       "logo": null
     },
@@ -1173,7 +1119,7 @@
     },
     {
       "name": "Morehouse College",
-      "division": "fcs",
+      "division": "d2",
       "abbreviation": "MOR",
       "logo": null
     },
@@ -1186,12 +1132,6 @@
     {
       "name": "Murray State",
       "division": "fcs",
-      "abbreviation": "MUR",
-      "logo": null
-    },
-    {
-      "name": "Murray State",
-      "division": "fbs",
       "abbreviation": "MUR",
       "logo": null
     },
@@ -1227,18 +1167,6 @@
     },
     {
       "name": "New Hampshire",
-      "division": "fcs",
-      "abbreviation": "NEW",
-      "logo": null
-    },
-    {
-      "name": "New Hampshire",
-      "division": "fbs",
-      "abbreviation": "NEW",
-      "logo": null
-    },
-    {
-      "name": "New Haven",
       "division": "fcs",
       "abbreviation": "NEW",
       "logo": null
@@ -1280,9 +1208,9 @@
       "logo": "https://cdn.prestosports.com/action/cdn/logos/id/mi23750dj6i6tf21.png"
     },
     {
-      "name": "Norfolk State",
-      "division": "fbs",
-      "abbreviation": "NOR",
+      "name": "Nicholls",
+      "division": "fcs",
+      "abbreviation": "NIC",
       "logo": null
     },
     {
@@ -1293,7 +1221,7 @@
     },
     {
       "name": "North Alabama",
-      "division": "fbs",
+      "division": "fcs",
       "abbreviation": "NOR",
       "logo": null
     },
@@ -1311,7 +1239,7 @@
     },
     {
       "name": "North Dakota",
-      "division": "fbs",
+      "division": "fcs",
       "abbreviation": "NOR",
       "logo": null
     },
@@ -1335,13 +1263,7 @@
     },
     {
       "name": "Northern Arizona",
-      "division": "fbs",
-      "abbreviation": "NOR",
-      "logo": null
-    },
-    {
-      "name": "Northern Colorado",
-      "division": "fbs",
+      "division": "fcs",
       "abbreviation": "NOR",
       "logo": null
     },
@@ -1359,7 +1281,7 @@
     },
     {
       "name": "Northern Iowa",
-      "division": "fbs",
+      "division": "fcs",
       "abbreviation": "NOR",
       "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2460.png"
     },
@@ -1473,14 +1395,8 @@
     },
     {
       "name": "Portland State",
-      "division": "fbs",
+      "division": "fcs",
       "abbreviation": "POR",
-      "logo": null
-    },
-    {
-      "name": "Prairie View A&M",
-      "division": "fbs",
-      "abbreviation": "PRA",
       "logo": null
     },
     {
@@ -1514,12 +1430,6 @@
       "logo": null
     },
     {
-      "name": "Rhode Island",
-      "division": "fbs",
-      "abbreviation": "RHO",
-      "logo": null
-    },
-    {
       "name": "Rice",
       "division": "fbs",
       "abbreviation": "RIC",
@@ -1527,13 +1437,13 @@
     },
     {
       "name": "Richmond",
-      "division": "fbs",
+      "division": "fcs",
       "abbreviation": "RIC",
       "logo": null
     },
     {
       "name": "Robert Morris",
-      "division": "fbs",
+      "division": "fcs",
       "abbreviation": "ROB",
       "logo": null
     },
@@ -1545,7 +1455,19 @@
     },
     {
       "name": "Sacramento State",
+      "division": "fcs",
+      "abbreviation": "SAC",
+      "logo": null
+    },
+    {
+      "name": "Sacramento State",
       "division": "fbs",
+      "abbreviation": "SAC",
+      "logo": null
+    },
+    {
+      "name": "Sacred Heart",
+      "division": "fcs",
       "abbreviation": "SAC",
       "logo": null
     },
@@ -1557,8 +1479,14 @@
     },
     {
       "name": "Samford",
-      "division": "fbs",
+      "division": "fcs",
       "abbreviation": "SAM",
+      "logo": null
+    },
+    {
+      "name": "San Diego",
+      "division": "fcs",
+      "abbreviation": "SAN",
       "logo": null
     },
     {
@@ -1580,18 +1508,6 @@
       "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/23.png"
     },
     {
-      "name": "San Jos�� State",
-      "division": "fbs",
-      "abbreviation": "SAN",
-      "logo": null
-    },
-    {
-      "name": "SE Louisiana",
-      "division": "fbs",
-      "abbreviation": "SE ",
-      "logo": null
-    },
-    {
       "name": "SE Louisiana",
       "division": "fcs",
       "abbreviation": "SE ",
@@ -1605,7 +1521,7 @@
     },
     {
       "name": "Simpson University (Ca)",
-      "division": "d3",
+      "division": "fbs",
       "abbreviation": "SIM",
       "logo": null
     },
@@ -1629,19 +1545,7 @@
     },
     {
       "name": "South Carolina State",
-      "division": "fbs",
-      "abbreviation": "SOU",
-      "logo": null
-    },
-    {
-      "name": "South Carolina State",
       "division": "fcs",
-      "abbreviation": "SOU",
-      "logo": null
-    },
-    {
-      "name": "South Dakota",
-      "division": "fbs",
       "abbreviation": "SOU",
       "logo": null
     },
@@ -1653,7 +1557,7 @@
     },
     {
       "name": "South Dakota State",
-      "division": "fbs",
+      "division": "fcs",
       "abbreviation": "SOU",
       "logo": null
     },
@@ -1665,13 +1569,7 @@
     },
     {
       "name": "Southeast Missouri State",
-      "division": "fbs",
-      "abbreviation": "SOU",
-      "logo": null
-    },
-    {
-      "name": "Southern",
-      "division": "fbs",
+      "division": "fcs",
       "abbreviation": "SOU",
       "logo": null
     },
@@ -1683,7 +1581,7 @@
     },
     {
       "name": "Southern Illinois",
-      "division": "fbs",
+      "division": "fcs",
       "abbreviation": "SOU",
       "logo": null
     },
@@ -1695,8 +1593,14 @@
     },
     {
       "name": "Southern Utah",
-      "division": "fbs",
+      "division": "fcs",
       "abbreviation": "SOU",
+      "logo": null
+    },
+    {
+      "name": "St. Thomas (MN)",
+      "division": "fcs",
+      "abbreviation": "ST.",
       "logo": null
     },
     {
@@ -1707,26 +1611,20 @@
     },
     {
       "name": "Stephen F. Austin",
-      "division": "fbs",
-      "abbreviation": "STE",
-      "logo": null
-    },
-    {
-      "name": "Stephen F. Austin",
       "division": "fcs",
       "abbreviation": "STE",
       "logo": null
     },
     {
       "name": "Stony Brook",
-      "division": "fbs",
+      "division": "fcs",
       "abbreviation": "STO",
       "logo": null
     },
     {
-      "name": "Stony Brook",
-      "division": "fcs",
-      "abbreviation": "STO",
+      "name": "Sul Ross State",
+      "division": "d2",
+      "abbreviation": "SUL",
       "logo": null
     },
     {
@@ -1743,7 +1641,7 @@
     },
     {
       "name": "Tarleton State",
-      "division": "fbs",
+      "division": "fcs",
       "abbreviation": "TAR",
       "logo": null
     },
@@ -1772,20 +1670,8 @@
       "logo": null
     },
     {
-      "name": "Tennessee State",
-      "division": "fbs",
-      "abbreviation": "TEN",
-      "logo": null
-    },
-    {
       "name": "Tennessee Tech",
       "division": "fcs",
-      "abbreviation": "TEN",
-      "logo": null
-    },
-    {
-      "name": "Tennessee Tech",
-      "division": "fbs",
       "abbreviation": "TEN",
       "logo": null
     },
@@ -1815,7 +1701,7 @@
     },
     {
       "name": "Texas Southern",
-      "division": "fbs",
+      "division": "fcs",
       "abbreviation": "TEX",
       "logo": null
     },
@@ -1833,7 +1719,7 @@
     },
     {
       "name": "The Citadel",
-      "division": "fbs",
+      "division": "fcs",
       "abbreviation": "THE",
       "logo": null
     },
@@ -1841,12 +1727,6 @@
       "name": "Toledo",
       "division": "fbs",
       "abbreviation": "TOL",
-      "logo": null
-    },
-    {
-      "name": "Towson",
-      "division": "fbs",
-      "abbreviation": "TOW",
       "logo": null
     },
     {
@@ -1880,15 +1760,15 @@
       "logo": null
     },
     {
-      "name": "UAB",
-      "division": "fbs",
-      "abbreviation": "UAB",
+      "name": "Tuskegee",
+      "division": "d2",
+      "abbreviation": "TUS",
       "logo": null
     },
     {
-      "name": "UAlbany",
+      "name": "UAB",
       "division": "fbs",
-      "abbreviation": "UAL",
+      "abbreviation": "UAB",
       "logo": null
     },
     {
@@ -1899,7 +1779,7 @@
     },
     {
       "name": "UC Davis",
-      "division": "fbs",
+      "division": "fcs",
       "abbreviation": "UC ",
       "logo": null
     },
@@ -1941,13 +1821,13 @@
     },
     {
       "name": "UT Martin",
-      "division": "fbs",
+      "division": "fcs",
       "abbreviation": "UT ",
       "logo": null
     },
     {
       "name": "UT Rio Grande Valley",
-      "division": "fbs",
+      "division": "fcs",
       "abbreviation": "UT ",
       "logo": null
     },
@@ -1965,7 +1845,7 @@
     },
     {
       "name": "Utah Tech",
-      "division": "fbs",
+      "division": "fcs",
       "abbreviation": "UTA",
       "logo": null
     },
@@ -1989,7 +1869,7 @@
     },
     {
       "name": "Villanova",
-      "division": "fbs",
+      "division": "fcs",
       "abbreviation": "VIL",
       "logo": null
     },
@@ -2007,13 +1887,13 @@
     },
     {
       "name": "VMI",
-      "division": "fbs",
+      "division": "fcs",
       "abbreviation": "VMI",
       "logo": null
     },
     {
       "name": "Wagner",
-      "division": "fbs",
+      "division": "fcs",
       "abbreviation": "WAG",
       "logo": null
     },
@@ -2043,24 +1923,12 @@
     },
     {
       "name": "Weber State",
-      "division": "fbs",
+      "division": "fcs",
       "abbreviation": "WEB",
       "logo": null
     },
     {
       "name": "West Virginia",
-      "division": "fbs",
-      "abbreviation": "WES",
-      "logo": null
-    },
-    {
-      "name": "Western Carolina",
-      "division": "fcs",
-      "abbreviation": "WES",
-      "logo": null
-    },
-    {
-      "name": "Western Illinois",
       "division": "fbs",
       "abbreviation": "WES",
       "logo": null
@@ -2084,6 +1952,12 @@
       "logo": null
     },
     {
+      "name": "Western Oregon",
+      "division": "d2",
+      "abbreviation": "WES",
+      "logo": null
+    },
+    {
       "name": "Whitworth",
       "division": "d3",
       "abbreviation": "WHI",
@@ -2094,12 +1968,6 @@
       "division": "d3",
       "abbreviation": "WIL",
       "logo": "https://lh3.googleusercontent.com/6tOuPbn-4tztWUJrhNcODPR25WMo6bats7oaCuwY5KNzSTZneTGpKn-Z6PvWnJ0lNSE8hu7916kIwJhR3qYlbVWPYUo3NLgS2EM"
-    },
-    {
-      "name": "William & Mary",
-      "division": "fcs",
-      "abbreviation": "WIL",
-      "logo": null
     },
     {
       "name": "Wisconsin",
@@ -2121,7 +1989,7 @@
     },
     {
       "name": "Wofford",
-      "division": "fbs",
+      "division": "fcs",
       "abbreviation": "WOF",
       "logo": null
     },
@@ -2133,7 +2001,7 @@
     },
     {
       "name": "Youngstown State",
-      "division": "fbs",
+      "division": "fcs",
       "abbreviation": "YOU",
       "logo": null
     }

@@ -1,12 +1,15 @@
 [
   {
-    "id": "2025-fcs-401767346",
+    "id": "2025-ncaa-401767346",
+    "sourceId": 401767346,
     "week": 10,
     "date": "2025-10-30",
     "day": "Thursday",
     "kickoff": "11p",
     "home": "Delaware State",
     "away": "Norfolk State",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
@@ -14,16 +17,83 @@
       "lat": 39.9008,
       "lng": -75.1675
     },
+    "missingVenue": false,
     "division": "fcs"
   },
   {
-    "id": "2025-fcs-401767213",
+    "id": "2025-ncaa-401767094",
+    "sourceId": 401767094,
+    "week": 10,
+    "date": "2025-11-01",
+    "day": "Saturday",
+    "kickoff": "2:30a",
+    "home": "Northern Arizona",
+    "away": "Idaho",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/70.png",
+    "venue": {
+      "name": "Walkup Skydome",
+      "lat": 35.1803,
+      "lng": -111.6544
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
+    "id": "2025-ncaa-401767513",
+    "sourceId": 401767513,
+    "week": 10,
+    "date": "2025-11-01",
+    "day": "Saturday",
+    "kickoff": "7:30p",
+    "home": "North Dakota State",
+    "away": "Youngstown State",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Fargodome",
+      "lat": 46.9028,
+      "lng": -96.8013
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
+    "id": "2025-ncaa-401767618",
+    "sourceId": 401767618,
+    "week": 10,
+    "date": "2025-11-01",
+    "day": "Saturday",
+    "kickoff": "8p",
+    "home": "San Diego",
+    "away": "Dayton",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Torero Stadium",
+      "lat": 32.7741,
+      "lng": -117.1833
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
+    "id": "2025-ncaa-401767213",
+    "sourceId": 401767213,
     "week": 10,
     "date": "2025-11-01",
     "day": "Saturday",
     "kickoff": "8:30p",
     "home": "Tennessee State",
     "away": "Lindenwood",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
@@ -31,6 +101,49 @@
       "lat": 36.1665,
       "lng": -86.7713
     },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
+    "id": "2025-ncaa-401767076",
+    "sourceId": 401767076,
+    "week": 10,
+    "date": "2025-11-01",
+    "day": "Saturday",
+    "kickoff": "9p",
+    "home": "Cal Poly",
+    "away": "Portland State",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Alex G. Spanos Stadium",
+      "lat": 35.3005,
+      "lng": -120.6587
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
+    "id": "2025-ncaa-401767525",
+    "sourceId": 401767525,
+    "week": 10,
+    "date": "2025-11-01",
+    "day": "Saturday",
+    "kickoff": "11p",
+    "home": "Stephen F. Austin",
+    "away": "UT Rio Grande Valley",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Homer Bryce Stadium",
+      "lat": 31.6204,
+      "lng": -94.6486
+    },
+    "missingVenue": false,
     "division": "fcs"
   }
 ]

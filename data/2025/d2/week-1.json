@@ -1,12 +1,36 @@
 [
   {
-    "id": "2025-d2-401774011",
+    "id": "2025-ncaa-401767446",
+    "sourceId": 401767446,
+    "week": 1,
+    "date": "2025-08-28",
+    "day": "Thursday",
+    "kickoff": "10p",
+    "home": "Indiana State",
+    "away": "McKendree",
+    "homeDivision": "fcs",
+    "awayDivision": "d2",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Memorial Stadium",
+      "lat": 38.9628,
+      "lng": -95.2464
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
+    "id": "2025-ncaa-401774011",
+    "sourceId": 401774011,
     "week": 1,
     "date": "2025-08-30",
     "day": "Saturday",
     "kickoff": "5p",
     "home": "Central State (OH)",
     "away": "Kentucky State",
+    "homeDivision": "d2",
+    "awayDivision": "d2",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
@@ -14,6 +38,7 @@
       "lat": 42.34,
       "lng": -83.0456
     },
+    "missingVenue": false,
     "division": "d2"
   }
 ]

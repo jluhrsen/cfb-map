@@ -1,12 +1,36 @@
 [
   {
-    "id": "2025-fcs-401767398",
+    "id": "2025-ncaa-401767510",
+    "sourceId": 401767510,
+    "week": 5,
+    "date": "2025-09-27",
+    "day": "Saturday",
+    "kickoff": "6p",
+    "home": "North Dakota State",
+    "away": "South Dakota",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Fargodome",
+      "lat": 46.9028,
+      "lng": -96.8013
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
+    "id": "2025-ncaa-401767398",
+    "sourceId": 401767398,
     "week": 5,
     "date": "2025-09-27",
     "day": "Saturday",
     "kickoff": "7p",
     "home": "Morgan State",
     "away": "Miles College",
+    "homeDivision": "fcs",
+    "awayDivision": "d2",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
@@ -14,33 +38,41 @@
       "lat": 39.7601,
       "lng": -86.1639
     },
+    "missingVenue": false,
     "division": "fcs"
   },
   {
-    "id": "2025-fcs-401767142",
+    "id": "2025-ncaa-401767645",
+    "sourceId": 401767645,
     "week": 5,
     "date": "2025-09-27",
     "day": "Saturday",
-    "kickoff": "7:30p",
-    "home": "Campbell",
-    "away": "Western Carolina",
+    "kickoff": "8p",
+    "home": "San Diego",
+    "away": "St. Thomas (MN)",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Lane Stadium",
-      "lat": 37.2206,
-      "lng": -80.4183
+      "name": "Torero Stadium",
+      "lat": 32.7741,
+      "lng": -117.1833
     },
+    "missingVenue": false,
     "division": "fcs"
   },
   {
-    "id": "2025-fcs-401767226",
+    "id": "2025-ncaa-401767226",
+    "sourceId": 401767226,
     "week": 5,
     "date": "2025-09-27",
     "day": "Saturday",
     "kickoff": "8:30p",
     "home": "Tennessee State",
     "away": "Tennessee Tech",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
@@ -48,6 +80,70 @@
       "lat": 36.1665,
       "lng": -86.7713
     },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
+    "id": "2025-ncaa-401767491",
+    "sourceId": 401767491,
+    "week": 5,
+    "date": "2025-09-28",
+    "day": "Sunday",
+    "kickoff": "12a",
+    "home": "Stephen F. Austin",
+    "away": "McNeese",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Homer Bryce Stadium",
+      "lat": 31.6204,
+      "lng": -94.6486
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
+    "id": "2025-ncaa-401767073",
+    "sourceId": 401767073,
+    "week": 5,
+    "date": "2025-09-28",
+    "day": "Sunday",
+    "kickoff": "1a",
+    "home": "Sacramento State",
+    "away": "Cal Poly",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Hornet Stadium",
+      "lat": 38.5598,
+      "lng": -121.4242
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
+    "id": "2025-ncaa-401767091",
+    "sourceId": 401767091,
+    "week": 5,
+    "date": "2025-09-28",
+    "day": "Sunday",
+    "kickoff": "2:15a",
+    "home": "Montana",
+    "away": "Idaho",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/70.png",
+    "venue": {
+      "name": "Washington-Grizzly Stadium",
+      "lat": 46.8601,
+      "lng": -113.9845
+    },
+    "missingVenue": false,
     "division": "fcs"
   }
 ]
