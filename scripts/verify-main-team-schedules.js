@@ -77,6 +77,10 @@ function getYears(rawData, nflData) {
   return [...new Set([...Object.keys(rawData), ...Object.keys(nflData), ...Object.keys(MANUAL_GAMES)])].sort();
 }
 
+function describeGeneratedGame(game) {
+  return `${game.away} at ${game.home} on ${game.date}`;
+}
+
 async function verify({ dataDir = 'public/data', rawDir = 'build-data' } = {}) {
   const ncaaRaw = await readJSON(path.join(rawDir, 'ncaa-raw.json'), {});
   const nflRaw = await readJSON(path.join(rawDir, 'nfl-raw.json'), {});
@@ -126,6 +130,21 @@ async function verify({ dataDir = 'public/data', rawDir = 'build-data' } = {}) {
       }
 
       if (team.sport === 'ncaa') {
+        const gamesByWeek = new Map();
+        generatedForTeam.forEach(game => {
+          const key = `${game.week}`;
+          if (!gamesByWeek.has(key)) {
+            gamesByWeek.set(key, []);
+          }
+          gamesByWeek.get(key).push(game);
+        });
+
+        for (const [week, games] of gamesByWeek.entries()) {
+          if (games.length > 1) {
+            failures.push(`${year} ${team.name}: ${games.length} generated games in week ${week}: ${games.map(describeGeneratedGame).join('; ')}`);
+          }
+        }
+
         const generatedTeamDivisions = generatedForTeam.map(game => {
           if (names.has(game.home)) return game.homeDivision;
           if (names.has(game.away)) return game.awayDivision;

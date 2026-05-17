@@ -1,22 +1,23 @@
 [
   {
-    "id": "2026-manual-cal-poly-10",
-    "sourceId": "2026-manual-cal-poly-10",
+    "id": "2026-manual-cal-poly-9",
+    "sourceId": "2026-manual-cal-poly-9",
     "source": "manual",
     "week": 9,
-    "date": "2026-10-31",
+    "sourceWeek": 8,
+    "date": "2026-10-24",
     "day": "Friday",
     "kickoff": "TBD",
-    "home": "Montana State",
-    "away": "Cal Poly",
+    "home": "Cal Poly",
+    "away": "Utah Tech",
     "homeDivision": "fcs",
     "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/13.png",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/13.png",
+    "awayLogo": null,
     "venue": {
-      "name": "Bobcat Stadium (MT)",
-      "lat": 45.6602,
-      "lng": -111.0492
+      "name": "Mustang Memorial Field Presented by French Hospital",
+      "lat": 35.3005,
+      "lng": -120.6587
     },
     "missingVenue": false,
     "division": "fcs"

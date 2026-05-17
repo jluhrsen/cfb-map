@@ -1,0 +1,134 @@
+[
+  {
+    "id": "2025-ncaa-401779841",
+    "sourceId": 401779841,
+    "sourceWeek": 1,
+    "week": 18,
+    "date": "2025-12-20",
+    "day": "Saturday",
+    "kickoff": "9a",
+    "home": "Texas A&M",
+    "away": "Miami",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Kyle Field",
+      "lat": 30.61,
+      "lng": -96.34
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401779843",
+    "sourceId": 401779843,
+    "sourceWeek": 1,
+    "week": 18,
+    "date": "2025-12-21",
+    "day": "Saturday",
+    "kickoff": "4:30p",
+    "home": "Oregon",
+    "away": "James Madison",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Autzen Stadium",
+      "lat": 44.0584,
+      "lng": -123.0681
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401778308",
+    "sourceId": 401778308,
+    "sourceWeek": 1,
+    "week": 18,
+    "date": "2025-12-22",
+    "day": "Monday",
+    "kickoff": "11a",
+    "home": "Utah State",
+    "away": "Washington State",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/328.png",
+    "awayLogo": null,
+    "venue": {
+      "name": "Albertsons Stadium",
+      "lat": 43.6029,
+      "lng": -116.1958
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401778310",
+    "sourceId": 401778310,
+    "sourceWeek": 1,
+    "week": 18,
+    "date": "2025-12-23",
+    "day": "Tuesday",
+    "kickoff": "2:30p",
+    "home": "Southern Miss",
+    "away": "Western Kentucky",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Caesars Superdome",
+      "lat": 29.9511,
+      "lng": -90.0812
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401778312",
+    "sourceId": 401778312,
+    "sourceWeek": 1,
+    "week": 18,
+    "date": "2025-12-25",
+    "day": "Wednesday",
+    "kickoff": "5p",
+    "home": "Hawai'i",
+    "away": "California",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/62.png",
+    "awayLogo": null,
+    "venue": {
+      "name": "Clarence T.C. Ching Athletics Complex",
+      "lat": 21.294,
+      "lng": -157.818
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401778313",
+    "sourceId": 401778313,
+    "sourceWeek": 1,
+    "week": 18,
+    "date": "2025-12-26",
+    "day": "Friday",
+    "kickoff": "10a",
+    "home": "Northwestern",
+    "away": "Central Michigan",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2117.png",
+    "venue": {
+      "name": "Ford Field",
+      "lat": 42.34,
+      "lng": -83.0456
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  }
+]

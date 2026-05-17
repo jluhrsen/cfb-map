@@ -65,8 +65,8 @@ function normalizeVenueName(name) {
 function calculateWeek(dateStr, seasonStart) {
   const gameDate = new Date(dateStr);
   const diffTime = gameDate - seasonStart;
-  const diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24));
-  return Math.max(1, Math.ceil(diffDays / 7));
+  const diffDays = Math.floor(diffTime / (1000 * 60 * 60 * 24));
+  return Math.max(1, Math.floor(diffDays / 7) + 1);
 }
 
 /**
@@ -133,11 +133,12 @@ function normalizeNCAAGame(game, seasonStart) {
   const homeDivision = normalizeNCAADivision(game.homeClassification, game.division);
   const awayDivision = normalizeNCAADivision(game.awayClassification, game.division);
   const gameDivision = homeDivision;
-  const week = game.week || calculateWeek(game.startDate, seasonStart);
+  const week = calculateWeek(game.startDate, seasonStart);
 
   return {
     id: `${game.season}-ncaa-${game.id}`,
     sourceId: game.id,
+    sourceWeek: game.week || null,
     week,
     date: game.startDate.split('T')[0],
     day: getDayOfWeek(game.startDate),
@@ -163,14 +164,16 @@ function normalizeNCAAGame(game, seasonStart) {
   };
 }
 
-function normalizeManualGame(game) {
+function normalizeManualGame(game, seasonStart) {
   const venueData = findVenue(game.venue);
+  const week = calculateWeek(game.date, seasonStart);
 
   return {
     id: game.id,
     sourceId: game.id,
     source: 'manual',
-    week: game.week,
+    week,
+    sourceWeek: game.week || null,
     date: game.date,
     day: getDayOfWeek(game.date),
     kickoff: game.kickoff || 'TBD',
@@ -242,12 +245,6 @@ function normalizeNFLGame(game) {
  * @param {string} outputDir - Output directory path
  */
 async function generateDataFiles(ncaaData, nflData, outputDir) {
-  // NCAA season typically starts last week of August
-  const seasonStarts = {
-    2025: new Date(2025, 7, 30), // Aug 30, 2025
-    2026: new Date(2026, 7, 29)  // Aug 29, 2026
-  };
-
   const availableSeasons = [...new Set([...Object.keys(ncaaData), ...Object.keys(nflData)])].map(Number).sort();
   for (const year of availableSeasons) {
     await fs.rm(path.join(outputDir, year.toString()), { recursive: true, force: true });
@@ -259,7 +256,7 @@ async function generateDataFiles(ncaaData, nflData, outputDir) {
 
   for (const [year, games] of Object.entries(ncaaData)) {
     console.log(`\nProcessing NCAA ${year}...`);
-    const seasonStart = seasonStarts[year] || new Date(year, 7, 30);
+    const seasonStart = findNCAASeasonStart(year, games);
 
     if (!weeksByYear[year]) {
       weeksByYear[year] = {};
@@ -272,7 +269,7 @@ async function generateDataFiles(ncaaData, nflData, outputDir) {
       .map(g => normalizeNCAAGame(g, seasonStart))
       .filter(g => g !== null);
     const normalizedManual = (MANUAL_GAMES[year] || [])
-      .map(g => normalizeManualGame(g))
+      .map(g => normalizeManualGame(g, seasonStart))
       .filter(g => g !== null);
     const combined = [...normalized, ...normalizedManual];
     const mappable = combined.filter(g => !g.missingVenue);
@@ -318,13 +315,7 @@ async function generateDataFiles(ncaaData, nflData, outputDir) {
         byDivisionWeek[key].push(game);
       });
 
-      if (!weeksByYear[year][game.week]) {
-        weeksByYear[year][game.week] = {
-          number: game.week,
-          startDate: game.date,
-          label: `Week ${game.week}`
-        };
-      }
+      updateWeekMetadata(weeksByYear, year, game);
     });
 
     // Write division/week files
@@ -391,13 +382,7 @@ async function generateDataFiles(ncaaData, nflData, outputDir) {
       }
       byWeek[key].push(game);
 
-      if (!weeksByYear[year][game.week]) {
-        weeksByYear[year][game.week] = {
-          number: game.week,
-          startDate: game.date,
-          label: `Week ${game.week}`
-        };
-      }
+      updateWeekMetadata(weeksByYear, year, game);
     });
 
     // Write week files
@@ -446,6 +431,38 @@ function logMissingVenueSummary(year, sport, games) {
   const sample = venues.slice(0, 10).join(', ');
   const suffix = venues.length > 10 ? `, and ${venues.length - 10} more` : '';
   console.warn(`  ${sport} ${year}: ${games.length} games missing ${venues.length} unique venues (${sample}${suffix})`);
+}
+
+function findNCAASeasonStart(year, games) {
+  const dates = [
+    ...games
+      .map(game => game.startDate?.split('T')[0])
+      .filter(Boolean),
+    ...(MANUAL_GAMES[year] || [])
+      .map(game => game.date)
+      .filter(Boolean)
+  ].sort();
+
+  if (dates.length === 0) {
+    return new Date(Number(year), 7, 30);
+  }
+
+  return new Date(`${dates[0]}T00:00:00Z`);
+}
+
+function updateWeekMetadata(weeksByYear, year, game) {
+  if (!weeksByYear[year][game.week]) {
+    weeksByYear[year][game.week] = {
+      number: game.week,
+      startDate: game.date,
+      label: `Week ${game.week}`
+    };
+    return;
+  }
+
+  if (game.date < weeksByYear[year][game.week].startDate) {
+    weeksByYear[year][game.week].startDate = game.date;
+  }
 }
 
 module.exports = { generateDataFiles };

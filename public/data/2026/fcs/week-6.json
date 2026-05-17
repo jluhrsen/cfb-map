@@ -1,22 +1,45 @@
 [
   {
-    "id": "2026-manual-cal-poly-7",
-    "sourceId": "2026-manual-cal-poly-7",
-    "source": "manual",
+    "id": "2026-ncaa-401856706",
+    "sourceId": 401856706,
+    "sourceWeek": 5,
     "week": 6,
-    "date": "2026-10-10",
+    "date": "2026-10-03",
     "day": "Friday",
-    "kickoff": "TBD",
-    "home": "Idaho State",
-    "away": "Cal Poly",
-    "homeDivision": "fcs",
+    "kickoff": "9p",
+    "home": "LSU",
+    "away": "McNeese",
+    "homeDivision": "fbs",
     "awayDivision": "fcs",
     "homeLogo": null,
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/13.png",
+    "awayLogo": null,
     "venue": {
-      "name": "ICCU Dome",
-      "lat": 42.8723,
-      "lng": -112.4341
+      "name": "Tiger Stadium (LA)",
+      "lat": 30.4122,
+      "lng": -91.1839
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2026-manual-cal-poly-6",
+    "sourceId": "2026-manual-cal-poly-6",
+    "source": "manual",
+    "week": 6,
+    "sourceWeek": 5,
+    "date": "2026-10-03",
+    "day": "Friday",
+    "kickoff": "TBD",
+    "home": "Cal Poly",
+    "away": "Weber State",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/13.png",
+    "awayLogo": null,
+    "venue": {
+      "name": "Mustang Memorial Field Presented by French Hospital",
+      "lat": 35.3005,
+      "lng": -120.6587
     },
     "missingVenue": false,
     "division": "fcs"

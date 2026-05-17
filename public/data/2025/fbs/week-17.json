@@ -1,0 +1,68 @@
+[
+  {
+    "id": "2025-ncaa-401762521",
+    "sourceId": 401762521,
+    "sourceWeek": 16,
+    "week": 17,
+    "date": "2025-12-13",
+    "day": "Saturday",
+    "kickoff": "12p",
+    "home": "Navy",
+    "away": "Army",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "M&T Bank Stadium",
+      "lat": 39.278,
+      "lng": -76.6227
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401778302",
+    "sourceId": 401778302,
+    "sourceWeek": 1,
+    "week": 17,
+    "date": "2025-12-14",
+    "day": "Saturday",
+    "kickoff": "5p",
+    "home": "Washington",
+    "away": "Boise State",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "SoFi Stadium",
+      "lat": 33.9535,
+      "lng": -118.3392
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401778307",
+    "sourceId": 401778307,
+    "sourceWeek": 1,
+    "week": 17,
+    "date": "2025-12-19",
+    "day": "Friday",
+    "kickoff": "11:30a",
+    "home": "NC State",
+    "away": "Memphis",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Raymond James Stadium",
+      "lat": 27.9759,
+      "lng": -82.5033
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  }
+]
