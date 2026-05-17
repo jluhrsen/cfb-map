@@ -42,27 +42,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752828",
-    "sourceId": 401752828,
-    "week": 3,
-    "date": "2025-09-13",
-    "day": "Saturday",
-    "kickoff": "4p",
-    "home": "Nebraska",
-    "away": "Houston Christian",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Memorial Stadium (Lincoln, NE)",
-      "lat": 40.8202,
-      "lng": -96.7055
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401752838",
     "sourceId": 401752838,
     "week": 3,
@@ -79,6 +58,27 @@
       "name": "SECU Stadium",
       "lat": 38.9941,
       "lng": -76.948
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401752828",
+    "sourceId": 401752828,
+    "week": 3,
+    "date": "2025-09-13",
+    "day": "Saturday",
+    "kickoff": "4p",
+    "home": "Nebraska",
+    "away": "Houston Christian",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Memorial Stadium (Lincoln, NE)",
+      "lat": 40.8202,
+      "lng": -96.7055
     },
     "missingVenue": false,
     "division": "fbs"
@@ -147,27 +147,6 @@
     "division": "fcs"
   },
   {
-    "id": "2025-ncaa-401752835",
-    "sourceId": 401752835,
-    "week": 3,
-    "date": "2025-09-13",
-    "day": "Saturday",
-    "kickoff": "7:30p",
-    "home": "Penn State",
-    "away": "Villanova",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Beaver Stadium",
-      "lat": 40.8122,
-      "lng": -77.8561
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401752833",
     "sourceId": 401752833,
     "week": 3,
@@ -189,22 +168,22 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752834",
-    "sourceId": 401752834,
+    "id": "2025-ncaa-401752835",
+    "sourceId": 401752835,
     "week": 3,
     "date": "2025-09-13",
     "day": "Saturday",
     "kickoff": "7:30p",
-    "home": "Michigan State",
-    "away": "Youngstown State",
+    "home": "Penn State",
+    "away": "Villanova",
     "homeDivision": "fbs",
     "awayDivision": "fcs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Spartan Stadium",
-      "lat": 37.3975,
-      "lng": -121.8635
+      "name": "Beaver Stadium",
+      "lat": 40.8122,
+      "lng": -77.8561
     },
     "missingVenue": false,
     "division": "fbs"
@@ -226,6 +205,27 @@
       "name": "Kenan Stadium",
       "lat": 35.9096,
       "lng": -79.0478
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401752834",
+    "sourceId": 401752834,
+    "week": 3,
+    "date": "2025-09-13",
+    "day": "Saturday",
+    "kickoff": "7:30p",
+    "home": "Michigan State",
+    "away": "Youngstown State",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Spartan Stadium",
+      "lat": 37.3975,
+      "lng": -121.8635
     },
     "missingVenue": false,
     "division": "fbs"
@@ -294,27 +294,6 @@
     "division": "fcs"
   },
   {
-    "id": "2025-ncaa-401767524",
-    "sourceId": 401767524,
-    "week": 3,
-    "date": "2025-09-14",
-    "day": "Sunday",
-    "kickoff": "12a",
-    "home": "Stephen F. Austin",
-    "away": "Sul Ross State",
-    "homeDivision": "fcs",
-    "awayDivision": "d2",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Homer Bryce Stadium",
-      "lat": 31.6204,
-      "lng": -94.6486
-    },
-    "missingVenue": false,
-    "division": "fcs"
-  },
-  {
     "id": "2025-ncaa-401767071",
     "sourceId": 401767071,
     "week": 3,
@@ -331,6 +310,27 @@
       "name": "Alex G. Spanos Stadium",
       "lat": 35.3005,
       "lng": -120.6587
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
+    "id": "2025-ncaa-401767524",
+    "sourceId": 401767524,
+    "week": 3,
+    "date": "2025-09-14",
+    "day": "Sunday",
+    "kickoff": "12a",
+    "home": "Stephen F. Austin",
+    "away": "Sul Ross State",
+    "homeDivision": "fcs",
+    "awayDivision": "d2",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Homer Bryce Stadium",
+      "lat": 31.6204,
+      "lng": -94.6486
     },
     "missingVenue": false,
     "division": "fcs"

@@ -147,27 +147,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752815",
-    "sourceId": 401752815,
-    "week": 2,
-    "date": "2025-09-06",
-    "day": "Saturday",
-    "kickoff": "7:30p",
-    "home": "Ohio State",
-    "away": "Grambling",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Ohio Stadium",
-      "lat": 40.0018,
-      "lng": -83.0197
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401752685",
     "sourceId": 401752685,
     "week": 2,
@@ -184,6 +163,27 @@
       "name": "Sanford Stadium",
       "lat": 33.9498,
       "lng": -83.3732
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401752815",
+    "sourceId": 401752815,
+    "week": 2,
+    "date": "2025-09-06",
+    "day": "Saturday",
+    "kickoff": "7:30p",
+    "home": "Ohio State",
+    "away": "Grambling",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Ohio Stadium",
+      "lat": 40.0018,
+      "lng": -83.0197
     },
     "missingVenue": false,
     "division": "fbs"
@@ -378,27 +378,6 @@
     "division": "fcs"
   },
   {
-    "id": "2025-ncaa-401767292",
-    "sourceId": 401767292,
-    "week": 2,
-    "date": "2025-09-07",
-    "day": "Sunday",
-    "kickoff": "1a",
-    "home": "San Diego",
-    "away": "Southern Utah",
-    "homeDivision": "fcs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Torero Stadium",
-      "lat": 32.7741,
-      "lng": -117.1833
-    },
-    "missingVenue": false,
-    "division": "fcs"
-  },
-  {
     "id": "2025-ncaa-401757231",
     "sourceId": 401757231,
     "week": 2,
@@ -418,6 +397,27 @@
     },
     "missingVenue": false,
     "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401767292",
+    "sourceId": 401767292,
+    "week": 2,
+    "date": "2025-09-07",
+    "day": "Sunday",
+    "kickoff": "1a",
+    "home": "San Diego",
+    "away": "Southern Utah",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Torero Stadium",
+      "lat": 32.7741,
+      "lng": -117.1833
+    },
+    "missingVenue": false,
+    "division": "fcs"
   },
   {
     "id": "2025-ncaa-401756879",

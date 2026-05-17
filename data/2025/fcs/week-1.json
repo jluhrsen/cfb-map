@@ -21,27 +21,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401762790",
-    "sourceId": 401762790,
-    "week": 1,
-    "date": "2025-08-28",
-    "day": "Thursday",
-    "kickoff": "10p",
-    "home": "Bowling Green",
-    "away": "Lafayette",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Doyt L. Perry Stadium",
-      "lat": 41.375,
-      "lng": -83.635
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401767446",
     "sourceId": 401767446,
     "week": 1,
@@ -63,43 +42,22 @@
     "division": "fcs"
   },
   {
-    "id": "2025-ncaa-401767468",
-    "sourceId": 401767468,
+    "id": "2025-ncaa-401762790",
+    "sourceId": 401762790,
     "week": 1,
     "date": "2025-08-28",
     "day": "Thursday",
-    "kickoff": "11:30p",
-    "home": "Houston Christian",
-    "away": "Little Rock",
-    "homeDivision": "fcs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Husky Stadium",
-      "lat": 47.6504,
-      "lng": -122.3016
-    },
-    "missingVenue": false,
-    "division": "fcs"
-  },
-  {
-    "id": "2025-ncaa-401756876",
-    "sourceId": 401756876,
-    "week": 1,
-    "date": "2025-08-28",
-    "day": "Thursday",
-    "kickoff": "11:30p",
-    "home": "Oklahoma State",
-    "away": "UT Martin",
+    "kickoff": "10p",
+    "home": "Bowling Green",
+    "away": "Lafayette",
     "homeDivision": "fbs",
     "awayDivision": "fcs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Boone Pickens Stadium",
-      "lat": 36.1286,
-      "lng": -97.0651
+      "name": "Doyt L. Perry Stadium",
+      "lat": 41.375,
+      "lng": -83.635
     },
     "missingVenue": false,
     "division": "fbs"
@@ -124,6 +82,48 @@
     },
     "missingVenue": false,
     "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401756876",
+    "sourceId": 401756876,
+    "week": 1,
+    "date": "2025-08-28",
+    "day": "Thursday",
+    "kickoff": "11:30p",
+    "home": "Oklahoma State",
+    "away": "UT Martin",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Boone Pickens Stadium",
+      "lat": 36.1286,
+      "lng": -97.0651
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401767468",
+    "sourceId": 401767468,
+    "week": 1,
+    "date": "2025-08-28",
+    "day": "Thursday",
+    "kickoff": "11:30p",
+    "home": "Houston Christian",
+    "away": "Little Rock",
+    "homeDivision": "fcs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Husky Stadium",
+      "lat": 47.6504,
+      "lng": -122.3016
+    },
+    "missingVenue": false,
+    "division": "fcs"
   },
   {
     "id": "2025-ncaa-401756852",
@@ -231,6 +231,27 @@
     "division": "fbs"
   },
   {
+    "id": "2025-ncaa-401762793",
+    "sourceId": 401762793,
+    "week": 1,
+    "date": "2025-08-30",
+    "day": "Saturday",
+    "kickoff": "7:30p",
+    "home": "Northern Illinois",
+    "away": "Holy Cross",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Huskie Stadium",
+      "lat": 41.9308,
+      "lng": -88.7572
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
     "id": "2025-ncaa-401756853",
     "sourceId": 401756853,
     "week": 1,
@@ -273,22 +294,22 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401762793",
-    "sourceId": 401762793,
+    "id": "2025-ncaa-401752804",
+    "sourceId": 401752804,
     "week": 1,
     "date": "2025-08-30",
     "day": "Saturday",
-    "kickoff": "7:30p",
-    "home": "Northern Illinois",
-    "away": "Holy Cross",
+    "kickoff": "8p",
+    "home": "Oregon",
+    "away": "Montana State",
     "homeDivision": "fbs",
     "awayDivision": "fcs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Huskie Stadium",
-      "lat": 41.9308,
-      "lng": -88.7572
+      "name": "Autzen Stadium",
+      "lat": 44.0584,
+      "lng": -123.0681
     },
     "missingVenue": false,
     "division": "fbs"
@@ -313,27 +334,6 @@
     },
     "missingVenue": false,
     "division": "fcs"
-  },
-  {
-    "id": "2025-ncaa-401752804",
-    "sourceId": 401752804,
-    "week": 1,
-    "date": "2025-08-30",
-    "day": "Saturday",
-    "kickoff": "8p",
-    "home": "Oregon",
-    "away": "Montana State",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Autzen Stadium",
-      "lat": 44.0584,
-      "lng": -123.0681
-    },
-    "missingVenue": false,
-    "division": "fbs"
   },
   {
     "id": "2025-ncaa-401752666",
@@ -441,6 +441,27 @@
     "division": "fbs"
   },
   {
+    "id": "2025-ncaa-401762435",
+    "sourceId": 401762435,
+    "week": 1,
+    "date": "2025-08-31",
+    "day": "Sunday",
+    "kickoff": "12a",
+    "home": "North Texas",
+    "away": "Lamar",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "DATCU Stadium",
+      "lat": 33.2071,
+      "lng": -97.1514
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
     "id": "2025-ncaa-401767070",
     "sourceId": 401767070,
     "week": 1,
@@ -478,27 +499,6 @@
       "name": "LaVell Edwards Stadium",
       "lat": 40.2578,
       "lng": -111.6563
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2025-ncaa-401762435",
-    "sourceId": 401762435,
-    "week": 1,
-    "date": "2025-08-31",
-    "day": "Sunday",
-    "kickoff": "12a",
-    "home": "North Texas",
-    "away": "Lamar",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "DATCU Stadium",
-      "lat": 33.2071,
-      "lng": -97.1514
     },
     "missingVenue": false,
     "division": "fbs"

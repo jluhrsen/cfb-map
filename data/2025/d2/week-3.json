@@ -42,27 +42,6 @@
     "division": "fcs"
   },
   {
-    "id": "2025-ncaa-401767524",
-    "sourceId": 401767524,
-    "week": 3,
-    "date": "2025-09-14",
-    "day": "Sunday",
-    "kickoff": "12a",
-    "home": "Stephen F. Austin",
-    "away": "Sul Ross State",
-    "homeDivision": "fcs",
-    "awayDivision": "d2",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Homer Bryce Stadium",
-      "lat": 31.6204,
-      "lng": -94.6486
-    },
-    "missingVenue": false,
-    "division": "fcs"
-  },
-  {
     "id": "2025-ncaa-401767071",
     "sourceId": 401767071,
     "week": 3,
@@ -79,6 +58,27 @@
       "name": "Alex G. Spanos Stadium",
       "lat": 35.3005,
       "lng": -120.6587
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
+    "id": "2025-ncaa-401767524",
+    "sourceId": 401767524,
+    "week": 3,
+    "date": "2025-09-14",
+    "day": "Sunday",
+    "kickoff": "12a",
+    "home": "Stephen F. Austin",
+    "away": "Sul Ross State",
+    "homeDivision": "fcs",
+    "awayDivision": "d2",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Homer Bryce Stadium",
+      "lat": 31.6204,
+      "lng": -94.6486
     },
     "missingVenue": false,
     "division": "fcs"
