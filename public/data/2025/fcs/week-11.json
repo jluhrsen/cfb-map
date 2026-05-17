@@ -1,63 +1,36 @@
 [
   {
-    "id": "2025-fcs-401767137",
-    "week": 11,
-    "date": "2025-11-08",
-    "day": "Saturday",
-    "kickoff": "10a",
-    "home": "UAlbany",
-    "away": "Bryant",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Ford Field",
-      "lat": 42.34,
-      "lng": -83.0456
-    },
-    "division": "fcs"
-  },
-  {
-    "id": "2025-fcs-401767443",
+    "id": "2025-ncaa-401767443",
+    "sourceId": 401767443,
     "week": 11,
     "date": "2025-11-08",
     "day": "Saturday",
     "kickoff": "10a",
     "home": "Indiana State",
     "away": "Illinois State",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "War Memorial Stadium",
-      "lat": 41.307,
-      "lng": -105.5677
+      "name": "Memorial Stadium",
+      "lat": 38.9628,
+      "lng": -95.2464
     },
+    "missingVenue": false,
     "division": "fcs"
   },
   {
-    "id": "2025-fcs-401767146",
-    "week": 11,
-    "date": "2025-11-08",
-    "day": "Saturday",
-    "kickoff": "11a",
-    "home": "Campbell",
-    "away": "William & Mary",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Lane Stadium",
-      "lat": 37.2206,
-      "lng": -80.4183
-    },
-    "division": "fcs"
-  },
-  {
-    "id": "2025-fcs-401767474",
+    "id": "2025-ncaa-401767474",
+    "sourceId": 401767474,
     "week": 11,
     "date": "2025-11-08",
     "day": "Saturday",
     "kickoff": "12p",
     "home": "Houston Christian",
     "away": "Stephen F. Austin",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
@@ -65,6 +38,91 @@
       "lat": 47.6504,
       "lng": -122.3016
     },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
+    "id": "2025-ncaa-401767069",
+    "sourceId": 401767069,
+    "week": 11,
+    "date": "2025-11-08",
+    "day": "Saturday",
+    "kickoff": "12p",
+    "home": "Montana",
+    "away": "Eastern Washington",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Washington-Grizzly Stadium",
+      "lat": 46.8601,
+      "lng": -113.9845
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
+    "id": "2025-ncaa-401767365",
+    "sourceId": 401767365,
+    "week": 11,
+    "date": "2025-11-08",
+    "day": "Saturday",
+    "kickoff": "12p",
+    "home": "Alabama State",
+    "away": "Texas Southern",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Hornet Stadium",
+      "lat": 38.5598,
+      "lng": -121.4242
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
+    "id": "2025-ncaa-401767117",
+    "sourceId": 401767117,
+    "week": 11,
+    "date": "2025-11-08",
+    "day": "Saturday",
+    "kickoff": "3p",
+    "home": "Northern Arizona",
+    "away": "Northern Colorado",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Walkup Skydome",
+      "lat": 35.1803,
+      "lng": -111.6544
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
+    "id": "2025-ncaa-401767077",
+    "sourceId": 401767077,
+    "week": 11,
+    "date": "2025-11-08",
+    "day": "Saturday",
+    "kickoff": "3p",
+    "home": "Idaho State",
+    "away": "Cal Poly",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Holt Arena",
+      "lat": 42.8723,
+      "lng": -112.4341
+    },
+    "missingVenue": false,
     "division": "fcs"
   }
 ]

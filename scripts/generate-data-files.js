@@ -4,6 +4,13 @@ const path = require('path');
 const VENUES = require('../src/data/venues.json');
 const LOGO_OVERRIDES = require('../src/data/team-logos.json');
 
+const NCAA_DIVISION_MAP = {
+  'fbs': 'fbs',
+  'fcs': 'fcs',
+  'ii': 'd2',
+  'iii': 'd3'
+};
+
 /**
  * Find venue data with fuzzy matching
  * @param {string} venueName - Venue name from API
@@ -17,33 +24,35 @@ function findVenue(venueName) {
     return { ...VENUES[venueName], matchedKey: venueName, matchType: 'exact' };
   }
 
-  // Try case-insensitive exact match
   const venueKeys = Object.keys(VENUES);
   const lowerVenueName = venueName.toLowerCase();
+  const normalizedVenueName = normalizeVenueName(venueName);
 
+  // Try case-insensitive exact match
   for (const key of venueKeys) {
     if (key.toLowerCase() === lowerVenueName) {
       return { ...VENUES[key], matchedKey: key, matchType: 'case-insensitive' };
     }
   }
 
-  // Try partial match (API name contains our key)
+  // Try punctuation-insensitive exact match. Avoid partial matching: short or
+  // generic names like "Memorial Stadium" can otherwise match the wrong venue.
   for (const key of venueKeys) {
-    if (lowerVenueName.includes(key.toLowerCase())) {
-      console.log(`Fuzzy match: "${venueName}" matched to "${key}"`);
-      return { ...VENUES[key], matchedKey: key, matchType: 'partial' };
-    }
-  }
-
-  // Try reverse partial match (our key contains API name)
-  for (const key of venueKeys) {
-    if (key.toLowerCase().includes(lowerVenueName)) {
-      console.log(`Fuzzy match: "${venueName}" matched to "${key}"`);
-      return { ...VENUES[key], matchedKey: key, matchType: 'reverse-partial' };
+    if (normalizeVenueName(key) === normalizedVenueName) {
+      return { ...VENUES[key], matchedKey: key, matchType: 'normalized-exact' };
     }
   }
 
   return null;
+}
+
+function normalizeVenueName(name) {
+  return name
+    .toLowerCase()
+    .replace(/&/g, 'and')
+    .replace(/[^a-z0-9]+/g, ' ')
+    .trim()
+    .replace(/\s+/g, ' ');
 }
 
 /**
@@ -96,20 +105,23 @@ function getDayOfWeek(dateStr) {
   return days[date.getDay()];
 }
 
+function normalizeNCAADivision(classification, fallback) {
+  return NCAA_DIVISION_MAP[classification] || fallback || 'unknown';
+}
+
+function gameVisibilityDivisions(game) {
+  return [...new Set([game.homeDivision, game.awayDivision, game.division].filter(Boolean))];
+}
+
 /**
  * Normalize NCAA game data
  * @param {Object} game - Raw game data from API
  * @param {Date} seasonStart - Season start date
- * @returns {Object|null} Normalized game or null if missing venue
+ * @returns {Object} Normalized game with optional missingVenue diagnostic
  */
 function normalizeNCAAGame(game, seasonStart) {
   const venueName = game.venue;
   const venueData = findVenue(venueName);
-
-  if (!venueData) {
-    console.warn(`Missing venue: ${venueName}`);
-    return null;
-  }
 
   // Skip games without a start date
   if (!game.startDate) {
@@ -117,49 +129,47 @@ function normalizeNCAAGame(game, seasonStart) {
     return null;
   }
 
-  // Use homeClassification to determine actual division (API returns all games regardless of division param)
-  const divisionMap = {
-    'fbs': 'fbs',
-    'fcs': 'fcs',
-    'ii': 'd2',
-    'iii': 'd3'
-  };
-  const actualDivision = divisionMap[game.homeClassification] || game.division;
-
+  const homeDivision = normalizeNCAADivision(game.homeClassification, game.division);
+  const awayDivision = normalizeNCAADivision(game.awayClassification, game.division);
+  const gameDivision = homeDivision;
   const week = game.week || calculateWeek(game.startDate, seasonStart);
 
   return {
-    id: `${game.season}-${actualDivision}-${game.id}`,
+    id: `${game.season}-ncaa-${game.id}`,
+    sourceId: game.id,
     week,
     date: game.startDate.split('T')[0],
     day: getDayOfWeek(game.startDate),
     kickoff: parseKickoffTime(game.startDate),
     home: game.homeTeam,
     away: game.awayTeam,
+    homeDivision,
+    awayDivision,
     homeLogo: LOGO_OVERRIDES[game.homeTeam] || null,
     awayLogo: LOGO_OVERRIDES[game.awayTeam] || null,
-    venue: {
+    venue: venueData ? {
       name: venueData.matchedKey,
       lat: venueData.lat,
       lng: venueData.lng
+    } : {
+      name: venueName || 'TBD',
+      lat: null,
+      lng: null,
+      missing: true
     },
-    division: actualDivision
+    missingVenue: !venueData,
+    division: gameDivision
   };
 }
 
 /**
  * Normalize NFL game data
  * @param {Object} game - Raw game data from ESPN API
- * @returns {Object|null} Normalized game or null if missing venue
+ * @returns {Object|null} Normalized game or null if missing date
  */
 function normalizeNFLGame(game) {
   const venueName = game.venue;
   const venueData = findVenue(venueName);
-
-  if (!venueData) {
-    console.warn(`Missing venue: ${venueName}`);
-    return null;
-  }
 
   // Skip games without a date
   if (!game.date) {
@@ -177,11 +187,17 @@ function normalizeNFLGame(game) {
     away: game.away_team,
     homeLogo: LOGO_OVERRIDES[game.home_team] || game.home_team_logo,
     awayLogo: LOGO_OVERRIDES[game.away_team] || game.away_team_logo,
-    venue: {
+    venue: venueData ? {
       name: venueData.matchedKey,
       lat: venueData.lat,
       lng: venueData.lng
+    } : {
+      name: venueName || 'TBD',
+      lat: null,
+      lng: null,
+      missing: true
     },
+    missingVenue: !venueData,
     division: 'nfl'
   };
 }
@@ -199,8 +215,14 @@ async function generateDataFiles(ncaaData, nflData, outputDir) {
     2026: new Date(2026, 7, 29)  // Aug 29, 2026
   };
 
+  const availableSeasons = [...new Set([...Object.keys(ncaaData), ...Object.keys(nflData)])].map(Number).sort();
+  for (const year of availableSeasons) {
+    await fs.rm(path.join(outputDir, year.toString()), { recursive: true, force: true });
+  }
+
   const teams = new Set();
   const weeksByYear = {};
+  const diagnostics = {};
 
   for (const [year, games] of Object.entries(ncaaData)) {
     console.log(`\nProcessing NCAA ${year}...`);
@@ -209,34 +231,55 @@ async function generateDataFiles(ncaaData, nflData, outputDir) {
     if (!weeksByYear[year]) {
       weeksByYear[year] = {};
     }
+    if (!diagnostics[year]) {
+      diagnostics[year] = { missingVenues: [] };
+    }
 
     const normalized = games
       .map(g => normalizeNCAAGame(g, seasonStart))
       .filter(g => g !== null);
+    const mappable = normalized.filter(g => !g.missingVenue);
+    const missingVenueGames = normalized.filter(g => g.missingVenue);
 
-    console.log(`  Normalized ${normalized.length} games (${games.length - normalized.length} missing venues)`);
+    missingVenueGames.forEach(game => {
+      diagnostics[year].missingVenues.push({
+        sport: 'ncaa',
+        id: game.id,
+        week: game.week,
+        date: game.date,
+        home: game.home,
+        away: game.away,
+        venue: game.venue.name,
+        division: game.division
+      });
+    });
+    logMissingVenueSummary(year, 'NCAA', missingVenueGames);
+
+    console.log(`  Normalized ${mappable.length} mappable games (${missingVenueGames.length} missing venues, ${games.length - normalized.length} missing dates)`);
 
     // Group by division and week
     const byDivisionWeek = {};
-    normalized.forEach(game => {
+    mappable.forEach(game => {
       teams.add(JSON.stringify({
         name: game.home,
-        division: game.division,
+        division: game.homeDivision,
         abbreviation: game.home.substring(0, 3).toUpperCase(),
         logo: game.homeLogo
       }));
       teams.add(JSON.stringify({
         name: game.away,
-        division: game.division,
+        division: game.awayDivision,
         abbreviation: game.away.substring(0, 3).toUpperCase(),
         logo: game.awayLogo
       }));
 
-      const key = `${game.division}/week-${game.week}`;
-      if (!byDivisionWeek[key]) {
-        byDivisionWeek[key] = [];
-      }
-      byDivisionWeek[key].push(game);
+      gameVisibilityDivisions(game).forEach(division => {
+        const key = `${division}/week-${game.week}`;
+        if (!byDivisionWeek[key]) {
+          byDivisionWeek[key] = [];
+        }
+        byDivisionWeek[key].push(game);
+      });
 
       if (!weeksByYear[year][game.week]) {
         weeksByYear[year][game.week] = {
@@ -263,16 +306,35 @@ async function generateDataFiles(ncaaData, nflData, outputDir) {
     if (!weeksByYear[year]) {
       weeksByYear[year] = {};
     }
+    if (!diagnostics[year]) {
+      diagnostics[year] = { missingVenues: [] };
+    }
 
     const normalized = games
       .map(g => normalizeNFLGame(g))
       .filter(g => g !== null);
+    const mappable = normalized.filter(g => !g.missingVenue);
+    const missingVenueGames = normalized.filter(g => g.missingVenue);
 
-    console.log(`  Normalized ${normalized.length} games (${games.length - normalized.length} missing venues)`);
+    missingVenueGames.forEach(game => {
+      diagnostics[year].missingVenues.push({
+        sport: 'nfl',
+        id: game.id,
+        week: game.week,
+        date: game.date,
+        home: game.home,
+        away: game.away,
+        venue: game.venue.name,
+        division: game.division
+      });
+    });
+    logMissingVenueSummary(year, 'NFL', missingVenueGames);
+
+    console.log(`  Normalized ${mappable.length} mappable games (${missingVenueGames.length} missing venues, ${games.length - normalized.length} missing dates)`);
 
     // Group by week
     const byWeek = {};
-    normalized.forEach(game => {
+    mappable.forEach(game => {
       teams.add(JSON.stringify({
         name: game.home,
         division: 'nfl',
@@ -311,8 +373,6 @@ async function generateDataFiles(ncaaData, nflData, outputDir) {
   }
 
   // Write index file
-  const availableSeasons = [...new Set([...Object.keys(ncaaData), ...Object.keys(nflData)])].map(Number).sort();
-
   // Convert weeksByYear to sorted arrays
   const weeksByYearSorted = {};
   for (const [year, weeksObj] of Object.entries(weeksByYear)) {
@@ -333,6 +393,22 @@ async function generateDataFiles(ncaaData, nflData, outputDir) {
   await fs.writeFile(indexPath, JSON.stringify(index, null, 2));
   console.log(`\nWrote index to ${indexPath}`);
   console.log(`Total teams: ${index.teams.length}`);
+
+  const diagnosticsPath = path.join(outputDir, 'data-quality.json');
+  await fs.writeFile(diagnosticsPath, JSON.stringify({
+    generatedAt: new Date().toISOString(),
+    years: diagnostics
+  }, null, 2));
+  console.log(`Wrote diagnostics to ${diagnosticsPath}`);
+}
+
+function logMissingVenueSummary(year, sport, games) {
+  if (games.length === 0) return;
+
+  const venues = [...new Set(games.map(game => game.venue.name))].sort();
+  const sample = venues.slice(0, 10).join(', ');
+  const suffix = venues.length > 10 ? `, and ${venues.length - 10} more` : '';
+  console.warn(`  ${sport} ${year}: ${games.length} games missing ${venues.length} unique venues (${sample}${suffix})`);
 }
 
 module.exports = { generateDataFiles };

@@ -1,12 +1,15 @@
 [
   {
-    "id": "2026-fbs-401862844",
+    "id": "2026-ncaa-401862844",
+    "sourceId": 401862844,
     "week": 15,
     "date": "2026-12-12",
     "day": "Saturday",
     "kickoff": "12p",
     "home": "Army",
     "away": "Navy",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
@@ -14,6 +17,7 @@
       "lat": 40.8128,
       "lng": -74.0742
     },
+    "missingVenue": false,
     "division": "fbs"
   }
 ]

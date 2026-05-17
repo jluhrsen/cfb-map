@@ -1,0 +1,65 @@
+[
+  {
+    "id": "2026-ncaa-401858262",
+    "sourceId": 401858262,
+    "week": 7,
+    "date": "2026-10-17",
+    "day": "Friday",
+    "kickoff": "9p",
+    "home": "Stanford",
+    "away": "Elon",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/24.png",
+    "awayLogo": null,
+    "venue": {
+      "name": "Stanford Stadium",
+      "lat": 37.4344,
+      "lng": -122.1614
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401856725",
+    "sourceId": 401856725,
+    "week": 7,
+    "date": "2026-10-17",
+    "day": "Friday",
+    "kickoff": "9p",
+    "home": "Texas A&M",
+    "away": "The Citadel",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Kyle Field",
+      "lat": 30.61,
+      "lng": -96.34
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401858261",
+    "sourceId": 401858261,
+    "week": 7,
+    "date": "2026-10-17",
+    "day": "Friday",
+    "kickoff": "9p",
+    "home": "Clemson",
+    "away": "Charleston Southern",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Memorial Stadium (Clemson, SC)",
+      "lat": 34.6784,
+      "lng": -82.8444
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  }
+]

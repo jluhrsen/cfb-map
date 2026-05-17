@@ -1,46 +1,15 @@
 [
   {
-    "id": "2025-d3-401777144",
-    "week": 10,
-    "date": "2025-11-01",
-    "day": "Saturday",
-    "kickoff": "1p",
-    "home": "Willamette",
-    "away": "NEWBERG",
-    "homeLogo": "https://lh3.googleusercontent.com/6tOuPbn-4tztWUJrhNcODPR25WMo6bats7oaCuwY5KNzSTZneTGpKn-Z6PvWnJ0lNSE8hu7916kIwJhR3qYlbVWPYUo3NLgS2EM",
-    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/mi23750dj6i6tf21.png",
-    "venue": {
-      "name": "McCulloch Stadium",
-      "lat": 44.9388,
-      "lng": -123.0355
-    },
-    "division": "d3"
-  },
-  {
-    "id": "2025-d3-401777157",
-    "week": 10,
-    "date": "2025-11-01",
-    "day": "Saturday",
-    "kickoff": "1p",
-    "home": "Puget Sound",
-    "away": "Pacific (OR)",
-    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/wpoqmrhctdrju4jh.png",
-    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/lkxbjwugyaf69m59.png",
-    "venue": {
-      "name": "Baker Stadium",
-      "lat": 47.2605,
-      "lng": -122.4825
-    },
-    "division": "d3"
-  },
-  {
-    "id": "2025-d3-401774258",
+    "id": "2025-ncaa-401774258",
+    "sourceId": 401774258,
     "week": 10,
     "date": "2025-11-01",
     "day": "Saturday",
     "kickoff": "1p",
     "home": "La Verne",
     "away": "Redlands",
+    "homeDivision": "d3",
+    "awayDivision": "d3",
     "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/xd9a451s9o7md2nt.png",
     "awayLogo": null,
     "venue": {
@@ -48,16 +17,20 @@
       "lat": 34.1008,
       "lng": -117.7678
     },
+    "missingVenue": false,
     "division": "d3"
   },
   {
-    "id": "2025-d3-401777150",
+    "id": "2025-ncaa-401777150",
+    "sourceId": 401777150,
     "week": 10,
     "date": "2025-11-01",
     "day": "Saturday",
     "kickoff": "1p",
     "home": "Linfield College",
     "away": "Lewis & Clark College",
+    "homeDivision": "d3",
+    "awayDivision": "d3",
     "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/8ab4hlzfjvtul4nx.png",
     "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/2i62768ao3nlh5wq.png",
     "venue": {
@@ -65,23 +38,49 @@
       "lat": 45.2099,
       "lng": -123.1987
     },
+    "missingVenue": false,
     "division": "d3"
   },
   {
-    "id": "2025-d3-401777164",
+    "id": "2025-ncaa-401777157",
+    "sourceId": 401777157,
     "week": 10,
     "date": "2025-11-01",
     "day": "Saturday",
     "kickoff": "1p",
-    "home": "Whitworth",
-    "away": "Pacific Lutheran",
-    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/ekkb9ky91gzlit7x.png",
-    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/bi1umnuk45dh7ppn.png",
+    "home": "Puget Sound",
+    "away": "Pacific (OR)",
+    "homeDivision": "d3",
+    "awayDivision": "d3",
+    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/wpoqmrhctdrju4jh.png",
+    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/lkxbjwugyaf69m59.png",
     "venue": {
-      "name": "Pine Bowl",
-      "lat": 47.7523,
-      "lng": -117.4202
+      "name": "Baker Stadium",
+      "lat": 47.2605,
+      "lng": -122.4825
     },
+    "missingVenue": false,
+    "division": "d3"
+  },
+  {
+    "id": "2025-ncaa-401777144",
+    "sourceId": 401777144,
+    "week": 10,
+    "date": "2025-11-01",
+    "day": "Saturday",
+    "kickoff": "1p",
+    "home": "Willamette",
+    "away": "NEWBERG",
+    "homeDivision": "d3",
+    "awayDivision": "d3",
+    "homeLogo": "https://lh3.googleusercontent.com/6tOuPbn-4tztWUJrhNcODPR25WMo6bats7oaCuwY5KNzSTZneTGpKn-Z6PvWnJ0lNSE8hu7916kIwJhR3qYlbVWPYUo3NLgS2EM",
+    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/mi23750dj6i6tf21.png",
+    "venue": {
+      "name": "McCulloch Stadium",
+      "lat": 44.9388,
+      "lng": -123.0355
+    },
+    "missingVenue": false,
     "division": "d3"
   }
 ]

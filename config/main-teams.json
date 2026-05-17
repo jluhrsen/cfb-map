@@ -1,0 +1,58 @@
+[
+  {
+    "id": "willamette",
+    "name": "Willamette",
+    "division": "d3",
+    "sport": "ncaa",
+    "expectedMinGamesByYear": {
+      "2025": 9
+    }
+  },
+  {
+    "id": "wyoming",
+    "name": "Wyoming",
+    "division": "fbs",
+    "sport": "ncaa",
+    "expectedMinGamesByYear": {
+      "2025": 12
+    }
+  },
+  {
+    "id": "cal-poly",
+    "name": "Cal Poly",
+    "division": "fcs",
+    "sport": "ncaa",
+    "expectedMinGamesByYear": {
+      "2025": 12
+    },
+    "officialScheduleUrl": "https://gopoly.com/sports/football/schedule/2026"
+  },
+  {
+    "id": "las-vegas-raiders",
+    "name": "Las Vegas Raiders",
+    "division": "nfl",
+    "sport": "nfl",
+    "expectedMinGamesByYear": {
+      "2025": 17
+    }
+  },
+  {
+    "id": "san-jose-state",
+    "name": "San José State",
+    "aliases": ["San Jose State"],
+    "division": "fbs",
+    "sport": "ncaa",
+    "expectedMinGamesByYear": {
+      "2025": 12
+    }
+  },
+  {
+    "id": "fresno-state",
+    "name": "Fresno State",
+    "division": "fbs",
+    "sport": "ncaa",
+    "expectedMinGamesByYear": {
+      "2025": 13
+    }
+  }
+]

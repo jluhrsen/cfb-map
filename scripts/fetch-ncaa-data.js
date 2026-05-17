@@ -3,9 +3,20 @@ const path = require('path');
 const { fetchJSON, sleep } = require('./utils/api-client');
 
 const API_BASE = 'https://api.collegefootballdata.com';
-const API_KEY = process.env.CFBD_API_KEY;
 
 const DIVISIONS = ['fbs', 'fcs', 'd2', 'd3'];
+
+async function getAPIKey() {
+  if (process.env.CFBD_API_KEY) {
+    return process.env.CFBD_API_KEY.trim();
+  }
+
+  try {
+    return (await fs.readFile('.collegefootballdata_api.key', 'utf8')).trim();
+  } catch (error) {
+    return '';
+  }
+}
 
 /**
  * Fetch games for a specific year and division
@@ -13,10 +24,10 @@ const DIVISIONS = ['fbs', 'fcs', 'd2', 'd3'];
  * @param {string} division - Division (fbs, fcs, d2, d3)
  * @returns {Promise<Array>} Array of games
  */
-async function fetchGamesForDivision(year, division) {
+async function fetchGamesForDivision(year, division, apiKey) {
   const url = `${API_BASE}/games?year=${year}&division=${division}`;
   const headers = {
-    'Authorization': `Bearer ${API_KEY}`,
+    'Authorization': `Bearer ${apiKey}`,
     'Accept': 'application/json'
   };
 
@@ -41,8 +52,9 @@ async function fetchGamesForDivision(year, division) {
  * @returns {Promise<Object>} Object with year keys and game arrays
  */
 async function fetchNCAAData(years) {
-  if (!API_KEY) {
-    throw new Error('CFBD_API_KEY environment variable not set');
+  const apiKey = await getAPIKey();
+  if (!apiKey) {
+    throw new Error('CFBD_API_KEY environment variable not set and .collegefootballdata_api.key not found');
   }
 
   const allData = {};
@@ -52,7 +64,7 @@ async function fetchNCAAData(years) {
     const gamesMap = new Map();
 
     for (const division of DIVISIONS) {
-      const games = await fetchGamesForDivision(year, division);
+      const games = await fetchGamesForDivision(year, division, apiKey);
 
       // Deduplicate by game ID (API returns all games for each division request)
       games.forEach(game => {

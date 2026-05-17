@@ -1,63 +1,57 @@
 [
   {
-    "id": "2025-fcs-401767449",
+    "id": "2025-ncaa-401767449",
+    "sourceId": 401767449,
     "week": 8,
     "date": "2025-10-18",
     "day": "Saturday",
     "kickoff": "10a",
     "home": "Indiana State",
     "away": "North Dakota State",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "War Memorial Stadium",
-      "lat": 41.307,
-      "lng": -105.5677
+      "name": "Memorial Stadium",
+      "lat": 38.9628,
+      "lng": -95.2464
     },
+    "missingVenue": false,
     "division": "fcs"
   },
   {
-    "id": "2025-fcs-401767144",
+    "id": "2025-ncaa-401767100",
+    "sourceId": 401767100,
     "week": 8,
     "date": "2025-10-18",
     "day": "Saturday",
-    "kickoff": "12:30p",
-    "home": "Campbell",
-    "away": "New Hampshire",
+    "kickoff": "12p",
+    "home": "Montana",
+    "away": "Sacred Heart",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Lane Stadium",
-      "lat": 37.2206,
-      "lng": -80.4183
+      "name": "Washington-Grizzly Stadium",
+      "lat": 46.8601,
+      "lng": -113.9845
     },
+    "missingVenue": false,
     "division": "fcs"
   },
   {
-    "id": "2025-fcs-401767321",
-    "week": 8,
-    "date": "2025-10-18",
-    "day": "Saturday",
-    "kickoff": "12:30p",
-    "home": "UAlbany",
-    "away": "Rhode Island",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Ford Field",
-      "lat": 42.34,
-      "lng": -83.0456
-    },
-    "division": "fcs"
-  },
-  {
-    "id": "2025-fcs-401767227",
+    "id": "2025-ncaa-401767227",
+    "sourceId": 401767227,
     "week": 8,
     "date": "2025-10-18",
     "day": "Saturday",
     "kickoff": "2:30p",
     "home": "Tennessee State",
     "away": "Howard",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
@@ -65,6 +59,70 @@
       "lat": 36.1665,
       "lng": -86.7713
     },
+    "missingVenue": false,
     "division": "fcs"
+  },
+  {
+    "id": "2025-ncaa-401767517",
+    "sourceId": 401767517,
+    "week": 8,
+    "date": "2025-10-18",
+    "day": "Saturday",
+    "kickoff": "4p",
+    "home": "Stephen F. Austin",
+    "away": "Nicholls",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Homer Bryce Stadium",
+      "lat": 31.6204,
+      "lng": -94.6486
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
+    "id": "2025-ncaa-401767123",
+    "sourceId": 401767123,
+    "week": 8,
+    "date": "2025-10-19",
+    "day": "Saturday",
+    "kickoff": "6p",
+    "home": "Sacramento State",
+    "away": "Northern Colorado",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Hornet Stadium",
+      "lat": 38.5598,
+      "lng": -121.4242
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
+    "id": "2025-ncaa-401752941",
+    "sourceId": 401752941,
+    "week": 8,
+    "date": "2025-10-19",
+    "day": "Saturday",
+    "kickoff": "7p",
+    "home": "Oregon State",
+    "away": "Lafayette",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Reser Stadium",
+      "lat": 44.559,
+      "lng": -123.2814
+    },
+    "missingVenue": false,
+    "division": "fbs"
   }
 ]

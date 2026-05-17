@@ -52,7 +52,11 @@ export function GameDataProvider({ children }) {
     );
 
     const results = await Promise.all(promises);
-    const allGames = results.flat();
+    const gamesById = new Map();
+    results.flat().forEach(game => {
+      gamesById.set(game.id, game);
+    });
+    const allGames = Array.from(gamesById.values());
 
     setWeekData(prev => ({ ...prev, [key]: allGames }));
     return allGames;

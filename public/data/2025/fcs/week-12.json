@@ -1,46 +1,36 @@
 [
   {
-    "id": "2025-fcs-401767331",
+    "id": "2025-ncaa-401752767",
+    "sourceId": 401752767,
     "week": 12,
     "date": "2025-11-15",
     "day": "Saturday",
-    "kickoff": "10a",
-    "home": "UAlbany",
-    "away": "Towson",
+    "kickoff": "10:30a",
+    "home": "Kentucky",
+    "away": "Tennessee Tech",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Ford Field",
-      "lat": 42.34,
-      "lng": -83.0456
+      "name": "Kroger Field",
+      "lat": 38.022,
+      "lng": -84.5037
     },
-    "division": "fcs"
+    "missingVenue": false,
+    "division": "fbs"
   },
   {
-    "id": "2025-fcs-401767147",
-    "week": 12,
-    "date": "2025-11-15",
-    "day": "Saturday",
-    "kickoff": "11a",
-    "home": "Campbell",
-    "away": "Elon",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Lane Stadium",
-      "lat": 37.2206,
-      "lng": -80.4183
-    },
-    "division": "fcs"
-  },
-  {
-    "id": "2025-fcs-401767207",
+    "id": "2025-ncaa-401767207",
+    "sourceId": 401767207,
     "week": 12,
     "date": "2025-11-15",
     "day": "Saturday",
     "kickoff": "11:30a",
     "home": "Tennessee State",
     "away": "Gardner-Webb",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
@@ -48,6 +38,133 @@
       "lat": 36.1665,
       "lng": -86.7713
     },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
+    "id": "2025-ncaa-401767514",
+    "sourceId": 401767514,
+    "week": 12,
+    "date": "2025-11-15",
+    "day": "Saturday",
+    "kickoff": "12:30p",
+    "home": "North Dakota State",
+    "away": "Northern Iowa",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2460.png",
+    "venue": {
+      "name": "Fargodome",
+      "lat": 46.9028,
+      "lng": -96.8013
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
+    "id": "2025-ncaa-401767600",
+    "sourceId": 401767600,
+    "week": 12,
+    "date": "2025-11-15",
+    "day": "Saturday",
+    "kickoff": "1p",
+    "home": "San Diego",
+    "away": "Butler",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Torero Stadium",
+      "lat": 32.7741,
+      "lng": -117.1833
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
+    "id": "2025-ncaa-401767078",
+    "sourceId": 401767078,
+    "week": 12,
+    "date": "2025-11-15",
+    "day": "Saturday",
+    "kickoff": "1p",
+    "home": "Northern Arizona",
+    "away": "Cal Poly",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Walkup Skydome",
+      "lat": 35.1803,
+      "lng": -111.6544
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
+    "id": "2025-ncaa-401767488",
+    "sourceId": 401767488,
+    "week": 12,
+    "date": "2025-11-15",
+    "day": "Saturday",
+    "kickoff": "2p",
+    "home": "Stephen F. Austin",
+    "away": "Lamar",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Homer Bryce Stadium",
+      "lat": 31.6204,
+      "lng": -94.6486
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
+    "id": "2025-ncaa-401767087",
+    "sourceId": 401767087,
+    "week": 12,
+    "date": "2025-11-15",
+    "day": "Saturday",
+    "kickoff": "3p",
+    "home": "Idaho State",
+    "away": "Weber State",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Holt Arena",
+      "lat": 42.8723,
+      "lng": -112.4341
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
+    "id": "2025-ncaa-401767096",
+    "sourceId": 401767096,
+    "week": 12,
+    "date": "2025-11-16",
+    "day": "Saturday",
+    "kickoff": "6p",
+    "home": "Sacramento State",
+    "away": "Idaho",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/70.png",
+    "venue": {
+      "name": "Hornet Stadium",
+      "lat": 38.5598,
+      "lng": -121.4242
+    },
+    "missingVenue": false,
     "division": "fcs"
   }
 ]

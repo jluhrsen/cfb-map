@@ -1,0 +1,44 @@
+[
+  {
+    "id": "2026-ncaa-401856746",
+    "sourceId": 401856746,
+    "week": 12,
+    "date": "2026-11-21",
+    "day": "Friday",
+    "kickoff": "9p",
+    "home": "Alabama",
+    "away": "Chattanooga",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Bryant-Denny Stadium",
+      "lat": 33.208,
+      "lng": -87.5502
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401856747",
+    "sourceId": 401856747,
+    "week": 12,
+    "date": "2026-11-21",
+    "day": "Friday",
+    "kickoff": "9p",
+    "home": "Auburn",
+    "away": "Samford",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Jordan-Hare Stadium",
+      "lat": 32.6017,
+      "lng": -85.4893
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  }
+]

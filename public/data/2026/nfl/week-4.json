@@ -1,0 +1,290 @@
+[
+  {
+    "id": "nfl-401872964",
+    "week": 4,
+    "date": "2026-10-02",
+    "day": "Thursday",
+    "kickoff": "5:15p",
+    "home": "Cleveland Browns",
+    "away": "Pittsburgh Steelers",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cle.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/pit.png",
+    "venue": {
+      "name": "Huntington Bank Field",
+      "lat": 41.5061,
+      "lng": -81.6995
+    },
+    "missingVenue": false,
+    "division": "nfl"
+  },
+  {
+    "id": "nfl-401872965",
+    "week": 4,
+    "date": "2026-10-04",
+    "day": "Sunday",
+    "kickoff": "6:30a",
+    "home": "Washington Commanders",
+    "away": "Indianapolis Colts",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ind.png",
+    "venue": {
+      "name": "Tottenham Hotspur Stadium",
+      "lat": 51.6043,
+      "lng": -0.0665
+    },
+    "missingVenue": false,
+    "division": "nfl"
+  },
+  {
+    "id": "nfl-401872971",
+    "week": 4,
+    "date": "2026-10-04",
+    "day": "Sunday",
+    "kickoff": "10a",
+    "home": "Buffalo Bills",
+    "away": "New England Patriots",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/buf.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ne.png",
+    "venue": {
+      "name": "Highmark Stadium",
+      "lat": 42.7738,
+      "lng": -78.787
+    },
+    "missingVenue": false,
+    "division": "nfl"
+  },
+  {
+    "id": "nfl-401872972",
+    "week": 4,
+    "date": "2026-10-04",
+    "day": "Sunday",
+    "kickoff": "10a",
+    "home": "Chicago Bears",
+    "away": "New York Jets",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/chi.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
+    "venue": {
+      "name": "Soldier Field",
+      "lat": 41.8623,
+      "lng": -87.6167
+    },
+    "missingVenue": false,
+    "division": "nfl"
+  },
+  {
+    "id": "nfl-401872969",
+    "week": 4,
+    "date": "2026-10-04",
+    "day": "Sunday",
+    "kickoff": "10a",
+    "home": "Cincinnati Bengals",
+    "away": "Jacksonville Jaguars",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cin.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/jax.png",
+    "venue": {
+      "name": "Paycor Stadium",
+      "lat": 39.0954,
+      "lng": -84.516
+    },
+    "missingVenue": false,
+    "division": "nfl"
+  },
+  {
+    "id": "nfl-401872966",
+    "week": 4,
+    "date": "2026-10-04",
+    "day": "Sunday",
+    "kickoff": "10a",
+    "home": "New York Giants",
+    "away": "Arizona Cardinals",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyg.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ari.png",
+    "venue": {
+      "name": "MetLife Stadium",
+      "lat": 40.8128,
+      "lng": -74.0742
+    },
+    "missingVenue": false,
+    "division": "nfl"
+  },
+  {
+    "id": "nfl-401872970",
+    "week": 4,
+    "date": "2026-10-04",
+    "day": "Sunday",
+    "kickoff": "10a",
+    "home": "Philadelphia Eagles",
+    "away": "Los Angeles Rams",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/phi.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lar.png",
+    "venue": {
+      "name": "Lincoln Financial Field",
+      "lat": 39.9008,
+      "lng": -75.1675
+    },
+    "missingVenue": false,
+    "division": "nfl"
+  },
+  {
+    "id": "nfl-401872968",
+    "week": 4,
+    "date": "2026-10-04",
+    "day": "Sunday",
+    "kickoff": "10a",
+    "home": "Tampa Bay Buccaneers",
+    "away": "Green Bay Packers",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/tb.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
+    "venue": {
+      "name": "Raymond James Stadium",
+      "lat": 27.9759,
+      "lng": -82.5033
+    },
+    "missingVenue": false,
+    "division": "nfl"
+  },
+  {
+    "id": "nfl-401872973",
+    "week": 4,
+    "date": "2026-10-04",
+    "day": "Sunday",
+    "kickoff": "10a",
+    "home": "Baltimore Ravens",
+    "away": "Tennessee Titans",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/bal.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ten.png",
+    "venue": {
+      "name": "M&T Bank Stadium",
+      "lat": 39.278,
+      "lng": -76.6227
+    },
+    "missingVenue": false,
+    "division": "nfl"
+  },
+  {
+    "id": "nfl-401872967",
+    "week": 4,
+    "date": "2026-10-04",
+    "day": "Sunday",
+    "kickoff": "10a",
+    "home": "Houston Texans",
+    "away": "Dallas Cowboys",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/hou.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/dal.png",
+    "venue": {
+      "name": "NRG Stadium",
+      "lat": 29.6847,
+      "lng": -95.4107
+    },
+    "missingVenue": false,
+    "division": "nfl"
+  },
+  {
+    "id": "nfl-401872974",
+    "week": 4,
+    "date": "2026-10-04",
+    "day": "Sunday",
+    "kickoff": "1:05p",
+    "home": "Minnesota Vikings",
+    "away": "Miami Dolphins",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/min.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/mia.png",
+    "venue": {
+      "name": "U.S. Bank Stadium",
+      "lat": 44.9738,
+      "lng": -93.2578
+    },
+    "missingVenue": false,
+    "division": "nfl"
+  },
+  {
+    "id": "nfl-401872976",
+    "week": 4,
+    "date": "2026-10-04",
+    "day": "Sunday",
+    "kickoff": "1:25p",
+    "home": "Las Vegas Raiders",
+    "away": "Kansas City Chiefs",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lv.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/kc.png",
+    "venue": {
+      "name": "Allegiant Stadium",
+      "lat": 36.0909,
+      "lng": -115.1833
+    },
+    "missingVenue": false,
+    "division": "nfl"
+  },
+  {
+    "id": "nfl-401872975",
+    "week": 4,
+    "date": "2026-10-04",
+    "day": "Sunday",
+    "kickoff": "1:25p",
+    "home": "San Francisco 49ers",
+    "away": "Denver Broncos",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sf.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/den.png",
+    "venue": {
+      "name": "Levi's Stadium",
+      "lat": 37.403,
+      "lng": -121.9697
+    },
+    "missingVenue": false,
+    "division": "nfl"
+  },
+  {
+    "id": "nfl-401872977",
+    "week": 4,
+    "date": "2026-10-04",
+    "day": "Sunday",
+    "kickoff": "1:25p",
+    "home": "Seattle Seahawks",
+    "away": "Los Angeles Chargers",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sea.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lac.png",
+    "venue": {
+      "name": "Lumen Field",
+      "lat": 47.5952,
+      "lng": -122.3316
+    },
+    "missingVenue": false,
+    "division": "nfl"
+  },
+  {
+    "id": "nfl-401872978",
+    "week": 4,
+    "date": "2026-10-05",
+    "day": "Sunday",
+    "kickoff": "5:20p",
+    "home": "Carolina Panthers",
+    "away": "Detroit Lions",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/car.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/det.png",
+    "venue": {
+      "name": "Bank of America Stadium",
+      "lat": 35.2258,
+      "lng": -80.8528
+    },
+    "missingVenue": false,
+    "division": "nfl"
+  },
+  {
+    "id": "nfl-401872979",
+    "week": 4,
+    "date": "2026-10-06",
+    "day": "Monday",
+    "kickoff": "5:15p",
+    "home": "New Orleans Saints",
+    "away": "Atlanta Falcons",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/no.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/atl.png",
+    "venue": {
+      "name": "Caesars Superdome",
+      "lat": 29.9511,
+      "lng": -90.0812
+    },
+    "missingVenue": false,
+    "division": "nfl"
+  }
+]

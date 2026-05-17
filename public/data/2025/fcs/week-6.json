@@ -1,19 +1,86 @@
 [
   {
-    "id": "2025-fcs-401767324",
+    "id": "2025-ncaa-401767362",
+    "sourceId": 401767362,
     "week": 6,
     "date": "2025-10-04",
     "day": "Saturday",
-    "kickoff": "12:30p",
-    "home": "UAlbany",
-    "away": "Stony Brook",
+    "kickoff": "12p",
+    "home": "Alabama State",
+    "away": "Bethune-Cookman",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Ford Field",
-      "lat": 42.34,
-      "lng": -83.0456
+      "name": "Hornet Stadium",
+      "lat": 38.5598,
+      "lng": -121.4242
     },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
+    "id": "2025-ncaa-401767108",
+    "sourceId": 401767108,
+    "week": 6,
+    "date": "2025-10-04",
+    "day": "Saturday",
+    "kickoff": "2p",
+    "home": "Northern Arizona",
+    "away": "Montana State",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Walkup Skydome",
+      "lat": 35.1803,
+      "lng": -111.6544
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
+    "id": "2025-ncaa-401767074",
+    "sourceId": 401767074,
+    "week": 6,
+    "date": "2025-10-05",
+    "day": "Saturday",
+    "kickoff": "5p",
+    "home": "Cal Poly",
+    "away": "UC Davis",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Alex G. Spanos Stadium",
+      "lat": 35.3005,
+      "lng": -120.6587
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
+    "id": "2025-ncaa-401767083",
+    "sourceId": 401767083,
+    "week": 6,
+    "date": "2025-10-05",
+    "day": "Saturday",
+    "kickoff": "5p",
+    "home": "Idaho State",
+    "away": "Montana",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Holt Arena",
+      "lat": 42.8723,
+      "lng": -112.4341
+    },
+    "missingVenue": false,
     "division": "fcs"
   }
 ]
