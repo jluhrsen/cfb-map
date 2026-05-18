@@ -22,28 +22,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401777327",
-    "sourceId": 401777327,
-    "sourceWeek": 15,
-    "week": 16,
-    "date": "2025-12-06",
-    "day": "Saturday",
-    "kickoff": "5p",
-    "home": "Texas Tech",
-    "away": "BYU",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "AT&T Stadium",
-      "lat": 32.7473,
-      "lng": -97.0945
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401777329",
     "sourceId": 401777329,
     "sourceWeek": 15,
@@ -61,6 +39,28 @@
       "name": "Ford Field",
       "lat": 42.34,
       "lng": -83.0456
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401777327",
+    "sourceId": 401777327,
+    "sourceWeek": 15,
+    "week": 16,
+    "date": "2025-12-06",
+    "day": "Saturday",
+    "kickoff": "5p",
+    "home": "Texas Tech",
+    "away": "BYU",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "AT&T Stadium",
+      "lat": 32.7473,
+      "lng": -97.0945
     },
     "missingVenue": false,
     "division": "fbs"
@@ -88,28 +88,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401777353",
-    "sourceId": 401777353,
-    "sourceWeek": 15,
-    "week": 16,
-    "date": "2025-12-07",
-    "day": "Sunday",
-    "kickoff": "1a",
-    "home": "Ohio State",
-    "away": "Indiana",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Lucas Oil Stadium",
-      "lat": 39.7601,
-      "lng": -86.1639
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401777328",
     "sourceId": 401777328,
     "sourceWeek": 15,
@@ -127,6 +105,28 @@
       "name": "Bank of America Stadium",
       "lat": 35.2258,
       "lng": -80.8528
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401777353",
+    "sourceId": 401777353,
+    "sourceWeek": 15,
+    "week": 16,
+    "date": "2025-12-07",
+    "day": "Sunday",
+    "kickoff": "1a",
+    "home": "Ohio State",
+    "away": "Indiana",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Lucas Oil Stadium",
+      "lat": 39.7601,
+      "lng": -86.1639
     },
     "missingVenue": false,
     "division": "fbs"

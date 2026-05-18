@@ -44,28 +44,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752838",
-    "sourceId": 401752838,
-    "sourceWeek": 3,
-    "week": 4,
-    "date": "2025-09-13",
-    "day": "Saturday",
-    "kickoff": "4p",
-    "home": "Maryland",
-    "away": "Towson",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "SECU Stadium",
-      "lat": 38.9941,
-      "lng": -76.948
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401752828",
     "sourceId": 401752828,
     "sourceWeek": 3,
@@ -154,6 +132,28 @@
     "division": "fbs"
   },
   {
+    "id": "2025-ncaa-401752838",
+    "sourceId": 401752838,
+    "sourceWeek": 3,
+    "week": 4,
+    "date": "2025-09-13",
+    "day": "Saturday",
+    "kickoff": "4p",
+    "home": "Maryland",
+    "away": "Towson",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "SECU Stadium",
+      "lat": 38.9941,
+      "lng": -76.948
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
     "id": "2025-ncaa-401752831",
     "sourceId": 401752831,
     "sourceWeek": 3,
@@ -220,23 +220,23 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752834",
-    "sourceId": 401752834,
+    "id": "2025-ncaa-401752835",
+    "sourceId": 401752835,
     "sourceWeek": 3,
     "week": 4,
     "date": "2025-09-13",
     "day": "Saturday",
     "kickoff": "7:30p",
-    "home": "Michigan State",
-    "away": "Youngstown State",
+    "home": "Penn State",
+    "away": "Villanova",
     "homeDivision": "fbs",
     "awayDivision": "fcs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Spartan Stadium",
-      "lat": 37.3975,
-      "lng": -121.8635
+      "name": "Beaver Stadium",
+      "lat": 40.8122,
+      "lng": -77.8561
     },
     "missingVenue": false,
     "division": "fbs"
@@ -264,72 +264,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752705",
-    "sourceId": 401752705,
-    "sourceWeek": 3,
-    "week": 4,
-    "date": "2025-09-13",
-    "day": "Saturday",
-    "kickoff": "7:30p",
-    "home": "Tennessee",
-    "away": "Georgia",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Neyland Stadium",
-      "lat": 35.9551,
-      "lng": -83.9252
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2025-ncaa-401752835",
-    "sourceId": 401752835,
-    "sourceWeek": 3,
-    "week": 4,
-    "date": "2025-09-13",
-    "day": "Saturday",
-    "kickoff": "7:30p",
-    "home": "Penn State",
-    "away": "Villanova",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Beaver Stadium",
-      "lat": 40.8122,
-      "lng": -77.8561
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2025-ncaa-401752949",
-    "sourceId": 401752949,
-    "sourceWeek": 3,
-    "week": 4,
-    "date": "2025-09-13",
-    "day": "Saturday",
-    "kickoff": "7:30p",
-    "home": "North Texas",
-    "away": "Washington State",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "DATCU Stadium",
-      "lat": 33.2071,
-      "lng": -97.1514
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401754639",
     "sourceId": 401754639,
     "sourceWeek": 3,
@@ -352,6 +286,28 @@
     "division": "fbs"
   },
   {
+    "id": "2025-ncaa-401752834",
+    "sourceId": 401752834,
+    "sourceWeek": 3,
+    "week": 4,
+    "date": "2025-09-13",
+    "day": "Saturday",
+    "kickoff": "7:30p",
+    "home": "Michigan State",
+    "away": "Youngstown State",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Spartan Stadium",
+      "lat": 37.3975,
+      "lng": -121.8635
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
     "id": "2025-ncaa-401762467",
     "sourceId": 401762467,
     "sourceWeek": 3,
@@ -369,6 +325,50 @@
       "name": "Alamodome",
       "lat": 29.4191,
       "lng": -98.4737
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401752705",
+    "sourceId": 401752705,
+    "sourceWeek": 3,
+    "week": 4,
+    "date": "2025-09-13",
+    "day": "Saturday",
+    "kickoff": "7:30p",
+    "home": "Tennessee",
+    "away": "Georgia",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Neyland Stadium",
+      "lat": 35.9551,
+      "lng": -83.9252
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401752949",
+    "sourceId": 401752949,
+    "sourceWeek": 3,
+    "week": 4,
+    "date": "2025-09-13",
+    "day": "Saturday",
+    "kickoff": "7:30p",
+    "home": "North Texas",
+    "away": "Washington State",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "DATCU Stadium",
+      "lat": 33.2071,
+      "lng": -97.1514
     },
     "missingVenue": false,
     "division": "fbs"
@@ -484,23 +484,23 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752829",
-    "sourceId": 401752829,
+    "id": "2025-ncaa-401754536",
+    "sourceId": 401754536,
     "sourceWeek": 3,
     "week": 4,
     "date": "2025-09-13",
     "day": "Saturday",
     "kickoff": "11p",
-    "home": "Illinois",
-    "away": "Western Michigan",
+    "home": "Virginia Tech",
+    "away": "Old Dominion",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Memorial Stadium (Champaign, IL)",
-      "lat": 40.0993,
-      "lng": -88.2358
+      "name": "Lane Stadium",
+      "lat": 37.2206,
+      "lng": -80.4183
     },
     "missingVenue": false,
     "division": "fbs"
@@ -528,23 +528,23 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401754536",
-    "sourceId": 401754536,
+    "id": "2025-ncaa-401752829",
+    "sourceId": 401752829,
     "sourceWeek": 3,
     "week": 4,
     "date": "2025-09-13",
     "day": "Saturday",
     "kickoff": "11p",
-    "home": "Virginia Tech",
-    "away": "Old Dominion",
+    "home": "Illinois",
+    "away": "Western Michigan",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Lane Stadium",
-      "lat": 37.2206,
-      "lng": -80.4183
+      "name": "Memorial Stadium (Champaign, IL)",
+      "lat": 40.0993,
+      "lng": -88.2358
     },
     "missingVenue": false,
     "division": "fbs"
@@ -572,28 +572,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752699",
-    "sourceId": 401752699,
-    "sourceWeek": 3,
-    "week": 4,
-    "date": "2025-09-13",
-    "day": "Saturday",
-    "kickoff": "11:30p",
-    "home": "LSU",
-    "away": "Florida",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Tiger Stadium (LA)",
-      "lat": 30.4122,
-      "lng": -91.1839
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401752707",
     "sourceId": 401752707,
     "sourceWeek": 3,
@@ -611,6 +589,28 @@
       "name": "Notre Dame Stadium",
       "lat": 41.6997,
       "lng": -86.2347
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401752699",
+    "sourceId": 401752699,
+    "sourceWeek": 3,
+    "week": 4,
+    "date": "2025-09-13",
+    "day": "Saturday",
+    "kickoff": "11:30p",
+    "home": "LSU",
+    "away": "Florida",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Tiger Stadium (LA)",
+      "lat": 30.4122,
+      "lng": -91.1839
     },
     "missingVenue": false,
     "division": "fbs"

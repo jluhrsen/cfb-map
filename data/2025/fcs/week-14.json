@@ -22,28 +22,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401767367",
-    "sourceId": 401767367,
-    "sourceWeek": 13,
-    "week": 14,
-    "date": "2025-11-22",
-    "day": "Saturday",
-    "kickoff": "6p",
-    "home": "Alabama State",
-    "away": "Arkansas-Pine Bluff",
-    "homeDivision": "fcs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Hornet Stadium",
-      "lat": 38.5598,
-      "lng": -121.4242
-    },
-    "missingVenue": false,
-    "division": "fcs"
-  },
-  {
     "id": "2025-ncaa-401767453",
     "sourceId": 401767453,
     "sourceWeek": 13,
@@ -61,6 +39,28 @@
       "name": "Memorial Stadium",
       "lat": 38.9628,
       "lng": -95.2464
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
+    "id": "2025-ncaa-401767367",
+    "sourceId": 401767367,
+    "sourceWeek": 13,
+    "week": 14,
+    "date": "2025-11-22",
+    "day": "Saturday",
+    "kickoff": "6p",
+    "home": "Alabama State",
+    "away": "Arkansas-Pine Bluff",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Hornet Stadium",
+      "lat": 38.5598,
+      "lng": -121.4242
     },
     "missingVenue": false,
     "division": "fcs"
@@ -88,28 +88,6 @@
     "division": "fcs"
   },
   {
-    "id": "2025-ncaa-401752774",
-    "sourceId": 401752774,
-    "sourceWeek": 13,
-    "week": 14,
-    "date": "2025-11-22",
-    "day": "Saturday",
-    "kickoff": "7p",
-    "home": "Auburn",
-    "away": "Mercer",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Jordan-Hare Stadium",
-      "lat": 32.6017,
-      "lng": -85.4893
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401752773",
     "sourceId": 401752773,
     "sourceWeek": 13,
@@ -127,6 +105,28 @@
       "name": "Bryant-Denny Stadium",
       "lat": 33.208,
       "lng": -87.5502
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401752774",
+    "sourceId": 401752774,
+    "sourceWeek": 13,
+    "week": 14,
+    "date": "2025-11-22",
+    "day": "Saturday",
+    "kickoff": "7p",
+    "home": "Auburn",
+    "away": "Mercer",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Jordan-Hare Stadium",
+      "lat": 32.6017,
+      "lng": -85.4893
     },
     "missingVenue": false,
     "division": "fbs"

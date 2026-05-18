@@ -110,23 +110,23 @@
     "division": "fcs"
   },
   {
-    "id": "2025-ncaa-401752685",
-    "sourceId": 401752685,
+    "id": "2025-ncaa-401752692",
+    "sourceId": 401752692,
     "sourceWeek": 2,
     "week": 3,
     "date": "2025-09-06",
     "day": "Saturday",
     "kickoff": "7:30p",
-    "home": "Georgia",
-    "away": "Austin Peay",
+    "home": "Tennessee",
+    "away": "East Tennessee State",
     "homeDivision": "fbs",
     "awayDivision": "fcs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Sanford Stadium",
-      "lat": 33.9498,
-      "lng": -83.3732
+      "name": "Neyland Stadium",
+      "lat": 35.9551,
+      "lng": -83.9252
     },
     "missingVenue": false,
     "division": "fbs"
@@ -154,23 +154,23 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752692",
-    "sourceId": 401752692,
+    "id": "2025-ncaa-401752685",
+    "sourceId": 401752685,
     "sourceWeek": 2,
     "week": 3,
     "date": "2025-09-06",
     "day": "Saturday",
     "kickoff": "7:30p",
-    "home": "Tennessee",
-    "away": "East Tennessee State",
+    "home": "Georgia",
+    "away": "Austin Peay",
     "homeDivision": "fbs",
     "awayDivision": "fcs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Neyland Stadium",
-      "lat": 35.9551,
-      "lng": -83.9252
+      "name": "Sanford Stadium",
+      "lat": 33.9498,
+      "lng": -83.3732
     },
     "missingVenue": false,
     "division": "fbs"
@@ -198,6 +198,28 @@
     "division": "fbs"
   },
   {
+    "id": "2025-ncaa-401767112",
+    "sourceId": 401767112,
+    "sourceWeek": 2,
+    "week": 3,
+    "date": "2025-09-06",
+    "day": "Saturday",
+    "kickoff": "9p",
+    "home": "Northern Arizona",
+    "away": "Utah Tech",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Walkup Skydome",
+      "lat": 35.1803,
+      "lng": -111.6544
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
     "id": "2025-ncaa-401760365",
     "sourceId": 401760365,
     "sourceWeek": 2,
@@ -220,26 +242,26 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401767112",
-    "sourceId": 401767112,
+    "id": "2025-ncaa-401754530",
+    "sourceId": 401754530,
     "sourceWeek": 2,
     "week": 3,
     "date": "2025-09-06",
     "day": "Saturday",
-    "kickoff": "9p",
-    "home": "Northern Arizona",
-    "away": "Utah Tech",
-    "homeDivision": "fcs",
+    "kickoff": "10p",
+    "home": "California",
+    "away": "Texas Southern",
+    "homeDivision": "fbs",
     "awayDivision": "fcs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Walkup Skydome",
-      "lat": 35.1803,
-      "lng": -111.6544
+      "name": "California Memorial Stadium",
+      "lat": 37.8713,
+      "lng": -122.2507
     },
     "missingVenue": false,
-    "division": "fcs"
+    "division": "fbs"
   },
   {
     "id": "2025-ncaa-401756887",
@@ -264,23 +286,23 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401754530",
-    "sourceId": 401754530,
+    "id": "2025-ncaa-401762795",
+    "sourceId": 401762795,
     "sourceWeek": 2,
     "week": 3,
     "date": "2025-09-06",
     "day": "Saturday",
-    "kickoff": "10p",
-    "home": "California",
-    "away": "Texas Southern",
+    "kickoff": "11p",
+    "home": "Eastern Michigan",
+    "away": "Long Island University",
     "homeDivision": "fbs",
     "awayDivision": "fcs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "California Memorial Stadium",
-      "lat": 37.8713,
-      "lng": -122.2507
+      "name": "Rynearson Stadium",
+      "lat": 42.2473,
+      "lng": -83.6253
     },
     "missingVenue": false,
     "division": "fbs"
@@ -330,28 +352,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401762795",
-    "sourceId": 401762795,
-    "sourceWeek": 2,
-    "week": 3,
-    "date": "2025-09-06",
-    "day": "Saturday",
-    "kickoff": "11p",
-    "home": "Eastern Michigan",
-    "away": "Long Island University",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Rynearson Stadium",
-      "lat": 42.2473,
-      "lng": -83.6253
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401767097",
     "sourceId": 401767097,
     "sourceWeek": 2,
@@ -369,6 +369,28 @@
       "name": "Washington-Grizzly Stadium",
       "lat": 46.8601,
       "lng": -113.9845
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
+    "id": "2025-ncaa-401767292",
+    "sourceId": 401767292,
+    "sourceWeek": 2,
+    "week": 3,
+    "date": "2025-09-07",
+    "day": "Sunday",
+    "kickoff": "1a",
+    "home": "San Diego",
+    "away": "Southern Utah",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Torero Stadium",
+      "lat": 32.7741,
+      "lng": -117.1833
     },
     "missingVenue": false,
     "division": "fcs"
@@ -394,28 +416,6 @@
     },
     "missingVenue": false,
     "division": "fbs"
-  },
-  {
-    "id": "2025-ncaa-401767292",
-    "sourceId": 401767292,
-    "sourceWeek": 2,
-    "week": 3,
-    "date": "2025-09-07",
-    "day": "Sunday",
-    "kickoff": "1a",
-    "home": "San Diego",
-    "away": "Southern Utah",
-    "homeDivision": "fcs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Torero Stadium",
-      "lat": 32.7741,
-      "lng": -117.1833
-    },
-    "missingVenue": false,
-    "division": "fcs"
   },
   {
     "id": "2025-ncaa-401756879",
