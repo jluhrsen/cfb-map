@@ -251,16 +251,15 @@ async function generateDataFiles(ncaaData, nflData, outputDir) {
   }
 
   const teams = new Set();
-  const weeksByYear = {};
+  const seasonStartsByYear = {};
+  const dateBoundsByYear = {};
   const diagnostics = {};
 
   for (const [year, games] of Object.entries(ncaaData)) {
     console.log(`\nProcessing NCAA ${year}...`);
     const seasonStart = findNCAASeasonStart(year, games);
+    seasonStartsByYear[year] = formatDate(seasonStart);
 
-    if (!weeksByYear[year]) {
-      weeksByYear[year] = {};
-    }
     if (!diagnostics[year]) {
       diagnostics[year] = { missingVenues: [] };
     }
@@ -315,7 +314,7 @@ async function generateDataFiles(ncaaData, nflData, outputDir) {
         byDivisionWeek[key].push(game);
       });
 
-      updateWeekMetadata(weeksByYear, year, game);
+      updateDateBounds(dateBoundsByYear, year, game.date);
     });
 
     // Write division/week files
@@ -331,9 +330,6 @@ async function generateDataFiles(ncaaData, nflData, outputDir) {
   for (const [year, games] of Object.entries(nflData)) {
     console.log(`\nProcessing NFL ${year}...`);
 
-    if (!weeksByYear[year]) {
-      weeksByYear[year] = {};
-    }
     if (!diagnostics[year]) {
       diagnostics[year] = { missingVenues: [] };
     }
@@ -382,7 +378,7 @@ async function generateDataFiles(ncaaData, nflData, outputDir) {
       }
       byWeek[key].push(game);
 
-      updateWeekMetadata(weeksByYear, year, game);
+      updateDateBounds(dateBoundsByYear, year, game.date);
     });
 
     // Write week files
@@ -396,16 +392,16 @@ async function generateDataFiles(ncaaData, nflData, outputDir) {
 
   // Write index file
   // Convert weeksByYear to sorted arrays
-  const weeksByYearSorted = {};
-  for (const [year, weeksObj] of Object.entries(weeksByYear)) {
-    weeksByYearSorted[year] = Object.values(weeksObj).sort((a, b) => a.number - b.number);
+  const weeksByYear = {};
+  for (const year of availableSeasons.map(String)) {
+    weeksByYear[year] = buildDisplayWeeks(year, seasonStartsByYear[year], dateBoundsByYear[year]);
   }
 
   const index = {
     season: new Date().getFullYear(),
     availableSeasons,
     lastUpdated: new Date().toISOString(),
-    weeksByYear: weeksByYearSorted,
+    weeksByYear,
     divisions: ['fbs', 'fcs', 'd2', 'd3', 'nfl'],
     teams: Array.from(teams).map(t => JSON.parse(t))
       .sort((a, b) => a.name.localeCompare(b.name))
@@ -450,19 +446,48 @@ function findNCAASeasonStart(year, games) {
   return new Date(`${dates[0]}T00:00:00Z`);
 }
 
-function updateWeekMetadata(weeksByYear, year, game) {
-  if (!weeksByYear[year][game.week]) {
-    weeksByYear[year][game.week] = {
-      number: game.week,
-      startDate: game.date,
-      label: `Week ${game.week}`
-    };
+function updateDateBounds(dateBoundsByYear, year, date) {
+  if (!dateBoundsByYear[year]) {
+    dateBoundsByYear[year] = { min: date, max: date };
     return;
   }
 
-  if (game.date < weeksByYear[year][game.week].startDate) {
-    weeksByYear[year][game.week].startDate = game.date;
+  if (date < dateBoundsByYear[year].min) {
+    dateBoundsByYear[year].min = date;
   }
+  if (date > dateBoundsByYear[year].max) {
+    dateBoundsByYear[year].max = date;
+  }
+}
+
+function buildDisplayWeeks(year, seasonStartDate, dateBounds) {
+  if (!dateBounds) {
+    return [];
+  }
+
+  const startDate = seasonStartDate || dateBounds.min;
+  const start = parseDate(startDate);
+  const weekCount = calculateWeek(dateBounds.max, start);
+
+  return Array.from({ length: weekCount }, (_, idx) => ({
+    number: idx + 1,
+    startDate: formatDate(addDays(start, idx * 7)),
+    label: `Week ${idx + 1}`
+  }));
+}
+
+function parseDate(dateStr) {
+  return new Date(`${dateStr}T00:00:00Z`);
+}
+
+function addDays(date, days) {
+  const result = new Date(date);
+  result.setUTCDate(result.getUTCDate() + days);
+  return result;
+}
+
+function formatDate(date) {
+  return date.toISOString().split('T')[0];
 }
 
 module.exports = { generateDataFiles };

@@ -572,28 +572,6 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401864432",
-    "sourceId": 401864432,
-    "sourceWeek": 1,
-    "week": 2,
-    "date": "2026-09-05",
-    "day": "Friday",
-    "kickoff": "9p",
-    "home": "Nevada",
-    "away": "Western Kentucky",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2440.png",
-    "awayLogo": null,
-    "venue": {
-      "name": "Mackay Stadium",
-      "lat": 39.5468,
-      "lng": -119.8175
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2026-ncaa-401858425",
     "sourceId": 401858425,
     "sourceWeek": 1,
@@ -616,23 +594,23 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401862699",
-    "sourceId": 401862699,
+    "id": "2026-ncaa-401864432",
+    "sourceId": 401864432,
     "sourceWeek": 1,
     "week": 2,
     "date": "2026-09-05",
     "day": "Friday",
     "kickoff": "9p",
-    "home": "South Florida",
-    "away": "Florida International",
+    "home": "Nevada",
+    "away": "Western Kentucky",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
-    "homeLogo": null,
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2440.png",
     "awayLogo": null,
     "venue": {
-      "name": "Raymond James Stadium",
-      "lat": 27.9759,
-      "lng": -82.5033
+      "name": "Mackay Stadium",
+      "lat": 39.5468,
+      "lng": -119.8175
     },
     "missingVenue": false,
     "division": "fbs"
@@ -677,6 +655,28 @@
       "name": "Memorial Stadium (Champaign, IL)",
       "lat": 40.0993,
       "lng": -88.2358
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401862699",
+    "sourceId": 401862699,
+    "sourceWeek": 1,
+    "week": 2,
+    "date": "2026-09-05",
+    "day": "Friday",
+    "kickoff": "9p",
+    "home": "South Florida",
+    "away": "Florida International",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Raymond James Stadium",
+      "lat": 27.9759,
+      "lng": -82.5033
     },
     "missingVenue": false,
     "division": "fbs"
