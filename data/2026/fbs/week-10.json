@@ -1,27 +1,5 @@
 [
   {
-    "id": "2026-ncaa-401858278",
-    "sourceId": 401858278,
-    "sourceWeek": 9,
-    "week": 10,
-    "date": "2026-10-30",
-    "day": "Friday",
-    "kickoff": "4a",
-    "home": "Syracuse",
-    "away": "SMU",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "JMA Wireless Dome",
-      "lat": 43.0361,
-      "lng": -76.1364
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2026-ncaa-401866451",
     "sourceId": 401866451,
     "sourceWeek": 9,
@@ -44,23 +22,23 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401859185",
-    "sourceId": 401859185,
+    "id": "2026-ncaa-401858278",
+    "sourceId": 401858278,
     "sourceWeek": 9,
     "week": 10,
-    "date": "2026-10-31",
-    "day": "Saturday",
+    "date": "2026-10-30",
+    "day": "Friday",
     "kickoff": "4a",
-    "home": "Notre Dame",
-    "away": "Navy",
+    "home": "Syracuse",
+    "away": "SMU",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Gillette Stadium",
-      "lat": 42.0909,
-      "lng": -71.2643
+      "name": "JMA Wireless Dome",
+      "lat": 43.0361,
+      "lng": -76.1364
     },
     "missingVenue": false,
     "division": "fbs"
@@ -171,6 +149,28 @@
       "name": "DKR-Texas Memorial Stadium",
       "lat": 30.2839,
       "lng": -97.7325
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401859185",
+    "sourceId": 401859185,
+    "sourceWeek": 9,
+    "week": 10,
+    "date": "2026-10-31",
+    "day": "Saturday",
+    "kickoff": "4a",
+    "home": "Notre Dame",
+    "away": "Navy",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Gillette Stadium",
+      "lat": 42.0909,
+      "lng": -71.2643
     },
     "missingVenue": false,
     "division": "fbs"
@@ -594,28 +594,6 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401856733",
-    "sourceId": 401856733,
-    "sourceWeek": 9,
-    "week": 10,
-    "date": "2026-10-31",
-    "day": "Saturday",
-    "kickoff": "4a",
-    "home": "Arkansas",
-    "away": "Missouri",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Razorback Stadium",
-      "lat": 36.0684,
-      "lng": -94.1789
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2026-ncaa-401864531",
     "sourceId": 401864531,
     "sourceWeek": 9,
@@ -633,6 +611,28 @@
       "name": "Fargodome",
       "lat": 46.9028,
       "lng": -96.8013
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401856733",
+    "sourceId": 401856733,
+    "sourceWeek": 9,
+    "week": 10,
+    "date": "2026-10-31",
+    "day": "Saturday",
+    "kickoff": "4a",
+    "home": "Arkansas",
+    "away": "Missouri",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Razorback Stadium",
+      "lat": 36.0684,
+      "lng": -94.1789
     },
     "missingVenue": false,
     "division": "fbs"

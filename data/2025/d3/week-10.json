@@ -22,28 +22,6 @@
     "division": "d3"
   },
   {
-    "id": "2025-ncaa-401777173",
-    "sourceId": 401777173,
-    "sourceWeek": 9,
-    "week": 10,
-    "date": "2025-10-25",
-    "day": "Saturday",
-    "kickoff": "8p",
-    "home": "Lewis & Clark College",
-    "away": "Whitworth",
-    "homeDivision": "d3",
-    "awayDivision": "d3",
-    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/2i62768ao3nlh5wq.png",
-    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/ekkb9ky91gzlit7x.png",
-    "venue": {
-      "name": "Griswold Stadium",
-      "lat": 45.4519,
-      "lng": -122.6727
-    },
-    "missingVenue": false,
-    "division": "d3"
-  },
-  {
     "id": "2025-ncaa-401777156",
     "sourceId": 401777156,
     "sourceWeek": 9,
@@ -61,6 +39,28 @@
       "name": "Hanson Stadium",
       "lat": 45.5195,
       "lng": -123.1107
+    },
+    "missingVenue": false,
+    "division": "d3"
+  },
+  {
+    "id": "2025-ncaa-401777173",
+    "sourceId": 401777173,
+    "sourceWeek": 9,
+    "week": 10,
+    "date": "2025-10-25",
+    "day": "Saturday",
+    "kickoff": "8p",
+    "home": "Lewis & Clark College",
+    "away": "Whitworth",
+    "homeDivision": "d3",
+    "awayDivision": "d3",
+    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/2i62768ao3nlh5wq.png",
+    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/ekkb9ky91gzlit7x.png",
+    "venue": {
+      "name": "Griswold Stadium",
+      "lat": 45.4519,
+      "lng": -122.6727
     },
     "missingVenue": false,
     "division": "d3"
