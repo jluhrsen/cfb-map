@@ -22,28 +22,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752921",
-    "sourceId": 401752921,
-    "sourceWeek": 14,
-    "week": 15,
-    "date": "2025-11-29",
-    "day": "Saturday",
-    "kickoff": "5p",
-    "home": "Michigan",
-    "away": "Ohio State",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Michigan Stadium",
-      "lat": 42.2658,
-      "lng": -83.7487
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401762872",
     "sourceId": 401762872,
     "sourceWeek": 14,
@@ -66,28 +44,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401754611",
-    "sourceId": 401754611,
-    "sourceWeek": 14,
-    "week": 15,
-    "date": "2025-11-29",
-    "day": "Saturday",
-    "kickoff": "5p",
-    "home": "Pittsburgh",
-    "away": "Miami",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Acrisure Stadium",
-      "lat": 40.4468,
-      "lng": -80.0158
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401756966",
     "sourceId": 401756966,
     "sourceWeek": 14,
@@ -105,6 +61,50 @@
       "name": "Boone Pickens Stadium",
       "lat": 36.1286,
       "lng": -97.0651
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401752921",
+    "sourceId": 401752921,
+    "sourceWeek": 14,
+    "week": 15,
+    "date": "2025-11-29",
+    "day": "Saturday",
+    "kickoff": "5p",
+    "home": "Michigan",
+    "away": "Ohio State",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Michigan Stadium",
+      "lat": 42.2658,
+      "lng": -83.7487
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401754611",
+    "sourceId": 401754611,
+    "sourceWeek": 14,
+    "week": 15,
+    "date": "2025-11-29",
+    "day": "Saturday",
+    "kickoff": "5p",
+    "home": "Pittsburgh",
+    "away": "Miami",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Acrisure Stadium",
+      "lat": 40.4468,
+      "lng": -80.0158
     },
     "missingVenue": false,
     "division": "fbs"
@@ -176,28 +176,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752783",
-    "sourceId": 401752783,
-    "sourceWeek": 14,
-    "week": 15,
-    "date": "2025-11-29",
-    "day": "Saturday",
-    "kickoff": "8:30p",
-    "home": "Arkansas",
-    "away": "Missouri",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Razorback Stadium",
-      "lat": 36.0684,
-      "lng": -94.1789
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401762441",
     "sourceId": 401762441,
     "sourceWeek": 14,
@@ -220,28 +198,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752791",
-    "sourceId": 401752791,
-    "sourceWeek": 14,
-    "week": 15,
-    "date": "2025-11-29",
-    "day": "Saturday",
-    "kickoff": "8:30p",
-    "home": "Tennessee",
-    "away": "Vanderbilt",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Neyland Stadium",
-      "lat": 35.9551,
-      "lng": -83.9252
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401752920",
     "sourceId": 401752920,
     "sourceWeek": 14,
@@ -259,6 +215,50 @@
       "name": "SHI Stadium",
       "lat": 40.5139,
       "lng": -74.4647
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401752783",
+    "sourceId": 401752783,
+    "sourceWeek": 14,
+    "week": 15,
+    "date": "2025-11-29",
+    "day": "Saturday",
+    "kickoff": "8:30p",
+    "home": "Arkansas",
+    "away": "Missouri",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Razorback Stadium",
+      "lat": 36.0684,
+      "lng": -94.1789
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401752791",
+    "sourceId": 401752791,
+    "sourceWeek": 14,
+    "week": 15,
+    "date": "2025-11-29",
+    "day": "Saturday",
+    "kickoff": "8:30p",
+    "home": "Tennessee",
+    "away": "Vanderbilt",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Neyland Stadium",
+      "lat": 35.9551,
+      "lng": -83.9252
     },
     "missingVenue": false,
     "division": "fbs"
@@ -330,28 +330,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401762520",
-    "sourceId": 401762520,
-    "sourceWeek": 14,
-    "week": 15,
-    "date": "2025-11-30",
-    "day": "Sunday",
-    "kickoff": "12a",
-    "home": "South Florida",
-    "away": "Rice",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Raymond James Stadium",
-      "lat": 27.9759,
-      "lng": -82.5033
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401752923",
     "sourceId": 401752923,
     "sourceWeek": 14,
@@ -369,6 +347,28 @@
       "name": "Ford Field",
       "lat": 42.34,
       "lng": -83.0456
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401762520",
+    "sourceId": 401762520,
+    "sourceWeek": 14,
+    "week": 15,
+    "date": "2025-11-30",
+    "day": "Sunday",
+    "kickoff": "12a",
+    "home": "South Florida",
+    "away": "Rice",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Raymond James Stadium",
+      "lat": 27.9759,
+      "lng": -82.5033
     },
     "missingVenue": false,
     "division": "fbs"

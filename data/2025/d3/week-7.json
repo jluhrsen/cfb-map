@@ -1,27 +1,5 @@
 [
   {
-    "id": "2025-ncaa-401777169",
-    "sourceId": 401777169,
-    "sourceWeek": 6,
-    "week": 7,
-    "date": "2025-10-04",
-    "day": "Saturday",
-    "kickoff": "8p",
-    "home": "Lewis & Clark College",
-    "away": "Puget Sound",
-    "homeDivision": "d3",
-    "awayDivision": "d3",
-    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/2i62768ao3nlh5wq.png",
-    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/wpoqmrhctdrju4jh.png",
-    "venue": {
-      "name": "Griswold Stadium",
-      "lat": 45.4519,
-      "lng": -122.6727
-    },
-    "missingVenue": false,
-    "division": "d3"
-  },
-  {
     "id": "2025-ncaa-401777162",
     "sourceId": 401777162,
     "sourceWeek": 6,
@@ -39,6 +17,28 @@
       "name": "Sparks Stadium",
       "lat": 47.1872,
       "lng": -122.3005
+    },
+    "missingVenue": false,
+    "division": "d3"
+  },
+  {
+    "id": "2025-ncaa-401777169",
+    "sourceId": 401777169,
+    "sourceWeek": 6,
+    "week": 7,
+    "date": "2025-10-04",
+    "day": "Saturday",
+    "kickoff": "8p",
+    "home": "Lewis & Clark College",
+    "away": "Puget Sound",
+    "homeDivision": "d3",
+    "awayDivision": "d3",
+    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/2i62768ao3nlh5wq.png",
+    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/wpoqmrhctdrju4jh.png",
+    "venue": {
+      "name": "Griswold Stadium",
+      "lat": 45.4519,
+      "lng": -122.6727
     },
     "missingVenue": false,
     "division": "d3"

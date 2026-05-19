@@ -242,28 +242,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401761612",
-    "sourceId": 401761612,
-    "sourceWeek": 4,
-    "week": 5,
-    "date": "2025-09-21",
-    "day": "Sunday",
-    "kickoff": "12a",
-    "home": "Texas State",
-    "away": "Nicholls",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Bobcat Stadium (TX)",
-      "lat": 29.8911,
-      "lng": -97.9256
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401760377",
     "sourceId": 401760377,
     "sourceWeek": 4,
@@ -281,6 +259,28 @@
       "name": "Maverik Stadium",
       "lat": 41.7517,
       "lng": -111.8116
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401761612",
+    "sourceId": 401761612,
+    "sourceWeek": 4,
+    "week": 5,
+    "date": "2025-09-21",
+    "day": "Sunday",
+    "kickoff": "12a",
+    "home": "Texas State",
+    "away": "Nicholls",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Bobcat Stadium (TX)",
+      "lat": 29.8911,
+      "lng": -97.9256
     },
     "missingVenue": false,
     "division": "fbs"

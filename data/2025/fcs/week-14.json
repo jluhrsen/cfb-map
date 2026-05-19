@@ -66,28 +66,6 @@
     "division": "fcs"
   },
   {
-    "id": "2025-ncaa-401752773",
-    "sourceId": 401752773,
-    "sourceWeek": 13,
-    "week": 14,
-    "date": "2025-11-22",
-    "day": "Saturday",
-    "kickoff": "7p",
-    "home": "Alabama",
-    "away": "Eastern Illinois",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Bryant-Denny Stadium",
-      "lat": 33.208,
-      "lng": -87.5502
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401767104",
     "sourceId": 401767104,
     "sourceWeek": 13,
@@ -127,6 +105,28 @@
       "name": "Jordan-Hare Stadium",
       "lat": 32.6017,
       "lng": -85.4893
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401752773",
+    "sourceId": 401752773,
+    "sourceWeek": 13,
+    "week": 14,
+    "date": "2025-11-22",
+    "day": "Saturday",
+    "kickoff": "7p",
+    "home": "Alabama",
+    "away": "Eastern Illinois",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Bryant-Denny Stadium",
+      "lat": 33.208,
+      "lng": -87.5502
     },
     "missingVenue": false,
     "division": "fbs"
