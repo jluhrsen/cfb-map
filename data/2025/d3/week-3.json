@@ -6,7 +6,7 @@
     "week": 3,
     "date": "2025-09-06",
     "day": "Saturday",
-    "kickoff": "7p",
+    "kickoff": "12p",
     "home": "Willamette",
     "away": "Pomona Pitzer",
     "homeDivision": "d3",
@@ -22,35 +22,13 @@
     "division": "d3"
   },
   {
-    "id": "2025-ncaa-401777166",
-    "sourceId": 401777166,
-    "sourceWeek": 2,
-    "week": 3,
-    "date": "2025-09-06",
-    "day": "Saturday",
-    "kickoff": "8p",
-    "home": "Puget Sound",
-    "away": "Lewis & Clark College",
-    "homeDivision": "d3",
-    "awayDivision": "d3",
-    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/wpoqmrhctdrju4jh.png",
-    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/2i62768ao3nlh5wq.png",
-    "venue": {
-      "name": "Baker Stadium",
-      "lat": 47.2605,
-      "lng": -122.4825
-    },
-    "missingVenue": false,
-    "division": "d3"
-  },
-  {
     "id": "2025-ncaa-401774175",
     "sourceId": 401774175,
     "sourceWeek": 2,
     "week": 3,
     "date": "2025-09-06",
     "day": "Saturday",
-    "kickoff": "8p",
+    "kickoff": "1p",
     "home": "Linfield College",
     "away": "Wisconsin-Oshkosh",
     "homeDivision": "d3",
@@ -61,6 +39,28 @@
       "name": "Maxwell Field",
       "lat": 45.2099,
       "lng": -123.1987
+    },
+    "missingVenue": false,
+    "division": "d3"
+  },
+  {
+    "id": "2025-ncaa-401777166",
+    "sourceId": 401777166,
+    "sourceWeek": 2,
+    "week": 3,
+    "date": "2025-09-06",
+    "day": "Saturday",
+    "kickoff": "1p",
+    "home": "Puget Sound",
+    "away": "Lewis & Clark College",
+    "homeDivision": "d3",
+    "awayDivision": "d3",
+    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/wpoqmrhctdrju4jh.png",
+    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/2i62768ao3nlh5wq.png",
+    "venue": {
+      "name": "Baker Stadium",
+      "lat": 47.2605,
+      "lng": -122.4825
     },
     "missingVenue": false,
     "division": "d3"

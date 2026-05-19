@@ -1,56 +1,12 @@
 [
   {
-    "id": "2025-ncaa-401774258",
-    "sourceId": 401774258,
-    "sourceWeek": 10,
-    "week": 11,
-    "date": "2025-11-01",
-    "day": "Saturday",
-    "kickoff": "8p",
-    "home": "La Verne",
-    "away": "Redlands",
-    "homeDivision": "d3",
-    "awayDivision": "d3",
-    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/xd9a451s9o7md2nt.png",
-    "awayLogo": null,
-    "venue": {
-      "name": "Ortmayer Stadium",
-      "lat": 34.1008,
-      "lng": -117.7678
-    },
-    "missingVenue": false,
-    "division": "d3"
-  },
-  {
-    "id": "2025-ncaa-401777150",
-    "sourceId": 401777150,
-    "sourceWeek": 10,
-    "week": 11,
-    "date": "2025-11-01",
-    "day": "Saturday",
-    "kickoff": "8p",
-    "home": "Linfield College",
-    "away": "Lewis & Clark College",
-    "homeDivision": "d3",
-    "awayDivision": "d3",
-    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/8ab4hlzfjvtul4nx.png",
-    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/2i62768ao3nlh5wq.png",
-    "venue": {
-      "name": "Maxwell Field",
-      "lat": 45.2099,
-      "lng": -123.1987
-    },
-    "missingVenue": false,
-    "division": "d3"
-  },
-  {
     "id": "2025-ncaa-401777157",
     "sourceId": 401777157,
     "sourceWeek": 10,
     "week": 11,
     "date": "2025-11-01",
     "day": "Saturday",
-    "kickoff": "8p",
+    "kickoff": "1p",
     "home": "Puget Sound",
     "away": "Pacific (OR)",
     "homeDivision": "d3",
@@ -66,13 +22,35 @@
     "division": "d3"
   },
   {
+    "id": "2025-ncaa-401774258",
+    "sourceId": 401774258,
+    "sourceWeek": 10,
+    "week": 11,
+    "date": "2025-11-01",
+    "day": "Saturday",
+    "kickoff": "1p",
+    "home": "La Verne",
+    "away": "Redlands",
+    "homeDivision": "d3",
+    "awayDivision": "d3",
+    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/xd9a451s9o7md2nt.png",
+    "awayLogo": null,
+    "venue": {
+      "name": "Ortmayer Stadium",
+      "lat": 34.1008,
+      "lng": -117.7678
+    },
+    "missingVenue": false,
+    "division": "d3"
+  },
+  {
     "id": "2025-ncaa-401777144",
     "sourceId": 401777144,
     "sourceWeek": 10,
     "week": 11,
     "date": "2025-11-01",
     "day": "Saturday",
-    "kickoff": "8p",
+    "kickoff": "1p",
     "home": "Willamette",
     "away": "NEWBERG",
     "homeDivision": "d3",
@@ -83,6 +61,28 @@
       "name": "McCulloch Stadium",
       "lat": 44.9388,
       "lng": -123.0355
+    },
+    "missingVenue": false,
+    "division": "d3"
+  },
+  {
+    "id": "2025-ncaa-401777150",
+    "sourceId": 401777150,
+    "sourceWeek": 10,
+    "week": 11,
+    "date": "2025-11-01",
+    "day": "Saturday",
+    "kickoff": "1p",
+    "home": "Linfield College",
+    "away": "Lewis & Clark College",
+    "homeDivision": "d3",
+    "awayDivision": "d3",
+    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/8ab4hlzfjvtul4nx.png",
+    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/2i62768ao3nlh5wq.png",
+    "venue": {
+      "name": "Maxwell Field",
+      "lat": 45.2099,
+      "lng": -123.1987
     },
     "missingVenue": false,
     "division": "d3"
