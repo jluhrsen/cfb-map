@@ -132,28 +132,6 @@
     "division": "fcs"
   },
   {
-    "id": "2025-ncaa-401752835",
-    "sourceId": 401752835,
-    "sourceWeek": 3,
-    "week": 4,
-    "date": "2025-09-13",
-    "day": "Saturday",
-    "kickoff": "7:30p",
-    "home": "Penn State",
-    "away": "Villanova",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Beaver Stadium",
-      "lat": 40.8122,
-      "lng": -77.8561
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401762467",
     "sourceId": 401762467,
     "sourceWeek": 3,
@@ -193,6 +171,28 @@
       "name": "Kenan Stadium",
       "lat": 35.9096,
       "lng": -79.0478
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401752835",
+    "sourceId": 401752835,
+    "sourceWeek": 3,
+    "week": 4,
+    "date": "2025-09-13",
+    "day": "Saturday",
+    "kickoff": "7:30p",
+    "home": "Penn State",
+    "away": "Villanova",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Beaver Stadium",
+      "lat": 40.8122,
+      "lng": -77.8561
     },
     "missingVenue": false,
     "division": "fbs"

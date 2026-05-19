@@ -22,6 +22,28 @@
     "division": "fbs"
   },
   {
+    "id": "2025-ncaa-401754611",
+    "sourceId": 401754611,
+    "sourceWeek": 14,
+    "week": 15,
+    "date": "2025-11-29",
+    "day": "Saturday",
+    "kickoff": "5p",
+    "home": "Pittsburgh",
+    "away": "Miami",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Acrisure Stadium",
+      "lat": 40.4468,
+      "lng": -80.0158
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
     "id": "2025-ncaa-401762872",
     "sourceId": 401762872,
     "sourceWeek": 14,
@@ -39,28 +61,6 @@
       "name": "Kelly/Shorts Stadium",
       "lat": 43.5779,
       "lng": -84.7738
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2025-ncaa-401756966",
-    "sourceId": 401756966,
-    "sourceWeek": 14,
-    "week": 15,
-    "date": "2025-11-29",
-    "day": "Saturday",
-    "kickoff": "5p",
-    "home": "Oklahoma State",
-    "away": "Iowa State",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Boone Pickens Stadium",
-      "lat": 36.1286,
-      "lng": -97.0651
     },
     "missingVenue": false,
     "division": "fbs"
@@ -88,23 +88,23 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401754611",
-    "sourceId": 401754611,
+    "id": "2025-ncaa-401756966",
+    "sourceId": 401756966,
     "sourceWeek": 14,
     "week": 15,
     "date": "2025-11-29",
     "day": "Saturday",
     "kickoff": "5p",
-    "home": "Pittsburgh",
-    "away": "Miami",
+    "home": "Oklahoma State",
+    "away": "Iowa State",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Acrisure Stadium",
-      "lat": 40.4468,
-      "lng": -80.0158
+      "name": "Boone Pickens Stadium",
+      "lat": 36.1286,
+      "lng": -97.0651
     },
     "missingVenue": false,
     "division": "fbs"
@@ -176,28 +176,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401762441",
-    "sourceId": 401762441,
-    "sourceWeek": 14,
-    "week": 15,
-    "date": "2025-11-29",
-    "day": "Saturday",
-    "kickoff": "8:30p",
-    "home": "UTSA",
-    "away": "Army",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Alamodome",
-      "lat": 29.4191,
-      "lng": -98.4737
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401752920",
     "sourceId": 401752920,
     "sourceWeek": 14,
@@ -237,6 +215,28 @@
       "name": "Razorback Stadium",
       "lat": 36.0684,
       "lng": -94.1789
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401762441",
+    "sourceId": 401762441,
+    "sourceWeek": 14,
+    "week": 15,
+    "date": "2025-11-29",
+    "day": "Saturday",
+    "kickoff": "8:30p",
+    "home": "UTSA",
+    "away": "Army",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Alamodome",
+      "lat": 29.4191,
+      "lng": -98.4737
     },
     "missingVenue": false,
     "division": "fbs"
@@ -330,6 +330,28 @@
     "division": "fbs"
   },
   {
+    "id": "2025-ncaa-401762520",
+    "sourceId": 401762520,
+    "sourceWeek": 14,
+    "week": 15,
+    "date": "2025-11-30",
+    "day": "Sunday",
+    "kickoff": "12a",
+    "home": "South Florida",
+    "away": "Rice",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Raymond James Stadium",
+      "lat": 27.9759,
+      "lng": -82.5033
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
     "id": "2025-ncaa-401752923",
     "sourceId": 401752923,
     "sourceWeek": 14,
@@ -352,23 +374,23 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401762520",
-    "sourceId": 401762520,
+    "id": "2025-ncaa-401752922",
+    "sourceId": 401752922,
     "sourceWeek": 14,
     "week": 15,
     "date": "2025-11-30",
     "day": "Sunday",
-    "kickoff": "12a",
-    "home": "South Florida",
-    "away": "Rice",
+    "kickoff": "12:30a",
+    "home": "Illinois",
+    "away": "Northwestern",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Raymond James Stadium",
-      "lat": 27.9759,
-      "lng": -82.5033
+      "name": "Memorial Stadium (Champaign, IL)",
+      "lat": 40.0993,
+      "lng": -88.2358
     },
     "missingVenue": false,
     "division": "fbs"
@@ -413,28 +435,6 @@
       "name": "Los Angeles Memorial Coliseum",
       "lat": 34.0141,
       "lng": -118.2879
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2025-ncaa-401752922",
-    "sourceId": 401752922,
-    "sourceWeek": 14,
-    "week": 15,
-    "date": "2025-11-30",
-    "day": "Sunday",
-    "kickoff": "12:30a",
-    "home": "Illinois",
-    "away": "Northwestern",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Memorial Stadium (Champaign, IL)",
-      "lat": 40.0993,
-      "lng": -88.2358
     },
     "missingVenue": false,
     "division": "fbs"
