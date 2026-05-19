@@ -144,108 +144,125 @@ function App() {
   if (loading) {
     return (
       <div className="App">
-        <h1>Football Game Map</h1>
-        <div className="loading">Loading...</div>
+        <div className="loading">Loading football game map...</div>
       </div>
     );
   }
 
   return (
     <div className="App">
-      <header className="app-header">
-        <h1>🏈 Football Game Map</h1>
-      </header>
+      <aside className="sidebar" aria-label="Map controls">
+        <header className="app-header">
+          <h1>Football Game Map</h1>
+          <div className="game-count">
+            {selectedTeams.length === 0
+              ? 'Choose teams to map games'
+              : `${games.length} game${games.length === 1 ? '' : 's'} this week`}
+          </div>
+        </header>
 
-      <div className="controls">
-        <SeasonSelector />
-        <WeekSelector />
-        <TeamSelector />
-        <DivisionFilter />
-      </div>
+        <section className="control-section">
+          <h2>Schedule</h2>
+          <SeasonSelector />
+          <WeekSelector />
+        </section>
 
-      {selectedTeams.length === 0 && (
-        <div className="empty-state">
-          Search and add teams above to see their games
-        </div>
-      )}
+        <section className="control-section control-section-teams">
+          <h2>Teams</h2>
+          <TeamSelector />
+        </section>
 
-      {selectedTeams.length > 0 && games.length === 0 && !loadingGames && (
-        <div className="empty-state">
-          No games for selected teams in Week {selectedWeek}
-        </div>
-      )}
+        <section className="control-section">
+          <h2>Leagues</h2>
+          <DivisionFilter />
+        </section>
+      </aside>
 
-      <MapContainer
-        center={[38.5816, -121.4944]} // Sacramento, CA
-        zoom={6.5}
-        scrollWheelZoom={true}
-        zoomSnap={0.15}
-        zoomDelta={0.15}
-        style={{ height: "calc(100vh - 200px)", width: "100%" }}
-      >
-        <TileLayer
-          attribution='&copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors'
-          url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
-        />
+      <main className="map-panel">
+        {selectedTeams.length === 0 && (
+          <div className="empty-state map-message">
+            Search and add teams to see their games
+          </div>
+        )}
 
-        {games.map((game, idx) => {
-          const offsetLat = 0.0;
-          const offsetLng = 0.5;
+        {selectedTeams.length > 0 && games.length === 0 && !loadingGames && (
+          <div className="empty-state map-message">
+            No games for selected teams in Week {selectedWeek}
+          </div>
+        )}
 
-          const homeIcon = L.icon({
-            iconUrl: game.homeLogo || defaultLogo,
-            iconSize: [40, 40],
-            iconAnchor: [20, 20],
-            popupAnchor: [0, -20]
-          });
+        <MapContainer
+          center={[38.5816, -121.4944]} // Sacramento, CA
+          zoom={6.5}
+          scrollWheelZoom={true}
+          zoomSnap={0.15}
+          zoomDelta={0.15}
+          className="map"
+        >
+          <TileLayer
+            attribution='&copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors'
+            url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
+          />
 
-          const awayIcon = L.icon({
-            iconUrl: game.awayLogo || defaultLogo,
-            iconSize: [40, 40],
-            iconAnchor: [20, 20],
-            popupAnchor: [0, -20]
-          });
+          {games.map((game, idx) => {
+            const offsetLat = 0.0;
+            const offsetLng = 0.5;
 
-          return (
-            <React.Fragment key={game.id || idx}>
-              <Marker
-                position={[
-                  game.venue.lat + offsetLat,
-                  game.venue.lng - offsetLng
-                ]}
-                icon={homeIcon}
-              >
-                <Popup>
-                  <strong>{game.home}</strong><br />
-                  Home<br />
-                  📅 {game.day}, {game.date}<br />
-                  📍 {game.venue.name}<br />
-                  Kickoff: {game.kickoff}
-                </Popup>
-              </Marker>
+            const homeIcon = L.icon({
+              iconUrl: game.homeLogo || defaultLogo,
+              iconSize: [40, 40],
+              iconAnchor: [20, 20],
+              popupAnchor: [0, -20]
+            });
 
-              <Marker
-                position={[
-                  game.venue.lat - offsetLat,
-                  game.venue.lng + offsetLng
-                ]}
-                icon={awayIcon}
-              >
-                <Popup>
-                  <strong>{game.away}</strong><br />
-                  Away<br />
-                  📅 {game.day}, {game.date}<br />
-                  📍 {game.venue.name}<br />
-                  Kickoff: {game.kickoff}
-                </Popup>
-                <Tooltip direction="right" offset={[20, 0]} permanent>
-                  {formatGameLabel(game)}
-                </Tooltip>
-              </Marker>
-            </React.Fragment>
-          );
-        })}
-      </MapContainer>
+            const awayIcon = L.icon({
+              iconUrl: game.awayLogo || defaultLogo,
+              iconSize: [40, 40],
+              iconAnchor: [20, 20],
+              popupAnchor: [0, -20]
+            });
+
+            return (
+              <React.Fragment key={game.id || idx}>
+                <Marker
+                  position={[
+                    game.venue.lat + offsetLat,
+                    game.venue.lng - offsetLng
+                  ]}
+                  icon={homeIcon}
+                >
+                  <Popup>
+                    <strong>{game.home}</strong><br />
+                    Home<br />
+                    📅 {game.day}, {game.date}<br />
+                    📍 {game.venue.name}<br />
+                    Kickoff: {game.kickoff}
+                  </Popup>
+                </Marker>
+
+                <Marker
+                  position={[
+                    game.venue.lat - offsetLat,
+                    game.venue.lng + offsetLng
+                  ]}
+                  icon={awayIcon}
+                >
+                  <Popup>
+                    <strong>{game.away}</strong><br />
+                    Away<br />
+                    📅 {game.day}, {game.date}<br />
+                    📍 {game.venue.name}<br />
+                    Kickoff: {game.kickoff}
+                  </Popup>
+                  <Tooltip direction="right" offset={[20, 0]} permanent>
+                    {formatGameLabel(game)}
+                  </Tooltip>
+                </Marker>
+              </React.Fragment>
+            );
+          })}
+        </MapContainer>
+      </main>
     </div>
   );
 }
