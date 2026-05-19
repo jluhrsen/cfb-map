@@ -22,28 +22,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401767453",
-    "sourceId": 401767453,
-    "sourceWeek": 13,
-    "week": 14,
-    "date": "2025-11-22",
-    "day": "Saturday",
-    "kickoff": "6p",
-    "home": "Indiana State",
-    "away": "Murray State",
-    "homeDivision": "fcs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Memorial Stadium",
-      "lat": 38.9628,
-      "lng": -95.2464
-    },
-    "missingVenue": false,
-    "division": "fcs"
-  },
-  {
     "id": "2025-ncaa-401767367",
     "sourceId": 401767367,
     "sourceWeek": 13,
@@ -66,45 +44,23 @@
     "division": "fcs"
   },
   {
-    "id": "2025-ncaa-401767104",
-    "sourceId": 401767104,
+    "id": "2025-ncaa-401767453",
+    "sourceId": 401767453,
     "sourceWeek": 13,
     "week": 14,
     "date": "2025-11-22",
     "day": "Saturday",
-    "kickoff": "7p",
-    "home": "Montana",
-    "away": "Montana State",
+    "kickoff": "6p",
+    "home": "Indiana State",
+    "away": "Murray State",
     "homeDivision": "fcs",
     "awayDivision": "fcs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Washington-Grizzly Stadium",
-      "lat": 46.8601,
-      "lng": -113.9845
-    },
-    "missingVenue": false,
-    "division": "fcs"
-  },
-  {
-    "id": "2025-ncaa-401767125",
-    "sourceId": 401767125,
-    "sourceWeek": 13,
-    "week": 14,
-    "date": "2025-11-22",
-    "day": "Saturday",
-    "kickoff": "7p",
-    "home": "Northern Colorado",
-    "away": "Portland State",
-    "homeDivision": "fcs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Nottingham Field",
-      "lat": 40.4071,
-      "lng": -104.7017
+      "name": "Memorial Stadium",
+      "lat": 38.9628,
+      "lng": -95.2464
     },
     "missingVenue": false,
     "division": "fcs"
@@ -132,6 +88,28 @@
     "division": "fbs"
   },
   {
+    "id": "2025-ncaa-401767104",
+    "sourceId": 401767104,
+    "sourceWeek": 13,
+    "week": 14,
+    "date": "2025-11-22",
+    "day": "Saturday",
+    "kickoff": "7p",
+    "home": "Montana",
+    "away": "Montana State",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Washington-Grizzly Stadium",
+      "lat": 46.8601,
+      "lng": -113.9845
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
     "id": "2025-ncaa-401752774",
     "sourceId": 401752774,
     "sourceWeek": 13,
@@ -152,6 +130,28 @@
     },
     "missingVenue": false,
     "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401767125",
+    "sourceId": 401767125,
+    "sourceWeek": 13,
+    "week": 14,
+    "date": "2025-11-22",
+    "day": "Saturday",
+    "kickoff": "7p",
+    "home": "Northern Colorado",
+    "away": "Portland State",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Nottingham Field",
+      "lat": 40.4071,
+      "lng": -104.7017
+    },
+    "missingVenue": false,
+    "division": "fcs"
   },
   {
     "id": "2025-ncaa-401767475",
