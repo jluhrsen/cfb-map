@@ -71,6 +71,40 @@
   width: 100%;
 }
 
+.game-marker-icon {
+  background: transparent;
+  border: 0;
+}
+
+.game-marker {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 58px;
+  height: 36px;
+  border: 1px solid rgba(17, 24, 39, 0.22);
+  border-radius: 18px;
+  background: rgba(255, 255, 255, 0.94);
+  box-shadow: 0 4px 12px rgba(20, 32, 45, 0.22);
+}
+
+.game-marker-logo {
+  width: 30px;
+  height: 30px;
+  object-fit: contain;
+  border-radius: 50%;
+  background: white;
+}
+
+.game-marker-away {
+  margin-right: -4px;
+}
+
+.game-marker-home {
+  margin-left: -4px;
+}
+
 .loading,
 .empty-state {
   color: #5f6b7a;

@@ -205,66 +205,58 @@ function App() {
           />
 
           {games.map((game, idx) => {
-            const offsetLat = 0.0;
-            const offsetLng = 0.5;
-
-            const homeIcon = L.icon({
-              iconUrl: game.homeLogo || defaultLogo,
-              iconSize: [40, 40],
-              iconAnchor: [20, 20],
-              popupAnchor: [0, -20]
-            });
-
-            const awayIcon = L.icon({
-              iconUrl: game.awayLogo || defaultLogo,
-              iconSize: [40, 40],
-              iconAnchor: [20, 20],
-              popupAnchor: [0, -20]
-            });
+            const gameIcon = createGameIcon(game);
 
             return (
-              <React.Fragment key={game.id || idx}>
-                <Marker
-                  position={[
-                    game.venue.lat + offsetLat,
-                    game.venue.lng - offsetLng
-                  ]}
-                  icon={homeIcon}
-                >
-                  <Popup>
-                    <strong>{game.home}</strong><br />
-                    Home<br />
-                    📅 {game.day}, {game.date}<br />
-                    📍 {game.venue.name}<br />
-                    Kickoff: {game.kickoff}
-                  </Popup>
-                </Marker>
-
-                <Marker
-                  position={[
-                    game.venue.lat - offsetLat,
-                    game.venue.lng + offsetLng
-                  ]}
-                  icon={awayIcon}
-                >
-                  <Popup>
-                    <strong>{game.away}</strong><br />
-                    Away<br />
-                    📅 {game.day}, {game.date}<br />
-                    📍 {game.venue.name}<br />
-                    Kickoff: {game.kickoff}
-                  </Popup>
-                  <Tooltip direction="right" offset={[20, 0]} permanent>
-                    {formatGameLabel(game)}
-                  </Tooltip>
-                </Marker>
-              </React.Fragment>
+              <Marker
+                key={game.id || idx}
+                position={[game.venue.lat, game.venue.lng]}
+                icon={gameIcon}
+              >
+                <Popup>
+                  <strong>{game.away} at {game.home}</strong><br />
+                  📅 {game.day}, {game.date}<br />
+                  📍 {game.venue.name}<br />
+                  Kickoff: {game.kickoff}
+                </Popup>
+                <Tooltip direction="right" offset={[24, 0]} permanent>
+                  {formatGameLabel(game)}
+                </Tooltip>
+              </Marker>
             );
           })}
         </MapContainer>
       </main>
     </div>
   );
+}
+
+function createGameIcon(game) {
+  const homeLogo = escapeAttribute(game.homeLogo || defaultLogo);
+  const awayLogo = escapeAttribute(game.awayLogo || defaultLogo);
+  const homeName = escapeAttribute(game.home);
+  const awayName = escapeAttribute(game.away);
+
+  return L.divIcon({
+    className: 'game-marker-icon',
+    html: `
+      <div class="game-marker">
+        <img src="${awayLogo}" alt="${awayName}" class="game-marker-logo game-marker-away" />
+        <img src="${homeLogo}" alt="${homeName}" class="game-marker-logo game-marker-home" />
+      </div>
+    `,
+    iconSize: [58, 36],
+    iconAnchor: [29, 18],
+    popupAnchor: [0, -20]
+  });
+}
+
+function escapeAttribute(value) {
+  return String(value || '')
+    .replace(/&/g, '&amp;')
+    .replace(/"/g, '&quot;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;');
 }
 
 function formatGameLabel(game) {
