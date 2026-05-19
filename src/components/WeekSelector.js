@@ -12,6 +12,10 @@ function WeekSelector() {
   const weeks = index.weeksByYear[selectedYear] || [];
   const maxWeek = weeks.length || 18;
   const weekInfo = weeks.find(w => w.number === selectedWeek);
+  const nextWeek = weeks.find(w => w.number > selectedWeek);
+  const weekDateLabel = weekInfo
+    ? formatWeekDateRange(weekInfo.startDate, nextWeek?.startDate)
+    : null;
 
   const handlePrevious = () => {
     if (selectedWeek > 1) {
@@ -38,8 +42,8 @@ function WeekSelector() {
 
       <div className="week-info">
         <strong>Week {selectedWeek}</strong>
-        {weekInfo && (
-          <div className="week-date">{new Date(weekInfo.startDate).toLocaleDateString()}</div>
+        {weekDateLabel && (
+          <div className="week-date">{weekDateLabel}</div>
         )}
       </div>
 
@@ -53,6 +57,27 @@ function WeekSelector() {
       </button>
     </div>
   );
+}
+
+function formatWeekDateRange(startDateStr, nextStartDateStr) {
+  const start = parseDate(startDateStr);
+  const end = nextStartDateStr ? parseDate(nextStartDateStr) : addDays(start, 7);
+  end.setDate(end.getDate() - 1);
+
+  const startLabel = start.toLocaleDateString(undefined, { month: 'numeric', day: 'numeric' });
+  const endLabel = end.toLocaleDateString(undefined, { month: 'numeric', day: 'numeric' });
+  return `${startLabel} - ${endLabel}`;
+}
+
+function parseDate(dateStr) {
+  const [year, month, day] = dateStr.split('-').map(Number);
+  return new Date(year, month - 1, day);
+}
+
+function addDays(date, days) {
+  const result = new Date(date);
+  result.setDate(result.getDate() + days);
+  return result;
 }
 
 export default WeekSelector;

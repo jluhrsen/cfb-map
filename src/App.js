@@ -36,9 +36,11 @@ function App() {
     setLoadingGames(true);
     loadWeekData(selectedYear, selectedWeek, selectedDivisions)
       .then(weekGames => {
+        const selectedWindow = getSelectedWeekWindow(index, selectedYear, selectedWeek);
         // Filter to only selected teams
         const filtered = weekGames.filter(game =>
-          selectedTeams.includes(game.home) || selectedTeams.includes(game.away)
+          (selectedTeams.includes(game.home) || selectedTeams.includes(game.away)) &&
+          isGameInWindow(game, selectedWindow)
         );
         setGames(filtered);
         setLoadingGames(false);
@@ -47,7 +49,7 @@ function App() {
         console.error('Error loading games:', error);
         setLoadingGames(false);
       });
-  }, [selectedTeams, selectedDivisions, selectedWeek, selectedYear, loadWeekData]);
+  }, [index, selectedTeams, selectedDivisions, selectedWeek, selectedYear, loadWeekData]);
 
   // When a new team is selected, move to the first available game instead of
   // leaving the map on an empty default week/year.
@@ -80,8 +82,10 @@ function App() {
 
         for (const week of orderedWeeks) {
           const weekGames = await loadWeekData(year, week.number, divisionsToSearch);
+          const selectedWindow = getSelectedWeekWindow(index, year, week.number);
           const matchingGame = weekGames.find(game =>
-            selectedTeams.includes(game.home) || selectedTeams.includes(game.away)
+            (selectedTeams.includes(game.home) || selectedTeams.includes(game.away)) &&
+            isGameInWindow(game, selectedWindow)
           );
 
           if (matchingGame && !cancelled) {
@@ -264,6 +268,44 @@ function formatGameLabel(game) {
   }
 
   return `${weekday} ${datePart} ${timePart}`;
+}
+
+function getSelectedWeekWindow(index, year, weekNumber) {
+  const weeks = index?.weeksByYear?.[year] || [];
+  const sortedWeeks = [...weeks].sort((a, b) => a.number - b.number);
+  const currentWeek = sortedWeeks.find(week => week.number === weekNumber);
+
+  if (!currentWeek) {
+    return null;
+  }
+
+  const nextWeek = sortedWeeks.find(week => week.number > weekNumber);
+  const start = parseDate(currentWeek.startDate);
+  const end = nextWeek
+    ? parseDate(nextWeek.startDate)
+    : addDays(start, 7);
+
+  return { start, end };
+}
+
+function isGameInWindow(game, selectedWindow) {
+  if (!selectedWindow) {
+    return true;
+  }
+
+  const gameDate = parseDate(game.date);
+  return gameDate >= selectedWindow.start && gameDate < selectedWindow.end;
+}
+
+function parseDate(dateStr) {
+  const [year, month, day] = dateStr.split('-').map(Number);
+  return new Date(year, month - 1, day);
+}
+
+function addDays(date, days) {
+  const result = new Date(date);
+  result.setDate(result.getDate() + days);
+  return result;
 }
 
 export default App;
