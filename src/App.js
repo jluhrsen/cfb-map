@@ -2,7 +2,7 @@ import { MapContainer, TileLayer, Marker, Popup, Tooltip } from 'react-leaflet';
 import 'leaflet/dist/leaflet.css';
 import './App.css';
 import L from 'leaflet';
-import React, { useState, useEffect, useRef } from 'react';
+import React, { useState, useEffect, useRef, useCallback } from 'react';
 import { useFilters } from './contexts/FilterContext';
 import { useGameData } from './contexts/GameDataContext';
 import TeamSelector from './components/TeamSelector';
@@ -26,6 +26,30 @@ function App() {
   const [loadingGames, setLoadingGames] = useState(false);
   const lastAutoLocatedTeams = useRef('');
 
+  const loadWeekWindowData = useCallback(async (year, weekNumber, divisions) => {
+    const nonNFLDivisions = divisions.filter(division => division !== 'nfl');
+    const requests = [];
+
+    if (nonNFLDivisions.length > 0) {
+      requests.push(loadWeekData(year, weekNumber, nonNFLDivisions));
+    }
+
+    if (divisions.includes('nfl')) {
+      getNFLWeekNumbers(index, year).forEach(nflWeek => {
+        requests.push(loadWeekData(year, nflWeek, ['nfl']));
+      });
+    }
+
+    const results = await Promise.all(requests);
+
+    const gamesById = new Map();
+    results.flat().forEach(game => {
+      gamesById.set(game.id, game);
+    });
+
+    return Array.from(gamesById.values());
+  }, [index, loadWeekData]);
+
   // Load games when filters change
   useEffect(() => {
     if (selectedDivisions.length === 0) {
@@ -34,7 +58,7 @@ function App() {
     }
 
     setLoadingGames(true);
-    loadWeekData(selectedYear, selectedWeek, selectedDivisions)
+    loadWeekWindowData(selectedYear, selectedWeek, selectedDivisions)
       .then(weekGames => {
         const selectedWindow = getSelectedWeekWindow(index, selectedYear, selectedWeek);
         // Filter to only selected teams
@@ -49,7 +73,7 @@ function App() {
         console.error('Error loading games:', error);
         setLoadingGames(false);
       });
-  }, [index, selectedTeams, selectedDivisions, selectedWeek, selectedYear, loadWeekData]);
+  }, [index, selectedTeams, selectedDivisions, selectedWeek, selectedYear, loadWeekWindowData]);
 
   // When a new team is selected, move to the first available game instead of
   // leaving the map on an empty default week/year.
@@ -81,7 +105,7 @@ function App() {
         const orderedWeeks = [...weeks].sort((a, b) => a.number - b.number);
 
         for (const week of orderedWeeks) {
-          const weekGames = await loadWeekData(year, week.number, divisionsToSearch);
+          const weekGames = await loadWeekWindowData(year, week.number, divisionsToSearch);
           const selectedWindow = getSelectedWeekWindow(index, year, week.number);
           const matchingGame = weekGames.find(game =>
             (selectedTeams.includes(game.home) || selectedTeams.includes(game.away)) &&
@@ -112,7 +136,7 @@ function App() {
     selectedDivisions,
     selectedWeek,
     selectedYear,
-    loadWeekData,
+    loadWeekWindowData,
     setSelectedWeek,
     setSelectedYear
   ]);
@@ -306,6 +330,13 @@ function addDays(date, days) {
   const result = new Date(date);
   result.setDate(result.getDate() + days);
   return result;
+}
+
+function getNFLWeekNumbers(index, year) {
+  const weeks = index?.weeksByYear?.[year] || [];
+  const weekNumbers = weeks.map(week => week.number);
+  const maxWeek = Math.max(18, ...weekNumbers);
+  return Array.from({ length: maxWeek }, (_, idx) => idx + 1);
 }
 
 export default App;
