@@ -1,5 +1,27 @@
 [
   {
+    "id": "2025-ncaa-401777149",
+    "sourceId": 401777149,
+    "sourceWeek": 9,
+    "week": 10,
+    "date": "2025-10-25",
+    "day": "Saturday",
+    "kickoff": "1p",
+    "home": "Pacific Lutheran",
+    "away": "Linfield College",
+    "homeDivision": "d3",
+    "awayDivision": "d3",
+    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/bi1umnuk45dh7ppn.png",
+    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/8ab4hlzfjvtul4nx.png",
+    "venue": {
+      "name": "Sparks Stadium",
+      "lat": 47.1872,
+      "lng": -122.3005
+    },
+    "missingVenue": false,
+    "division": "d3"
+  },
+  {
     "id": "2025-ncaa-401777173",
     "sourceId": 401777173,
     "sourceWeek": 9,
@@ -44,28 +66,6 @@
     "division": "d3"
   },
   {
-    "id": "2025-ncaa-401777149",
-    "sourceId": 401777149,
-    "sourceWeek": 9,
-    "week": 10,
-    "date": "2025-10-25",
-    "day": "Saturday",
-    "kickoff": "1p",
-    "home": "Pacific Lutheran",
-    "away": "Linfield College",
-    "homeDivision": "d3",
-    "awayDivision": "d3",
-    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/bi1umnuk45dh7ppn.png",
-    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/8ab4hlzfjvtul4nx.png",
-    "venue": {
-      "name": "Sparks Stadium",
-      "lat": 47.1872,
-      "lng": -122.3005
-    },
-    "missingVenue": false,
-    "division": "d3"
-  },
-  {
     "id": "2025-ncaa-401777143",
     "sourceId": 401777143,
     "sourceWeek": 9,
@@ -93,7 +93,7 @@
     "sourceWeek": 9,
     "week": 10,
     "date": "2025-10-26",
-    "day": "Saturday",
+    "day": "Sunday",
     "kickoff": "7p",
     "home": "Pomona Pitzer",
     "away": "La Verne",

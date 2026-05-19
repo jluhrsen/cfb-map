@@ -5,7 +5,7 @@
     "sourceWeek": 9,
     "week": 10,
     "date": "2025-10-25",
-    "day": "Friday",
+    "day": "Saturday",
     "kickoff": "7:30p",
     "home": "Sacramento State",
     "away": "Montana",
@@ -44,28 +44,6 @@
     "division": "fcs"
   },
   {
-    "id": "2025-ncaa-401767124",
-    "sourceId": 401767124,
-    "sourceWeek": 9,
-    "week": 10,
-    "date": "2025-10-25",
-    "day": "Saturday",
-    "kickoff": "12p",
-    "home": "Northern Colorado",
-    "away": "UC Davis",
-    "homeDivision": "fcs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Nottingham Field",
-      "lat": 40.4071,
-      "lng": -104.7017
-    },
-    "missingVenue": false,
-    "division": "fcs"
-  },
-  {
     "id": "2025-ncaa-401767472",
     "sourceId": 401767472,
     "sourceWeek": 9,
@@ -83,6 +61,28 @@
       "name": "Husky Stadium",
       "lat": 47.6504,
       "lng": -122.3016
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
+    "id": "2025-ncaa-401767124",
+    "sourceId": 401767124,
+    "sourceWeek": 9,
+    "week": 10,
+    "date": "2025-10-25",
+    "day": "Saturday",
+    "kickoff": "12p",
+    "home": "Northern Colorado",
+    "away": "UC Davis",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Nottingham Field",
+      "lat": 40.4071,
+      "lng": -104.7017
     },
     "missingVenue": false,
     "division": "fcs"
@@ -137,7 +137,7 @@
     "sourceWeek": 9,
     "week": 10,
     "date": "2025-10-26",
-    "day": "Saturday",
+    "day": "Sunday",
     "kickoff": "5p",
     "home": "Cal Poly",
     "away": "Montana State",

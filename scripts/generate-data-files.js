@@ -5,6 +5,8 @@ const VENUES = require('../src/data/venues.json');
 const LOGO_OVERRIDES = require('../src/data/team-logos.json');
 const MANUAL_GAMES = require('../src/data/manual-games.json');
 
+const DISPLAY_TIME_ZONE = 'America/Los_Angeles';
+
 const NCAA_DIVISION_MAP = {
   'fbs': 'fbs',
   'fcs': 'fcs',
@@ -79,17 +81,23 @@ function parseKickoffTime(dateStr) {
 
   try {
     const date = new Date(dateStr);
-    let hours = date.getHours();
-    const minutes = date.getMinutes();
-    const ampm = hours >= 12 ? 'p' : 'a';
+    if (Number.isNaN(date.getTime())) return 'TBD';
 
-    if (hours > 12) hours -= 12;
-    if (hours === 0) hours = 12;
+    const parts = new Intl.DateTimeFormat('en-US', {
+      timeZone: DISPLAY_TIME_ZONE,
+      hour: 'numeric',
+      minute: '2-digit',
+      hour12: true
+    }).formatToParts(date);
 
-    if (minutes === 0) {
-      return `${hours}${ampm}`;
-    }
-    return `${hours}:${minutes.toString().padStart(2, '0')}${ampm}`;
+    const hour = parts.find(part => part.type === 'hour')?.value;
+    const minute = parts.find(part => part.type === 'minute')?.value;
+    const dayPeriod = parts.find(part => part.type === 'dayPeriod')?.value?.toLowerCase();
+
+    if (!hour || !minute || !dayPeriod) return 'TBD';
+
+    const suffix = dayPeriod.startsWith('a') ? 'a' : 'p';
+    return minute === '00' ? `${hour}${suffix}` : `${hour}:${minute}${suffix}`;
   } catch (error) {
     return 'TBD';
   }
@@ -102,8 +110,13 @@ function parseKickoffTime(dateStr) {
  */
 function getDayOfWeek(dateStr) {
   const days = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
-  const date = new Date(dateStr);
-  return days[date.getDay()];
+  const datePart = dateStr.split('T')[0];
+  const date = new Date(`${datePart}T00:00:00Z`);
+  return days[date.getUTCDay()];
+}
+
+function isUnsetNCAAKickoff(dateStr) {
+  return /T0[45]:00:00(?:\.000)?Z$/.test(dateStr);
 }
 
 function normalizeNCAADivision(classification, fallback) {
@@ -142,7 +155,7 @@ function normalizeNCAAGame(game, seasonStart) {
     week,
     date: game.startDate.split('T')[0],
     day: getDayOfWeek(game.startDate),
-    kickoff: parseKickoffTime(game.startDate),
+    kickoff: isUnsetNCAAKickoff(game.startDate) ? 'TBD' : parseKickoffTime(game.startDate),
     home: game.homeTeam,
     away: game.awayTeam,
     homeDivision,
@@ -176,7 +189,7 @@ function normalizeManualGame(game, seasonStart) {
     sourceWeek: game.week || null,
     date: game.date,
     day: getDayOfWeek(game.date),
-    kickoff: game.kickoff || 'TBD',
+    kickoff: game.kickoff || (game.home === 'Willamette' || game.away === 'Willamette' ? '1p' : 'TBD'),
     home: game.home,
     away: game.away,
     homeDivision: game.homeDivision || game.division,

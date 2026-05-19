@@ -5,7 +5,7 @@
     "sourceWeek": 1,
     "week": 2,
     "date": "2025-08-30",
-    "day": "Friday",
+    "day": "Saturday",
     "kickoff": "5p",
     "home": "Colorado",
     "away": "Georgia Tech",
@@ -27,7 +27,7 @@
     "sourceWeek": 1,
     "week": 2,
     "date": "2025-08-30",
-    "day": "Friday",
+    "day": "Saturday",
     "kickoff": "7:30p",
     "home": "San José State",
     "away": "Central Michigan",
@@ -39,28 +39,6 @@
       "name": "CEFCU Stadium",
       "lat": 37.3197,
       "lng": -121.8684
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2025-ncaa-401754520",
-    "sourceId": 401754520,
-    "sourceWeek": 1,
-    "week": 2,
-    "date": "2025-08-30",
-    "day": "Saturday",
-    "kickoff": "9a",
-    "home": "Pittsburgh",
-    "away": "Duquesne",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Acrisure Stadium",
-      "lat": 40.4468,
-      "lng": -80.0158
     },
     "missingVenue": false,
     "division": "fbs"
@@ -88,23 +66,23 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752797",
-    "sourceId": 401752797,
+    "id": "2025-ncaa-401754520",
+    "sourceId": 401754520,
     "sourceWeek": 1,
     "week": 2,
     "date": "2025-08-30",
     "day": "Saturday",
     "kickoff": "9a",
-    "home": "Maryland",
-    "away": "Florida Atlantic",
+    "home": "Pittsburgh",
+    "away": "Duquesne",
     "homeDivision": "fbs",
-    "awayDivision": "fbs",
+    "awayDivision": "fcs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "SECU Stadium",
-      "lat": 38.9941,
-      "lng": -76.948
+      "name": "Acrisure Stadium",
+      "lat": 40.4468,
+      "lng": -80.0158
     },
     "missingVenue": false,
     "division": "fbs"
@@ -127,6 +105,28 @@
       "name": "Mercedes-Benz Stadium",
       "lat": 33.7553,
       "lng": -84.4006
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401752797",
+    "sourceId": 401752797,
+    "sourceWeek": 1,
+    "week": 2,
+    "date": "2025-08-30",
+    "day": "Saturday",
+    "kickoff": "9a",
+    "home": "Maryland",
+    "away": "Florida Atlantic",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "SECU Stadium",
+      "lat": 38.9941,
+      "lng": -76.948
     },
     "missingVenue": false,
     "division": "fbs"
@@ -176,23 +176,23 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401762793",
-    "sourceId": 401762793,
+    "id": "2025-ncaa-401756853",
+    "sourceId": 401756853,
     "sourceWeek": 1,
     "week": 2,
     "date": "2025-08-30",
     "day": "Saturday",
     "kickoff": "12:30p",
-    "home": "Northern Illinois",
-    "away": "Holy Cross",
+    "home": "Iowa State",
+    "away": "South Dakota",
     "homeDivision": "fbs",
     "awayDivision": "fcs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Huskie Stadium",
-      "lat": 41.9308,
-      "lng": -88.7572
+      "name": "Jack Trice Stadium",
+      "lat": 42.014,
+      "lng": -93.6356
     },
     "missingVenue": false,
     "division": "fbs"
@@ -215,6 +215,28 @@
       "name": "Doak Campbell Stadium",
       "lat": 30.4384,
       "lng": -84.3045
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401762793",
+    "sourceId": 401762793,
+    "sourceWeek": 1,
+    "week": 2,
+    "date": "2025-08-30",
+    "day": "Saturday",
+    "kickoff": "12:30p",
+    "home": "Northern Illinois",
+    "away": "Holy Cross",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Huskie Stadium",
+      "lat": 41.9308,
+      "lng": -88.7572
     },
     "missingVenue": false,
     "division": "fbs"
@@ -259,28 +281,6 @@
       "name": "Sanford Stadium",
       "lat": 33.9498,
       "lng": -83.3732
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2025-ncaa-401756853",
-    "sourceId": 401756853,
-    "sourceWeek": 1,
-    "week": 2,
-    "date": "2025-08-30",
-    "day": "Saturday",
-    "kickoff": "12:30p",
-    "home": "Iowa State",
-    "away": "South Dakota",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Jack Trice Stadium",
-      "lat": 42.014,
-      "lng": -93.6356
     },
     "missingVenue": false,
     "division": "fbs"
@@ -374,6 +374,28 @@
     "division": "fbs"
   },
   {
+    "id": "2025-ncaa-401752678",
+    "sourceId": 401752678,
+    "sourceWeek": 1,
+    "week": 2,
+    "date": "2025-08-30",
+    "day": "Saturday",
+    "kickoff": "4p",
+    "home": "Texas A&M",
+    "away": "UTSA",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Kyle Field",
+      "lat": 30.61,
+      "lng": -96.34
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
     "id": "2025-ncaa-401752668",
     "sourceId": 401752668,
     "sourceWeek": 1,
@@ -418,23 +440,23 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752678",
-    "sourceId": 401752678,
+    "id": "2025-ncaa-401757225",
+    "sourceId": 401757225,
     "sourceWeek": 1,
     "week": 2,
     "date": "2025-08-30",
     "day": "Saturday",
-    "kickoff": "4p",
-    "home": "Texas A&M",
-    "away": "UTSA",
+    "kickoff": "4:30p",
+    "home": "Utah State",
+    "away": "UTEP",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
-    "homeLogo": null,
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/328.png",
     "awayLogo": null,
     "venue": {
-      "name": "Kyle Field",
-      "lat": 30.61,
-      "lng": -96.34
+      "name": "Maverik Stadium",
+      "lat": 41.7517,
+      "lng": -111.8116
     },
     "missingVenue": false,
     "division": "fbs"
@@ -484,28 +506,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401757225",
-    "sourceId": 401757225,
-    "sourceWeek": 1,
-    "week": 2,
-    "date": "2025-08-30",
-    "day": "Saturday",
-    "kickoff": "4:30p",
-    "home": "Utah State",
-    "away": "UTEP",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/328.png",
-    "awayLogo": null,
-    "venue": {
-      "name": "Maverik Stadium",
-      "lat": 41.7517,
-      "lng": -111.8116
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401752671",
     "sourceId": 401752671,
     "sourceWeek": 1,
@@ -533,7 +533,7 @@
     "sourceWeek": 1,
     "week": 2,
     "date": "2025-08-31",
-    "day": "Saturday",
+    "day": "Sunday",
     "kickoff": "5p",
     "home": "BYU",
     "away": "Portland State",
@@ -550,34 +550,12 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401761594",
-    "sourceId": 401761594,
-    "sourceWeek": 1,
-    "week": 2,
-    "date": "2025-08-31",
-    "day": "Saturday",
-    "kickoff": "5p",
-    "home": "Texas State",
-    "away": "Eastern Michigan",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Bobcat Stadium (TX)",
-      "lat": 29.8911,
-      "lng": -97.9256
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401762435",
     "sourceId": 401762435,
     "sourceWeek": 1,
     "week": 2,
     "date": "2025-08-31",
-    "day": "Saturday",
+    "day": "Sunday",
     "kickoff": "5p",
     "home": "North Texas",
     "away": "Lamar",
@@ -594,12 +572,34 @@
     "division": "fbs"
   },
   {
+    "id": "2025-ncaa-401761594",
+    "sourceId": 401761594,
+    "sourceWeek": 1,
+    "week": 2,
+    "date": "2025-08-31",
+    "day": "Sunday",
+    "kickoff": "5p",
+    "home": "Texas State",
+    "away": "Eastern Michigan",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Bobcat Stadium (TX)",
+      "lat": 29.8911,
+      "lng": -97.9256
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
     "id": "2025-ncaa-401760361",
     "sourceId": 401760361,
     "sourceWeek": 1,
     "week": 2,
     "date": "2025-08-31",
-    "day": "Saturday",
+    "day": "Sunday",
     "kickoff": "6:30p",
     "home": "Fresno State",
     "away": "Georgia Southern",
@@ -621,7 +621,7 @@
     "sourceWeek": 1,
     "week": 2,
     "date": "2025-08-31",
-    "day": "Saturday",
+    "day": "Sunday",
     "kickoff": "7p",
     "home": "Washington State",
     "away": "Idaho",
@@ -638,34 +638,12 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752936",
-    "sourceId": 401752936,
-    "sourceWeek": 1,
-    "week": 2,
-    "date": "2025-08-31",
-    "day": "Saturday",
-    "kickoff": "7:30p",
-    "home": "Oregon State",
-    "away": "California",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Reser Stadium",
-      "lat": 44.559,
-      "lng": -123.2814
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401756849",
     "sourceId": 401756849,
     "sourceWeek": 1,
     "week": 2,
     "date": "2025-08-31",
-    "day": "Saturday",
+    "day": "Sunday",
     "kickoff": "7:30p",
     "home": "Arizona",
     "away": "Hawai'i",
@@ -682,23 +660,23 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752800",
-    "sourceId": 401752800,
+    "id": "2025-ncaa-401752936",
+    "sourceId": 401752936,
     "sourceWeek": 1,
     "week": 2,
     "date": "2025-08-31",
-    "day": "Saturday",
-    "kickoff": "8p",
-    "home": "UCLA",
-    "away": "Utah",
+    "day": "Sunday",
+    "kickoff": "7:30p",
+    "home": "Oregon State",
+    "away": "California",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
     "homeLogo": null,
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/254.png",
+    "awayLogo": null,
     "venue": {
-      "name": "Rose Bowl",
-      "lat": 34.1611,
-      "lng": -118.1676
+      "name": "Reser Stadium",
+      "lat": 44.559,
+      "lng": -123.2814
     },
     "missingVenue": false,
     "division": "fbs"
@@ -709,7 +687,7 @@
     "sourceWeek": 1,
     "week": 2,
     "date": "2025-08-31",
-    "day": "Saturday",
+    "day": "Sunday",
     "kickoff": "8p",
     "home": "Washington",
     "away": "Colorado State",
@@ -721,6 +699,28 @@
       "name": "Husky Stadium",
       "lat": 47.6504,
       "lng": -122.3016
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401752800",
+    "sourceId": 401752800,
+    "sourceWeek": 1,
+    "week": 2,
+    "date": "2025-08-31",
+    "day": "Sunday",
+    "kickoff": "8p",
+    "home": "UCLA",
+    "away": "Utah",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/254.png",
+    "venue": {
+      "name": "Rose Bowl",
+      "lat": 34.1611,
+      "lng": -118.1676
     },
     "missingVenue": false,
     "division": "fbs"
@@ -775,7 +775,7 @@
     "sourceWeek": 1,
     "week": 2,
     "date": "2025-09-02",
-    "day": "Monday",
+    "day": "Tuesday",
     "kickoff": "5p",
     "home": "North Carolina",
     "away": "TCU",

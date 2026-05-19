@@ -132,28 +132,6 @@
     "division": "fcs"
   },
   {
-    "id": "2025-ncaa-401762821",
-    "sourceId": 401762821,
-    "sourceWeek": 4,
-    "week": 5,
-    "date": "2025-09-20",
-    "day": "Saturday",
-    "kickoff": "3p",
-    "home": "Akron",
-    "away": "Duquesne",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2006.png",
-    "awayLogo": null,
-    "venue": {
-      "name": "InfoCision Stadium",
-      "lat": 41.0726,
-      "lng": -81.5084
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401767081",
     "sourceId": 401767081,
     "sourceWeek": 4,
@@ -174,6 +152,28 @@
     },
     "missingVenue": false,
     "division": "fcs"
+  },
+  {
+    "id": "2025-ncaa-401762821",
+    "sourceId": 401762821,
+    "sourceWeek": 4,
+    "week": 5,
+    "date": "2025-09-20",
+    "day": "Saturday",
+    "kickoff": "3p",
+    "home": "Akron",
+    "away": "Duquesne",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2006.png",
+    "awayLogo": null,
+    "venue": {
+      "name": "InfoCision Stadium",
+      "lat": 41.0726,
+      "lng": -81.5084
+    },
+    "missingVenue": false,
+    "division": "fbs"
   },
   {
     "id": "2025-ncaa-401767121",
@@ -242,34 +242,12 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401767072",
-    "sourceId": 401767072,
-    "sourceWeek": 4,
-    "week": 5,
-    "date": "2025-09-21",
-    "day": "Saturday",
-    "kickoff": "5p",
-    "home": "Stephen F. Austin",
-    "away": "Cal Poly",
-    "homeDivision": "fcs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/13.png",
-    "venue": {
-      "name": "Homer Bryce Stadium",
-      "lat": 31.6204,
-      "lng": -94.6486
-    },
-    "missingVenue": false,
-    "division": "fcs"
-  },
-  {
     "id": "2025-ncaa-401761612",
     "sourceId": 401761612,
     "sourceWeek": 4,
     "week": 5,
     "date": "2025-09-21",
-    "day": "Saturday",
+    "day": "Sunday",
     "kickoff": "5p",
     "home": "Texas State",
     "away": "Nicholls",
@@ -286,12 +264,34 @@
     "division": "fbs"
   },
   {
+    "id": "2025-ncaa-401767072",
+    "sourceId": 401767072,
+    "sourceWeek": 4,
+    "week": 5,
+    "date": "2025-09-21",
+    "day": "Sunday",
+    "kickoff": "5p",
+    "home": "Stephen F. Austin",
+    "away": "Cal Poly",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/13.png",
+    "venue": {
+      "name": "Homer Bryce Stadium",
+      "lat": 31.6204,
+      "lng": -94.6486
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
     "id": "2025-ncaa-401760377",
     "sourceId": 401760377,
     "sourceWeek": 4,
     "week": 5,
     "date": "2025-09-21",
-    "day": "Saturday",
+    "day": "Sunday",
     "kickoff": "5p",
     "home": "Utah State",
     "away": "McNeese",
@@ -313,7 +313,7 @@
     "sourceWeek": 4,
     "week": 5,
     "date": "2025-09-21",
-    "day": "Saturday",
+    "day": "Sunday",
     "kickoff": "6p",
     "home": "Sacramento State",
     "away": "Central Arkansas",

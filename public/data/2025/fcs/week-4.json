@@ -1,27 +1,5 @@
 [
   {
-    "id": "2025-ncaa-401752828",
-    "sourceId": 401752828,
-    "sourceWeek": 3,
-    "week": 4,
-    "date": "2025-09-13",
-    "day": "Saturday",
-    "kickoff": "9a",
-    "home": "Nebraska",
-    "away": "Houston Christian",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Memorial Stadium (Lincoln, NE)",
-      "lat": 40.8202,
-      "lng": -96.7055
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401752838",
     "sourceId": 401752838,
     "sourceWeek": 3,
@@ -39,6 +17,28 @@
       "name": "SECU Stadium",
       "lat": 38.9941,
       "lng": -76.948
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401752828",
+    "sourceId": 401752828,
+    "sourceWeek": 3,
+    "week": 4,
+    "date": "2025-09-13",
+    "day": "Saturday",
+    "kickoff": "9a",
+    "home": "Nebraska",
+    "away": "Houston Christian",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Memorial Stadium (Lincoln, NE)",
+      "lat": 40.8202,
+      "lng": -96.7055
     },
     "missingVenue": false,
     "division": "fbs"
@@ -88,23 +88,45 @@
     "division": "fcs"
   },
   {
-    "id": "2025-ncaa-401752835",
-    "sourceId": 401752835,
+    "id": "2025-ncaa-401762467",
+    "sourceId": 401762467,
     "sourceWeek": 3,
     "week": 4,
     "date": "2025-09-13",
     "day": "Saturday",
     "kickoff": "12:30p",
-    "home": "Penn State",
-    "away": "Villanova",
+    "home": "UTSA",
+    "away": "Incarnate Word",
     "homeDivision": "fbs",
     "awayDivision": "fcs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Beaver Stadium",
-      "lat": 40.8122,
-      "lng": -77.8561
+      "name": "Alamodome",
+      "lat": 29.4191,
+      "lng": -98.4737
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401752833",
+    "sourceId": 401752833,
+    "sourceWeek": 3,
+    "week": 4,
+    "date": "2025-09-13",
+    "day": "Saturday",
+    "kickoff": "12:30p",
+    "home": "Rutgers",
+    "away": "Norfolk State",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "SHI Stadium",
+      "lat": 40.5139,
+      "lng": -74.4647
     },
     "missingVenue": false,
     "division": "fbs"
@@ -132,23 +154,23 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752833",
-    "sourceId": 401752833,
+    "id": "2025-ncaa-401752835",
+    "sourceId": 401752835,
     "sourceWeek": 3,
     "week": 4,
     "date": "2025-09-13",
     "day": "Saturday",
     "kickoff": "12:30p",
-    "home": "Rutgers",
-    "away": "Norfolk State",
+    "home": "Penn State",
+    "away": "Villanova",
     "homeDivision": "fbs",
     "awayDivision": "fcs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "SHI Stadium",
-      "lat": 40.5139,
-      "lng": -74.4647
+      "name": "Beaver Stadium",
+      "lat": 40.8122,
+      "lng": -77.8561
     },
     "missingVenue": false,
     "division": "fbs"
@@ -198,28 +220,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401762467",
-    "sourceId": 401762467,
-    "sourceWeek": 3,
-    "week": 4,
-    "date": "2025-09-13",
-    "day": "Saturday",
-    "kickoff": "12:30p",
-    "home": "UTSA",
-    "away": "Incarnate Word",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Alamodome",
-      "lat": 29.4191,
-      "lng": -98.4737
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401767225",
     "sourceId": 401767225,
     "sourceWeek": 3,
@@ -264,34 +264,12 @@
     "division": "fcs"
   },
   {
-    "id": "2025-ncaa-401767524",
-    "sourceId": 401767524,
-    "sourceWeek": 3,
-    "week": 4,
-    "date": "2025-09-14",
-    "day": "Saturday",
-    "kickoff": "5p",
-    "home": "Stephen F. Austin",
-    "away": "Sul Ross State",
-    "homeDivision": "fcs",
-    "awayDivision": "d2",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Homer Bryce Stadium",
-      "lat": 31.6204,
-      "lng": -94.6486
-    },
-    "missingVenue": false,
-    "division": "fcs"
-  },
-  {
     "id": "2025-ncaa-401767071",
     "sourceId": 401767071,
     "sourceWeek": 3,
     "week": 4,
     "date": "2025-09-14",
-    "day": "Saturday",
+    "day": "Sunday",
     "kickoff": "5p",
     "home": "Cal Poly",
     "away": "Western Oregon",
@@ -308,12 +286,34 @@
     "division": "fcs"
   },
   {
+    "id": "2025-ncaa-401767524",
+    "sourceId": 401767524,
+    "sourceWeek": 3,
+    "week": 4,
+    "date": "2025-09-14",
+    "day": "Sunday",
+    "kickoff": "5p",
+    "home": "Stephen F. Austin",
+    "away": "Sul Ross State",
+    "homeDivision": "fcs",
+    "awayDivision": "d2",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Homer Bryce Stadium",
+      "lat": 31.6204,
+      "lng": -94.6486
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
     "id": "2025-ncaa-401767131",
     "sourceId": 401767131,
     "sourceWeek": 3,
     "week": 4,
     "date": "2025-09-14",
-    "day": "Saturday",
+    "day": "Sunday",
     "kickoff": "6p",
     "home": "Sacramento State",
     "away": "Mercyhurst",
@@ -335,7 +335,7 @@
     "sourceWeek": 3,
     "week": 4,
     "date": "2025-09-14",
-    "day": "Saturday",
+    "day": "Sunday",
     "kickoff": "7p",
     "home": "Fresno State",
     "away": "Southern",
@@ -357,7 +357,7 @@
     "sourceWeek": 3,
     "week": 4,
     "date": "2025-09-14",
-    "day": "Saturday",
+    "day": "Sunday",
     "kickoff": "8:59p",
     "home": "Hawai'i",
     "away": "Portland State",
