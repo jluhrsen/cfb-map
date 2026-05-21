@@ -1,27 +1,5 @@
 [
   {
-    "id": "2025-ncaa-401754617",
-    "sourceId": 401754617,
-    "sourceWeek": 4,
-    "week": 5,
-    "date": "2025-09-20",
-    "day": "Saturday",
-    "kickoff": "9a",
-    "home": "Virginia Tech",
-    "away": "Wofford",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Lane Stadium",
-      "lat": 37.2206,
-      "lng": -80.4183
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401762470",
     "sourceId": 401762470,
     "sourceWeek": 4,
@@ -39,6 +17,28 @@
       "name": "Raymond James Stadium",
       "lat": 27.9759,
       "lng": -82.5033
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401754617",
+    "sourceId": 401754617,
+    "sourceWeek": 4,
+    "week": 5,
+    "date": "2025-09-20",
+    "day": "Saturday",
+    "kickoff": "9a",
+    "home": "Virginia Tech",
+    "away": "Wofford",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Lane Stadium",
+      "lat": 37.2206,
+      "lng": -80.4183
     },
     "missingVenue": false,
     "division": "fbs"
@@ -132,28 +132,6 @@
     "division": "fcs"
   },
   {
-    "id": "2025-ncaa-401762821",
-    "sourceId": 401762821,
-    "sourceWeek": 4,
-    "week": 5,
-    "date": "2025-09-20",
-    "day": "Saturday",
-    "kickoff": "3p",
-    "home": "Akron",
-    "away": "Duquesne",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2006.png",
-    "awayLogo": null,
-    "venue": {
-      "name": "InfoCision Stadium",
-      "lat": 41.0726,
-      "lng": -81.5084
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401767081",
     "sourceId": 401767081,
     "sourceWeek": 4,
@@ -174,6 +152,28 @@
     },
     "missingVenue": false,
     "division": "fcs"
+  },
+  {
+    "id": "2025-ncaa-401762821",
+    "sourceId": 401762821,
+    "sourceWeek": 4,
+    "week": 5,
+    "date": "2025-09-20",
+    "day": "Saturday",
+    "kickoff": "3p",
+    "home": "Akron",
+    "away": "Duquesne",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2006.png",
+    "awayLogo": null,
+    "venue": {
+      "name": "InfoCision Stadium",
+      "lat": 41.0726,
+      "lng": -81.5084
+    },
+    "missingVenue": false,
+    "division": "fbs"
   },
   {
     "id": "2025-ncaa-401767061",

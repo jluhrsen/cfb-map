@@ -22,28 +22,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401760382",
-    "sourceId": 401760382,
-    "sourceWeek": 6,
-    "week": 7,
-    "date": "2025-10-04",
-    "day": "Saturday",
-    "kickoff": "7:30p",
-    "home": "San Diego State",
-    "away": "Colorado State",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/21.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/36.png",
-    "venue": {
-      "name": "Snapdragon Stadium",
-      "lat": 32.7831,
-      "lng": -117.1194
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401756909",
     "sourceId": 401756909,
     "sourceWeek": 6,
@@ -66,6 +44,28 @@
     "division": "fbs"
   },
   {
+    "id": "2025-ncaa-401760382",
+    "sourceId": 401760382,
+    "sourceWeek": 6,
+    "week": 7,
+    "date": "2025-10-04",
+    "day": "Saturday",
+    "kickoff": "7:30p",
+    "home": "San Diego State",
+    "away": "Colorado State",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/21.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/36.png",
+    "venue": {
+      "name": "Snapdragon Stadium",
+      "lat": 32.7831,
+      "lng": -117.1194
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
     "id": "2025-ncaa-401754550",
     "sourceId": 401754550,
     "sourceWeek": 6,
@@ -83,28 +83,6 @@
       "name": "Acrisure Stadium",
       "lat": 40.4468,
       "lng": -80.0158
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2025-ncaa-401752856",
-    "sourceId": 401752856,
-    "sourceWeek": 6,
-    "week": 7,
-    "date": "2025-10-04",
-    "day": "Saturday",
-    "kickoff": "9a",
-    "home": "Michigan",
-    "away": "Wisconsin",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Michigan Stadium",
-      "lat": 42.2658,
-      "lng": -83.7487
     },
     "missingVenue": false,
     "division": "fbs"
@@ -154,23 +132,23 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401762479",
-    "sourceId": 401762479,
+    "id": "2025-ncaa-401752856",
+    "sourceId": 401752856,
     "sourceWeek": 6,
     "week": 7,
     "date": "2025-10-04",
     "day": "Saturday",
-    "kickoff": "10a",
-    "home": "Temple",
-    "away": "UTSA",
+    "kickoff": "9a",
+    "home": "Michigan",
+    "away": "Wisconsin",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Lincoln Financial Field",
-      "lat": 39.9008,
-      "lng": -75.1675
+      "name": "Michigan Stadium",
+      "lat": 42.2658,
+      "lng": -83.7487
     },
     "missingVenue": false,
     "division": "fbs"
@@ -193,6 +171,28 @@
       "name": "Lane Stadium",
       "lat": 37.2206,
       "lng": -80.4183
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401762479",
+    "sourceId": 401762479,
+    "sourceWeek": 6,
+    "week": 7,
+    "date": "2025-10-04",
+    "day": "Saturday",
+    "kickoff": "10a",
+    "home": "Temple",
+    "away": "UTSA",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Lincoln Financial Field",
+      "lat": 39.9008,
+      "lng": -75.1675
     },
     "missingVenue": false,
     "division": "fbs"
@@ -242,45 +242,45 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752857",
-    "sourceId": 401752857,
+    "id": "2025-ncaa-401762829",
+    "sourceId": 401762829,
     "sourceWeek": 6,
     "week": 7,
     "date": "2025-10-04",
     "day": "Saturday",
     "kickoff": "12:30p",
-    "home": "Maryland",
-    "away": "Washington",
+    "home": "Akron",
+    "away": "Central Michigan",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2006.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2117.png",
     "venue": {
-      "name": "SECU Stadium",
-      "lat": 38.9941,
-      "lng": -76.948
+      "name": "InfoCision Stadium",
+      "lat": 41.0726,
+      "lng": -81.5084
     },
     "missingVenue": false,
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752858",
-    "sourceId": 401752858,
+    "id": "2025-ncaa-401752727",
+    "sourceId": 401752727,
     "sourceWeek": 6,
     "week": 7,
     "date": "2025-10-04",
     "day": "Saturday",
     "kickoff": "12:30p",
-    "home": "Northwestern",
-    "away": "UL Monroe",
+    "home": "Florida",
+    "away": "Texas",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
     "homeLogo": null,
-    "awayLogo": null,
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
     "venue": {
-      "name": "Lanny and Sharon Martin Stadium",
-      "lat": 34.361,
-      "lng": -103.2067
+      "name": "Ben Hill Griffin Stadium",
+      "lat": 29.65,
+      "lng": -82.3486
     },
     "missingVenue": false,
     "division": "fbs"
@@ -330,28 +330,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401762829",
-    "sourceId": 401762829,
-    "sourceWeek": 6,
-    "week": 7,
-    "date": "2025-10-04",
-    "day": "Saturday",
-    "kickoff": "12:30p",
-    "home": "Akron",
-    "away": "Central Michigan",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2006.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2117.png",
-    "venue": {
-      "name": "InfoCision Stadium",
-      "lat": 41.0726,
-      "lng": -81.5084
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401757165",
     "sourceId": 401757165,
     "sourceWeek": 6,
@@ -374,23 +352,45 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752727",
-    "sourceId": 401752727,
+    "id": "2025-ncaa-401752858",
+    "sourceId": 401752858,
     "sourceWeek": 6,
     "week": 7,
     "date": "2025-10-04",
     "day": "Saturday",
     "kickoff": "12:30p",
-    "home": "Florida",
-    "away": "Texas",
+    "home": "Northwestern",
+    "away": "UL Monroe",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
     "homeLogo": null,
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
+    "awayLogo": null,
     "venue": {
-      "name": "Ben Hill Griffin Stadium",
-      "lat": 29.65,
-      "lng": -82.3486
+      "name": "Lanny and Sharon Martin Stadium",
+      "lat": 34.361,
+      "lng": -103.2067
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401752857",
+    "sourceId": 401752857,
+    "sourceWeek": 6,
+    "week": 7,
+    "date": "2025-10-04",
+    "day": "Saturday",
+    "kickoff": "12:30p",
+    "home": "Maryland",
+    "away": "Washington",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "SECU Stadium",
+      "lat": 38.9941,
+      "lng": -76.948
     },
     "missingVenue": false,
     "division": "fbs"
@@ -418,28 +418,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401756913",
-    "sourceId": 401756913,
-    "sourceWeek": 6,
-    "week": 7,
-    "date": "2025-10-04",
-    "day": "Saturday",
-    "kickoff": "4p",
-    "home": "Houston",
-    "away": "Texas Tech",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "TDECU Stadium",
-      "lat": 29.7211,
-      "lng": -95.3506
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401760385",
     "sourceId": 401760385,
     "sourceWeek": 6,
@@ -457,6 +435,28 @@
       "name": "War Memorial Stadium",
       "lat": 41.307,
       "lng": -105.5677
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401756913",
+    "sourceId": 401756913,
+    "sourceWeek": 6,
+    "week": 7,
+    "date": "2025-10-04",
+    "day": "Saturday",
+    "kickoff": "4p",
+    "home": "Houston",
+    "away": "Texas Tech",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "TDECU Stadium",
+      "lat": 29.7211,
+      "lng": -95.3506
     },
     "missingVenue": false,
     "division": "fbs"
