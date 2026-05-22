@@ -22,23 +22,23 @@
     "division": "d3"
   },
   {
-    "id": "2025-ncaa-401777158",
-    "sourceId": 401777158,
+    "id": "2025-ncaa-401834155",
+    "sourceId": 401834155,
     "sourceWeek": 12,
     "week": 13,
     "date": "2025-11-15",
     "day": "Saturday",
     "kickoff": "1p",
-    "home": "Pacific (OR)",
-    "away": "Lewis & Clark College",
+    "home": "Hendrix College",
+    "away": "LYONCOLL",
     "homeDivision": "d3",
     "awayDivision": "d3",
-    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/lkxbjwugyaf69m59.png",
-    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/2i62768ao3nlh5wq.png",
+    "homeLogo": null,
+    "awayLogo": null,
     "venue": {
-      "name": "Hanson Stadium",
-      "lat": 45.5195,
-      "lng": -123.1107
+      "name": "War Memorial Stadium",
+      "lat": 41.307,
+      "lng": -105.5677
     },
     "missingVenue": false,
     "division": "d3"
@@ -66,28 +66,6 @@
     "division": "d3"
   },
   {
-    "id": "2025-ncaa-401834155",
-    "sourceId": 401834155,
-    "sourceWeek": 12,
-    "week": 13,
-    "date": "2025-11-15",
-    "day": "Saturday",
-    "kickoff": "1p",
-    "home": "Hendrix College",
-    "away": "LYONCOLL",
-    "homeDivision": "d3",
-    "awayDivision": "d3",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "War Memorial Stadium",
-      "lat": 41.307,
-      "lng": -105.5677
-    },
-    "missingVenue": false,
-    "division": "d3"
-  },
-  {
     "id": "2025-ncaa-401777146",
     "sourceId": 401777146,
     "sourceWeek": 12,
@@ -105,6 +83,28 @@
       "name": "Sparks Stadium",
       "lat": 47.1872,
       "lng": -122.3005
+    },
+    "missingVenue": false,
+    "division": "d3"
+  },
+  {
+    "id": "2025-ncaa-401777158",
+    "sourceId": 401777158,
+    "sourceWeek": 12,
+    "week": 13,
+    "date": "2025-11-15",
+    "day": "Saturday",
+    "kickoff": "1p",
+    "home": "Pacific (OR)",
+    "away": "Lewis & Clark College",
+    "homeDivision": "d3",
+    "awayDivision": "d3",
+    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/lkxbjwugyaf69m59.png",
+    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/2i62768ao3nlh5wq.png",
+    "venue": {
+      "name": "Hanson Stadium",
+      "lat": 45.5195,
+      "lng": -123.1107
     },
     "missingVenue": false,
     "division": "d3"
