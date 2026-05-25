@@ -22,28 +22,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401756901",
-    "sourceId": 401756901,
-    "sourceWeek": 4,
-    "week": 5,
-    "date": "2025-09-20",
-    "day": "Saturday",
-    "kickoff": "9a",
-    "home": "Utah",
-    "away": "Texas Tech",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/254.png",
-    "awayLogo": null,
-    "venue": {
-      "name": "Rice-Eccles Stadium",
-      "lat": 40.7597,
-      "lng": -111.8478
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401754617",
     "sourceId": 401754617,
     "sourceWeek": 4,
@@ -88,23 +66,23 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401754537",
-    "sourceId": 401754537,
+    "id": "2025-ncaa-401756901",
+    "sourceId": 401756901,
     "sourceWeek": 4,
     "week": 5,
     "date": "2025-09-20",
     "day": "Saturday",
     "kickoff": "9a",
-    "home": "Clemson",
-    "away": "Syracuse",
+    "home": "Utah",
+    "away": "Texas Tech",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
-    "homeLogo": null,
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/254.png",
     "awayLogo": null,
     "venue": {
-      "name": "Memorial Stadium (Clemson, SC)",
-      "lat": 34.6784,
-      "lng": -82.8444
+      "name": "Rice-Eccles Stadium",
+      "lat": 40.7597,
+      "lng": -111.8478
     },
     "missingVenue": false,
     "division": "fbs"
@@ -127,6 +105,28 @@
       "name": "Camp Randall Stadium",
       "lat": 43.0703,
       "lng": -89.4124
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401754537",
+    "sourceId": 401754537,
+    "sourceWeek": 4,
+    "week": 5,
+    "date": "2025-09-20",
+    "day": "Saturday",
+    "kickoff": "9a",
+    "home": "Clemson",
+    "away": "Syracuse",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Memorial Stadium (Clemson, SC)",
+      "lat": 34.6784,
+      "lng": -82.8444
     },
     "missingVenue": false,
     "division": "fbs"
@@ -242,28 +242,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752848",
-    "sourceId": 401752848,
-    "sourceWeek": 4,
-    "week": 5,
-    "date": "2025-09-20",
-    "day": "Saturday",
-    "kickoff": "12:30p",
-    "home": "Notre Dame",
-    "away": "Purdue",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Notre Dame Stadium",
-      "lat": 41.6997,
-      "lng": -86.2347
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401761610",
     "sourceId": 401761610,
     "sourceWeek": 4,
@@ -281,6 +259,28 @@
       "name": "Rynearson Stadium",
       "lat": 42.2473,
       "lng": -83.6253
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401752848",
+    "sourceId": 401752848,
+    "sourceWeek": 4,
+    "week": 5,
+    "date": "2025-09-20",
+    "day": "Saturday",
+    "kickoff": "12:30p",
+    "home": "Notre Dame",
+    "away": "Purdue",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Notre Dame Stadium",
+      "lat": 41.6997,
+      "lng": -86.2347
     },
     "missingVenue": false,
     "division": "fbs"
@@ -308,28 +308,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401762821",
-    "sourceId": 401762821,
-    "sourceWeek": 4,
-    "week": 5,
-    "date": "2025-09-20",
-    "day": "Saturday",
-    "kickoff": "3p",
-    "home": "Akron",
-    "away": "Duquesne",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2006.png",
-    "awayLogo": null,
-    "venue": {
-      "name": "InfoCision Stadium",
-      "lat": 41.0726,
-      "lng": -81.5084
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401756899",
     "sourceId": 401756899,
     "sourceWeek": 4,
@@ -352,23 +330,23 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752713",
-    "sourceId": 401752713,
+    "id": "2025-ncaa-401762821",
+    "sourceId": 401762821,
     "sourceWeek": 4,
     "week": 5,
     "date": "2025-09-20",
     "day": "Saturday",
-    "kickoff": "4p",
-    "home": "Missouri",
-    "away": "South Carolina",
+    "kickoff": "3p",
+    "home": "Akron",
+    "away": "Duquesne",
     "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
+    "awayDivision": "fcs",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2006.png",
     "awayLogo": null,
     "venue": {
-      "name": "Memorial Stadium",
-      "lat": 38.9628,
-      "lng": -95.2464
+      "name": "InfoCision Stadium",
+      "lat": 41.0726,
+      "lng": -81.5084
     },
     "missingVenue": false,
     "division": "fbs"
@@ -396,23 +374,45 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752709",
-    "sourceId": 401752709,
+    "id": "2025-ncaa-401752713",
+    "sourceId": 401752713,
     "sourceWeek": 4,
     "week": 5,
     "date": "2025-09-20",
     "day": "Saturday",
-    "kickoff": "4:30p",
-    "home": "Miami",
-    "away": "Florida",
+    "kickoff": "4p",
+    "home": "Missouri",
+    "away": "South Carolina",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Hard Rock Stadium",
-      "lat": 25.958,
-      "lng": -80.2389
+      "name": "Memorial Stadium",
+      "lat": 38.9628,
+      "lng": -95.2464
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401752842",
+    "sourceId": 401752842,
+    "sourceWeek": 4,
+    "week": 5,
+    "date": "2025-09-20",
+    "day": "Saturday",
+    "kickoff": "4:30p",
+    "home": "Washington State",
+    "away": "Washington",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Gesa Field",
+      "lat": 46.7318,
+      "lng": -117.1601
     },
     "missingVenue": false,
     "division": "fbs"
@@ -440,23 +440,23 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752842",
-    "sourceId": 401752842,
+    "id": "2025-ncaa-401752709",
+    "sourceId": 401752709,
     "sourceWeek": 4,
     "week": 5,
     "date": "2025-09-20",
     "day": "Saturday",
     "kickoff": "4:30p",
-    "home": "Washington State",
-    "away": "Washington",
+    "home": "Miami",
+    "away": "Florida",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Gesa Field",
-      "lat": 46.7318,
-      "lng": -117.1601
+      "name": "Hard Rock Stadium",
+      "lat": 25.958,
+      "lng": -80.2389
     },
     "missingVenue": false,
     "division": "fbs"
@@ -506,6 +506,28 @@
     "division": "fbs"
   },
   {
+    "id": "2025-ncaa-401752723",
+    "sourceId": 401752723,
+    "sourceWeek": 4,
+    "week": 5,
+    "date": "2025-09-21",
+    "day": "Sunday",
+    "kickoff": "5p",
+    "home": "Texas",
+    "away": "Sam Houston",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
+    "awayLogo": null,
+    "venue": {
+      "name": "DKR-Texas Memorial Stadium",
+      "lat": 30.2839,
+      "lng": -97.7325
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
     "id": "2025-ncaa-401761612",
     "sourceId": 401761612,
     "sourceWeek": 4,
@@ -545,28 +567,6 @@
       "name": "Maverik Stadium",
       "lat": 41.7517,
       "lng": -111.8116
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2025-ncaa-401752723",
-    "sourceId": 401752723,
-    "sourceWeek": 4,
-    "week": 5,
-    "date": "2025-09-21",
-    "day": "Sunday",
-    "kickoff": "5p",
-    "home": "Texas",
-    "away": "Sam Houston",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
-    "awayLogo": null,
-    "venue": {
-      "name": "DKR-Texas Memorial Stadium",
-      "lat": 30.2839,
-      "lng": -97.7325
     },
     "missingVenue": false,
     "division": "fbs"
