@@ -154,26 +154,26 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752674",
-    "sourceId": 401752674,
+    "id": "2025-ncaa-401767468",
+    "sourceId": 401767468,
     "sourceWeek": 1,
     "week": 1,
     "date": "2025-08-28",
     "day": "Thursday",
     "kickoff": "4:30p",
-    "home": "Missouri",
-    "away": "Central Arkansas",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
+    "home": "Houston Christian",
+    "away": "Little Rock",
+    "homeDivision": "fcs",
+    "awayDivision": "fbs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Memorial Stadium",
-      "lat": 38.9628,
-      "lng": -95.2464
+      "name": "Husky Stadium",
+      "lat": 47.6504,
+      "lng": -122.3016
     },
     "missingVenue": false,
-    "division": "fbs"
+    "division": "fcs"
   },
   {
     "id": "2025-ncaa-401756876",
@@ -198,26 +198,26 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401767468",
-    "sourceId": 401767468,
+    "id": "2025-ncaa-401752674",
+    "sourceId": 401752674,
     "sourceWeek": 1,
     "week": 1,
     "date": "2025-08-28",
     "day": "Thursday",
     "kickoff": "4:30p",
-    "home": "Houston Christian",
-    "away": "Little Rock",
-    "homeDivision": "fcs",
-    "awayDivision": "fbs",
+    "home": "Missouri",
+    "away": "Central Arkansas",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Husky Stadium",
-      "lat": 47.6504,
-      "lng": -122.3016
+      "name": "Memorial Stadium",
+      "lat": 38.9628,
+      "lng": -95.2464
     },
     "missingVenue": false,
-    "division": "fcs"
+    "division": "fbs"
   },
   {
     "id": "2025-ncaa-401756852",
@@ -242,28 +242,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401762791",
-    "sourceId": 401762791,
-    "sourceWeek": 1,
-    "week": 1,
-    "date": "2025-08-29",
-    "day": "Friday",
-    "kickoff": "6p",
-    "home": "Wisconsin",
-    "away": "Miami (OH)",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Camp Randall Stadium",
-      "lat": 43.0703,
-      "lng": -89.4124
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401752796",
     "sourceId": 401752796,
     "sourceWeek": 1,
@@ -281,6 +259,28 @@
       "name": "GEHA Field at Arrowhead Stadium",
       "lat": 39.0489,
       "lng": -94.4839
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401762791",
+    "sourceId": 401762791,
+    "sourceWeek": 1,
+    "week": 1,
+    "date": "2025-08-29",
+    "day": "Friday",
+    "kickoff": "6p",
+    "home": "Wisconsin",
+    "away": "Miami (OH)",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Camp Randall Stadium",
+      "lat": 43.0703,
+      "lng": -89.4124
     },
     "missingVenue": false,
     "division": "fbs"
