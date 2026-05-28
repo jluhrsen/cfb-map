@@ -1,27 +1,5 @@
 [
   {
-    "id": "2026-ncaa-401864570",
-    "sourceId": 401864570,
-    "sourceWeek": 1,
-    "week": 1,
-    "date": "2026-08-29",
-    "day": "Saturday",
-    "kickoff": "TBD",
-    "home": "Florida State",
-    "away": "New Mexico State",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Doak Campbell Stadium",
-      "lat": 30.4384,
-      "lng": -84.3045
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2026-ncaa-401864494",
     "sourceId": 401864494,
     "sourceWeek": 1,
@@ -39,28 +17,6 @@
       "name": "Los Angeles Memorial Coliseum",
       "lat": 34.0141,
       "lng": -118.2879
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2026-ncaa-401858201",
-    "sourceId": 401858201,
-    "sourceWeek": 1,
-    "week": 1,
-    "date": "2026-08-29",
-    "day": "Saturday",
-    "kickoff": "TBD",
-    "home": "Stanford",
-    "away": "Hawai'i",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/24.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/62.png",
-    "venue": {
-      "name": "Stanford Stadium",
-      "lat": 37.4344,
-      "lng": -122.1614
     },
     "missingVenue": false,
     "division": "fbs"
@@ -88,6 +44,28 @@
     "division": "fbs"
   },
   {
+    "id": "2026-ncaa-401864570",
+    "sourceId": 401864570,
+    "sourceWeek": 1,
+    "week": 1,
+    "date": "2026-08-29",
+    "day": "Saturday",
+    "kickoff": "TBD",
+    "home": "Florida State",
+    "away": "New Mexico State",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Doak Campbell Stadium",
+      "lat": 30.4384,
+      "lng": -84.3045
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
     "id": "2026-ncaa-401864577",
     "sourceId": 401864577,
     "sourceWeek": 1,
@@ -105,6 +83,28 @@
       "name": "Fargodome",
       "lat": 46.9028,
       "lng": -96.8013
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401858201",
+    "sourceId": 401858201,
+    "sourceWeek": 1,
+    "week": 1,
+    "date": "2026-08-29",
+    "day": "Saturday",
+    "kickoff": "TBD",
+    "home": "Stanford",
+    "away": "Hawai'i",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/24.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/62.png",
+    "venue": {
+      "name": "Stanford Stadium",
+      "lat": 37.4344,
+      "lng": -122.1614
     },
     "missingVenue": false,
     "division": "fbs"
@@ -154,28 +154,6 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401858423",
-    "sourceId": 401858423,
-    "sourceWeek": 1,
-    "week": 1,
-    "date": "2026-09-03",
-    "day": "Thursday",
-    "kickoff": "TBD",
-    "home": "Rutgers",
-    "away": "Massachusetts",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "SHI Stadium",
-      "lat": 40.5139,
-      "lng": -74.4647
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2026-ncaa-401856768",
     "sourceId": 401856768,
     "sourceWeek": 1,
@@ -193,6 +171,28 @@
       "name": "Rice-Eccles Stadium",
       "lat": 40.7597,
       "lng": -111.8478
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401858423",
+    "sourceId": 401858423,
+    "sourceWeek": 1,
+    "week": 1,
+    "date": "2026-09-03",
+    "day": "Thursday",
+    "kickoff": "TBD",
+    "home": "Rutgers",
+    "away": "Massachusetts",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "SHI Stadium",
+      "lat": 40.5139,
+      "lng": -74.4647
     },
     "missingVenue": false,
     "division": "fbs"

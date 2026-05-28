@@ -682,28 +682,6 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401866457",
-    "sourceId": 401866457,
-    "sourceWeek": 10,
-    "week": 10,
-    "date": "2026-11-04",
-    "day": "Wednesday",
-    "kickoff": "TBD",
-    "home": "Sacramento State",
-    "away": "Toledo",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Hornet Stadium",
-      "lat": 38.5598,
-      "lng": -121.4242
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2026-ncaa-401866456",
     "sourceId": 401866456,
     "sourceWeek": 10,
@@ -721,6 +699,28 @@
       "name": "Ford Field",
       "lat": 42.34,
       "lng": -83.0456
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401866457",
+    "sourceId": 401866457,
+    "sourceWeek": 10,
+    "week": 10,
+    "date": "2026-11-04",
+    "day": "Wednesday",
+    "kickoff": "TBD",
+    "home": "Sacramento State",
+    "away": "Toledo",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Hornet Stadium",
+      "lat": 38.5598,
+      "lng": -121.4242
     },
     "missingVenue": false,
     "division": "fbs"
