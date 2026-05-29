@@ -242,28 +242,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752796",
-    "sourceId": 401752796,
-    "sourceWeek": 1,
-    "week": 1,
-    "date": "2025-08-29",
-    "day": "Friday",
-    "kickoff": "6p",
-    "home": "Cincinnati",
-    "away": "Nebraska",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "GEHA Field at Arrowhead Stadium",
-      "lat": 39.0489,
-      "lng": -94.4839
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401762791",
     "sourceId": 401762791,
     "sourceWeek": 1,
@@ -281,6 +259,28 @@
       "name": "Camp Randall Stadium",
       "lat": 43.0703,
       "lng": -89.4124
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401752796",
+    "sourceId": 401752796,
+    "sourceWeek": 1,
+    "week": 1,
+    "date": "2025-08-29",
+    "day": "Friday",
+    "kickoff": "6p",
+    "home": "Cincinnati",
+    "away": "Nebraska",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "GEHA Field at Arrowhead Stadium",
+      "lat": 39.0489,
+      "lng": -94.4839
     },
     "missingVenue": false,
     "division": "fbs"
@@ -352,28 +352,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752795",
-    "sourceId": 401752795,
-    "sourceWeek": 1,
-    "week": 1,
-    "date": "2025-08-29",
-    "day": "Friday",
-    "kickoff": "4:30p",
-    "home": "Illinois",
-    "away": "Western Illinois",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Memorial Stadium (Champaign, IL)",
-      "lat": 40.0993,
-      "lng": -88.2358
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401756854",
     "sourceId": 401756854,
     "sourceWeek": 1,
@@ -391,6 +369,28 @@
       "name": "Memorial Stadium",
       "lat": 38.9628,
       "lng": -95.2464
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401752795",
+    "sourceId": 401752795,
+    "sourceWeek": 1,
+    "week": 1,
+    "date": "2025-08-29",
+    "day": "Friday",
+    "kickoff": "4:30p",
+    "home": "Illinois",
+    "away": "Western Illinois",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Memorial Stadium (Champaign, IL)",
+      "lat": 40.0993,
+      "lng": -88.2358
     },
     "missingVenue": false,
     "division": "fbs"
