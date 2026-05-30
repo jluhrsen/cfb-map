@@ -22,28 +22,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752772",
-    "sourceId": 401752772,
-    "sourceWeek": 12,
-    "week": 13,
-    "date": "2025-11-15",
-    "day": "Saturday",
-    "kickoff": "9a",
-    "home": "Texas A&M",
-    "away": "South Carolina",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Kyle Field",
-      "lat": 30.61,
-      "lng": -96.34
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401752901",
     "sourceId": 401752901,
     "sourceWeek": 12,
@@ -61,6 +39,28 @@
       "name": "Memorial Stadium (Bloomington, IN)",
       "lat": 39.1793,
       "lng": -86.5232
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401752772",
+    "sourceId": 401752772,
+    "sourceWeek": 12,
+    "week": 13,
+    "date": "2025-11-15",
+    "day": "Saturday",
+    "kickoff": "9a",
+    "home": "Texas A&M",
+    "away": "South Carolina",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Kyle Field",
+      "lat": 30.61,
+      "lng": -96.34
     },
     "missingVenue": false,
     "division": "fbs"
@@ -154,28 +154,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752765",
-    "sourceId": 401752765,
-    "sourceWeek": 12,
-    "week": 13,
-    "date": "2025-11-15",
-    "day": "Saturday",
-    "kickoff": "12:30p",
-    "home": "Alabama",
-    "away": "Oklahoma",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Bryant-Denny Stadium",
-      "lat": 33.208,
-      "lng": -87.5502
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401752906",
     "sourceId": 401752906,
     "sourceWeek": 12,
@@ -198,67 +176,23 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752903",
-    "sourceId": 401752903,
+    "id": "2025-ncaa-401752765",
+    "sourceId": 401752765,
     "sourceWeek": 12,
     "week": 13,
     "date": "2025-11-15",
     "day": "Saturday",
     "kickoff": "12:30p",
-    "home": "Michigan State",
-    "away": "Penn State",
+    "home": "Alabama",
+    "away": "Oklahoma",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Spartan Stadium",
-      "lat": 37.3975,
-      "lng": -121.8635
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2025-ncaa-401754595",
-    "sourceId": 401754595,
-    "sourceWeek": 12,
-    "week": 13,
-    "date": "2025-11-15",
-    "day": "Saturday",
-    "kickoff": "12:30p",
-    "home": "Miami",
-    "away": "NC State",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Hard Rock Stadium",
-      "lat": 25.958,
-      "lng": -80.2389
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2025-ncaa-401760413",
-    "sourceId": 401760413,
-    "sourceWeek": 12,
-    "week": 13,
-    "date": "2025-11-15",
-    "day": "Saturday",
-    "kickoff": "12:30p",
-    "home": "Nevada",
-    "away": "San José State",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2440.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/23.png",
-    "venue": {
-      "name": "Mackay Stadium",
-      "lat": 39.5468,
-      "lng": -119.8175
+      "name": "Bryant-Denny Stadium",
+      "lat": 33.208,
+      "lng": -87.5502
     },
     "missingVenue": false,
     "division": "fbs"
@@ -286,6 +220,72 @@
     "division": "fbs"
   },
   {
+    "id": "2025-ncaa-401752903",
+    "sourceId": 401752903,
+    "sourceWeek": 12,
+    "week": 13,
+    "date": "2025-11-15",
+    "day": "Saturday",
+    "kickoff": "12:30p",
+    "home": "Michigan State",
+    "away": "Penn State",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Spartan Stadium",
+      "lat": 37.3975,
+      "lng": -121.8635
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401760413",
+    "sourceId": 401760413,
+    "sourceWeek": 12,
+    "week": 13,
+    "date": "2025-11-15",
+    "day": "Saturday",
+    "kickoff": "12:30p",
+    "home": "Nevada",
+    "away": "San José State",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2440.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/23.png",
+    "venue": {
+      "name": "Mackay Stadium",
+      "lat": 39.5468,
+      "lng": -119.8175
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401754595",
+    "sourceId": 401754595,
+    "sourceWeek": 12,
+    "week": 13,
+    "date": "2025-11-15",
+    "day": "Saturday",
+    "kickoff": "12:30p",
+    "home": "Miami",
+    "away": "NC State",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Hard Rock Stadium",
+      "lat": 25.958,
+      "lng": -80.2389
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
     "id": "2025-ncaa-401752771",
     "sourceId": 401752771,
     "sourceWeek": 12,
@@ -303,28 +303,6 @@
       "name": "Neyland Stadium",
       "lat": 35.9551,
       "lng": -83.9252
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2025-ncaa-401760414",
-    "sourceId": 401760414,
-    "sourceWeek": 12,
-    "week": 13,
-    "date": "2025-11-16",
-    "day": "Sunday",
-    "kickoff": "4p",
-    "home": "UNLV",
-    "away": "Utah State",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2439.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/328.png",
-    "venue": {
-      "name": "Allegiant Stadium",
-      "lat": 36.0909,
-      "lng": -115.1833
     },
     "missingVenue": false,
     "division": "fbs"
@@ -352,23 +330,45 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752766",
-    "sourceId": 401752766,
+    "id": "2025-ncaa-401760414",
+    "sourceId": 401760414,
+    "sourceWeek": 12,
+    "week": 13,
+    "date": "2025-11-16",
+    "day": "Sunday",
+    "kickoff": "4p",
+    "home": "UNLV",
+    "away": "Utah State",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2439.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/328.png",
+    "venue": {
+      "name": "Allegiant Stadium",
+      "lat": 36.0909,
+      "lng": -115.1833
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401752900",
+    "sourceId": 401752900,
     "sourceWeek": 12,
     "week": 13,
     "date": "2025-11-16",
     "day": "Sunday",
     "kickoff": "4:30p",
-    "home": "Georgia",
-    "away": "Texas",
+    "home": "Ohio State",
+    "away": "UCLA",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
     "homeLogo": null,
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
+    "awayLogo": null,
     "venue": {
-      "name": "Sanford Stadium",
-      "lat": 33.9498,
-      "lng": -83.3732
+      "name": "Ohio Stadium",
+      "lat": 40.0018,
+      "lng": -83.0197
     },
     "missingVenue": false,
     "division": "fbs"
@@ -396,23 +396,23 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752900",
-    "sourceId": 401752900,
+    "id": "2025-ncaa-401752766",
+    "sourceId": 401752766,
     "sourceWeek": 12,
     "week": 13,
     "date": "2025-11-16",
     "day": "Sunday",
     "kickoff": "4:30p",
-    "home": "Ohio State",
-    "away": "UCLA",
+    "home": "Georgia",
+    "away": "Texas",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
     "homeLogo": null,
-    "awayLogo": null,
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
     "venue": {
-      "name": "Ohio Stadium",
-      "lat": 40.0018,
-      "lng": -83.0197
+      "name": "Sanford Stadium",
+      "lat": 33.9498,
+      "lng": -83.3732
     },
     "missingVenue": false,
     "division": "fbs"

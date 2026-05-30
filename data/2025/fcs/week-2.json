@@ -44,23 +44,23 @@
     "division": "fcs"
   },
   {
-    "id": "2025-ncaa-401756853",
-    "sourceId": 401756853,
+    "id": "2025-ncaa-401760359",
+    "sourceId": 401760359,
     "sourceWeek": 1,
     "week": 2,
     "date": "2025-08-30",
     "day": "Saturday",
     "kickoff": "12:30p",
-    "home": "Iowa State",
-    "away": "South Dakota",
+    "home": "Air Force",
+    "away": "Bucknell",
     "homeDivision": "fbs",
     "awayDivision": "fcs",
-    "homeLogo": null,
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2005.png",
     "awayLogo": null,
     "venue": {
-      "name": "Jack Trice Stadium",
-      "lat": 42.014,
-      "lng": -93.6356
+      "name": "Falcon Stadium",
+      "lat": 38.9967,
+      "lng": -104.8436
     },
     "missingVenue": false,
     "division": "fbs"
@@ -88,45 +88,23 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401760359",
-    "sourceId": 401760359,
+    "id": "2025-ncaa-401756853",
+    "sourceId": 401756853,
     "sourceWeek": 1,
     "week": 2,
     "date": "2025-08-30",
     "day": "Saturday",
     "kickoff": "12:30p",
-    "home": "Air Force",
-    "away": "Bucknell",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2005.png",
-    "awayLogo": null,
-    "venue": {
-      "name": "Falcon Stadium",
-      "lat": 38.9967,
-      "lng": -104.8436
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2025-ncaa-401752804",
-    "sourceId": 401752804,
-    "sourceWeek": 1,
-    "week": 2,
-    "date": "2025-08-30",
-    "day": "Saturday",
-    "kickoff": "1p",
-    "home": "Oregon",
-    "away": "Montana State",
+    "home": "Iowa State",
+    "away": "South Dakota",
     "homeDivision": "fbs",
     "awayDivision": "fcs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Autzen Stadium",
-      "lat": 44.0584,
-      "lng": -123.0681
+      "name": "Jack Trice Stadium",
+      "lat": 42.014,
+      "lng": -93.6356
     },
     "missingVenue": false,
     "division": "fbs"
@@ -152,6 +130,28 @@
     },
     "missingVenue": false,
     "division": "fcs"
+  },
+  {
+    "id": "2025-ncaa-401752804",
+    "sourceId": 401752804,
+    "sourceWeek": 1,
+    "week": 2,
+    "date": "2025-08-30",
+    "day": "Saturday",
+    "kickoff": "1p",
+    "home": "Oregon",
+    "away": "Montana State",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Autzen Stadium",
+      "lat": 44.0584,
+      "lng": -123.0681
+    },
+    "missingVenue": false,
+    "division": "fbs"
   },
   {
     "id": "2025-ncaa-401752666",
@@ -264,28 +264,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401756851",
-    "sourceId": 401756851,
-    "sourceWeek": 1,
-    "week": 2,
-    "date": "2025-08-31",
-    "day": "Sunday",
-    "kickoff": "5p",
-    "home": "BYU",
-    "away": "Portland State",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "LaVell Edwards Stadium",
-      "lat": 40.2578,
-      "lng": -111.6563
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401767070",
     "sourceId": 401767070,
     "sourceWeek": 1,
@@ -306,6 +284,28 @@
     },
     "missingVenue": false,
     "division": "fcs"
+  },
+  {
+    "id": "2025-ncaa-401756851",
+    "sourceId": 401756851,
+    "sourceWeek": 1,
+    "week": 2,
+    "date": "2025-08-31",
+    "day": "Sunday",
+    "kickoff": "5p",
+    "home": "BYU",
+    "away": "Portland State",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "LaVell Edwards Stadium",
+      "lat": 40.2578,
+      "lng": -111.6563
+    },
+    "missingVenue": false,
+    "division": "fbs"
   },
   {
     "id": "2025-ncaa-401762435",

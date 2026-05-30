@@ -154,28 +154,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752674",
-    "sourceId": 401752674,
-    "sourceWeek": 1,
-    "week": 1,
-    "date": "2025-08-28",
-    "day": "Thursday",
-    "kickoff": "4:30p",
-    "home": "Missouri",
-    "away": "Central Arkansas",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Memorial Stadium",
-      "lat": 38.9628,
-      "lng": -95.2464
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401756876",
     "sourceId": 401756876,
     "sourceWeek": 1,
@@ -193,6 +171,28 @@
       "name": "Boone Pickens Stadium",
       "lat": 36.1286,
       "lng": -97.0651
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401752674",
+    "sourceId": 401752674,
+    "sourceWeek": 1,
+    "week": 1,
+    "date": "2025-08-28",
+    "day": "Thursday",
+    "kickoff": "4:30p",
+    "home": "Missouri",
+    "away": "Central Arkansas",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Memorial Stadium",
+      "lat": 38.9628,
+      "lng": -95.2464
     },
     "missingVenue": false,
     "division": "fbs"
@@ -242,28 +242,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752796",
-    "sourceId": 401752796,
-    "sourceWeek": 1,
-    "week": 1,
-    "date": "2025-08-29",
-    "day": "Friday",
-    "kickoff": "6p",
-    "home": "Cincinnati",
-    "away": "Nebraska",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "GEHA Field at Arrowhead Stadium",
-      "lat": 39.0489,
-      "lng": -94.4839
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401762791",
     "sourceId": 401762791,
     "sourceWeek": 1,
@@ -281,6 +259,28 @@
       "name": "Camp Randall Stadium",
       "lat": 43.0703,
       "lng": -89.4124
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401752796",
+    "sourceId": 401752796,
+    "sourceWeek": 1,
+    "week": 1,
+    "date": "2025-08-29",
+    "day": "Friday",
+    "kickoff": "6p",
+    "home": "Cincinnati",
+    "away": "Nebraska",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "GEHA Field at Arrowhead Stadium",
+      "lat": 39.0489,
+      "lng": -94.4839
     },
     "missingVenue": false,
     "division": "fbs"
@@ -308,28 +308,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752802",
-    "sourceId": 401752802,
-    "sourceWeek": 1,
-    "week": 1,
-    "date": "2025-08-29",
-    "day": "Friday",
-    "kickoff": "4p",
-    "home": "Michigan State",
-    "away": "Western Michigan",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Spartan Stadium",
-      "lat": 37.3975,
-      "lng": -121.8635
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401761589",
     "sourceId": 401761589,
     "sourceWeek": 1,
@@ -347,6 +325,28 @@
       "name": "Bank of America Stadium",
       "lat": 35.2258,
       "lng": -80.8528
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401752802",
+    "sourceId": 401752802,
+    "sourceWeek": 1,
+    "week": 1,
+    "date": "2025-08-29",
+    "day": "Friday",
+    "kickoff": "4p",
+    "home": "Michigan State",
+    "away": "Western Michigan",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Spartan Stadium",
+      "lat": 37.3975,
+      "lng": -121.8635
     },
     "missingVenue": false,
     "division": "fbs"
