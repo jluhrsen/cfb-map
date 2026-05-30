@@ -51,3 +51,23 @@
   font-size: 0.82rem;
   color: #5f6b7a;
 }
+
+@media (max-width: 820px) {
+  .week-selector {
+    min-height: 54px;
+    padding: 8px;
+  }
+
+  .week-nav-btn {
+    width: 30px;
+    height: 30px;
+  }
+
+  .week-info strong {
+    font-size: 0.9rem;
+  }
+
+  .week-date {
+    font-size: 0.76rem;
+  }
+}

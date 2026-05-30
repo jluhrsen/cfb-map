@@ -50,16 +50,50 @@ function App() {
     return Array.from(gamesById.values());
   }, [index, loadWeekData]);
 
+  useEffect(() => {
+    if (!index) {
+      return;
+    }
+
+    const availableSeasons = index.availableSeasons || [];
+    if (availableSeasons.length > 0 && !availableSeasons.includes(selectedYear)) {
+      setSelectedYear(Math.max(...availableSeasons));
+      return;
+    }
+
+    const weeks = index.weeksByYear?.[selectedYear] || [];
+    if (weeks.length === 0) {
+      return;
+    }
+
+    const weekNumbers = weeks.map(week => week.number);
+    const minWeek = Math.min(...weekNumbers);
+    const maxWeek = Math.max(...weekNumbers);
+
+    if (selectedWeek < minWeek) {
+      setSelectedWeek(minWeek);
+    } else if (selectedWeek > maxWeek) {
+      setSelectedWeek(maxWeek);
+    }
+  }, [index, selectedWeek, selectedYear, setSelectedWeek, setSelectedYear]);
+
   // Load games when filters change
   useEffect(() => {
+    let cancelled = false;
+
     if (selectedDivisions.length === 0) {
       setGames([]);
+      setLoadingGames(false);
       return;
     }
 
     setLoadingGames(true);
     loadWeekWindowData(selectedYear, selectedWeek, selectedDivisions)
       .then(weekGames => {
+        if (cancelled) {
+          return;
+        }
+
         const selectedWindow = getSelectedWeekWindow(index, selectedYear, selectedWeek);
         // Filter to only selected teams
         const filtered = weekGames.filter(game =>
@@ -70,9 +104,17 @@ function App() {
         setLoadingGames(false);
       })
       .catch(error => {
+        if (cancelled) {
+          return;
+        }
+
         console.error('Error loading games:', error);
         setLoadingGames(false);
       });
+
+    return () => {
+      cancelled = true;
+    };
   }, [index, selectedTeams, selectedDivisions, selectedWeek, selectedYear, loadWeekWindowData]);
 
   // When a new team is selected, move to the first available game instead of
@@ -161,7 +203,7 @@ function App() {
           </div>
         </header>
 
-        <section className="control-section">
+        <section className="control-section control-section-schedule">
           <h2>Schedule</h2>
           <SeasonSelector />
           <WeekSelector />

@@ -128,3 +128,26 @@
   text-align: center;
   color: #666;
 }
+
+@media (max-width: 820px) {
+  .selected-teams {
+    flex-flow: row wrap;
+    max-height: 76px;
+    overflow-y: auto;
+  }
+
+  .team-chip {
+    max-width: 100%;
+    padding: 6px 8px;
+  }
+
+  .search-dropdown {
+    position: static;
+    max-height: 30vh;
+    margin-top: 6px;
+  }
+
+  .search-result {
+    padding: 9px 10px;
+  }
+}

@@ -1,22 +1,66 @@
 [
   {
-    "id": "2026-ncaa-401866408",
-    "sourceId": 401866408,
+    "id": "2026-ncaa-401864494",
+    "sourceId": 401864494,
     "sourceWeek": 1,
     "week": 1,
     "date": "2026-08-29",
     "day": "Saturday",
     "kickoff": "TBD",
-    "home": "Eastern Michigan",
-    "away": "Sacramento State",
+    "home": "USC",
+    "away": "San José State",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/23.png",
+    "venue": {
+      "name": "Los Angeles Memorial Coliseum",
+      "lat": 34.0141,
+      "lng": -118.2879
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401862693",
+    "sourceId": 401862693,
+    "sourceWeek": 1,
+    "week": 1,
+    "date": "2026-08-29",
+    "day": "Saturday",
+    "kickoff": "TBD",
+    "home": "UNLV",
+    "away": "Memphis",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2439.png",
+    "awayLogo": null,
+    "venue": {
+      "name": "Allegiant Stadium",
+      "lat": 36.0909,
+      "lng": -115.1833
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401864570",
+    "sourceId": 401864570,
+    "sourceWeek": 1,
+    "week": 1,
+    "date": "2026-08-29",
+    "day": "Saturday",
+    "kickoff": "TBD",
+    "home": "Florida State",
+    "away": "New Mexico State",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Rynearson Stadium",
-      "lat": 42.2473,
-      "lng": -83.6253
+      "name": "Doak Campbell Stadium",
+      "lat": 30.4384,
+      "lng": -84.3045
     },
     "missingVenue": false,
     "division": "fbs"
@@ -66,67 +110,45 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401864494",
-    "sourceId": 401864494,
+    "id": "2026-ncaa-401866408",
+    "sourceId": 401866408,
     "sourceWeek": 1,
     "week": 1,
     "date": "2026-08-29",
     "day": "Saturday",
     "kickoff": "TBD",
-    "home": "USC",
-    "away": "San José State",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/23.png",
-    "venue": {
-      "name": "Los Angeles Memorial Coliseum",
-      "lat": 34.0141,
-      "lng": -118.2879
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2026-ncaa-401864570",
-    "sourceId": 401864570,
-    "sourceWeek": 1,
-    "week": 1,
-    "date": "2026-08-29",
-    "day": "Saturday",
-    "kickoff": "TBD",
-    "home": "Florida State",
-    "away": "New Mexico State",
+    "home": "Eastern Michigan",
+    "away": "Sacramento State",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Doak Campbell Stadium",
-      "lat": 30.4384,
-      "lng": -84.3045
+      "name": "Rynearson Stadium",
+      "lat": 42.2473,
+      "lng": -83.6253
     },
     "missingVenue": false,
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401862693",
-    "sourceId": 401862693,
+    "id": "2026-ncaa-401856663",
+    "sourceId": 401856663,
     "sourceWeek": 1,
     "week": 1,
-    "date": "2026-08-29",
-    "day": "Saturday",
+    "date": "2026-09-03",
+    "day": "Thursday",
     "kickoff": "TBD",
-    "home": "UNLV",
-    "away": "Memphis",
+    "home": "Missouri",
+    "away": "Arkansas-Pine Bluff",
     "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2439.png",
+    "awayDivision": "fcs",
+    "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Allegiant Stadium",
-      "lat": 36.0909,
-      "lng": -115.1833
+      "name": "Memorial Stadium",
+      "lat": 38.9628,
+      "lng": -95.2464
     },
     "missingVenue": false,
     "division": "fbs"
@@ -171,28 +193,6 @@
       "name": "SHI Stadium",
       "lat": 40.5139,
       "lng": -74.4647
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2026-ncaa-401856663",
-    "sourceId": 401856663,
-    "sourceWeek": 1,
-    "week": 1,
-    "date": "2026-09-03",
-    "day": "Thursday",
-    "kickoff": "TBD",
-    "home": "Missouri",
-    "away": "Arkansas-Pine Bluff",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Memorial Stadium",
-      "lat": 38.9628,
-      "lng": -95.2464
     },
     "missingVenue": false,
     "division": "fbs"
