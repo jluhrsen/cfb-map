@@ -35,7 +35,7 @@ function App() {
     }
 
     if (divisions.includes('nfl')) {
-      getNFLWeekNumbers(index, year).forEach(nflWeek => {
+      getNFLWeekNumbers().forEach(nflWeek => {
         requests.push(loadWeekData(year, nflWeek, ['nfl']));
       });
     }
@@ -48,7 +48,7 @@ function App() {
     });
 
     return Array.from(gamesById.values());
-  }, [index, loadWeekData]);
+  }, [loadWeekData]);
 
   useEffect(() => {
     if (!index) {
@@ -383,11 +383,8 @@ function addDays(date, days) {
   return result;
 }
 
-function getNFLWeekNumbers(index, year) {
-  const weeks = index?.weeksByYear?.[year] || [];
-  const weekNumbers = weeks.map(week => week.number);
-  const maxWeek = Math.max(18, ...weekNumbers);
-  return Array.from({ length: maxWeek }, (_, idx) => idx + 1);
+function getNFLWeekNumbers() {
+  return Array.from({ length: 18 }, (_, idx) => idx + 1);
 }
 
 export default App;
