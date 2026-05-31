@@ -4,6 +4,7 @@ const path = require('path');
 const VENUES = require('../src/data/venues.json');
 const LOGO_OVERRIDES = require('../src/data/team-logos.json');
 const MANUAL_GAMES = require('../src/data/manual-games.json');
+const KICKOFF_OVERRIDES = require('../src/data/kickoff-overrides.json');
 
 const DISPLAY_TIME_ZONE = 'America/Los_Angeles';
 
@@ -127,6 +128,61 @@ function gameVisibilityDivisions(game) {
   return [...new Set([game.homeDivision, game.awayDivision, game.division].filter(Boolean))];
 }
 
+function findKickoffOverride(year, date, home, away) {
+  return KICKOFF_OVERRIDES.find(override =>
+    override.year === Number(year) &&
+    override.date === date &&
+    teamsMatch(override.home, override.away, home, away)
+  );
+}
+
+function teamsMatch(overrideHome, overrideAway, home, away) {
+  const normalizedOverrideHome = normalizeTeamName(overrideHome);
+  const normalizedOverrideAway = normalizeTeamName(overrideAway);
+  const normalizedHome = normalizeTeamName(home);
+  const normalizedAway = normalizeTeamName(away);
+
+  return (normalizedOverrideHome === normalizedHome && normalizedOverrideAway === normalizedAway) ||
+    (normalizedOverrideHome === normalizedAway && normalizedOverrideAway === normalizedHome);
+}
+
+function normalizeTeamName(name) {
+  const normalized = String(name || '')
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .replace(/\bno\.?\s*\d+\b/gi, '')
+    .replace(/\bsiu\b/gi, 'southern illinois')
+    .replace(/\buni\b/gi, 'northern iowa')
+    .replace(/\bniu\b/gi, 'northern illinois')
+    .replace(/\bucf\b/gi, 'central florida')
+    .replace(/\buconn\b/gi, 'connecticut')
+    .replace(/\bcal\b/gi, 'california')
+    .replace(/\bmiami oh\b/gi, 'miami ohio')
+    .replace(/&/g, 'and')
+    .replace(/[^a-z0-9]+/gi, ' ')
+    .trim()
+    .replace(/\s+/g, ' ')
+    .toLowerCase();
+
+  const aliases = {
+    hawaii: 'hawaii',
+    'hawai i': 'hawaii',
+    umass: 'massachusetts',
+    massachusetts: 'massachusetts',
+    liu: 'long island university',
+    'long island university': 'long island university',
+    pitt: 'pittsburgh',
+    pittsburgh: 'pittsburgh',
+    'miami ohio': 'miami oh',
+    'miami oh': 'miami oh',
+    'miami fl': 'miami',
+    uconn: 'connecticut',
+    connecticut: 'connecticut'
+  };
+
+  return aliases[normalized] || normalized;
+}
+
 /**
  * Normalize NCAA game data
  * @param {Object} game - Raw game data from API
@@ -147,15 +203,17 @@ function normalizeNCAAGame(game, seasonStart) {
   const awayDivision = normalizeNCAADivision(game.awayClassification, game.division);
   const gameDivision = homeDivision;
   const week = calculateWeek(game.startDate, seasonStart);
+  const date = game.startDate.split('T')[0];
+  const kickoffOverride = findKickoffOverride(game.season, date, game.homeTeam, game.awayTeam);
 
   return {
     id: `${game.season}-ncaa-${game.id}`,
     sourceId: game.id,
     sourceWeek: game.week || null,
     week,
-    date: game.startDate.split('T')[0],
+    date,
     day: getDayOfWeek(game.startDate),
-    kickoff: isUnsetNCAAKickoff(game.startDate) ? 'TBD' : parseKickoffTime(game.startDate),
+    kickoff: kickoffOverride?.kickoff || (isUnsetNCAAKickoff(game.startDate) ? 'TBD' : parseKickoffTime(game.startDate)),
     home: game.homeTeam,
     away: game.awayTeam,
     homeDivision,
