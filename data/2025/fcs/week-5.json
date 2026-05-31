@@ -88,28 +88,6 @@
     "division": "fcs"
   },
   {
-    "id": "2025-ncaa-401767114",
-    "sourceId": 401767114,
-    "sourceWeek": 4,
-    "week": 5,
-    "date": "2025-09-20",
-    "day": "Saturday",
-    "kickoff": "2p",
-    "home": "Northern Arizona",
-    "away": "Incarnate Word",
-    "homeDivision": "fcs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Walkup Skydome",
-      "lat": 35.1803,
-      "lng": -111.6544
-    },
-    "missingVenue": false,
-    "division": "fcs"
-  },
-  {
     "id": "2025-ncaa-401760375",
     "sourceId": 401760375,
     "sourceWeek": 4,
@@ -132,23 +110,23 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401767081",
-    "sourceId": 401767081,
+    "id": "2025-ncaa-401767114",
+    "sourceId": 401767114,
     "sourceWeek": 4,
     "week": 5,
     "date": "2025-09-20",
     "day": "Saturday",
-    "kickoff": "3p",
-    "home": "Idaho State",
-    "away": "Lincoln (CA)",
+    "kickoff": "2p",
+    "home": "Northern Arizona",
+    "away": "Incarnate Word",
     "homeDivision": "fcs",
-    "awayDivision": "d2",
+    "awayDivision": "fcs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Holt Arena",
-      "lat": 42.8723,
-      "lng": -112.4341
+      "name": "Walkup Skydome",
+      "lat": 35.1803,
+      "lng": -111.6544
     },
     "missingVenue": false,
     "division": "fcs"
@@ -176,23 +154,23 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401767061",
-    "sourceId": 401767061,
+    "id": "2025-ncaa-401767081",
+    "sourceId": 401767081,
     "sourceWeek": 4,
     "week": 5,
     "date": "2025-09-20",
     "day": "Saturday",
-    "kickoff": "4p",
-    "home": "Eastern Washington",
-    "away": "Western Illinois",
+    "kickoff": "3p",
+    "home": "Idaho State",
+    "away": "Lincoln (CA)",
     "homeDivision": "fcs",
-    "awayDivision": "fcs",
+    "awayDivision": "d2",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Roos Field",
-      "lat": 47.4901,
-      "lng": -117.5888
+      "name": "Holt Arena",
+      "lat": 42.8723,
+      "lng": -112.4341
     },
     "missingVenue": false,
     "division": "fcs"
@@ -215,6 +193,28 @@
       "name": "Husky Stadium",
       "lat": 47.6504,
       "lng": -122.3016
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
+    "id": "2025-ncaa-401767061",
+    "sourceId": 401767061,
+    "sourceWeek": 4,
+    "week": 5,
+    "date": "2025-09-20",
+    "day": "Saturday",
+    "kickoff": "4p",
+    "home": "Eastern Washington",
+    "away": "Western Illinois",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Roos Field",
+      "lat": 47.4901,
+      "lng": -117.5888
     },
     "missingVenue": false,
     "division": "fcs"
@@ -264,28 +264,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401767072",
-    "sourceId": 401767072,
-    "sourceWeek": 4,
-    "week": 5,
-    "date": "2025-09-21",
-    "day": "Sunday",
-    "kickoff": "5p",
-    "home": "Stephen F. Austin",
-    "away": "Cal Poly",
-    "homeDivision": "fcs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/13.png",
-    "venue": {
-      "name": "Homer Bryce Stadium",
-      "lat": 31.6204,
-      "lng": -94.6486
-    },
-    "missingVenue": false,
-    "division": "fcs"
-  },
-  {
     "id": "2025-ncaa-401760377",
     "sourceId": 401760377,
     "sourceWeek": 4,
@@ -306,6 +284,28 @@
     },
     "missingVenue": false,
     "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401767072",
+    "sourceId": 401767072,
+    "sourceWeek": 4,
+    "week": 5,
+    "date": "2025-09-21",
+    "day": "Sunday",
+    "kickoff": "5p",
+    "home": "Stephen F. Austin",
+    "away": "Cal Poly",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/13.png",
+    "venue": {
+      "name": "Homer Bryce Stadium",
+      "lat": 31.6204,
+      "lng": -94.6486
+    },
+    "missingVenue": false,
+    "division": "fcs"
   },
   {
     "id": "2025-ncaa-401767132",
