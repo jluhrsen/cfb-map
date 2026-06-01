@@ -66,28 +66,6 @@
     "division": "fcs"
   },
   {
-    "id": "2025-ncaa-401767074",
-    "sourceId": 401767074,
-    "sourceWeek": 6,
-    "week": 7,
-    "date": "2025-10-05",
-    "day": "Sunday",
-    "kickoff": "5p",
-    "home": "Cal Poly",
-    "away": "UC Davis",
-    "homeDivision": "fcs",
-    "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/13.png",
-    "awayLogo": null,
-    "venue": {
-      "name": "Alex G. Spanos Stadium",
-      "lat": 35.3005,
-      "lng": -120.6587
-    },
-    "missingVenue": false,
-    "division": "fcs"
-  },
-  {
     "id": "2025-ncaa-401767083",
     "sourceId": 401767083,
     "sourceWeek": 6,
@@ -105,6 +83,28 @@
       "name": "Holt Arena",
       "lat": 42.8723,
       "lng": -112.4341
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
+    "id": "2025-ncaa-401767074",
+    "sourceId": 401767074,
+    "sourceWeek": 6,
+    "week": 7,
+    "date": "2025-10-05",
+    "day": "Sunday",
+    "kickoff": "5p",
+    "home": "Cal Poly",
+    "away": "UC Davis",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/13.png",
+    "awayLogo": null,
+    "venue": {
+      "name": "Alex G. Spanos Stadium",
+      "lat": 35.3005,
+      "lng": -120.6587
     },
     "missingVenue": false,
     "division": "fcs"

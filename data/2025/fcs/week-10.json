@@ -44,28 +44,6 @@
     "division": "fcs"
   },
   {
-    "id": "2025-ncaa-401767124",
-    "sourceId": 401767124,
-    "sourceWeek": 9,
-    "week": 10,
-    "date": "2025-10-25",
-    "day": "Saturday",
-    "kickoff": "12p",
-    "home": "Northern Colorado",
-    "away": "UC Davis",
-    "homeDivision": "fcs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Nottingham Field",
-      "lat": 40.4071,
-      "lng": -104.7017
-    },
-    "missingVenue": false,
-    "division": "fcs"
-  },
-  {
     "id": "2025-ncaa-401767472",
     "sourceId": 401767472,
     "sourceWeek": 9,
@@ -88,23 +66,23 @@
     "division": "fcs"
   },
   {
-    "id": "2025-ncaa-401767419",
-    "sourceId": 401767419,
+    "id": "2025-ncaa-401767124",
+    "sourceId": 401767124,
     "sourceWeek": 9,
     "week": 10,
     "date": "2025-10-25",
     "day": "Saturday",
-    "kickoff": "3p",
-    "home": "Grambling",
-    "away": "Jackson State",
+    "kickoff": "12p",
+    "home": "Northern Colorado",
+    "away": "UC Davis",
     "homeDivision": "fcs",
     "awayDivision": "fcs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Allegiant Stadium",
-      "lat": 36.0909,
-      "lng": -115.1833
+      "name": "Nottingham Field",
+      "lat": 40.4071,
+      "lng": -104.7017
     },
     "missingVenue": false,
     "division": "fcs"
@@ -127,6 +105,28 @@
       "name": "Holt Arena",
       "lat": 42.8723,
       "lng": -112.4341
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
+    "id": "2025-ncaa-401767419",
+    "sourceId": 401767419,
+    "sourceWeek": 9,
+    "week": 10,
+    "date": "2025-10-25",
+    "day": "Saturday",
+    "kickoff": "3p",
+    "home": "Grambling",
+    "away": "Jackson State",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Allegiant Stadium",
+      "lat": 36.0909,
+      "lng": -115.1833
     },
     "missingVenue": false,
     "division": "fcs"
