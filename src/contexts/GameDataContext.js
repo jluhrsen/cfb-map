@@ -18,7 +18,7 @@ export function GameDataProvider({ children }) {
 
   // Load index on mount
   useEffect(() => {
-    fetch(`${process.env.PUBLIC_URL}/data/index.json`)
+    fetch(`${process.env.PUBLIC_URL}/data/index.json`, { cache: 'no-store' })
       .then(res => res.json())
       .then(data => {
         setIndex(data);
@@ -38,13 +38,15 @@ export function GameDataProvider({ children }) {
    */
   const loadWeekData = useCallback(async (year, week, divisions) => {
     const sortedDivisions = [...divisions].sort();
-    const key = `${year}-${week}-${sortedDivisions.join(',')}`;
+    const dataVersion = index?.lastUpdated || '';
+    const key = `${dataVersion}-${year}-${week}-${sortedDivisions.join(',')}`;
     if (weekDataRef.current[key]) {
       return weekDataRef.current[key];
     }
 
+    const versionQuery = dataVersion ? `?v=${encodeURIComponent(dataVersion)}` : '';
     const promises = divisions.map(division =>
-      fetch(`${process.env.PUBLIC_URL}/data/${year}/${division}/week-${week}.json`)
+      fetch(`${process.env.PUBLIC_URL}/data/${year}/${division}/week-${week}.json${versionQuery}`)
         .then(res => {
           if (!res.ok) return [];
           return res.json();
@@ -62,7 +64,7 @@ export function GameDataProvider({ children }) {
     weekDataRef.current = { ...weekDataRef.current, [key]: allGames };
     setWeekData(weekDataRef.current);
     return allGames;
-  }, []);
+  }, [index?.lastUpdated]);
 
   return (
     <GameDataContext.Provider value={{ index, weekData, loading, loadWeekData }}>
