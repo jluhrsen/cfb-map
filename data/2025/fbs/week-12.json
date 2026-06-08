@@ -132,6 +132,28 @@
     "division": "fbs"
   },
   {
+    "id": "2025-ncaa-401756943",
+    "sourceId": 401756943,
+    "sourceWeek": 11,
+    "week": 12,
+    "date": "2025-11-08",
+    "day": "Saturday",
+    "kickoff": "12:30p",
+    "home": "Arizona",
+    "away": "Kansas",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Arizona Stadium",
+      "lat": 32.2287,
+      "lng": -110.9489
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
     "id": "2025-ncaa-401752763",
     "sourceId": 401752763,
     "sourceWeek": 11,
@@ -171,28 +193,6 @@
       "name": "Kinnick Stadium",
       "lat": 41.6581,
       "lng": -91.5509
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2025-ncaa-401756943",
-    "sourceId": 401756943,
-    "sourceWeek": 11,
-    "week": 12,
-    "date": "2025-11-08",
-    "day": "Saturday",
-    "kickoff": "12:30p",
-    "home": "Arizona",
-    "away": "Kansas",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Arizona Stadium",
-      "lat": 32.2287,
-      "lng": -110.9489
     },
     "missingVenue": false,
     "division": "fbs"
@@ -330,28 +330,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752760",
-    "sourceId": 401752760,
-    "sourceWeek": 11,
-    "week": 12,
-    "date": "2025-11-09",
-    "day": "Sunday",
-    "kickoff": "4:30p",
-    "home": "Kentucky",
-    "away": "Florida",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Kroger Field",
-      "lat": 38.022,
-      "lng": -84.5037
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401752759",
     "sourceId": 401752759,
     "sourceWeek": 11,
@@ -391,6 +369,28 @@
       "name": "Maverik Stadium",
       "lat": 41.7517,
       "lng": -111.8116
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401752760",
+    "sourceId": 401752760,
+    "sourceWeek": 11,
+    "week": 12,
+    "date": "2025-11-09",
+    "day": "Sunday",
+    "kickoff": "4:30p",
+    "home": "Kentucky",
+    "away": "Florida",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Kroger Field",
+      "lat": 38.022,
+      "lng": -84.5037
     },
     "missingVenue": false,
     "division": "fbs"
