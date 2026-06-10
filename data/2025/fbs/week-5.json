@@ -22,6 +22,28 @@
     "division": "fbs"
   },
   {
+    "id": "2025-ncaa-401762470",
+    "sourceId": 401762470,
+    "sourceWeek": 4,
+    "week": 5,
+    "date": "2025-09-20",
+    "day": "Saturday",
+    "kickoff": "9a",
+    "home": "South Florida",
+    "away": "South Carolina State",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Raymond James Stadium",
+      "lat": 27.9759,
+      "lng": -82.5033
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
     "id": "2025-ncaa-401754617",
     "sourceId": 401754617,
     "sourceWeek": 4,
@@ -66,23 +88,23 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401762470",
-    "sourceId": 401762470,
+    "id": "2025-ncaa-401756901",
+    "sourceId": 401756901,
     "sourceWeek": 4,
     "week": 5,
     "date": "2025-09-20",
     "day": "Saturday",
     "kickoff": "9a",
-    "home": "South Florida",
-    "away": "South Carolina State",
+    "home": "Utah",
+    "away": "Texas Tech",
     "homeDivision": "fbs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
+    "awayDivision": "fbs",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/254.png",
     "awayLogo": null,
     "venue": {
-      "name": "Raymond James Stadium",
-      "lat": 27.9759,
-      "lng": -82.5033
+      "name": "Rice-Eccles Stadium",
+      "lat": 40.7597,
+      "lng": -111.8478
     },
     "missingVenue": false,
     "division": "fbs"
@@ -105,28 +127,6 @@
       "name": "Camp Randall Stadium",
       "lat": 43.0703,
       "lng": -89.4124
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2025-ncaa-401756901",
-    "sourceId": 401756901,
-    "sourceWeek": 4,
-    "week": 5,
-    "date": "2025-09-20",
-    "day": "Saturday",
-    "kickoff": "9a",
-    "home": "Utah",
-    "away": "Texas Tech",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/254.png",
-    "awayLogo": null,
-    "venue": {
-      "name": "Rice-Eccles Stadium",
-      "lat": 40.7597,
-      "lng": -111.8478
     },
     "missingVenue": false,
     "division": "fbs"
@@ -198,23 +198,23 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752846",
-    "sourceId": 401752846,
+    "id": "2025-ncaa-401761610",
+    "sourceId": 401761610,
     "sourceWeek": 4,
     "week": 5,
     "date": "2025-09-20",
     "day": "Saturday",
     "kickoff": "12:30p",
-    "home": "Nebraska",
-    "away": "Michigan",
+    "home": "Eastern Michigan",
+    "away": "Louisiana",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
-    "homeLogo": null,
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2199.png",
     "awayLogo": null,
     "venue": {
-      "name": "Memorial Stadium (Lincoln, NE)",
-      "lat": 40.8202,
-      "lng": -96.7055
+      "name": "Rynearson Stadium",
+      "lat": 42.2473,
+      "lng": -83.6253
     },
     "missingVenue": false,
     "division": "fbs"
@@ -264,23 +264,23 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401761610",
-    "sourceId": 401761610,
+    "id": "2025-ncaa-401752846",
+    "sourceId": 401752846,
     "sourceWeek": 4,
     "week": 5,
     "date": "2025-09-20",
     "day": "Saturday",
     "kickoff": "12:30p",
-    "home": "Eastern Michigan",
-    "away": "Louisiana",
+    "home": "Nebraska",
+    "away": "Michigan",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2199.png",
+    "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Rynearson Stadium",
-      "lat": 42.2473,
-      "lng": -83.6253
+      "name": "Memorial Stadium (Lincoln, NE)",
+      "lat": 40.8202,
+      "lng": -96.7055
     },
     "missingVenue": false,
     "division": "fbs"
@@ -396,6 +396,28 @@
     "division": "fbs"
   },
   {
+    "id": "2025-ncaa-401752709",
+    "sourceId": 401752709,
+    "sourceWeek": 4,
+    "week": 5,
+    "date": "2025-09-20",
+    "day": "Saturday",
+    "kickoff": "4:30p",
+    "home": "Miami",
+    "away": "Florida",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Hard Rock Stadium",
+      "lat": 25.958,
+      "lng": -80.2389
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
     "id": "2025-ncaa-401752716",
     "sourceId": 401752716,
     "sourceWeek": 4,
@@ -462,28 +484,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752709",
-    "sourceId": 401752709,
-    "sourceWeek": 4,
-    "week": 5,
-    "date": "2025-09-20",
-    "day": "Saturday",
-    "kickoff": "4:30p",
-    "home": "Miami",
-    "away": "Florida",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Hard Rock Stadium",
-      "lat": 25.958,
-      "lng": -80.2389
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401752710",
     "sourceId": 401752710,
     "sourceWeek": 4,
@@ -501,28 +501,6 @@
       "name": "Tiger Stadium (LA)",
       "lat": 30.4122,
       "lng": -91.1839
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2025-ncaa-401761612",
-    "sourceId": 401761612,
-    "sourceWeek": 4,
-    "week": 5,
-    "date": "2025-09-21",
-    "day": "Sunday",
-    "kickoff": "5p",
-    "home": "Texas State",
-    "away": "Nicholls",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Bobcat Stadium (TX)",
-      "lat": 29.8911,
-      "lng": -97.9256
     },
     "missingVenue": false,
     "division": "fbs"
@@ -567,6 +545,28 @@
       "name": "Maverik Stadium",
       "lat": 41.7517,
       "lng": -111.8116
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401761612",
+    "sourceId": 401761612,
+    "sourceWeek": 4,
+    "week": 5,
+    "date": "2025-09-21",
+    "day": "Sunday",
+    "kickoff": "5p",
+    "home": "Texas State",
+    "away": "Nicholls",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Bobcat Stadium (TX)",
+      "lat": 29.8911,
+      "lng": -97.9256
     },
     "missingVenue": false,
     "division": "fbs"

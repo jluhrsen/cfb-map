@@ -1,5 +1,27 @@
 [
   {
+    "id": "2025-ncaa-401777170",
+    "sourceId": 401777170,
+    "sourceWeek": 8,
+    "week": 9,
+    "date": "2025-10-18",
+    "day": "Saturday",
+    "kickoff": "1p",
+    "home": "Puget Sound",
+    "away": "Willamette",
+    "homeDivision": "d3",
+    "awayDivision": "d3",
+    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/wpoqmrhctdrju4jh.png",
+    "awayLogo": "https://lh3.googleusercontent.com/6tOuPbn-4tztWUJrhNcODPR25WMo6bats7oaCuwY5KNzSTZneTGpKn-Z6PvWnJ0lNSE8hu7916kIwJhR3qYlbVWPYUo3NLgS2EM",
+    "venue": {
+      "name": "Baker Stadium",
+      "lat": 47.2605,
+      "lng": -122.4825
+    },
+    "missingVenue": false,
+    "division": "d3"
+  },
+  {
     "id": "2025-ncaa-401777148",
     "sourceId": 401777148,
     "sourceWeek": 8,
@@ -39,28 +61,6 @@
       "name": "Sparks Stadium",
       "lat": 47.1872,
       "lng": -122.3005
-    },
-    "missingVenue": false,
-    "division": "d3"
-  },
-  {
-    "id": "2025-ncaa-401777170",
-    "sourceId": 401777170,
-    "sourceWeek": 8,
-    "week": 9,
-    "date": "2025-10-18",
-    "day": "Saturday",
-    "kickoff": "1p",
-    "home": "Puget Sound",
-    "away": "Willamette",
-    "homeDivision": "d3",
-    "awayDivision": "d3",
-    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/wpoqmrhctdrju4jh.png",
-    "awayLogo": "https://lh3.googleusercontent.com/6tOuPbn-4tztWUJrhNcODPR25WMo6bats7oaCuwY5KNzSTZneTGpKn-Z6PvWnJ0lNSE8hu7916kIwJhR3qYlbVWPYUo3NLgS2EM",
-    "venue": {
-      "name": "Baker Stadium",
-      "lat": 47.2605,
-      "lng": -122.4825
     },
     "missingVenue": false,
     "division": "d3"
