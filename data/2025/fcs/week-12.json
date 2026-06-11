@@ -22,28 +22,6 @@
     "division": "fcs"
   },
   {
-    "id": "2025-ncaa-401767069",
-    "sourceId": 401767069,
-    "sourceWeek": 11,
-    "week": 12,
-    "date": "2025-11-08",
-    "day": "Saturday",
-    "kickoff": "12p",
-    "home": "Montana",
-    "away": "Eastern Washington",
-    "homeDivision": "fcs",
-    "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/149.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/331.png",
-    "venue": {
-      "name": "Washington-Grizzly Stadium",
-      "lat": 46.8601,
-      "lng": -113.9845
-    },
-    "missingVenue": false,
-    "division": "fcs"
-  },
-  {
     "id": "2025-ncaa-401767474",
     "sourceId": 401767474,
     "sourceWeek": 11,
@@ -61,6 +39,28 @@
       "name": "Husky Stadium",
       "lat": 47.6504,
       "lng": -122.3016
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
+    "id": "2025-ncaa-401767069",
+    "sourceId": 401767069,
+    "sourceWeek": 11,
+    "week": 12,
+    "date": "2025-11-08",
+    "day": "Saturday",
+    "kickoff": "12p",
+    "home": "Montana",
+    "away": "Eastern Washington",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/149.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/331.png",
+    "venue": {
+      "name": "Washington-Grizzly Stadium",
+      "lat": 46.8601,
+      "lng": -113.9845
     },
     "missingVenue": false,
     "division": "fcs"
