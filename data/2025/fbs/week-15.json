@@ -44,28 +44,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401762872",
-    "sourceId": 401762872,
-    "sourceWeek": 14,
-    "week": 15,
-    "date": "2025-11-29",
-    "day": "Saturday",
-    "kickoff": "9a",
-    "home": "Central Michigan",
-    "away": "Toledo",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2117.png",
-    "awayLogo": null,
-    "venue": {
-      "name": "Kelly/Shorts Stadium",
-      "lat": 43.5779,
-      "lng": -84.7738
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401752921",
     "sourceId": 401752921,
     "sourceWeek": 14,
@@ -105,6 +83,28 @@
       "name": "Boone Pickens Stadium",
       "lat": 36.1286,
       "lng": -97.0651
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401762872",
+    "sourceId": 401762872,
+    "sourceWeek": 14,
+    "week": 15,
+    "date": "2025-11-29",
+    "day": "Saturday",
+    "kickoff": "9a",
+    "home": "Central Michigan",
+    "away": "Toledo",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2117.png",
+    "awayLogo": null,
+    "venue": {
+      "name": "Kelly/Shorts Stadium",
+      "lat": 43.5779,
+      "lng": -84.7738
     },
     "missingVenue": false,
     "division": "fbs"
@@ -176,23 +176,23 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752920",
-    "sourceId": 401752920,
+    "id": "2025-ncaa-401752791",
+    "sourceId": 401752791,
     "sourceWeek": 14,
     "week": 15,
     "date": "2025-11-29",
     "day": "Saturday",
     "kickoff": "12:30p",
-    "home": "Rutgers",
-    "away": "Penn State",
+    "home": "Tennessee",
+    "away": "Vanderbilt",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "SHI Stadium",
-      "lat": 40.5139,
-      "lng": -74.4647
+      "name": "Neyland Stadium",
+      "lat": 35.9551,
+      "lng": -83.9252
     },
     "missingVenue": false,
     "division": "fbs"
@@ -215,6 +215,28 @@
       "name": "Alamodome",
       "lat": 29.4191,
       "lng": -98.4737
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401752920",
+    "sourceId": 401752920,
+    "sourceWeek": 14,
+    "week": 15,
+    "date": "2025-11-29",
+    "day": "Saturday",
+    "kickoff": "12:30p",
+    "home": "Rutgers",
+    "away": "Penn State",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "SHI Stadium",
+      "lat": 40.5139,
+      "lng": -74.4647
     },
     "missingVenue": false,
     "division": "fbs"
@@ -259,28 +281,6 @@
       "name": "Husky Stadium",
       "lat": 47.6504,
       "lng": -122.3016
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2025-ncaa-401752791",
-    "sourceId": 401752791,
-    "sourceWeek": 14,
-    "week": 15,
-    "date": "2025-11-29",
-    "day": "Saturday",
-    "kickoff": "12:30p",
-    "home": "Tennessee",
-    "away": "Vanderbilt",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Neyland Stadium",
-      "lat": 35.9551,
-      "lng": -83.9252
     },
     "missingVenue": false,
     "division": "fbs"
@@ -396,28 +396,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752784",
-    "sourceId": 401752784,
-    "sourceWeek": 14,
-    "week": 15,
-    "date": "2025-11-30",
-    "day": "Sunday",
-    "kickoff": "4:30p",
-    "home": "Auburn",
-    "away": "Alabama",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Jordan-Hare Stadium",
-      "lat": 32.6017,
-      "lng": -85.4893
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401752922",
     "sourceId": 401752922,
     "sourceWeek": 14,
@@ -435,6 +413,28 @@
       "name": "Memorial Stadium (Champaign, IL)",
       "lat": 40.0993,
       "lng": -88.2358
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401752784",
+    "sourceId": 401752784,
+    "sourceWeek": 14,
+    "week": 15,
+    "date": "2025-11-30",
+    "day": "Sunday",
+    "kickoff": "4:30p",
+    "home": "Auburn",
+    "away": "Alabama",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Jordan-Hare Stadium",
+      "lat": 32.6017,
+      "lng": -85.4893
     },
     "missingVenue": false,
     "division": "fbs"
@@ -484,28 +484,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401760423",
-    "sourceId": 401760423,
-    "sourceWeek": 14,
-    "week": 15,
-    "date": "2025-11-30",
-    "day": "Sunday",
-    "kickoff": "7:30p",
-    "home": "San José State",
-    "away": "Fresno State",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/23.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/278.png",
-    "venue": {
-      "name": "CEFCU Stadium",
-      "lat": 37.3197,
-      "lng": -121.8684
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401754614",
     "sourceId": 401754614,
     "sourceWeek": 14,
@@ -523,6 +501,28 @@
       "name": "Stanford Stadium",
       "lat": 37.4344,
       "lng": -122.1614
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401760423",
+    "sourceId": 401760423,
+    "sourceWeek": 14,
+    "week": 15,
+    "date": "2025-11-30",
+    "day": "Sunday",
+    "kickoff": "7:30p",
+    "home": "San José State",
+    "away": "Fresno State",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/23.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/278.png",
+    "venue": {
+      "name": "CEFCU Stadium",
+      "lat": 37.3197,
+      "lng": -121.8684
     },
     "missingVenue": false,
     "division": "fbs"

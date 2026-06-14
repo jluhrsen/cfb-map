@@ -66,26 +66,26 @@
     "division": "fcs"
   },
   {
-    "id": "2025-ncaa-401752773",
-    "sourceId": 401752773,
+    "id": "2025-ncaa-401767125",
+    "sourceId": 401767125,
     "sourceWeek": 13,
     "week": 14,
     "date": "2025-11-22",
     "day": "Saturday",
     "kickoff": "11a",
-    "home": "Alabama",
-    "away": "Eastern Illinois",
-    "homeDivision": "fbs",
+    "home": "Northern Colorado",
+    "away": "Portland State",
+    "homeDivision": "fcs",
     "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2458.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2502.png",
     "venue": {
-      "name": "Bryant-Denny Stadium",
-      "lat": 33.208,
-      "lng": -87.5502
+      "name": "Nottingham Field",
+      "lat": 40.4071,
+      "lng": -104.7017
     },
     "missingVenue": false,
-    "division": "fbs"
+    "division": "fcs"
   },
   {
     "id": "2025-ncaa-401752774",
@@ -110,28 +110,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401767125",
-    "sourceId": 401767125,
-    "sourceWeek": 13,
-    "week": 14,
-    "date": "2025-11-22",
-    "day": "Saturday",
-    "kickoff": "11a",
-    "home": "Northern Colorado",
-    "away": "Portland State",
-    "homeDivision": "fcs",
-    "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2458.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2502.png",
-    "venue": {
-      "name": "Nottingham Field",
-      "lat": 40.4071,
-      "lng": -104.7017
-    },
-    "missingVenue": false,
-    "division": "fcs"
-  },
-  {
     "id": "2025-ncaa-401767104",
     "sourceId": 401767104,
     "sourceWeek": 13,
@@ -152,6 +130,28 @@
     },
     "missingVenue": false,
     "division": "fcs"
+  },
+  {
+    "id": "2025-ncaa-401752773",
+    "sourceId": 401752773,
+    "sourceWeek": 13,
+    "week": 14,
+    "date": "2025-11-22",
+    "day": "Saturday",
+    "kickoff": "11a",
+    "home": "Alabama",
+    "away": "Eastern Illinois",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Bryant-Denny Stadium",
+      "lat": 33.208,
+      "lng": -87.5502
+    },
+    "missingVenue": false,
+    "division": "fbs"
   },
   {
     "id": "2025-ncaa-401767475",

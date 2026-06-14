@@ -286,28 +286,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401760364",
-    "sourceId": 401760364,
-    "sourceWeek": 2,
-    "week": 3,
-    "date": "2025-09-06",
-    "day": "Saturday",
-    "kickoff": "4p",
-    "home": "Colorado State",
-    "away": "Northern Colorado",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/36.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2458.png",
-    "venue": {
-      "name": "Canvas Stadium",
-      "lat": 40.5749,
-      "lng": -105.0896
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401762795",
     "sourceId": 401762795,
     "sourceWeek": 2,
@@ -352,6 +330,28 @@
     "division": "fbs"
   },
   {
+    "id": "2025-ncaa-401760364",
+    "sourceId": 401760364,
+    "sourceWeek": 2,
+    "week": 3,
+    "date": "2025-09-06",
+    "day": "Saturday",
+    "kickoff": "4p",
+    "home": "Colorado State",
+    "away": "Northern Colorado",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/36.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2458.png",
+    "venue": {
+      "name": "Canvas Stadium",
+      "lat": 40.5749,
+      "lng": -105.0896
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
     "id": "2025-ncaa-401767097",
     "sourceId": 401767097,
     "sourceWeek": 2,
@@ -369,6 +369,28 @@
       "name": "Washington-Grizzly Stadium",
       "lat": 46.8601,
       "lng": -113.9845
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
+    "id": "2025-ncaa-401767292",
+    "sourceId": 401767292,
+    "sourceWeek": 2,
+    "week": 3,
+    "date": "2025-09-07",
+    "day": "Sunday",
+    "kickoff": "6p",
+    "home": "San Diego",
+    "away": "Southern Utah",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/301.png",
+    "awayLogo": null,
+    "venue": {
+      "name": "Torero Stadium",
+      "lat": 32.7741,
+      "lng": -117.1833
     },
     "missingVenue": false,
     "division": "fcs"
@@ -394,28 +416,6 @@
     },
     "missingVenue": false,
     "division": "fbs"
-  },
-  {
-    "id": "2025-ncaa-401767292",
-    "sourceId": 401767292,
-    "sourceWeek": 2,
-    "week": 3,
-    "date": "2025-09-07",
-    "day": "Sunday",
-    "kickoff": "6p",
-    "home": "San Diego",
-    "away": "Southern Utah",
-    "homeDivision": "fcs",
-    "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/301.png",
-    "awayLogo": null,
-    "venue": {
-      "name": "Torero Stadium",
-      "lat": 32.7741,
-      "lng": -117.1833
-    },
-    "missingVenue": false,
-    "division": "fcs"
   },
   {
     "id": "2025-ncaa-401756879",
