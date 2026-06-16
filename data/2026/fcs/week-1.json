@@ -1,49 +1,5 @@
 [
   {
-    "id": "2026-ncaa-401856663",
-    "sourceId": 401856663,
-    "sourceWeek": 1,
-    "week": 1,
-    "date": "2026-09-03",
-    "day": "Thursday",
-    "kickoff": "5p",
-    "home": "Missouri",
-    "away": "Arkansas-Pine Bluff",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Memorial Stadium",
-      "lat": 38.9628,
-      "lng": -95.2464
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2026-ncaa-401856768",
-    "sourceId": 401856768,
-    "sourceWeek": 1,
-    "week": 1,
-    "date": "2026-09-03",
-    "day": "Thursday",
-    "kickoff": "6p",
-    "home": "Utah",
-    "away": "Idaho",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/254.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/70.png",
-    "venue": {
-      "name": "Rice-Eccles Stadium",
-      "lat": 40.7597,
-      "lng": -111.8478
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2026-manual-cal-poly-1",
     "sourceId": "2026-manual-cal-poly-1",
     "source": "manual",
