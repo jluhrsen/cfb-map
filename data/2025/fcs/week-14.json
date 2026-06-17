@@ -22,28 +22,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401767367",
-    "sourceId": 401767367,
-    "sourceWeek": 13,
-    "week": 14,
-    "date": "2025-11-22",
-    "day": "Saturday",
-    "kickoff": "10a",
-    "home": "Alabama State",
-    "away": "Arkansas-Pine Bluff",
-    "homeDivision": "fcs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Hornet Stadium",
-      "lat": 38.5598,
-      "lng": -121.4242
-    },
-    "missingVenue": false,
-    "division": "fcs"
-  },
-  {
     "id": "2025-ncaa-401767453",
     "sourceId": 401767453,
     "sourceWeek": 13,
@@ -61,6 +39,28 @@
       "name": "Memorial Stadium",
       "lat": 38.9628,
       "lng": -95.2464
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
+    "id": "2025-ncaa-401767367",
+    "sourceId": 401767367,
+    "sourceWeek": 13,
+    "week": 14,
+    "date": "2025-11-22",
+    "day": "Saturday",
+    "kickoff": "10a",
+    "home": "Alabama State",
+    "away": "Arkansas-Pine Bluff",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Hornet Stadium",
+      "lat": 38.5598,
+      "lng": -121.4242
     },
     "missingVenue": false,
     "division": "fcs"
@@ -88,26 +88,26 @@
     "division": "fcs"
   },
   {
-    "id": "2025-ncaa-401752774",
-    "sourceId": 401752774,
+    "id": "2025-ncaa-401767125",
+    "sourceId": 401767125,
     "sourceWeek": 13,
     "week": 14,
     "date": "2025-11-22",
     "day": "Saturday",
     "kickoff": "11a",
-    "home": "Auburn",
-    "away": "Mercer",
-    "homeDivision": "fbs",
+    "home": "Northern Colorado",
+    "away": "Portland State",
+    "homeDivision": "fcs",
     "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2458.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2502.png",
     "venue": {
-      "name": "Jordan-Hare Stadium",
-      "lat": 32.6017,
-      "lng": -85.4893
+      "name": "Nottingham Field",
+      "lat": 40.4071,
+      "lng": -104.7017
     },
     "missingVenue": false,
-    "division": "fbs"
+    "division": "fcs"
   },
   {
     "id": "2025-ncaa-401752773",
@@ -132,26 +132,26 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401767125",
-    "sourceId": 401767125,
+    "id": "2025-ncaa-401752774",
+    "sourceId": 401752774,
     "sourceWeek": 13,
     "week": 14,
     "date": "2025-11-22",
     "day": "Saturday",
     "kickoff": "11a",
-    "home": "Northern Colorado",
-    "away": "Portland State",
-    "homeDivision": "fcs",
+    "home": "Auburn",
+    "away": "Mercer",
+    "homeDivision": "fbs",
     "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2458.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2502.png",
+    "homeLogo": null,
+    "awayLogo": null,
     "venue": {
-      "name": "Nottingham Field",
-      "lat": 40.4071,
-      "lng": -104.7017
+      "name": "Jordan-Hare Stadium",
+      "lat": 32.6017,
+      "lng": -85.4893
     },
     "missingVenue": false,
-    "division": "fcs"
+    "division": "fbs"
   },
   {
     "id": "2025-ncaa-401767475",

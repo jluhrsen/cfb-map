@@ -110,23 +110,23 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401754587",
-    "sourceId": 401754587,
+    "id": "2025-ncaa-401756943",
+    "sourceId": 401756943,
     "sourceWeek": 11,
     "week": 12,
     "date": "2025-11-08",
     "day": "Saturday",
     "kickoff": "12:30p",
-    "home": "Miami",
-    "away": "Syracuse",
+    "home": "Arizona",
+    "away": "Kansas",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Hard Rock Stadium",
-      "lat": 25.958,
-      "lng": -80.2389
+      "name": "Arizona Stadium",
+      "lat": 32.2287,
+      "lng": -110.9489
     },
     "missingVenue": false,
     "division": "fbs"
@@ -154,23 +154,23 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401756943",
-    "sourceId": 401756943,
+    "id": "2025-ncaa-401754587",
+    "sourceId": 401754587,
     "sourceWeek": 11,
     "week": 12,
     "date": "2025-11-08",
     "day": "Saturday",
     "kickoff": "12:30p",
-    "home": "Arizona",
-    "away": "Kansas",
+    "home": "Miami",
+    "away": "Syracuse",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Arizona Stadium",
-      "lat": 32.2287,
-      "lng": -110.9489
+      "name": "Hard Rock Stadium",
+      "lat": 25.958,
+      "lng": -80.2389
     },
     "missingVenue": false,
     "division": "fbs"
@@ -308,23 +308,23 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752759",
-    "sourceId": 401752759,
+    "id": "2025-ncaa-401757166",
+    "sourceId": 401757166,
     "sourceWeek": 11,
     "week": 12,
     "date": "2025-11-09",
     "day": "Sunday",
     "kickoff": "4:30p",
-    "home": "Alabama",
-    "away": "LSU",
+    "home": "Notre Dame",
+    "away": "Navy",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Bryant-Denny Stadium",
-      "lat": 33.208,
-      "lng": -87.5502
+      "name": "Notre Dame Stadium",
+      "lat": 41.6997,
+      "lng": -86.2347
     },
     "missingVenue": false,
     "division": "fbs"
@@ -352,23 +352,23 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401757166",
-    "sourceId": 401757166,
+    "id": "2025-ncaa-401752759",
+    "sourceId": 401752759,
     "sourceWeek": 11,
     "week": 12,
     "date": "2025-11-09",
     "day": "Sunday",
     "kickoff": "4:30p",
-    "home": "Notre Dame",
-    "away": "Navy",
+    "home": "Alabama",
+    "away": "LSU",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Notre Dame Stadium",
-      "lat": 41.6997,
-      "lng": -86.2347
+      "name": "Bryant-Denny Stadium",
+      "lat": 33.208,
+      "lng": -87.5502
     },
     "missingVenue": false,
     "division": "fbs"
