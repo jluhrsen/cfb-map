@@ -110,23 +110,23 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401756943",
-    "sourceId": 401756943,
+    "id": "2025-ncaa-401752763",
+    "sourceId": 401752763,
     "sourceWeek": 11,
     "week": 12,
     "date": "2025-11-08",
     "day": "Saturday",
     "kickoff": "12:30p",
-    "home": "Arizona",
-    "away": "Kansas",
+    "home": "Missouri",
+    "away": "Texas A&M",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Arizona Stadium",
-      "lat": 32.2287,
-      "lng": -110.9489
+      "name": "Memorial Stadium",
+      "lat": 38.9628,
+      "lng": -95.2464
     },
     "missingVenue": false,
     "division": "fbs"
@@ -176,23 +176,23 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752763",
-    "sourceId": 401752763,
+    "id": "2025-ncaa-401756943",
+    "sourceId": 401756943,
     "sourceWeek": 11,
     "week": 12,
     "date": "2025-11-08",
     "day": "Saturday",
     "kickoff": "12:30p",
-    "home": "Missouri",
-    "away": "Texas A&M",
+    "home": "Arizona",
+    "away": "Kansas",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Memorial Stadium",
-      "lat": 38.9628,
-      "lng": -95.2464
+      "name": "Arizona Stadium",
+      "lat": 32.2287,
+      "lng": -110.9489
     },
     "missingVenue": false,
     "division": "fbs"

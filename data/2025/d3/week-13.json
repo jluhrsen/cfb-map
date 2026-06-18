@@ -22,6 +22,28 @@
     "division": "d3"
   },
   {
+    "id": "2025-ncaa-401777146",
+    "sourceId": 401777146,
+    "sourceWeek": 12,
+    "week": 13,
+    "date": "2025-11-15",
+    "day": "Saturday",
+    "kickoff": "1p",
+    "home": "Pacific Lutheran",
+    "away": "NEWBERG",
+    "homeDivision": "d3",
+    "awayDivision": "d3",
+    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/bi1umnuk45dh7ppn.png",
+    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/mi23750dj6i6tf21.png",
+    "venue": {
+      "name": "Sparks Stadium",
+      "lat": 47.1872,
+      "lng": -122.3005
+    },
+    "missingVenue": false,
+    "division": "d3"
+  },
+  {
     "id": "2025-ncaa-401777158",
     "sourceId": 401777158,
     "sourceWeek": 12,
@@ -83,28 +105,6 @@
       "name": "War Memorial Stadium",
       "lat": 41.307,
       "lng": -105.5677
-    },
-    "missingVenue": false,
-    "division": "d3"
-  },
-  {
-    "id": "2025-ncaa-401777146",
-    "sourceId": 401777146,
-    "sourceWeek": 12,
-    "week": 13,
-    "date": "2025-11-15",
-    "day": "Saturday",
-    "kickoff": "1p",
-    "home": "Pacific Lutheran",
-    "away": "NEWBERG",
-    "homeDivision": "d3",
-    "awayDivision": "d3",
-    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/bi1umnuk45dh7ppn.png",
-    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/mi23750dj6i6tf21.png",
-    "venue": {
-      "name": "Sparks Stadium",
-      "lat": 47.1872,
-      "lng": -122.3005
     },
     "missingVenue": false,
     "division": "d3"
