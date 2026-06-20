@@ -44,23 +44,23 @@
     "division": "fcs"
   },
   {
-    "id": "2025-ncaa-401760359",
-    "sourceId": 401760359,
+    "id": "2025-ncaa-401756853",
+    "sourceId": 401756853,
     "sourceWeek": 1,
     "week": 2,
     "date": "2025-08-30",
     "day": "Saturday",
     "kickoff": "12:30p",
-    "home": "Air Force",
-    "away": "Bucknell",
+    "home": "Iowa State",
+    "away": "South Dakota",
     "homeDivision": "fbs",
     "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2005.png",
+    "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Falcon Stadium",
-      "lat": 38.9967,
-      "lng": -104.8436
+      "name": "Jack Trice Stadium",
+      "lat": 42.014,
+      "lng": -93.6356
     },
     "missingVenue": false,
     "division": "fbs"
@@ -88,23 +88,23 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401756853",
-    "sourceId": 401756853,
+    "id": "2025-ncaa-401760359",
+    "sourceId": 401760359,
     "sourceWeek": 1,
     "week": 2,
     "date": "2025-08-30",
     "day": "Saturday",
     "kickoff": "12:30p",
-    "home": "Iowa State",
-    "away": "South Dakota",
+    "home": "Air Force",
+    "away": "Bucknell",
     "homeDivision": "fbs",
     "awayDivision": "fcs",
-    "homeLogo": null,
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2005.png",
     "awayLogo": null,
     "venue": {
-      "name": "Jack Trice Stadium",
-      "lat": 42.014,
-      "lng": -93.6356
+      "name": "Falcon Stadium",
+      "lat": 38.9967,
+      "lng": -104.8436
     },
     "missingVenue": false,
     "division": "fbs"
@@ -264,28 +264,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401767070",
-    "sourceId": 401767070,
-    "sourceWeek": 1,
-    "week": 2,
-    "date": "2025-08-31",
-    "day": "Sunday",
-    "kickoff": "5p",
-    "home": "San Diego",
-    "away": "Cal Poly",
-    "homeDivision": "fcs",
-    "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/301.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/13.png",
-    "venue": {
-      "name": "Torero Stadium",
-      "lat": 32.7741,
-      "lng": -117.1833
-    },
-    "missingVenue": false,
-    "division": "fcs"
-  },
-  {
     "id": "2025-ncaa-401762435",
     "sourceId": 401762435,
     "sourceWeek": 1,
@@ -306,6 +284,28 @@
     },
     "missingVenue": false,
     "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401767070",
+    "sourceId": 401767070,
+    "sourceWeek": 1,
+    "week": 2,
+    "date": "2025-08-31",
+    "day": "Sunday",
+    "kickoff": "5p",
+    "home": "San Diego",
+    "away": "Cal Poly",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/301.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/13.png",
+    "venue": {
+      "name": "Torero Stadium",
+      "lat": 32.7741,
+      "lng": -117.1833
+    },
+    "missingVenue": false,
+    "division": "fcs"
   },
   {
     "id": "2025-ncaa-401756851",
