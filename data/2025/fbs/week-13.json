@@ -22,28 +22,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401754597",
-    "sourceId": 401754597,
-    "sourceWeek": 12,
-    "week": 13,
-    "date": "2025-11-15",
-    "day": "Saturday",
-    "kickoff": "9a",
-    "home": "Pittsburgh",
-    "away": "Notre Dame",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Acrisure Stadium",
-      "lat": 40.4468,
-      "lng": -80.0158
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401756952",
     "sourceId": 401756952,
     "sourceWeek": 12,
@@ -66,23 +44,23 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752772",
-    "sourceId": 401752772,
+    "id": "2025-ncaa-401754597",
+    "sourceId": 401754597,
     "sourceWeek": 12,
     "week": 13,
     "date": "2025-11-15",
     "day": "Saturday",
     "kickoff": "9a",
-    "home": "Texas A&M",
-    "away": "South Carolina",
+    "home": "Pittsburgh",
+    "away": "Notre Dame",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Kyle Field",
-      "lat": 30.61,
-      "lng": -96.34
+      "name": "Acrisure Stadium",
+      "lat": 40.4468,
+      "lng": -80.0158
     },
     "missingVenue": false,
     "division": "fbs"
@@ -105,6 +83,28 @@
       "name": "Memorial Stadium (Bloomington, IN)",
       "lat": 39.1793,
       "lng": -86.5232
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401752772",
+    "sourceId": 401752772,
+    "sourceWeek": 12,
+    "week": 13,
+    "date": "2025-11-15",
+    "day": "Saturday",
+    "kickoff": "9a",
+    "home": "Texas A&M",
+    "away": "South Carolina",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Kyle Field",
+      "lat": 30.61,
+      "lng": -96.34
     },
     "missingVenue": false,
     "division": "fbs"
@@ -176,45 +176,23 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752903",
-    "sourceId": 401752903,
+    "id": "2025-ncaa-401752907",
+    "sourceId": 401752907,
     "sourceWeek": 12,
     "week": 13,
     "date": "2025-11-15",
     "day": "Saturday",
     "kickoff": "12:30p",
-    "home": "Michigan State",
-    "away": "Penn State",
+    "home": "USC",
+    "away": "Iowa",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
-    "homeLogo": null,
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/30.png",
     "awayLogo": null,
     "venue": {
-      "name": "Spartan Stadium",
-      "lat": 37.3975,
-      "lng": -121.8635
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2025-ncaa-401760413",
-    "sourceId": 401760413,
-    "sourceWeek": 12,
-    "week": 13,
-    "date": "2025-11-15",
-    "day": "Saturday",
-    "kickoff": "12:30p",
-    "home": "Nevada",
-    "away": "San José State",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2440.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/23.png",
-    "venue": {
-      "name": "Mackay Stadium",
-      "lat": 39.5468,
-      "lng": -119.8175
+      "name": "Los Angeles Memorial Coliseum",
+      "lat": 34.0141,
+      "lng": -118.2879
     },
     "missingVenue": false,
     "division": "fbs"
@@ -264,23 +242,45 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752907",
-    "sourceId": 401752907,
+    "id": "2025-ncaa-401760413",
+    "sourceId": 401760413,
     "sourceWeek": 12,
     "week": 13,
     "date": "2025-11-15",
     "day": "Saturday",
     "kickoff": "12:30p",
-    "home": "USC",
-    "away": "Iowa",
+    "home": "Nevada",
+    "away": "San José State",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/30.png",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2440.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/23.png",
+    "venue": {
+      "name": "Mackay Stadium",
+      "lat": 39.5468,
+      "lng": -119.8175
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401752903",
+    "sourceId": 401752903,
+    "sourceWeek": 12,
+    "week": 13,
+    "date": "2025-11-15",
+    "day": "Saturday",
+    "kickoff": "12:30p",
+    "home": "Michigan State",
+    "away": "Penn State",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Los Angeles Memorial Coliseum",
-      "lat": 34.0141,
-      "lng": -118.2879
+      "name": "Spartan Stadium",
+      "lat": 37.3975,
+      "lng": -121.8635
     },
     "missingVenue": false,
     "division": "fbs"
@@ -308,28 +308,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752902",
-    "sourceId": 401752902,
-    "sourceWeek": 12,
-    "week": 13,
-    "date": "2025-11-16",
-    "day": "Sunday",
-    "kickoff": "4p",
-    "home": "Washington",
-    "away": "Purdue",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Husky Stadium",
-      "lat": 47.6504,
-      "lng": -122.3016
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401760414",
     "sourceId": 401760414,
     "sourceWeek": 12,
@@ -352,23 +330,23 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752766",
-    "sourceId": 401752766,
+    "id": "2025-ncaa-401752902",
+    "sourceId": 401752902,
     "sourceWeek": 12,
     "week": 13,
     "date": "2025-11-16",
     "day": "Sunday",
-    "kickoff": "4:30p",
-    "home": "Georgia",
-    "away": "Texas",
+    "kickoff": "4p",
+    "home": "Washington",
+    "away": "Purdue",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
     "homeLogo": null,
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
+    "awayLogo": null,
     "venue": {
-      "name": "Sanford Stadium",
-      "lat": 33.9498,
-      "lng": -83.3732
+      "name": "Husky Stadium",
+      "lat": 47.6504,
+      "lng": -122.3016
     },
     "missingVenue": false,
     "division": "fbs"
@@ -391,6 +369,28 @@
       "name": "Ohio Stadium",
       "lat": 40.0018,
       "lng": -83.0197
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401752766",
+    "sourceId": 401752766,
+    "sourceWeek": 12,
+    "week": 13,
+    "date": "2025-11-16",
+    "day": "Sunday",
+    "kickoff": "4:30p",
+    "home": "Georgia",
+    "away": "Texas",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
+    "venue": {
+      "name": "Sanford Stadium",
+      "lat": 33.9498,
+      "lng": -83.3732
     },
     "missingVenue": false,
     "division": "fbs"
