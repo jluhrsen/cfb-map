@@ -66,28 +66,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401754611",
-    "sourceId": 401754611,
-    "sourceWeek": 14,
-    "week": 15,
-    "date": "2025-11-29",
-    "day": "Saturday",
-    "kickoff": "9a",
-    "home": "Pittsburgh",
-    "away": "Miami",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Acrisure Stadium",
-      "lat": 40.4468,
-      "lng": -80.0158
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401752921",
     "sourceId": 401752921,
     "sourceWeek": 14,
@@ -105,6 +83,28 @@
       "name": "Michigan Stadium",
       "lat": 42.2658,
       "lng": -83.7487
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401754611",
+    "sourceId": 401754611,
+    "sourceWeek": 14,
+    "week": 15,
+    "date": "2025-11-29",
+    "day": "Saturday",
+    "kickoff": "9a",
+    "home": "Pittsburgh",
+    "away": "Miami",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Acrisure Stadium",
+      "lat": 40.4468,
+      "lng": -80.0158
     },
     "missingVenue": false,
     "division": "fbs"
@@ -176,6 +176,28 @@
     "division": "fbs"
   },
   {
+    "id": "2025-ncaa-401752917",
+    "sourceId": 401752917,
+    "sourceWeek": 14,
+    "week": 15,
+    "date": "2025-11-29",
+    "day": "Saturday",
+    "kickoff": "12:30p",
+    "home": "Washington",
+    "away": "Oregon",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Husky Stadium",
+      "lat": 47.6504,
+      "lng": -122.3016
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
     "id": "2025-ncaa-401752791",
     "sourceId": 401752791,
     "sourceWeek": 14,
@@ -220,50 +242,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401762441",
-    "sourceId": 401762441,
-    "sourceWeek": 14,
-    "week": 15,
-    "date": "2025-11-29",
-    "day": "Saturday",
-    "kickoff": "12:30p",
-    "home": "UTSA",
-    "away": "Army",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Alamodome",
-      "lat": 29.4191,
-      "lng": -98.4737
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2025-ncaa-401752917",
-    "sourceId": 401752917,
-    "sourceWeek": 14,
-    "week": 15,
-    "date": "2025-11-29",
-    "day": "Saturday",
-    "kickoff": "12:30p",
-    "home": "Washington",
-    "away": "Oregon",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Husky Stadium",
-      "lat": 47.6504,
-      "lng": -122.3016
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401752783",
     "sourceId": 401752783,
     "sourceWeek": 14,
@@ -281,6 +259,28 @@
       "name": "Razorback Stadium",
       "lat": 36.0684,
       "lng": -94.1789
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401762441",
+    "sourceId": 401762441,
+    "sourceWeek": 14,
+    "week": 15,
+    "date": "2025-11-29",
+    "day": "Saturday",
+    "kickoff": "12:30p",
+    "home": "UTSA",
+    "away": "Army",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Alamodome",
+      "lat": 29.4191,
+      "lng": -98.4737
     },
     "missingVenue": false,
     "division": "fbs"
@@ -396,28 +396,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752919",
-    "sourceId": 401752919,
-    "sourceWeek": 14,
-    "week": 15,
-    "date": "2025-11-30",
-    "day": "Sunday",
-    "kickoff": "4:30p",
-    "home": "USC",
-    "away": "UCLA",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/30.png",
-    "awayLogo": null,
-    "venue": {
-      "name": "Los Angeles Memorial Coliseum",
-      "lat": 34.0141,
-      "lng": -118.2879
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401752922",
     "sourceId": 401752922,
     "sourceWeek": 14,
@@ -435,6 +413,28 @@
       "name": "Memorial Stadium (Champaign, IL)",
       "lat": 40.0993,
       "lng": -88.2358
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401752919",
+    "sourceId": 401752919,
+    "sourceWeek": 14,
+    "week": 15,
+    "date": "2025-11-30",
+    "day": "Sunday",
+    "kickoff": "4:30p",
+    "home": "USC",
+    "away": "UCLA",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/30.png",
+    "awayLogo": null,
+    "venue": {
+      "name": "Los Angeles Memorial Coliseum",
+      "lat": 34.0141,
+      "lng": -118.2879
     },
     "missingVenue": false,
     "division": "fbs"

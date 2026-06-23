@@ -44,6 +44,28 @@
     "division": "fcs"
   },
   {
+    "id": "2025-ncaa-401762793",
+    "sourceId": 401762793,
+    "sourceWeek": 1,
+    "week": 2,
+    "date": "2025-08-30",
+    "day": "Saturday",
+    "kickoff": "12:30p",
+    "home": "Northern Illinois",
+    "away": "Holy Cross",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2459.png",
+    "awayLogo": null,
+    "venue": {
+      "name": "Huskie Stadium",
+      "lat": 41.9308,
+      "lng": -88.7572
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
     "id": "2025-ncaa-401756853",
     "sourceId": 401756853,
     "sourceWeek": 1,
@@ -83,28 +105,6 @@
       "name": "Falcon Stadium",
       "lat": 38.9967,
       "lng": -104.8436
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2025-ncaa-401762793",
-    "sourceId": 401762793,
-    "sourceWeek": 1,
-    "week": 2,
-    "date": "2025-08-30",
-    "day": "Saturday",
-    "kickoff": "12:30p",
-    "home": "Northern Illinois",
-    "away": "Holy Cross",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2459.png",
-    "awayLogo": null,
-    "venue": {
-      "name": "Huskie Stadium",
-      "lat": 41.9308,
-      "lng": -88.7572
     },
     "missingVenue": false,
     "division": "fbs"
@@ -264,23 +264,23 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401762435",
-    "sourceId": 401762435,
+    "id": "2025-ncaa-401756851",
+    "sourceId": 401756851,
     "sourceWeek": 1,
     "week": 2,
     "date": "2025-08-31",
     "day": "Sunday",
     "kickoff": "5p",
-    "home": "North Texas",
-    "away": "Lamar",
+    "home": "BYU",
+    "away": "Portland State",
     "homeDivision": "fbs",
     "awayDivision": "fcs",
     "homeLogo": null,
-    "awayLogo": null,
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2502.png",
     "venue": {
-      "name": "DATCU Stadium",
-      "lat": 33.2071,
-      "lng": -97.1514
+      "name": "LaVell Edwards Stadium",
+      "lat": 40.2578,
+      "lng": -111.6563
     },
     "missingVenue": false,
     "division": "fbs"
@@ -308,23 +308,23 @@
     "division": "fcs"
   },
   {
-    "id": "2025-ncaa-401756851",
-    "sourceId": 401756851,
+    "id": "2025-ncaa-401762435",
+    "sourceId": 401762435,
     "sourceWeek": 1,
     "week": 2,
     "date": "2025-08-31",
     "day": "Sunday",
     "kickoff": "5p",
-    "home": "BYU",
-    "away": "Portland State",
+    "home": "North Texas",
+    "away": "Lamar",
     "homeDivision": "fbs",
     "awayDivision": "fcs",
     "homeLogo": null,
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2502.png",
+    "awayLogo": null,
     "venue": {
-      "name": "LaVell Edwards Stadium",
-      "lat": 40.2578,
-      "lng": -111.6563
+      "name": "DATCU Stadium",
+      "lat": 33.2071,
+      "lng": -97.1514
     },
     "missingVenue": false,
     "division": "fbs"

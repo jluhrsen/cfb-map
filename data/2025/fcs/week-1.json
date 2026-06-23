@@ -22,28 +22,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401762790",
-    "sourceId": 401762790,
-    "sourceWeek": 1,
-    "week": 1,
-    "date": "2025-08-28",
-    "day": "Thursday",
-    "kickoff": "3p",
-    "home": "Bowling Green",
-    "away": "Lafayette",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Doyt L. Perry Stadium",
-      "lat": 41.375,
-      "lng": -83.635
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401767446",
     "sourceId": 401767446,
     "sourceWeek": 1,
@@ -66,23 +44,23 @@
     "division": "fcs"
   },
   {
-    "id": "2025-ncaa-401756876",
-    "sourceId": 401756876,
+    "id": "2025-ncaa-401762790",
+    "sourceId": 401762790,
     "sourceWeek": 1,
     "week": 1,
     "date": "2025-08-28",
     "day": "Thursday",
-    "kickoff": "4:30p",
-    "home": "Oklahoma State",
-    "away": "UT Martin",
+    "kickoff": "3p",
+    "home": "Bowling Green",
+    "away": "Lafayette",
     "homeDivision": "fbs",
     "awayDivision": "fcs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Boone Pickens Stadium",
-      "lat": 36.1286,
-      "lng": -97.0651
+      "name": "Doyt L. Perry Stadium",
+      "lat": 41.375,
+      "lng": -83.635
     },
     "missingVenue": false,
     "division": "fbs"
@@ -105,6 +83,28 @@
       "name": "Memorial Stadium",
       "lat": 38.9628,
       "lng": -95.2464
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401756876",
+    "sourceId": 401756876,
+    "sourceWeek": 1,
+    "week": 1,
+    "date": "2025-08-28",
+    "day": "Thursday",
+    "kickoff": "4:30p",
+    "home": "Oklahoma State",
+    "away": "UT Martin",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Boone Pickens Stadium",
+      "lat": 36.1286,
+      "lng": -97.0651
     },
     "missingVenue": false,
     "division": "fbs"

@@ -198,28 +198,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401760365",
-    "sourceId": 401760365,
-    "sourceWeek": 2,
-    "week": 3,
-    "date": "2025-09-06",
-    "day": "Saturday",
-    "kickoff": "2p",
-    "home": "Nevada",
-    "away": "Sacramento State",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2440.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/16.png",
-    "venue": {
-      "name": "Mackay Stadium",
-      "lat": 39.5468,
-      "lng": -119.8175
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401767112",
     "sourceId": 401767112,
     "sourceWeek": 2,
@@ -240,6 +218,28 @@
     },
     "missingVenue": false,
     "division": "fcs"
+  },
+  {
+    "id": "2025-ncaa-401760365",
+    "sourceId": 401760365,
+    "sourceWeek": 2,
+    "week": 3,
+    "date": "2025-09-06",
+    "day": "Saturday",
+    "kickoff": "2p",
+    "home": "Nevada",
+    "away": "Sacramento State",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2440.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/16.png",
+    "venue": {
+      "name": "Mackay Stadium",
+      "lat": 39.5468,
+      "lng": -119.8175
+    },
+    "missingVenue": false,
+    "division": "fbs"
   },
   {
     "id": "2025-ncaa-401756887",
@@ -308,28 +308,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401762795",
-    "sourceId": 401762795,
-    "sourceWeek": 2,
-    "week": 3,
-    "date": "2025-09-06",
-    "day": "Saturday",
-    "kickoff": "4p",
-    "home": "Eastern Michigan",
-    "away": "Long Island University",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2199.png",
-    "awayLogo": null,
-    "venue": {
-      "name": "Rynearson Stadium",
-      "lat": 42.2473,
-      "lng": -83.6253
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401760364",
     "sourceId": 401760364,
     "sourceWeek": 2,
@@ -347,6 +325,28 @@
       "name": "Canvas Stadium",
       "lat": 40.5749,
       "lng": -105.0896
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401762795",
+    "sourceId": 401762795,
+    "sourceWeek": 2,
+    "week": 3,
+    "date": "2025-09-06",
+    "day": "Saturday",
+    "kickoff": "4p",
+    "home": "Eastern Michigan",
+    "away": "Long Island University",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2199.png",
+    "awayLogo": null,
+    "venue": {
+      "name": "Rynearson Stadium",
+      "lat": 42.2473,
+      "lng": -83.6253
     },
     "missingVenue": false,
     "division": "fbs"
