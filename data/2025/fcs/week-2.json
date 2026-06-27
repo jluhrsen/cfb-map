@@ -66,28 +66,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401762793",
-    "sourceId": 401762793,
-    "sourceWeek": 1,
-    "week": 2,
-    "date": "2025-08-30",
-    "day": "Saturday",
-    "kickoff": "12:30p",
-    "home": "Northern Illinois",
-    "away": "Holy Cross",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2459.png",
-    "awayLogo": null,
-    "venue": {
-      "name": "Huskie Stadium",
-      "lat": 41.9308,
-      "lng": -88.7572
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401760359",
     "sourceId": 401760359,
     "sourceWeek": 1,
@@ -110,23 +88,23 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752804",
-    "sourceId": 401752804,
+    "id": "2025-ncaa-401762793",
+    "sourceId": 401762793,
     "sourceWeek": 1,
     "week": 2,
     "date": "2025-08-30",
     "day": "Saturday",
-    "kickoff": "1p",
-    "home": "Oregon",
-    "away": "Montana State",
+    "kickoff": "12:30p",
+    "home": "Northern Illinois",
+    "away": "Holy Cross",
     "homeDivision": "fbs",
     "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/147.png",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2459.png",
+    "awayLogo": null,
     "venue": {
-      "name": "Autzen Stadium",
-      "lat": 44.0584,
-      "lng": -123.0681
+      "name": "Huskie Stadium",
+      "lat": 41.9308,
+      "lng": -88.7572
     },
     "missingVenue": false,
     "division": "fbs"
@@ -152,6 +130,28 @@
     },
     "missingVenue": false,
     "division": "fcs"
+  },
+  {
+    "id": "2025-ncaa-401752804",
+    "sourceId": 401752804,
+    "sourceWeek": 1,
+    "week": 2,
+    "date": "2025-08-30",
+    "day": "Saturday",
+    "kickoff": "1p",
+    "home": "Oregon",
+    "away": "Montana State",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/147.png",
+    "venue": {
+      "name": "Autzen Stadium",
+      "lat": 44.0584,
+      "lng": -123.0681
+    },
+    "missingVenue": false,
+    "division": "fbs"
   },
   {
     "id": "2025-ncaa-401752666",

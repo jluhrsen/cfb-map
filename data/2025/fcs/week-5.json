@@ -88,28 +88,6 @@
     "division": "fcs"
   },
   {
-    "id": "2025-ncaa-401760375",
-    "sourceId": 401760375,
-    "sourceWeek": 4,
-    "week": 5,
-    "date": "2025-09-20",
-    "day": "Saturday",
-    "kickoff": "2p",
-    "home": "San José State",
-    "away": "Idaho",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/23.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/70.png",
-    "venue": {
-      "name": "CEFCU Stadium",
-      "lat": 37.3197,
-      "lng": -121.8684
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401767114",
     "sourceId": 401767114,
     "sourceWeek": 4,
@@ -132,26 +110,26 @@
     "division": "fcs"
   },
   {
-    "id": "2025-ncaa-401767081",
-    "sourceId": 401767081,
+    "id": "2025-ncaa-401760375",
+    "sourceId": 401760375,
     "sourceWeek": 4,
     "week": 5,
     "date": "2025-09-20",
     "day": "Saturday",
-    "kickoff": "3p",
-    "home": "Idaho State",
-    "away": "Lincoln (CA)",
-    "homeDivision": "fcs",
-    "awayDivision": "d2",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/304.png",
-    "awayLogo": null,
+    "kickoff": "2p",
+    "home": "San José State",
+    "away": "Idaho",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/23.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/70.png",
     "venue": {
-      "name": "Holt Arena",
-      "lat": 42.8723,
-      "lng": -112.4341
+      "name": "CEFCU Stadium",
+      "lat": 37.3197,
+      "lng": -121.8684
     },
     "missingVenue": false,
-    "division": "fcs"
+    "division": "fbs"
   },
   {
     "id": "2025-ncaa-401762821",
@@ -174,6 +152,28 @@
     },
     "missingVenue": false,
     "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401767081",
+    "sourceId": 401767081,
+    "sourceWeek": 4,
+    "week": 5,
+    "date": "2025-09-20",
+    "day": "Saturday",
+    "kickoff": "3p",
+    "home": "Idaho State",
+    "away": "Lincoln (CA)",
+    "homeDivision": "fcs",
+    "awayDivision": "d2",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/304.png",
+    "awayLogo": null,
+    "venue": {
+      "name": "Holt Arena",
+      "lat": 42.8723,
+      "lng": -112.4341
+    },
+    "missingVenue": false,
+    "division": "fcs"
   },
   {
     "id": "2025-ncaa-401767121",
@@ -242,6 +242,28 @@
     "division": "fbs"
   },
   {
+    "id": "2025-ncaa-401760377",
+    "sourceId": 401760377,
+    "sourceWeek": 4,
+    "week": 5,
+    "date": "2025-09-21",
+    "day": "Sunday",
+    "kickoff": "5p",
+    "home": "Utah State",
+    "away": "McNeese",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/328.png",
+    "awayLogo": null,
+    "venue": {
+      "name": "Maverik Stadium",
+      "lat": 41.7517,
+      "lng": -111.8116
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
     "id": "2025-ncaa-401761612",
     "sourceId": 401761612,
     "sourceWeek": 4,
@@ -284,28 +306,6 @@
     },
     "missingVenue": false,
     "division": "fcs"
-  },
-  {
-    "id": "2025-ncaa-401760377",
-    "sourceId": 401760377,
-    "sourceWeek": 4,
-    "week": 5,
-    "date": "2025-09-21",
-    "day": "Sunday",
-    "kickoff": "5p",
-    "home": "Utah State",
-    "away": "McNeese",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/328.png",
-    "awayLogo": null,
-    "venue": {
-      "name": "Maverik Stadium",
-      "lat": 41.7517,
-      "lng": -111.8116
-    },
-    "missingVenue": false,
-    "division": "fbs"
   },
   {
     "id": "2025-ncaa-401767132",
