@@ -44,50 +44,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752873",
-    "sourceId": 401752873,
-    "sourceWeek": 8,
-    "week": 9,
-    "date": "2025-10-18",
-    "day": "Saturday",
-    "kickoff": "9a",
-    "home": "Michigan",
-    "away": "Washington",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Michigan Stadium",
-      "lat": 42.2658,
-      "lng": -83.7487
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2025-ncaa-401762839",
-    "sourceId": 401762839,
-    "sourceWeek": 8,
-    "week": 9,
-    "date": "2025-10-18",
-    "day": "Saturday",
-    "kickoff": "9a",
-    "home": "Bowling Green",
-    "away": "Central Michigan",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2117.png",
-    "venue": {
-      "name": "Doyt L. Perry Stadium",
-      "lat": 41.375,
-      "lng": -83.635
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401752745",
     "sourceId": 401752745,
     "sourceWeek": 8,
@@ -132,6 +88,50 @@
     "division": "fbs"
   },
   {
+    "id": "2025-ncaa-401752873",
+    "sourceId": 401752873,
+    "sourceWeek": 8,
+    "week": 9,
+    "date": "2025-10-18",
+    "day": "Saturday",
+    "kickoff": "9a",
+    "home": "Michigan",
+    "away": "Washington",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Michigan Stadium",
+      "lat": 42.2658,
+      "lng": -83.7487
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401762839",
+    "sourceId": 401762839,
+    "sourceWeek": 8,
+    "week": 9,
+    "date": "2025-10-18",
+    "day": "Saturday",
+    "kickoff": "9a",
+    "home": "Bowling Green",
+    "away": "Central Michigan",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2117.png",
+    "venue": {
+      "name": "Doyt L. Perry Stadium",
+      "lat": 41.375,
+      "lng": -83.635
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
     "id": "2025-ncaa-401752874",
     "sourceId": 401752874,
     "sourceWeek": 8,
@@ -154,23 +154,23 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401754565",
-    "sourceId": 401754565,
+    "id": "2025-ncaa-401760393",
+    "sourceId": 401760393,
     "sourceWeek": 8,
     "week": 9,
     "date": "2025-10-18",
     "day": "Saturday",
     "kickoff": "12:30p",
-    "home": "Clemson",
-    "away": "SMU",
+    "home": "Boise State",
+    "away": "UNLV",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
     "homeLogo": null,
-    "awayLogo": null,
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2439.png",
     "venue": {
-      "name": "Memorial Stadium (Clemson, SC)",
-      "lat": 34.6784,
-      "lng": -82.8444
+      "name": "Albertsons Stadium",
+      "lat": 43.6029,
+      "lng": -116.1958
     },
     "missingVenue": false,
     "division": "fbs"
@@ -193,6 +193,94 @@
       "name": "DATCU Stadium",
       "lat": 33.2071,
       "lng": -97.1514
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401752742",
+    "sourceId": 401752742,
+    "sourceWeek": 8,
+    "week": 9,
+    "date": "2025-10-18",
+    "day": "Saturday",
+    "kickoff": "12:30p",
+    "home": "Georgia",
+    "away": "Ole Miss",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Sanford Stadium",
+      "lat": 33.9498,
+      "lng": -83.3732
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401760392",
+    "sourceId": 401760392,
+    "sourceWeek": 8,
+    "week": 9,
+    "date": "2025-10-18",
+    "day": "Saturday",
+    "kickoff": "12:30p",
+    "home": "Air Force",
+    "away": "Wyoming",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2005.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2751.png",
+    "venue": {
+      "name": "Falcon Stadium",
+      "lat": 38.9967,
+      "lng": -104.8436
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401752739",
+    "sourceId": 401752739,
+    "sourceWeek": 8,
+    "week": 9,
+    "date": "2025-10-18",
+    "day": "Saturday",
+    "kickoff": "12:30p",
+    "home": "Arkansas",
+    "away": "Texas A&M",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Razorback Stadium",
+      "lat": 36.0684,
+      "lng": -94.1789
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401754565",
+    "sourceId": 401754565,
+    "sourceWeek": 8,
+    "week": 9,
+    "date": "2025-10-18",
+    "day": "Saturday",
+    "kickoff": "12:30p",
+    "home": "Clemson",
+    "away": "SMU",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Memorial Stadium (Clemson, SC)",
+      "lat": 34.6784,
+      "lng": -82.8444
     },
     "missingVenue": false,
     "division": "fbs"
@@ -242,94 +330,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752739",
-    "sourceId": 401752739,
-    "sourceWeek": 8,
-    "week": 9,
-    "date": "2025-10-18",
-    "day": "Saturday",
-    "kickoff": "12:30p",
-    "home": "Arkansas",
-    "away": "Texas A&M",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Razorback Stadium",
-      "lat": 36.0684,
-      "lng": -94.1789
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2025-ncaa-401760392",
-    "sourceId": 401760392,
-    "sourceWeek": 8,
-    "week": 9,
-    "date": "2025-10-18",
-    "day": "Saturday",
-    "kickoff": "12:30p",
-    "home": "Air Force",
-    "away": "Wyoming",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2005.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2751.png",
-    "venue": {
-      "name": "Falcon Stadium",
-      "lat": 38.9967,
-      "lng": -104.8436
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2025-ncaa-401760393",
-    "sourceId": 401760393,
-    "sourceWeek": 8,
-    "week": 9,
-    "date": "2025-10-18",
-    "day": "Saturday",
-    "kickoff": "12:30p",
-    "home": "Boise State",
-    "away": "UNLV",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2439.png",
-    "venue": {
-      "name": "Albertsons Stadium",
-      "lat": 43.6029,
-      "lng": -116.1958
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2025-ncaa-401752742",
-    "sourceId": 401752742,
-    "sourceWeek": 8,
-    "week": 9,
-    "date": "2025-10-18",
-    "day": "Saturday",
-    "kickoff": "12:30p",
-    "home": "Georgia",
-    "away": "Ole Miss",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Sanford Stadium",
-      "lat": 33.9498,
-      "lng": -83.3732
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401752741",
     "sourceId": 401752741,
     "sourceWeek": 8,
@@ -369,6 +369,28 @@
       "name": "SHI Stadium",
       "lat": 40.5139,
       "lng": -74.4647
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401760394",
+    "sourceId": 401760394,
+    "sourceWeek": 8,
+    "week": 9,
+    "date": "2025-10-18",
+    "day": "Saturday",
+    "kickoff": "4p",
+    "home": "Colorado State",
+    "away": "Hawai'i",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/36.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/62.png",
+    "venue": {
+      "name": "Canvas Stadium",
+      "lat": 40.5749,
+      "lng": -105.0896
     },
     "missingVenue": false,
     "division": "fbs"
@@ -435,28 +457,6 @@
       "name": "Rose Bowl",
       "lat": 34.1611,
       "lng": -118.1676
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2025-ncaa-401760394",
-    "sourceId": 401760394,
-    "sourceWeek": 8,
-    "week": 9,
-    "date": "2025-10-18",
-    "day": "Saturday",
-    "kickoff": "4p",
-    "home": "Colorado State",
-    "away": "Hawai'i",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/36.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/62.png",
-    "venue": {
-      "name": "Canvas Stadium",
-      "lat": 40.5749,
-      "lng": -105.0896
     },
     "missingVenue": false,
     "division": "fbs"
@@ -572,28 +572,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401756926",
-    "sourceId": 401756926,
-    "sourceWeek": 8,
-    "week": 9,
-    "date": "2025-10-19",
-    "day": "Sunday",
-    "kickoff": "5p",
-    "home": "Oklahoma State",
-    "away": "Cincinnati",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Boone Pickens Stadium",
-      "lat": 36.1286,
-      "lng": -97.0651
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401756924",
     "sourceId": 401756924,
     "sourceWeek": 8,
@@ -611,6 +589,28 @@
       "name": "LaVell Edwards Stadium",
       "lat": 40.2578,
       "lng": -111.6563
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401756926",
+    "sourceId": 401756926,
+    "sourceWeek": 8,
+    "week": 9,
+    "date": "2025-10-19",
+    "day": "Sunday",
+    "kickoff": "5p",
+    "home": "Oklahoma State",
+    "away": "Cincinnati",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Boone Pickens Stadium",
+      "lat": 36.1286,
+      "lng": -97.0651
     },
     "missingVenue": false,
     "division": "fbs"
