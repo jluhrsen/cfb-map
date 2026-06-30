@@ -66,26 +66,26 @@
     "division": "fcs"
   },
   {
-    "id": "2025-ncaa-401767104",
-    "sourceId": 401767104,
+    "id": "2025-ncaa-401752774",
+    "sourceId": 401752774,
     "sourceWeek": 13,
     "week": 14,
     "date": "2025-11-22",
     "day": "Saturday",
     "kickoff": "11a",
-    "home": "Montana",
-    "away": "Montana State",
-    "homeDivision": "fcs",
+    "home": "Auburn",
+    "away": "Mercer",
+    "homeDivision": "fbs",
     "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/149.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/147.png",
+    "homeLogo": null,
+    "awayLogo": null,
     "venue": {
-      "name": "Washington-Grizzly Stadium",
-      "lat": 46.8601,
-      "lng": -113.9845
+      "name": "Jordan-Hare Stadium",
+      "lat": 32.6017,
+      "lng": -85.4893
     },
     "missingVenue": false,
-    "division": "fcs"
+    "division": "fbs"
   },
   {
     "id": "2025-ncaa-401752773",
@@ -110,6 +110,28 @@
     "division": "fbs"
   },
   {
+    "id": "2025-ncaa-401767104",
+    "sourceId": 401767104,
+    "sourceWeek": 13,
+    "week": 14,
+    "date": "2025-11-22",
+    "day": "Saturday",
+    "kickoff": "11a",
+    "home": "Montana",
+    "away": "Montana State",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/149.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/147.png",
+    "venue": {
+      "name": "Washington-Grizzly Stadium",
+      "lat": 46.8601,
+      "lng": -113.9845
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
     "id": "2025-ncaa-401767125",
     "sourceId": 401767125,
     "sourceWeek": 13,
@@ -130,28 +152,6 @@
     },
     "missingVenue": false,
     "division": "fcs"
-  },
-  {
-    "id": "2025-ncaa-401752774",
-    "sourceId": 401752774,
-    "sourceWeek": 13,
-    "week": 14,
-    "date": "2025-11-22",
-    "day": "Saturday",
-    "kickoff": "11a",
-    "home": "Auburn",
-    "away": "Mercer",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Jordan-Hare Stadium",
-      "lat": 32.6017,
-      "lng": -85.4893
-    },
-    "missingVenue": false,
-    "division": "fbs"
   },
   {
     "id": "2025-ncaa-401767475",
