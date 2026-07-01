@@ -88,28 +88,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401762790",
-    "sourceId": 401762790,
-    "sourceWeek": 1,
-    "week": 1,
-    "date": "2025-08-28",
-    "day": "Thursday",
-    "kickoff": "3p",
-    "home": "Bowling Green",
-    "away": "Lafayette",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Doyt L. Perry Stadium",
-      "lat": 41.375,
-      "lng": -83.635
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401752794",
     "sourceId": 401752794,
     "sourceWeek": 1,
@@ -127,6 +105,28 @@
       "name": "SHI Stadium",
       "lat": 40.5139,
       "lng": -74.4647
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401762790",
+    "sourceId": 401762790,
+    "sourceWeek": 1,
+    "week": 1,
+    "date": "2025-08-28",
+    "day": "Thursday",
+    "kickoff": "3p",
+    "home": "Bowling Green",
+    "away": "Lafayette",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Doyt L. Perry Stadium",
+      "lat": 41.375,
+      "lng": -83.635
     },
     "missingVenue": false,
     "division": "fbs"
@@ -154,26 +154,26 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752674",
-    "sourceId": 401752674,
+    "id": "2025-ncaa-401767468",
+    "sourceId": 401767468,
     "sourceWeek": 1,
     "week": 1,
     "date": "2025-08-28",
     "day": "Thursday",
     "kickoff": "4:30p",
-    "home": "Missouri",
-    "away": "Central Arkansas",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
+    "home": "Houston Christian",
+    "away": "Little Rock",
+    "homeDivision": "fcs",
+    "awayDivision": "fbs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Memorial Stadium",
-      "lat": 38.9628,
-      "lng": -95.2464
+      "name": "Husky Stadium",
+      "lat": 47.6504,
+      "lng": -122.3016
     },
     "missingVenue": false,
-    "division": "fbs"
+    "division": "fcs"
   },
   {
     "id": "2025-ncaa-401756876",
@@ -198,26 +198,26 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401767468",
-    "sourceId": 401767468,
+    "id": "2025-ncaa-401752674",
+    "sourceId": 401752674,
     "sourceWeek": 1,
     "week": 1,
     "date": "2025-08-28",
     "day": "Thursday",
     "kickoff": "4:30p",
-    "home": "Houston Christian",
-    "away": "Little Rock",
-    "homeDivision": "fcs",
-    "awayDivision": "fbs",
+    "home": "Missouri",
+    "away": "Central Arkansas",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Husky Stadium",
-      "lat": 47.6504,
-      "lng": -122.3016
+      "name": "Memorial Stadium",
+      "lat": 38.9628,
+      "lng": -95.2464
     },
     "missingVenue": false,
-    "division": "fcs"
+    "division": "fbs"
   },
   {
     "id": "2025-ncaa-401756852",
@@ -352,28 +352,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752795",
-    "sourceId": 401752795,
-    "sourceWeek": 1,
-    "week": 1,
-    "date": "2025-08-29",
-    "day": "Friday",
-    "kickoff": "4:30p",
-    "home": "Illinois",
-    "away": "Western Illinois",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Memorial Stadium (Champaign, IL)",
-      "lat": 40.0993,
-      "lng": -88.2358
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401756854",
     "sourceId": 401756854,
     "sourceWeek": 1,
@@ -391,6 +369,28 @@
       "name": "Memorial Stadium",
       "lat": 38.9628,
       "lng": -95.2464
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401752795",
+    "sourceId": 401752795,
+    "sourceWeek": 1,
+    "week": 1,
+    "date": "2025-08-29",
+    "day": "Friday",
+    "kickoff": "4:30p",
+    "home": "Illinois",
+    "away": "Western Illinois",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Memorial Stadium (Champaign, IL)",
+      "lat": 40.0993,
+      "lng": -88.2358
     },
     "missingVenue": false,
     "division": "fbs"

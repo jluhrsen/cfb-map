@@ -1,5 +1,27 @@
 [
   {
+    "id": "2025-ncaa-401762499",
+    "sourceId": 401762499,
+    "sourceWeek": 10,
+    "week": 11,
+    "date": "2025-11-01",
+    "day": "Saturday",
+    "kickoff": "9a",
+    "home": "North Texas",
+    "away": "Navy",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "DATCU Stadium",
+      "lat": 33.2071,
+      "lng": -97.1514
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
     "id": "2025-ncaa-401752889",
     "sourceId": 401752889,
     "sourceWeek": 10,
@@ -22,23 +44,23 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401756938",
-    "sourceId": 401756938,
+    "id": "2025-ncaa-401752758",
+    "sourceId": 401752758,
     "sourceWeek": 10,
     "week": 11,
     "date": "2025-11-01",
     "day": "Saturday",
     "kickoff": "9a",
-    "home": "Houston",
-    "away": "West Virginia",
+    "home": "Texas",
+    "away": "Vanderbilt",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
-    "homeLogo": null,
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
     "awayLogo": null,
     "venue": {
-      "name": "TDECU Stadium",
-      "lat": 29.7211,
-      "lng": -95.3506
+      "name": "DKR-Texas Memorial Stadium",
+      "lat": 30.2839,
+      "lng": -97.7325
     },
     "missingVenue": false,
     "division": "fbs"
@@ -66,23 +88,23 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401762499",
-    "sourceId": 401762499,
+    "id": "2025-ncaa-401754577",
+    "sourceId": 401754577,
     "sourceWeek": 10,
     "week": 11,
     "date": "2025-11-01",
     "day": "Saturday",
     "kickoff": "9a",
-    "home": "North Texas",
-    "away": "Navy",
+    "home": "Clemson",
+    "away": "Duke",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "DATCU Stadium",
-      "lat": 33.2071,
-      "lng": -97.1514
+      "name": "Memorial Stadium (Clemson, SC)",
+      "lat": 34.6784,
+      "lng": -82.8444
     },
     "missingVenue": false,
     "division": "fbs"
@@ -110,23 +132,23 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401754577",
-    "sourceId": 401754577,
+    "id": "2025-ncaa-401756938",
+    "sourceId": 401756938,
     "sourceWeek": 10,
     "week": 11,
     "date": "2025-11-01",
     "day": "Saturday",
     "kickoff": "9a",
-    "home": "Clemson",
-    "away": "Duke",
+    "home": "Houston",
+    "away": "West Virginia",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Memorial Stadium (Clemson, SC)",
-      "lat": 34.6784,
-      "lng": -82.8444
+      "name": "TDECU Stadium",
+      "lat": 29.7211,
+      "lng": -95.3506
     },
     "missingVenue": false,
     "division": "fbs"
@@ -149,28 +171,6 @@
       "name": "Memorial Stadium (Champaign, IL)",
       "lat": 40.0993,
       "lng": -88.2358
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2025-ncaa-401752758",
-    "sourceId": 401752758,
-    "sourceWeek": 10,
-    "week": 11,
-    "date": "2025-11-01",
-    "day": "Saturday",
-    "kickoff": "9a",
-    "home": "Texas",
-    "away": "Vanderbilt",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
-    "awayLogo": null,
-    "venue": {
-      "name": "DKR-Texas Memorial Stadium",
-      "lat": 30.2839,
-      "lng": -97.7325
     },
     "missingVenue": false,
     "division": "fbs"
@@ -484,28 +484,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401754578",
-    "sourceId": 401754578,
-    "sourceWeek": 10,
-    "week": 11,
-    "date": "2025-11-01",
-    "day": "Saturday",
-    "kickoff": "4:30p",
-    "home": "Florida State",
-    "away": "Wake Forest",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Doak Campbell Stadium",
-      "lat": 30.4384,
-      "lng": -84.3045
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401752754",
     "sourceId": 401752754,
     "sourceWeek": 10,
@@ -523,6 +501,28 @@
       "name": "Jordan-Hare Stadium",
       "lat": 32.6017,
       "lng": -85.4893
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401754578",
+    "sourceId": 401754578,
+    "sourceWeek": 10,
+    "week": 11,
+    "date": "2025-11-01",
+    "day": "Saturday",
+    "kickoff": "4:30p",
+    "home": "Florida State",
+    "away": "Wake Forest",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Doak Campbell Stadium",
+      "lat": 30.4384,
+      "lng": -84.3045
     },
     "missingVenue": false,
     "division": "fbs"

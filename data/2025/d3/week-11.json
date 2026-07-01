@@ -1,27 +1,5 @@
 [
   {
-    "id": "2025-ncaa-401777157",
-    "sourceId": 401777157,
-    "sourceWeek": 10,
-    "week": 11,
-    "date": "2025-11-01",
-    "day": "Saturday",
-    "kickoff": "1p",
-    "home": "Puget Sound",
-    "away": "Pacific (OR)",
-    "homeDivision": "d3",
-    "awayDivision": "d3",
-    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/wpoqmrhctdrju4jh.png",
-    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/lkxbjwugyaf69m59.png",
-    "venue": {
-      "name": "Baker Stadium",
-      "lat": 47.2605,
-      "lng": -122.4825
-    },
-    "missingVenue": false,
-    "division": "d3"
-  },
-  {
     "id": "2025-ncaa-401777144",
     "sourceId": 401777144,
     "sourceWeek": 10,
@@ -44,23 +22,23 @@
     "division": "d3"
   },
   {
-    "id": "2025-ncaa-401774258",
-    "sourceId": 401774258,
+    "id": "2025-ncaa-401777157",
+    "sourceId": 401777157,
     "sourceWeek": 10,
     "week": 11,
     "date": "2025-11-01",
     "day": "Saturday",
     "kickoff": "1p",
-    "home": "La Verne",
-    "away": "Redlands",
+    "home": "Puget Sound",
+    "away": "Pacific (OR)",
     "homeDivision": "d3",
     "awayDivision": "d3",
-    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/xd9a451s9o7md2nt.png",
-    "awayLogo": null,
+    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/wpoqmrhctdrju4jh.png",
+    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/lkxbjwugyaf69m59.png",
     "venue": {
-      "name": "Ortmayer Stadium",
-      "lat": 34.1008,
-      "lng": -117.7678
+      "name": "Baker Stadium",
+      "lat": 47.2605,
+      "lng": -122.4825
     },
     "missingVenue": false,
     "division": "d3"
@@ -83,6 +61,28 @@
       "name": "Maxwell Field",
       "lat": 45.2099,
       "lng": -123.1987
+    },
+    "missingVenue": false,
+    "division": "d3"
+  },
+  {
+    "id": "2025-ncaa-401774258",
+    "sourceId": 401774258,
+    "sourceWeek": 10,
+    "week": 11,
+    "date": "2025-11-01",
+    "day": "Saturday",
+    "kickoff": "1p",
+    "home": "La Verne",
+    "away": "Redlands",
+    "homeDivision": "d3",
+    "awayDivision": "d3",
+    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/xd9a451s9o7md2nt.png",
+    "awayLogo": null,
+    "venue": {
+      "name": "Ortmayer Stadium",
+      "lat": 34.1008,
+      "lng": -117.7678
     },
     "missingVenue": false,
     "division": "d3"

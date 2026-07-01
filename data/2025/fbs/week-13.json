@@ -22,50 +22,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401756952",
-    "sourceId": 401756952,
-    "sourceWeek": 12,
-    "week": 13,
-    "date": "2025-11-15",
-    "day": "Saturday",
-    "kickoff": "9a",
-    "home": "Oklahoma State",
-    "away": "Kansas State",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Boone Pickens Stadium",
-      "lat": 36.1286,
-      "lng": -97.0651
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2025-ncaa-401752772",
-    "sourceId": 401752772,
-    "sourceWeek": 12,
-    "week": 13,
-    "date": "2025-11-15",
-    "day": "Saturday",
-    "kickoff": "9a",
-    "home": "Texas A&M",
-    "away": "South Carolina",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Kyle Field",
-      "lat": 30.61,
-      "lng": -96.34
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401752901",
     "sourceId": 401752901,
     "sourceWeek": 12,
@@ -110,6 +66,50 @@
     "division": "fbs"
   },
   {
+    "id": "2025-ncaa-401752772",
+    "sourceId": 401752772,
+    "sourceWeek": 12,
+    "week": 13,
+    "date": "2025-11-15",
+    "day": "Saturday",
+    "kickoff": "9a",
+    "home": "Texas A&M",
+    "away": "South Carolina",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Kyle Field",
+      "lat": 30.61,
+      "lng": -96.34
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401756952",
+    "sourceId": 401756952,
+    "sourceWeek": 12,
+    "week": 13,
+    "date": "2025-11-15",
+    "day": "Saturday",
+    "kickoff": "9a",
+    "home": "Oklahoma State",
+    "away": "Kansas State",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Boone Pickens Stadium",
+      "lat": 36.1286,
+      "lng": -97.0651
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
     "id": "2025-ncaa-401752768",
     "sourceId": 401752768,
     "sourceWeek": 12,
@@ -149,6 +149,50 @@
       "name": "Kroger Field",
       "lat": 38.022,
       "lng": -84.5037
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401752907",
+    "sourceId": 401752907,
+    "sourceWeek": 12,
+    "week": 13,
+    "date": "2025-11-15",
+    "day": "Saturday",
+    "kickoff": "12:30p",
+    "home": "USC",
+    "away": "Iowa",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/30.png",
+    "awayLogo": null,
+    "venue": {
+      "name": "Los Angeles Memorial Coliseum",
+      "lat": 34.0141,
+      "lng": -118.2879
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401754595",
+    "sourceId": 401754595,
+    "sourceWeek": 12,
+    "week": 13,
+    "date": "2025-11-15",
+    "day": "Saturday",
+    "kickoff": "12:30p",
+    "home": "Miami",
+    "away": "NC State",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Hard Rock Stadium",
+      "lat": 25.958,
+      "lng": -80.2389
     },
     "missingVenue": false,
     "division": "fbs"
@@ -242,50 +286,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401754595",
-    "sourceId": 401754595,
-    "sourceWeek": 12,
-    "week": 13,
-    "date": "2025-11-15",
-    "day": "Saturday",
-    "kickoff": "12:30p",
-    "home": "Miami",
-    "away": "NC State",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Hard Rock Stadium",
-      "lat": 25.958,
-      "lng": -80.2389
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2025-ncaa-401752907",
-    "sourceId": 401752907,
-    "sourceWeek": 12,
-    "week": 13,
-    "date": "2025-11-15",
-    "day": "Saturday",
-    "kickoff": "12:30p",
-    "home": "USC",
-    "away": "Iowa",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/30.png",
-    "awayLogo": null,
-    "venue": {
-      "name": "Los Angeles Memorial Coliseum",
-      "lat": 34.0141,
-      "lng": -118.2879
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401752771",
     "sourceId": 401752771,
     "sourceWeek": 12,
@@ -352,28 +352,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401754594",
-    "sourceId": 401754594,
-    "sourceWeek": 12,
-    "week": 13,
-    "date": "2025-11-16",
-    "day": "Sunday",
-    "kickoff": "4:30p",
-    "home": "Florida State",
-    "away": "Virginia Tech",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Doak Campbell Stadium",
-      "lat": 30.4384,
-      "lng": -84.3045
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401752900",
     "sourceId": 401752900,
     "sourceWeek": 12,
@@ -391,6 +369,28 @@
       "name": "Ohio Stadium",
       "lat": 40.0018,
       "lng": -83.0197
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401754594",
+    "sourceId": 401754594,
+    "sourceWeek": 12,
+    "week": 13,
+    "date": "2025-11-16",
+    "day": "Sunday",
+    "kickoff": "4:30p",
+    "home": "Florida State",
+    "away": "Virginia Tech",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Doak Campbell Stadium",
+      "lat": 30.4384,
+      "lng": -84.3045
     },
     "missingVenue": false,
     "division": "fbs"
