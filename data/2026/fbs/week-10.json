@@ -22,28 +22,6 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401858501",
-    "sourceId": 401858501,
-    "sourceWeek": 9,
-    "week": 10,
-    "date": "2026-10-31",
-    "day": "Saturday",
-    "kickoff": "TBD",
-    "home": "Indiana",
-    "away": "Minnesota",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Memorial Stadium (Bloomington, IN)",
-      "lat": 39.1793,
-      "lng": -86.5232
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2026-ncaa-401858509",
     "sourceId": 401858509,
     "sourceWeek": 9,
@@ -88,6 +66,28 @@
     "division": "fbs"
   },
   {
+    "id": "2026-ncaa-401856846",
+    "sourceId": 401856846,
+    "sourceWeek": 9,
+    "week": 10,
+    "date": "2026-10-31",
+    "day": "Saturday",
+    "kickoff": "TBD",
+    "home": "Colorado",
+    "away": "Kansas State",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/38.png",
+    "awayLogo": null,
+    "venue": {
+      "name": "Folsom Field",
+      "lat": 40.0096,
+      "lng": -105.2644
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
     "id": "2026-ncaa-401862816",
     "sourceId": 401862816,
     "sourceWeek": 9,
@@ -110,28 +110,6 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401856847",
-    "sourceId": 401856847,
-    "sourceWeek": 9,
-    "week": 10,
-    "date": "2026-10-31",
-    "day": "Saturday",
-    "kickoff": "TBD",
-    "home": "Iowa State",
-    "away": "Oklahoma State",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Jack Trice Stadium",
-      "lat": 42.014,
-      "lng": -93.6356
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2026-ncaa-401858282",
     "sourceId": 401858282,
     "sourceWeek": 9,
@@ -149,6 +127,28 @@
       "name": "Kenan Stadium",
       "lat": 35.9096,
       "lng": -79.0478
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401856847",
+    "sourceId": 401856847,
+    "sourceWeek": 9,
+    "week": 10,
+    "date": "2026-10-31",
+    "day": "Saturday",
+    "kickoff": "TBD",
+    "home": "Iowa State",
+    "away": "Oklahoma State",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Jack Trice Stadium",
+      "lat": 42.014,
+      "lng": -93.6356
     },
     "missingVenue": false,
     "division": "fbs"
@@ -242,23 +242,23 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401856846",
-    "sourceId": 401856846,
+    "id": "2026-ncaa-401858501",
+    "sourceId": 401858501,
     "sourceWeek": 9,
     "week": 10,
     "date": "2026-10-31",
     "day": "Saturday",
     "kickoff": "TBD",
-    "home": "Colorado",
-    "away": "Kansas State",
+    "home": "Indiana",
+    "away": "Minnesota",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/38.png",
+    "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Folsom Field",
-      "lat": 40.0096,
-      "lng": -105.2644
+      "name": "Memorial Stadium (Bloomington, IN)",
+      "lat": 39.1793,
+      "lng": -86.5232
     },
     "missingVenue": false,
     "division": "fbs"
@@ -528,28 +528,6 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401856734",
-    "sourceId": 401856734,
-    "sourceWeek": 9,
-    "week": 10,
-    "date": "2026-10-31",
-    "day": "Saturday",
-    "kickoff": "12:30p",
-    "home": "Georgia",
-    "away": "Florida",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Mercedes-Benz Stadium",
-      "lat": 33.7553,
-      "lng": -84.4006
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2026-ncaa-401860910",
     "sourceId": 401860910,
     "sourceWeek": 9,
@@ -589,6 +567,28 @@
       "name": "Fargodome",
       "lat": 46.9028,
       "lng": -96.8013
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401856734",
+    "sourceId": 401856734,
+    "sourceWeek": 9,
+    "week": 10,
+    "date": "2026-10-31",
+    "day": "Saturday",
+    "kickoff": "12:30p",
+    "home": "Georgia",
+    "away": "Florida",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Mercedes-Benz Stadium",
+      "lat": 33.7553,
+      "lng": -84.4006
     },
     "missingVenue": false,
     "division": "fbs"

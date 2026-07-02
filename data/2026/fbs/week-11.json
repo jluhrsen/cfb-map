@@ -484,28 +484,6 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401860912",
-    "sourceId": 401860912,
-    "sourceWeek": 10,
-    "week": 11,
-    "date": "2026-11-08",
-    "day": "Sunday",
-    "kickoff": "7:30p",
-    "home": "Oregon State",
-    "away": "Texas State",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Reser Stadium",
-      "lat": 44.559,
-      "lng": -123.2814
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2026-ncaa-401864535",
     "sourceId": 401864535,
     "sourceWeek": 10,
@@ -528,23 +506,23 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401866458",
-    "sourceId": 401866458,
-    "sourceWeek": 11,
+    "id": "2026-ncaa-401860912",
+    "sourceId": 401860912,
+    "sourceWeek": 10,
     "week": 11,
-    "date": "2026-11-10",
-    "day": "Tuesday",
-    "kickoff": "TBD",
-    "home": "Akron",
-    "away": "Western Michigan",
+    "date": "2026-11-08",
+    "day": "Sunday",
+    "kickoff": "7:30p",
+    "home": "Oregon State",
+    "away": "Texas State",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2006.png",
+    "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "InfoCision Stadium",
-      "lat": 41.0726,
-      "lng": -81.5084
+      "name": "Reser Stadium",
+      "lat": 44.559,
+      "lng": -123.2814
     },
     "missingVenue": false,
     "division": "fbs"
@@ -567,6 +545,28 @@
       "name": "Doyt L. Perry Stadium",
       "lat": 41.375,
       "lng": -83.635
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401866458",
+    "sourceId": 401866458,
+    "sourceWeek": 11,
+    "week": 11,
+    "date": "2026-11-10",
+    "day": "Tuesday",
+    "kickoff": "TBD",
+    "home": "Akron",
+    "away": "Western Michigan",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2006.png",
+    "awayLogo": null,
+    "venue": {
+      "name": "InfoCision Stadium",
+      "lat": 41.0726,
+      "lng": -81.5084
     },
     "missingVenue": false,
     "division": "fbs"

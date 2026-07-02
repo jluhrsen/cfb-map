@@ -308,72 +308,6 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401858450",
-    "sourceId": 401858450,
-    "sourceWeek": 3,
-    "week": 4,
-    "date": "2026-09-19",
-    "day": "Saturday",
-    "kickoff": "12:30p",
-    "home": "Michigan",
-    "away": "UTEP",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2638.png",
-    "venue": {
-      "name": "Michigan Stadium",
-      "lat": 42.2658,
-      "lng": -83.7487
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2026-ncaa-401858233",
-    "sourceId": 401858233,
-    "sourceWeek": 3,
-    "week": 4,
-    "date": "2026-09-19",
-    "day": "Saturday",
-    "kickoff": "12:30p",
-    "home": "California",
-    "away": "Wagner",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "California Memorial Stadium",
-      "lat": 37.8713,
-      "lng": -122.2507
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2026-ncaa-401856801",
-    "sourceId": 401856801,
-    "sourceWeek": 3,
-    "week": 4,
-    "date": "2026-09-19",
-    "day": "Saturday",
-    "kickoff": "12:30p",
-    "home": "Utah",
-    "away": "Utah State",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/254.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/328.png",
-    "venue": {
-      "name": "Rice-Eccles Stadium",
-      "lat": 40.7597,
-      "lng": -111.8478
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2026-ncaa-401856694",
     "sourceId": 401856694,
     "sourceWeek": 3,
@@ -413,6 +347,72 @@
       "name": "SHI Stadium",
       "lat": 40.5139,
       "lng": -74.4647
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401858450",
+    "sourceId": 401858450,
+    "sourceWeek": 3,
+    "week": 4,
+    "date": "2026-09-19",
+    "day": "Saturday",
+    "kickoff": "12:30p",
+    "home": "Michigan",
+    "away": "UTEP",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2638.png",
+    "venue": {
+      "name": "Michigan Stadium",
+      "lat": 42.2658,
+      "lng": -83.7487
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401856801",
+    "sourceId": 401856801,
+    "sourceWeek": 3,
+    "week": 4,
+    "date": "2026-09-19",
+    "day": "Saturday",
+    "kickoff": "12:30p",
+    "home": "Utah",
+    "away": "Utah State",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/254.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/328.png",
+    "venue": {
+      "name": "Rice-Eccles Stadium",
+      "lat": 40.7597,
+      "lng": -111.8478
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401858233",
+    "sourceId": 401858233,
+    "sourceWeek": 3,
+    "week": 4,
+    "date": "2026-09-19",
+    "day": "Saturday",
+    "kickoff": "12:30p",
+    "home": "California",
+    "away": "Wagner",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "California Memorial Stadium",
+      "lat": 37.8713,
+      "lng": -122.2507
     },
     "missingVenue": false,
     "division": "fbs"
@@ -748,28 +748,6 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401860887",
-    "sourceId": 401860887,
-    "sourceWeek": 3,
-    "week": 4,
-    "date": "2026-09-20",
-    "day": "Sunday",
-    "kickoff": "7p",
-    "home": "San Diego State",
-    "away": "James Madison",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/21.png",
-    "awayLogo": null,
-    "venue": {
-      "name": "Snapdragon Stadium",
-      "lat": 32.7831,
-      "lng": -117.1194
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2026-ncaa-401860885",
     "sourceId": 401860885,
     "sourceWeek": 3,
@@ -792,23 +770,23 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401856793",
-    "sourceId": 401856793,
+    "id": "2026-ncaa-401860887",
+    "sourceId": 401860887,
     "sourceWeek": 3,
     "week": 4,
     "date": "2026-09-20",
     "day": "Sunday",
-    "kickoff": "7:30p",
-    "home": "Arizona",
-    "away": "Northern Illinois",
+    "kickoff": "7p",
+    "home": "San Diego State",
+    "away": "James Madison",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2459.png",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/21.png",
+    "awayLogo": null,
     "venue": {
-      "name": "Arizona Stadium",
-      "lat": 32.2287,
-      "lng": -110.9489
+      "name": "Snapdragon Stadium",
+      "lat": 32.7831,
+      "lng": -117.1194
     },
     "missingVenue": false,
     "division": "fbs"
@@ -836,23 +814,23 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401860886",
-    "sourceId": 401860886,
+    "id": "2026-ncaa-401856793",
+    "sourceId": 401856793,
     "sourceWeek": 3,
     "week": 4,
     "date": "2026-09-20",
     "day": "Sunday",
-    "kickoff": "8p",
-    "home": "Oregon State",
-    "away": "Montana",
+    "kickoff": "7:30p",
+    "home": "Arizona",
+    "away": "Northern Illinois",
     "homeDivision": "fbs",
-    "awayDivision": "fcs",
+    "awayDivision": "fbs",
     "homeLogo": null,
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/149.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2459.png",
     "venue": {
-      "name": "Reser Stadium",
-      "lat": 44.559,
-      "lng": -123.2814
+      "name": "Arizona Stadium",
+      "lat": 32.2287,
+      "lng": -110.9489
     },
     "missingVenue": false,
     "division": "fbs"
@@ -897,6 +875,28 @@
       "name": "CEFCU Stadium",
       "lat": 37.3197,
       "lng": -121.8684
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401860886",
+    "sourceId": 401860886,
+    "sourceWeek": 3,
+    "week": 4,
+    "date": "2026-09-20",
+    "day": "Sunday",
+    "kickoff": "8p",
+    "home": "Oregon State",
+    "away": "Montana",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/149.png",
+    "venue": {
+      "name": "Reser Stadium",
+      "lat": 44.559,
+      "lng": -123.2814
     },
     "missingVenue": false,
     "division": "fbs"

@@ -66,28 +66,6 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401864496",
-    "sourceId": 401864496,
-    "sourceWeek": 1,
-    "week": 2,
-    "date": "2026-09-05",
-    "day": "Saturday",
-    "kickoff": "9a",
-    "home": "Air Force",
-    "away": "Duquesne",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2005.png",
-    "awayLogo": null,
-    "venue": {
-      "name": "Falcon Stadium",
-      "lat": 38.9967,
-      "lng": -104.8436
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2026-ncaa-401858208",
     "sourceId": 401858208,
     "sourceWeek": 1,
@@ -132,23 +110,23 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401856659",
-    "sourceId": 401856659,
+    "id": "2026-ncaa-401864496",
+    "sourceId": 401864496,
     "sourceWeek": 1,
     "week": 2,
     "date": "2026-09-05",
     "day": "Saturday",
-    "kickoff": "10a",
-    "home": "Kentucky",
-    "away": "Youngstown State",
+    "kickoff": "9a",
+    "home": "Air Force",
+    "away": "Duquesne",
     "homeDivision": "fbs",
     "awayDivision": "fcs",
-    "homeLogo": null,
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2005.png",
     "awayLogo": null,
     "venue": {
-      "name": "Kroger Field",
-      "lat": 38.022,
-      "lng": -84.5037
+      "name": "Falcon Stadium",
+      "lat": 38.9967,
+      "lng": -104.8436
     },
     "missingVenue": false,
     "division": "fbs"
@@ -171,6 +149,28 @@
       "name": "Jack Trice Stadium",
       "lat": 42.014,
       "lng": -93.6356
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401856659",
+    "sourceId": 401856659,
+    "sourceWeek": 1,
+    "week": 2,
+    "date": "2026-09-05",
+    "day": "Saturday",
+    "kickoff": "10a",
+    "home": "Kentucky",
+    "away": "Youngstown State",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Kroger Field",
+      "lat": 38.022,
+      "lng": -84.5037
     },
     "missingVenue": false,
     "division": "fbs"

@@ -1,27 +1,5 @@
 [
   {
-    "id": "2025-ncaa-401831583",
-    "sourceId": 401831583,
-    "sourceWeek": 1,
-    "week": 20,
-    "date": "2026-01-03",
-    "day": "Saturday",
-    "kickoff": "5p",
-    "home": "SMU",
-    "away": "Arizona",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Snapdragon Stadium",
-      "lat": 32.7831,
-      "lng": -117.1194
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401778334",
     "sourceId": 401778334,
     "sourceWeek": 1,
@@ -39,6 +17,28 @@
       "name": "Bank of America Stadium",
       "lat": 35.2258,
       "lng": -80.8528
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401831583",
+    "sourceId": 401831583,
+    "sourceWeek": 1,
+    "week": 20,
+    "date": "2026-01-03",
+    "day": "Saturday",
+    "kickoff": "5p",
+    "home": "SMU",
+    "away": "Arizona",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Snapdragon Stadium",
+      "lat": 32.7831,
+      "lng": -117.1194
     },
     "missingVenue": false,
     "division": "fbs"

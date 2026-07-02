@@ -44,6 +44,28 @@
     "division": "d3"
   },
   {
+    "id": "2025-ncaa-401777168",
+    "sourceId": 401777168,
+    "sourceWeek": 4,
+    "week": 5,
+    "date": "2025-09-20",
+    "day": "Saturday",
+    "kickoff": "1p",
+    "home": "Puget Sound",
+    "away": "California Lutheran University",
+    "homeDivision": "d3",
+    "awayDivision": "d3",
+    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/wpoqmrhctdrju4jh.png",
+    "awayLogo": null,
+    "venue": {
+      "name": "Baker Stadium",
+      "lat": 47.2605,
+      "lng": -122.4825
+    },
+    "missingVenue": false,
+    "division": "d3"
+  },
+  {
     "id": "2025-ncaa-401774260",
     "sourceId": 401774260,
     "sourceWeek": 4,
@@ -105,28 +127,6 @@
       "name": "Merritt Field",
       "lat": 34.098,
       "lng": -117.714
-    },
-    "missingVenue": false,
-    "division": "d3"
-  },
-  {
-    "id": "2025-ncaa-401777168",
-    "sourceId": 401777168,
-    "sourceWeek": 4,
-    "week": 5,
-    "date": "2025-09-20",
-    "day": "Saturday",
-    "kickoff": "1p",
-    "home": "Puget Sound",
-    "away": "California Lutheran University",
-    "homeDivision": "d3",
-    "awayDivision": "d3",
-    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/wpoqmrhctdrju4jh.png",
-    "awayLogo": null,
-    "venue": {
-      "name": "Baker Stadium",
-      "lat": 47.2605,
-      "lng": -122.4825
     },
     "missingVenue": false,
     "division": "d3"

@@ -176,28 +176,6 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401856831",
-    "sourceId": 401856831,
-    "sourceWeek": 7,
-    "week": 8,
-    "date": "2026-10-17",
-    "day": "Saturday",
-    "kickoff": "TBD",
-    "home": "Houston",
-    "away": "Oklahoma State",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "TDECU Stadium",
-      "lat": 29.7211,
-      "lng": -95.3506
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2026-ncaa-401858261",
     "sourceId": 401858261,
     "sourceWeek": 7,
@@ -264,45 +242,23 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401864521",
-    "sourceId": 401864521,
+    "id": "2026-ncaa-401856723",
+    "sourceId": 401856723,
     "sourceWeek": 7,
     "week": 8,
     "date": "2026-10-17",
     "day": "Saturday",
     "kickoff": "TBD",
-    "home": "Hawai'i",
-    "away": "New Mexico",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/62.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/167.png",
-    "venue": {
-      "name": "Clarence T.C. Ching Athletics Complex",
-      "lat": 21.294,
-      "lng": -157.818
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2026-ncaa-401856719",
-    "sourceId": 401856719,
-    "sourceWeek": 7,
-    "week": 8,
-    "date": "2026-10-17",
-    "day": "Saturday",
-    "kickoff": "TBD",
-    "home": "Georgia",
-    "away": "Auburn",
+    "home": "Tennessee",
+    "away": "Alabama",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Sanford Stadium",
-      "lat": 33.9498,
-      "lng": -83.3732
+      "name": "Neyland Stadium",
+      "lat": 35.9551,
+      "lng": -83.9252
     },
     "missingVenue": false,
     "division": "fbs"
@@ -325,6 +281,28 @@
       "name": "Hard Rock Stadium",
       "lat": 25.958,
       "lng": -80.2389
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401856719",
+    "sourceId": 401856719,
+    "sourceWeek": 7,
+    "week": 8,
+    "date": "2026-10-17",
+    "day": "Saturday",
+    "kickoff": "TBD",
+    "home": "Georgia",
+    "away": "Auburn",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Sanford Stadium",
+      "lat": 33.9498,
+      "lng": -83.3732
     },
     "missingVenue": false,
     "division": "fbs"
@@ -484,23 +462,23 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401858262",
-    "sourceId": 401858262,
+    "id": "2026-ncaa-401856831",
+    "sourceId": 401856831,
     "sourceWeek": 7,
     "week": 8,
     "date": "2026-10-17",
     "day": "Saturday",
     "kickoff": "TBD",
-    "home": "Stanford",
-    "away": "Elon",
+    "home": "Houston",
+    "away": "Oklahoma State",
     "homeDivision": "fbs",
-    "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/24.png",
+    "awayDivision": "fbs",
+    "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Stanford Stadium",
-      "lat": 37.4344,
-      "lng": -122.1614
+      "name": "TDECU Stadium",
+      "lat": 29.7211,
+      "lng": -95.3506
     },
     "missingVenue": false,
     "division": "fbs"
@@ -545,6 +523,28 @@
       "name": "Raymond James Stadium",
       "lat": 27.9759,
       "lng": -82.5033
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401858262",
+    "sourceId": 401858262,
+    "sourceWeek": 7,
+    "week": 8,
+    "date": "2026-10-17",
+    "day": "Saturday",
+    "kickoff": "TBD",
+    "home": "Stanford",
+    "away": "Elon",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/24.png",
+    "awayLogo": null,
+    "venue": {
+      "name": "Stanford Stadium",
+      "lat": 37.4344,
+      "lng": -122.1614
     },
     "missingVenue": false,
     "division": "fbs"
@@ -638,23 +638,23 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401856723",
-    "sourceId": 401856723,
+    "id": "2026-ncaa-401864521",
+    "sourceId": 401864521,
     "sourceWeek": 7,
     "week": 8,
     "date": "2026-10-17",
     "day": "Saturday",
     "kickoff": "TBD",
-    "home": "Tennessee",
-    "away": "Alabama",
+    "home": "Hawai'i",
+    "away": "New Mexico",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/62.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/167.png",
     "venue": {
-      "name": "Neyland Stadium",
-      "lat": 35.9551,
-      "lng": -83.9252
+      "name": "Clarence T.C. Ching Athletics Complex",
+      "lat": 21.294,
+      "lng": -157.818
     },
     "missingVenue": false,
     "division": "fbs"

@@ -110,6 +110,28 @@
     "division": "fbs"
   },
   {
+    "id": "2026-ncaa-401862829",
+    "sourceId": 401862829,
+    "sourceWeek": 11,
+    "week": 12,
+    "date": "2026-11-14",
+    "day": "Saturday",
+    "kickoff": "TBD",
+    "home": "Temple",
+    "away": "UAB",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Lincoln Financial Field",
+      "lat": 39.9008,
+      "lng": -75.1675
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
     "id": "2026-ncaa-401864540",
     "sourceId": 401864540,
     "sourceWeek": 11,
@@ -374,6 +396,28 @@
     "division": "fbs"
   },
   {
+    "id": "2026-ncaa-401858524",
+    "sourceId": 401858524,
+    "sourceWeek": 11,
+    "week": 12,
+    "date": "2026-11-14",
+    "day": "Saturday",
+    "kickoff": "TBD",
+    "home": "Penn State",
+    "away": "Minnesota",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Beaver Stadium",
+      "lat": 40.8122,
+      "lng": -77.8561
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
     "id": "2026-ncaa-401856883",
     "sourceId": 401856883,
     "sourceWeek": 11,
@@ -462,28 +506,6 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401856884",
-    "sourceId": 401856884,
-    "sourceWeek": 11,
-    "week": 12,
-    "date": "2026-11-14",
-    "day": "Saturday",
-    "kickoff": "TBD",
-    "home": "Kentucky",
-    "away": "Florida",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Kroger Field",
-      "lat": 38.022,
-      "lng": -84.5037
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2026-ncaa-401858298",
     "sourceId": 401858298,
     "sourceWeek": 11,
@@ -506,6 +528,28 @@
     "division": "fbs"
   },
   {
+    "id": "2026-ncaa-401856884",
+    "sourceId": 401856884,
+    "sourceWeek": 11,
+    "week": 12,
+    "date": "2026-11-14",
+    "day": "Saturday",
+    "kickoff": "TBD",
+    "home": "Kentucky",
+    "away": "Florida",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Kroger Field",
+      "lat": 38.022,
+      "lng": -84.5037
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
     "id": "2026-ncaa-401858297",
     "sourceId": 401858297,
     "sourceWeek": 11,
@@ -523,28 +567,6 @@
       "name": "Memorial Stadium (Clemson, SC)",
       "lat": 34.6784,
       "lng": -82.8444
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2026-ncaa-401862829",
-    "sourceId": 401862829,
-    "sourceWeek": 11,
-    "week": 12,
-    "date": "2026-11-14",
-    "day": "Saturday",
-    "kickoff": "TBD",
-    "home": "Temple",
-    "away": "UAB",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Lincoln Financial Field",
-      "lat": 39.9008,
-      "lng": -75.1675
     },
     "missingVenue": false,
     "division": "fbs"
@@ -589,28 +611,6 @@
       "name": "Lane Stadium",
       "lat": 37.2206,
       "lng": -80.4183
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2026-ncaa-401858524",
-    "sourceId": 401858524,
-    "sourceWeek": 11,
-    "week": 12,
-    "date": "2026-11-14",
-    "day": "Saturday",
-    "kickoff": "TBD",
-    "home": "Penn State",
-    "away": "Minnesota",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Beaver Stadium",
-      "lat": 40.8122,
-      "lng": -77.8561
     },
     "missingVenue": false,
     "division": "fbs"

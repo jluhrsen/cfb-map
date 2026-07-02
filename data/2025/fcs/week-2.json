@@ -44,28 +44,6 @@
     "division": "fcs"
   },
   {
-    "id": "2025-ncaa-401760359",
-    "sourceId": 401760359,
-    "sourceWeek": 1,
-    "week": 2,
-    "date": "2025-08-30",
-    "day": "Saturday",
-    "kickoff": "12:30p",
-    "home": "Air Force",
-    "away": "Bucknell",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2005.png",
-    "awayLogo": null,
-    "venue": {
-      "name": "Falcon Stadium",
-      "lat": 38.9967,
-      "lng": -104.8436
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401756853",
     "sourceId": 401756853,
     "sourceWeek": 1,
@@ -83,6 +61,28 @@
       "name": "Jack Trice Stadium",
       "lat": 42.014,
       "lng": -93.6356
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401760359",
+    "sourceId": 401760359,
+    "sourceWeek": 1,
+    "week": 2,
+    "date": "2025-08-30",
+    "day": "Saturday",
+    "kickoff": "12:30p",
+    "home": "Air Force",
+    "away": "Bucknell",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2005.png",
+    "awayLogo": null,
+    "venue": {
+      "name": "Falcon Stadium",
+      "lat": 38.9967,
+      "lng": -104.8436
     },
     "missingVenue": false,
     "division": "fbs"
@@ -110,28 +110,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401767350",
-    "sourceId": 401767350,
-    "sourceWeek": 1,
-    "week": 2,
-    "date": "2025-08-30",
-    "day": "Saturday",
-    "kickoff": "1p",
-    "home": "Florida A&M",
-    "away": "Howard",
-    "homeDivision": "fcs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Hard Rock Stadium",
-      "lat": 25.958,
-      "lng": -80.2389
-    },
-    "missingVenue": false,
-    "division": "fcs"
-  },
-  {
     "id": "2025-ncaa-401752804",
     "sourceId": 401752804,
     "sourceWeek": 1,
@@ -152,6 +130,28 @@
     },
     "missingVenue": false,
     "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401767350",
+    "sourceId": 401767350,
+    "sourceWeek": 1,
+    "week": 2,
+    "date": "2025-08-30",
+    "day": "Saturday",
+    "kickoff": "1p",
+    "home": "Florida A&M",
+    "away": "Howard",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Hard Rock Stadium",
+      "lat": 25.958,
+      "lng": -80.2389
+    },
+    "missingVenue": false,
+    "division": "fcs"
   },
   {
     "id": "2025-ncaa-401752666",
@@ -264,6 +264,28 @@
     "division": "fbs"
   },
   {
+    "id": "2025-ncaa-401756851",
+    "sourceId": 401756851,
+    "sourceWeek": 1,
+    "week": 2,
+    "date": "2025-08-31",
+    "day": "Sunday",
+    "kickoff": "5p",
+    "home": "BYU",
+    "away": "Portland State",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2502.png",
+    "venue": {
+      "name": "LaVell Edwards Stadium",
+      "lat": 40.2578,
+      "lng": -111.6563
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
     "id": "2025-ncaa-401767070",
     "sourceId": 401767070,
     "sourceWeek": 1,
@@ -303,28 +325,6 @@
       "name": "DATCU Stadium",
       "lat": 33.2071,
       "lng": -97.1514
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2025-ncaa-401756851",
-    "sourceId": 401756851,
-    "sourceWeek": 1,
-    "week": 2,
-    "date": "2025-08-31",
-    "day": "Sunday",
-    "kickoff": "5p",
-    "home": "BYU",
-    "away": "Portland State",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2502.png",
-    "venue": {
-      "name": "LaVell Edwards Stadium",
-      "lat": 40.2578,
-      "lng": -111.6563
     },
     "missingVenue": false,
     "division": "fbs"
