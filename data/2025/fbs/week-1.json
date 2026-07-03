@@ -176,28 +176,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401767468",
-    "sourceId": 401767468,
-    "sourceWeek": 1,
-    "week": 1,
-    "date": "2025-08-28",
-    "day": "Thursday",
-    "kickoff": "4:30p",
-    "home": "Houston Christian",
-    "away": "Little Rock",
-    "homeDivision": "fcs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Husky Stadium",
-      "lat": 47.6504,
-      "lng": -122.3016
-    },
-    "missingVenue": false,
-    "division": "fcs"
-  },
-  {
     "id": "2025-ncaa-401756876",
     "sourceId": 401756876,
     "sourceWeek": 1,
@@ -218,6 +196,28 @@
     },
     "missingVenue": false,
     "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401767468",
+    "sourceId": 401767468,
+    "sourceWeek": 1,
+    "week": 1,
+    "date": "2025-08-28",
+    "day": "Thursday",
+    "kickoff": "4:30p",
+    "home": "Houston Christian",
+    "away": "Little Rock",
+    "homeDivision": "fcs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Husky Stadium",
+      "lat": 47.6504,
+      "lng": -122.3016
+    },
+    "missingVenue": false,
+    "division": "fcs"
   },
   {
     "id": "2025-ncaa-401756852",
@@ -308,28 +308,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401761589",
-    "sourceId": 401761589,
-    "sourceWeek": 1,
-    "week": 1,
-    "date": "2025-08-29",
-    "day": "Friday",
-    "kickoff": "4p",
-    "home": "Charlotte",
-    "away": "App State",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Bank of America Stadium",
-      "lat": 35.2258,
-      "lng": -80.8528
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401752802",
     "sourceId": 401752802,
     "sourceWeek": 1,
@@ -347,6 +325,28 @@
       "name": "Spartan Stadium",
       "lat": 37.3975,
       "lng": -121.8635
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401761589",
+    "sourceId": 401761589,
+    "sourceWeek": 1,
+    "week": 1,
+    "date": "2025-08-29",
+    "day": "Friday",
+    "kickoff": "4p",
+    "home": "Charlotte",
+    "away": "App State",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Bank of America Stadium",
+      "lat": 35.2258,
+      "lng": -80.8528
     },
     "missingVenue": false,
     "division": "fbs"
