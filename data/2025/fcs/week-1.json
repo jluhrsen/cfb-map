@@ -22,28 +22,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401767446",
-    "sourceId": 401767446,
-    "sourceWeek": 1,
-    "week": 1,
-    "date": "2025-08-28",
-    "day": "Thursday",
-    "kickoff": "3p",
-    "home": "Indiana State",
-    "away": "McKendree",
-    "homeDivision": "fcs",
-    "awayDivision": "d2",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Memorial Stadium",
-      "lat": 38.9628,
-      "lng": -95.2464
-    },
-    "missingVenue": false,
-    "division": "fcs"
-  },
-  {
     "id": "2025-ncaa-401762790",
     "sourceId": 401762790,
     "sourceWeek": 1,
@@ -66,23 +44,23 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401767468",
-    "sourceId": 401767468,
+    "id": "2025-ncaa-401767446",
+    "sourceId": 401767446,
     "sourceWeek": 1,
     "week": 1,
     "date": "2025-08-28",
     "day": "Thursday",
-    "kickoff": "4:30p",
-    "home": "Houston Christian",
-    "away": "Little Rock",
+    "kickoff": "3p",
+    "home": "Indiana State",
+    "away": "McKendree",
     "homeDivision": "fcs",
-    "awayDivision": "fbs",
+    "awayDivision": "d2",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Husky Stadium",
-      "lat": 47.6504,
-      "lng": -122.3016
+      "name": "Memorial Stadium",
+      "lat": 38.9628,
+      "lng": -95.2464
     },
     "missingVenue": false,
     "division": "fcs"
@@ -130,6 +108,28 @@
     },
     "missingVenue": false,
     "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401767468",
+    "sourceId": 401767468,
+    "sourceWeek": 1,
+    "week": 1,
+    "date": "2025-08-28",
+    "day": "Thursday",
+    "kickoff": "4:30p",
+    "home": "Houston Christian",
+    "away": "Little Rock",
+    "homeDivision": "fcs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Husky Stadium",
+      "lat": 47.6504,
+      "lng": -122.3016
+    },
+    "missingVenue": false,
+    "division": "fcs"
   },
   {
     "id": "2025-ncaa-401756852",

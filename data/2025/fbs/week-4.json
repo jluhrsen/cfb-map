@@ -132,28 +132,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752831",
-    "sourceId": 401752831,
-    "sourceWeek": 3,
-    "week": 4,
-    "date": "2025-09-13",
-    "day": "Saturday",
-    "kickoff": "9a",
-    "home": "Northwestern",
-    "away": "Oregon",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Lanny and Sharon Martin Stadium",
-      "lat": 34.361,
-      "lng": -103.2067
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401752838",
     "sourceId": 401752838,
     "sourceWeek": 3,
@@ -171,6 +149,28 @@
       "name": "SECU Stadium",
       "lat": 38.9941,
       "lng": -76.948
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401752831",
+    "sourceId": 401752831,
+    "sourceWeek": 3,
+    "week": 4,
+    "date": "2025-09-13",
+    "day": "Saturday",
+    "kickoff": "9a",
+    "home": "Northwestern",
+    "away": "Oregon",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Lanny and Sharon Martin Stadium",
+      "lat": 34.361,
+      "lng": -103.2067
     },
     "missingVenue": false,
     "division": "fbs"
@@ -220,6 +220,28 @@
     "division": "fbs"
   },
   {
+    "id": "2025-ncaa-401752833",
+    "sourceId": 401752833,
+    "sourceWeek": 3,
+    "week": 4,
+    "date": "2025-09-13",
+    "day": "Saturday",
+    "kickoff": "12:30p",
+    "home": "Rutgers",
+    "away": "Norfolk State",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "SHI Stadium",
+      "lat": 40.5139,
+      "lng": -74.4647
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
     "id": "2025-ncaa-401754639",
     "sourceId": 401754639,
     "sourceWeek": 3,
@@ -264,23 +286,23 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752705",
-    "sourceId": 401752705,
+    "id": "2025-ncaa-401752835",
+    "sourceId": 401752835,
     "sourceWeek": 3,
     "week": 4,
     "date": "2025-09-13",
     "day": "Saturday",
     "kickoff": "12:30p",
-    "home": "Tennessee",
-    "away": "Georgia",
+    "home": "Penn State",
+    "away": "Villanova",
     "homeDivision": "fbs",
-    "awayDivision": "fbs",
+    "awayDivision": "fcs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Neyland Stadium",
-      "lat": 35.9551,
-      "lng": -83.9252
+      "name": "Beaver Stadium",
+      "lat": 40.8122,
+      "lng": -77.8561
     },
     "missingVenue": false,
     "division": "fbs"
@@ -330,45 +352,23 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752835",
-    "sourceId": 401752835,
+    "id": "2025-ncaa-401752705",
+    "sourceId": 401752705,
     "sourceWeek": 3,
     "week": 4,
     "date": "2025-09-13",
     "day": "Saturday",
     "kickoff": "12:30p",
-    "home": "Penn State",
-    "away": "Villanova",
+    "home": "Tennessee",
+    "away": "Georgia",
     "homeDivision": "fbs",
-    "awayDivision": "fcs",
+    "awayDivision": "fbs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Beaver Stadium",
-      "lat": 40.8122,
-      "lng": -77.8561
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2025-ncaa-401752833",
-    "sourceId": 401752833,
-    "sourceWeek": 3,
-    "week": 4,
-    "date": "2025-09-13",
-    "day": "Saturday",
-    "kickoff": "12:30p",
-    "home": "Rutgers",
-    "away": "Norfolk State",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "SHI Stadium",
-      "lat": 40.5139,
-      "lng": -74.4647
+      "name": "Neyland Stadium",
+      "lat": 35.9551,
+      "lng": -83.9252
     },
     "missingVenue": false,
     "division": "fbs"
@@ -506,28 +506,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752827",
-    "sourceId": 401752827,
-    "sourceWeek": 3,
-    "week": 4,
-    "date": "2025-09-13",
-    "day": "Saturday",
-    "kickoff": "4p",
-    "home": "Ohio State",
-    "away": "Ohio",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Ohio Stadium",
-      "lat": 40.0018,
-      "lng": -83.0197
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401752829",
     "sourceId": 401752829,
     "sourceWeek": 3,
@@ -550,23 +528,23 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752707",
-    "sourceId": 401752707,
+    "id": "2025-ncaa-401752827",
+    "sourceId": 401752827,
     "sourceWeek": 3,
     "week": 4,
     "date": "2025-09-13",
     "day": "Saturday",
-    "kickoff": "4:30p",
-    "home": "Notre Dame",
-    "away": "Texas A&M",
+    "kickoff": "4p",
+    "home": "Ohio State",
+    "away": "Ohio",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Notre Dame Stadium",
-      "lat": 41.6997,
-      "lng": -86.2347
+      "name": "Ohio Stadium",
+      "lat": 40.0018,
+      "lng": -83.0197
     },
     "missingVenue": false,
     "division": "fbs"
@@ -594,28 +572,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752830",
-    "sourceId": 401752830,
-    "sourceWeek": 3,
-    "week": 4,
-    "date": "2025-09-13",
-    "day": "Saturday",
-    "kickoff": "4:30p",
-    "home": "Iowa",
-    "away": "Massachusetts",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Kinnick Stadium",
-      "lat": 41.6581,
-      "lng": -91.5509
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401752698",
     "sourceId": 401752698,
     "sourceWeek": 3,
@@ -633,6 +589,50 @@
       "name": "Kroger Field",
       "lat": 38.022,
       "lng": -84.5037
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401752707",
+    "sourceId": 401752707,
+    "sourceWeek": 3,
+    "week": 4,
+    "date": "2025-09-13",
+    "day": "Saturday",
+    "kickoff": "4:30p",
+    "home": "Notre Dame",
+    "away": "Texas A&M",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Notre Dame Stadium",
+      "lat": 41.6997,
+      "lng": -86.2347
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401752830",
+    "sourceId": 401752830,
+    "sourceWeek": 3,
+    "week": 4,
+    "date": "2025-09-13",
+    "day": "Saturday",
+    "kickoff": "4:30p",
+    "home": "Iowa",
+    "away": "Massachusetts",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Kinnick Stadium",
+      "lat": 41.6581,
+      "lng": -91.5509
     },
     "missingVenue": false,
     "division": "fbs"
