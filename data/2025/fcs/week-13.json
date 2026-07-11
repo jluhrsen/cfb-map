@@ -66,23 +66,23 @@
     "division": "fcs"
   },
   {
-    "id": "2025-ncaa-401767600",
-    "sourceId": 401767600,
+    "id": "2025-ncaa-401767067",
+    "sourceId": 401767067,
     "sourceWeek": 12,
     "week": 13,
     "date": "2025-11-15",
     "day": "Saturday",
     "kickoff": "1p",
-    "home": "San Diego",
-    "away": "Butler",
+    "home": "Eastern Washington",
+    "away": "Northern Colorado",
     "homeDivision": "fcs",
     "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/301.png",
-    "awayLogo": null,
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/331.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2458.png",
     "venue": {
-      "name": "Torero Stadium",
-      "lat": 32.7741,
-      "lng": -117.1833
+      "name": "Roos Field",
+      "lat": 47.4901,
+      "lng": -117.5888
     },
     "missingVenue": false,
     "division": "fcs"
@@ -110,23 +110,23 @@
     "division": "fcs"
   },
   {
-    "id": "2025-ncaa-401767067",
-    "sourceId": 401767067,
+    "id": "2025-ncaa-401767600",
+    "sourceId": 401767600,
     "sourceWeek": 12,
     "week": 13,
     "date": "2025-11-15",
     "day": "Saturday",
     "kickoff": "1p",
-    "home": "Eastern Washington",
-    "away": "Northern Colorado",
+    "home": "San Diego",
+    "away": "Butler",
     "homeDivision": "fcs",
     "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/331.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2458.png",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/301.png",
+    "awayLogo": null,
     "venue": {
-      "name": "Roos Field",
-      "lat": 47.4901,
-      "lng": -117.5888
+      "name": "Torero Stadium",
+      "lat": 32.7741,
+      "lng": -117.1833
     },
     "missingVenue": false,
     "division": "fcs"

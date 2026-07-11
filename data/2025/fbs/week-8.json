@@ -66,6 +66,50 @@
     "division": "fbs"
   },
   {
+    "id": "2025-ncaa-401752863",
+    "sourceId": 401752863,
+    "sourceWeek": 7,
+    "week": 8,
+    "date": "2025-10-11",
+    "day": "Saturday",
+    "kickoff": "9a",
+    "home": "Michigan State",
+    "away": "UCLA",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Spartan Stadium",
+      "lat": 37.3975,
+      "lng": -121.8635
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401754559",
+    "sourceId": 401754559,
+    "sourceWeek": 7,
+    "week": 8,
+    "date": "2025-10-11",
+    "day": "Saturday",
+    "kickoff": "9a",
+    "home": "Florida State",
+    "away": "Pittsburgh",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Doak Campbell Stadium",
+      "lat": 30.4384,
+      "lng": -84.3045
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
     "id": "2025-ncaa-401752734",
     "sourceId": 401752734,
     "sourceWeek": 7,
@@ -154,50 +198,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752863",
-    "sourceId": 401752863,
-    "sourceWeek": 7,
-    "week": 8,
-    "date": "2025-10-11",
-    "day": "Saturday",
-    "kickoff": "9a",
-    "home": "Michigan State",
-    "away": "UCLA",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Spartan Stadium",
-      "lat": 37.3975,
-      "lng": -121.8635
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2025-ncaa-401754559",
-    "sourceId": 401754559,
-    "sourceWeek": 7,
-    "week": 8,
-    "date": "2025-10-11",
-    "day": "Saturday",
-    "kickoff": "9a",
-    "home": "Florida State",
-    "away": "Pittsburgh",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Doak Campbell Stadium",
-      "lat": 30.4384,
-      "lng": -84.3045
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401762836",
     "sourceId": 401762836,
     "sourceWeek": 7,
@@ -215,6 +215,28 @@
       "name": "Rynearson Stadium",
       "lat": 42.2473,
       "lng": -83.6253
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401752866",
+    "sourceId": 401752866,
+    "sourceWeek": 7,
+    "week": 8,
+    "date": "2025-10-11",
+    "day": "Saturday",
+    "kickoff": "12:30p",
+    "home": "Penn State",
+    "away": "Northwestern",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Beaver Stadium",
+      "lat": 40.8122,
+      "lng": -77.8561
     },
     "missingVenue": false,
     "division": "fbs"
@@ -264,28 +286,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401754562",
-    "sourceId": 401754562,
-    "sourceWeek": 7,
-    "week": 8,
-    "date": "2025-10-11",
-    "day": "Saturday",
-    "kickoff": "12:30p",
-    "home": "Notre Dame",
-    "away": "NC State",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Notre Dame Stadium",
-      "lat": 41.6997,
-      "lng": -86.2347
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401754563",
     "sourceId": 401754563,
     "sourceWeek": 7,
@@ -308,6 +308,28 @@
     "division": "fbs"
   },
   {
+    "id": "2025-ncaa-401754562",
+    "sourceId": 401754562,
+    "sourceWeek": 7,
+    "week": 8,
+    "date": "2025-10-11",
+    "day": "Saturday",
+    "kickoff": "12:30p",
+    "home": "Notre Dame",
+    "away": "NC State",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Notre Dame Stadium",
+      "lat": 41.6997,
+      "lng": -86.2347
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
     "id": "2025-ncaa-401760386",
     "sourceId": 401760386,
     "sourceWeek": 7,
@@ -325,28 +347,6 @@
       "name": "Allegiant Stadium",
       "lat": 36.0909,
       "lng": -115.1833
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2025-ncaa-401752866",
-    "sourceId": 401752866,
-    "sourceWeek": 7,
-    "week": 8,
-    "date": "2025-10-11",
-    "day": "Saturday",
-    "kickoff": "12:30p",
-    "home": "Penn State",
-    "away": "Northwestern",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Beaver Stadium",
-      "lat": 40.8122,
-      "lng": -77.8561
     },
     "missingVenue": false,
     "division": "fbs"
@@ -418,28 +418,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752737",
-    "sourceId": 401752737,
-    "sourceWeek": 7,
-    "week": 8,
-    "date": "2025-10-11",
-    "day": "Saturday",
-    "kickoff": "4p",
-    "home": "Texas A&M",
-    "away": "Florida",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Kyle Field",
-      "lat": 30.61,
-      "lng": -96.34
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401760391",
     "sourceId": 401760391,
     "sourceWeek": 7,
@@ -462,6 +440,28 @@
     "division": "fbs"
   },
   {
+    "id": "2025-ncaa-401752737",
+    "sourceId": 401752737,
+    "sourceWeek": 7,
+    "week": 8,
+    "date": "2025-10-11",
+    "day": "Saturday",
+    "kickoff": "4p",
+    "home": "Texas A&M",
+    "away": "Florida",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Kyle Field",
+      "lat": 30.61,
+      "lng": -96.34
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
     "id": "2025-ncaa-401752869",
     "sourceId": 401752869,
     "sourceWeek": 7,
@@ -479,28 +479,6 @@
       "name": "Camp Randall Stadium",
       "lat": 43.0703,
       "lng": -89.4124
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2025-ncaa-401752731",
-    "sourceId": 401752731,
-    "sourceWeek": 7,
-    "week": 8,
-    "date": "2025-10-11",
-    "day": "Saturday",
-    "kickoff": "4:30p",
-    "home": "Auburn",
-    "away": "Georgia",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Jordan-Hare Stadium",
-      "lat": 32.6017,
-      "lng": -85.4893
     },
     "missingVenue": false,
     "division": "fbs"
@@ -545,6 +523,28 @@
       "name": "Los Angeles Memorial Coliseum",
       "lat": 34.0141,
       "lng": -118.2879
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401752731",
+    "sourceId": 401752731,
+    "sourceWeek": 7,
+    "week": 8,
+    "date": "2025-10-11",
+    "day": "Saturday",
+    "kickoff": "4:30p",
+    "home": "Auburn",
+    "away": "Georgia",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Jordan-Hare Stadium",
+      "lat": 32.6017,
+      "lng": -85.4893
     },
     "missingVenue": false,
     "division": "fbs"

@@ -44,6 +44,28 @@
     "division": "fbs"
   },
   {
+    "id": "2025-ncaa-401752839",
+    "sourceId": 401752839,
+    "sourceWeek": 3,
+    "week": 4,
+    "date": "2025-09-13",
+    "day": "Saturday",
+    "kickoff": "9a",
+    "home": "Michigan",
+    "away": "Central Michigan",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2117.png",
+    "venue": {
+      "name": "Michigan Stadium",
+      "lat": 42.2658,
+      "lng": -83.7487
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
     "id": "2025-ncaa-401752828",
     "sourceId": 401752828,
     "sourceWeek": 3,
@@ -110,23 +132,23 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752839",
-    "sourceId": 401752839,
+    "id": "2025-ncaa-401752831",
+    "sourceId": 401752831,
     "sourceWeek": 3,
     "week": 4,
     "date": "2025-09-13",
     "day": "Saturday",
     "kickoff": "9a",
-    "home": "Michigan",
-    "away": "Central Michigan",
+    "home": "Northwestern",
+    "away": "Oregon",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
     "homeLogo": null,
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2117.png",
+    "awayLogo": null,
     "venue": {
-      "name": "Michigan Stadium",
-      "lat": 42.2658,
-      "lng": -83.7487
+      "name": "Lanny and Sharon Martin Stadium",
+      "lat": 34.361,
+      "lng": -103.2067
     },
     "missingVenue": false,
     "division": "fbs"
@@ -149,28 +171,6 @@
       "name": "SECU Stadium",
       "lat": 38.9941,
       "lng": -76.948
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2025-ncaa-401752831",
-    "sourceId": 401752831,
-    "sourceWeek": 3,
-    "week": 4,
-    "date": "2025-09-13",
-    "day": "Saturday",
-    "kickoff": "9a",
-    "home": "Northwestern",
-    "away": "Oregon",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Lanny and Sharon Martin Stadium",
-      "lat": 34.361,
-      "lng": -103.2067
     },
     "missingVenue": false,
     "division": "fbs"
@@ -220,72 +220,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752835",
-    "sourceId": 401752835,
-    "sourceWeek": 3,
-    "week": 4,
-    "date": "2025-09-13",
-    "day": "Saturday",
-    "kickoff": "12:30p",
-    "home": "Penn State",
-    "away": "Villanova",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Beaver Stadium",
-      "lat": 40.8122,
-      "lng": -77.8561
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2025-ncaa-401754639",
-    "sourceId": 401754639,
-    "sourceWeek": 3,
-    "week": 4,
-    "date": "2025-09-13",
-    "day": "Saturday",
-    "kickoff": "12:30p",
-    "home": "North Carolina",
-    "away": "Richmond",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Kenan Stadium",
-      "lat": 35.9096,
-      "lng": -79.0478
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2025-ncaa-401762467",
-    "sourceId": 401762467,
-    "sourceWeek": 3,
-    "week": 4,
-    "date": "2025-09-13",
-    "day": "Saturday",
-    "kickoff": "12:30p",
-    "home": "UTSA",
-    "away": "Incarnate Word",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Alamodome",
-      "lat": 29.4191,
-      "lng": -98.4737
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401752705",
     "sourceId": 401752705,
     "sourceWeek": 3,
@@ -330,6 +264,28 @@
     "division": "fbs"
   },
   {
+    "id": "2025-ncaa-401752835",
+    "sourceId": 401752835,
+    "sourceWeek": 3,
+    "week": 4,
+    "date": "2025-09-13",
+    "day": "Saturday",
+    "kickoff": "12:30p",
+    "home": "Penn State",
+    "away": "Villanova",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Beaver Stadium",
+      "lat": 40.8122,
+      "lng": -77.8561
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
     "id": "2025-ncaa-401752949",
     "sourceId": 401752949,
     "sourceWeek": 3,
@@ -347,6 +303,50 @@
       "name": "DATCU Stadium",
       "lat": 33.2071,
       "lng": -97.1514
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401762467",
+    "sourceId": 401762467,
+    "sourceWeek": 3,
+    "week": 4,
+    "date": "2025-09-13",
+    "day": "Saturday",
+    "kickoff": "12:30p",
+    "home": "UTSA",
+    "away": "Incarnate Word",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Alamodome",
+      "lat": 29.4191,
+      "lng": -98.4737
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401754639",
+    "sourceId": 401754639,
+    "sourceWeek": 3,
+    "week": 4,
+    "date": "2025-09-13",
+    "day": "Saturday",
+    "kickoff": "12:30p",
+    "home": "North Carolina",
+    "away": "Richmond",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Kenan Stadium",
+      "lat": 35.9096,
+      "lng": -79.0478
     },
     "missingVenue": false,
     "division": "fbs"
@@ -440,28 +440,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401757256",
-    "sourceId": 401757256,
-    "sourceWeek": 3,
-    "week": 4,
-    "date": "2025-09-13",
-    "day": "Saturday",
-    "kickoff": "2p",
-    "home": "Bowling Green",
-    "away": "Liberty",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Doyt L. Perry Stadium",
-      "lat": 41.375,
-      "lng": -83.635
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401757258",
     "sourceId": 401757258,
     "sourceWeek": 3,
@@ -484,45 +462,23 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401754536",
-    "sourceId": 401754536,
+    "id": "2025-ncaa-401757256",
+    "sourceId": 401757256,
     "sourceWeek": 3,
     "week": 4,
     "date": "2025-09-13",
     "day": "Saturday",
-    "kickoff": "4p",
-    "home": "Virginia Tech",
-    "away": "Old Dominion",
+    "kickoff": "2p",
+    "home": "Bowling Green",
+    "away": "Liberty",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Lane Stadium",
-      "lat": 37.2206,
-      "lng": -80.4183
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2025-ncaa-401752827",
-    "sourceId": 401752827,
-    "sourceWeek": 3,
-    "week": 4,
-    "date": "2025-09-13",
-    "day": "Saturday",
-    "kickoff": "4p",
-    "home": "Ohio State",
-    "away": "Ohio",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Ohio Stadium",
-      "lat": 40.0018,
-      "lng": -83.0197
+      "name": "Doyt L. Perry Stadium",
+      "lat": 41.375,
+      "lng": -83.635
     },
     "missingVenue": false,
     "division": "fbs"
@@ -550,6 +506,50 @@
     "division": "fbs"
   },
   {
+    "id": "2025-ncaa-401752827",
+    "sourceId": 401752827,
+    "sourceWeek": 3,
+    "week": 4,
+    "date": "2025-09-13",
+    "day": "Saturday",
+    "kickoff": "4p",
+    "home": "Ohio State",
+    "away": "Ohio",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Ohio Stadium",
+      "lat": 40.0018,
+      "lng": -83.0197
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401754536",
+    "sourceId": 401754536,
+    "sourceWeek": 3,
+    "week": 4,
+    "date": "2025-09-13",
+    "day": "Saturday",
+    "kickoff": "4p",
+    "home": "Virginia Tech",
+    "away": "Old Dominion",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Lane Stadium",
+      "lat": 37.2206,
+      "lng": -80.4183
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
     "id": "2025-ncaa-401752698",
     "sourceId": 401752698,
     "sourceWeek": 3,
@@ -572,23 +572,23 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752707",
-    "sourceId": 401752707,
+    "id": "2025-ncaa-401752830",
+    "sourceId": 401752830,
     "sourceWeek": 3,
     "week": 4,
     "date": "2025-09-13",
     "day": "Saturday",
     "kickoff": "4:30p",
-    "home": "Notre Dame",
-    "away": "Texas A&M",
+    "home": "Iowa",
+    "away": "Massachusetts",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Notre Dame Stadium",
-      "lat": 41.6997,
-      "lng": -86.2347
+      "name": "Kinnick Stadium",
+      "lat": 41.6581,
+      "lng": -91.5509
     },
     "missingVenue": false,
     "division": "fbs"
@@ -616,23 +616,23 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752830",
-    "sourceId": 401752830,
+    "id": "2025-ncaa-401752707",
+    "sourceId": 401752707,
     "sourceWeek": 3,
     "week": 4,
     "date": "2025-09-13",
     "day": "Saturday",
     "kickoff": "4:30p",
-    "home": "Iowa",
-    "away": "Massachusetts",
+    "home": "Notre Dame",
+    "away": "Texas A&M",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Kinnick Stadium",
-      "lat": 41.6581,
-      "lng": -91.5509
+      "name": "Notre Dame Stadium",
+      "lat": 41.6997,
+      "lng": -86.2347
     },
     "missingVenue": false,
     "division": "fbs"
