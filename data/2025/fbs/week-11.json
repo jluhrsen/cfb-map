@@ -1,66 +1,22 @@
 [
   {
-    "id": "2025-ncaa-401760401",
-    "sourceId": 401760401,
+    "id": "2025-ncaa-401752758",
+    "sourceId": 401752758,
     "sourceWeek": 10,
     "week": 11,
     "date": "2025-11-01",
     "day": "Saturday",
     "kickoff": "9a",
-    "home": "Air Force",
-    "away": "Army",
+    "home": "Texas",
+    "away": "Vanderbilt",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2005.png",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
     "awayLogo": null,
     "venue": {
-      "name": "Falcon Stadium",
-      "lat": 38.9967,
-      "lng": -104.8436
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2025-ncaa-401754577",
-    "sourceId": 401754577,
-    "sourceWeek": 10,
-    "week": 11,
-    "date": "2025-11-01",
-    "day": "Saturday",
-    "kickoff": "9a",
-    "home": "Clemson",
-    "away": "Duke",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Memorial Stadium (Clemson, SC)",
-      "lat": 34.6784,
-      "lng": -82.8444
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2025-ncaa-401762849",
-    "sourceId": 401762849,
-    "sourceWeek": 10,
-    "week": 11,
-    "date": "2025-11-01",
-    "day": "Saturday",
-    "kickoff": "9a",
-    "home": "Bowling Green",
-    "away": "Buffalo",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Doyt L. Perry Stadium",
-      "lat": 41.375,
-      "lng": -83.635
+      "name": "DKR-Texas Memorial Stadium",
+      "lat": 30.2839,
+      "lng": -97.7325
     },
     "missingVenue": false,
     "division": "fbs"
@@ -88,23 +44,23 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752758",
-    "sourceId": 401752758,
+    "id": "2025-ncaa-401752891",
+    "sourceId": 401752891,
     "sourceWeek": 10,
     "week": 11,
     "date": "2025-11-01",
     "day": "Saturday",
     "kickoff": "9a",
-    "home": "Texas",
-    "away": "Vanderbilt",
+    "home": "Illinois",
+    "away": "Rutgers",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
+    "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "DKR-Texas Memorial Stadium",
-      "lat": 30.2839,
-      "lng": -97.7325
+      "name": "Memorial Stadium (Champaign, IL)",
+      "lat": 40.0993,
+      "lng": -88.2358
     },
     "missingVenue": false,
     "division": "fbs"
@@ -132,6 +88,72 @@
     "division": "fbs"
   },
   {
+    "id": "2025-ncaa-401762849",
+    "sourceId": 401762849,
+    "sourceWeek": 10,
+    "week": 11,
+    "date": "2025-11-01",
+    "day": "Saturday",
+    "kickoff": "9a",
+    "home": "Bowling Green",
+    "away": "Buffalo",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Doyt L. Perry Stadium",
+      "lat": 41.375,
+      "lng": -83.635
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401754577",
+    "sourceId": 401754577,
+    "sourceWeek": 10,
+    "week": 11,
+    "date": "2025-11-01",
+    "day": "Saturday",
+    "kickoff": "9a",
+    "home": "Clemson",
+    "away": "Duke",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Memorial Stadium (Clemson, SC)",
+      "lat": 34.6784,
+      "lng": -82.8444
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401760401",
+    "sourceId": 401760401,
+    "sourceWeek": 10,
+    "week": 11,
+    "date": "2025-11-01",
+    "day": "Saturday",
+    "kickoff": "9a",
+    "home": "Air Force",
+    "away": "Army",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2005.png",
+    "awayLogo": null,
+    "venue": {
+      "name": "Falcon Stadium",
+      "lat": 38.9967,
+      "lng": -104.8436
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
     "id": "2025-ncaa-401752889",
     "sourceId": 401752889,
     "sourceWeek": 10,
@@ -149,28 +171,6 @@
       "name": "Ohio Stadium",
       "lat": 40.0018,
       "lng": -83.0197
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2025-ncaa-401752891",
-    "sourceId": 401752891,
-    "sourceWeek": 10,
-    "week": 11,
-    "date": "2025-11-01",
-    "day": "Saturday",
-    "kickoff": "9a",
-    "home": "Illinois",
-    "away": "Rutgers",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Memorial Stadium (Champaign, IL)",
-      "lat": 40.0993,
-      "lng": -88.2358
     },
     "missingVenue": false,
     "division": "fbs"
@@ -308,28 +308,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401760402",
-    "sourceId": 401760402,
-    "sourceWeek": 10,
-    "week": 11,
-    "date": "2025-11-01",
-    "day": "Saturday",
-    "kickoff": "12:30p",
-    "home": "Boise State",
-    "away": "Fresno State",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/278.png",
-    "venue": {
-      "name": "Albertsons Stadium",
-      "lat": 43.6029,
-      "lng": -116.1958
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401754582",
     "sourceId": 401754582,
     "sourceWeek": 10,
@@ -347,6 +325,28 @@
       "name": "Stanford Stadium",
       "lat": 37.4344,
       "lng": -122.1614
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401760402",
+    "sourceId": 401760402,
+    "sourceWeek": 10,
+    "week": 11,
+    "date": "2025-11-01",
+    "day": "Saturday",
+    "kickoff": "12:30p",
+    "home": "Boise State",
+    "away": "Fresno State",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/278.png",
+    "venue": {
+      "name": "Albertsons Stadium",
+      "lat": 43.6029,
+      "lng": -116.1958
     },
     "missingVenue": false,
     "division": "fbs"
@@ -418,23 +418,23 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752890",
-    "sourceId": 401752890,
+    "id": "2025-ncaa-401756937",
+    "sourceId": 401756937,
     "sourceWeek": 10,
     "week": 11,
     "date": "2025-11-01",
     "day": "Saturday",
     "kickoff": "4p",
-    "home": "Michigan",
-    "away": "Purdue",
+    "home": "Colorado",
+    "away": "Arizona",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
-    "homeLogo": null,
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/38.png",
     "awayLogo": null,
     "venue": {
-      "name": "Michigan Stadium",
-      "lat": 42.2658,
-      "lng": -83.7487
+      "name": "Folsom Field",
+      "lat": 40.0096,
+      "lng": -105.2644
     },
     "missingVenue": false,
     "division": "fbs"
@@ -462,89 +462,45 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401756937",
-    "sourceId": 401756937,
+    "id": "2025-ncaa-401752890",
+    "sourceId": 401752890,
     "sourceWeek": 10,
     "week": 11,
     "date": "2025-11-01",
     "day": "Saturday",
     "kickoff": "4p",
-    "home": "Colorado",
-    "away": "Arizona",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/38.png",
-    "awayLogo": null,
-    "venue": {
-      "name": "Folsom Field",
-      "lat": 40.0096,
-      "lng": -105.2644
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2025-ncaa-401752943",
-    "sourceId": 401752943,
-    "sourceWeek": 10,
-    "week": 11,
-    "date": "2025-11-01",
-    "day": "Saturday",
-    "kickoff": "4:30p",
-    "home": "Oregon State",
-    "away": "Washington State",
+    "home": "Michigan",
+    "away": "Purdue",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Reser Stadium",
-      "lat": 44.559,
-      "lng": -123.2814
+      "name": "Michigan Stadium",
+      "lat": 42.2658,
+      "lng": -83.7487
     },
     "missingVenue": false,
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752754",
-    "sourceId": 401752754,
+    "id": "2025-ncaa-401752892",
+    "sourceId": 401752892,
     "sourceWeek": 10,
     "week": 11,
     "date": "2025-11-01",
     "day": "Saturday",
     "kickoff": "4:30p",
-    "home": "Auburn",
-    "away": "Kentucky",
+    "home": "Nebraska",
+    "away": "USC",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
     "homeLogo": null,
-    "awayLogo": null,
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/30.png",
     "venue": {
-      "name": "Jordan-Hare Stadium",
-      "lat": 32.6017,
-      "lng": -85.4893
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2025-ncaa-401754578",
-    "sourceId": 401754578,
-    "sourceWeek": 10,
-    "week": 11,
-    "date": "2025-11-01",
-    "day": "Saturday",
-    "kickoff": "4:30p",
-    "home": "Florida State",
-    "away": "Wake Forest",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Doak Campbell Stadium",
-      "lat": 30.4384,
-      "lng": -84.3045
+      "name": "Memorial Stadium (Lincoln, NE)",
+      "lat": 40.8202,
+      "lng": -96.7055
     },
     "missingVenue": false,
     "division": "fbs"
@@ -572,23 +528,67 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752892",
-    "sourceId": 401752892,
+    "id": "2025-ncaa-401752943",
+    "sourceId": 401752943,
     "sourceWeek": 10,
     "week": 11,
     "date": "2025-11-01",
     "day": "Saturday",
     "kickoff": "4:30p",
-    "home": "Nebraska",
-    "away": "USC",
+    "home": "Oregon State",
+    "away": "Washington State",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
     "homeLogo": null,
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/30.png",
+    "awayLogo": null,
     "venue": {
-      "name": "Memorial Stadium (Lincoln, NE)",
-      "lat": 40.8202,
-      "lng": -96.7055
+      "name": "Reser Stadium",
+      "lat": 44.559,
+      "lng": -123.2814
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401754578",
+    "sourceId": 401754578,
+    "sourceWeek": 10,
+    "week": 11,
+    "date": "2025-11-01",
+    "day": "Saturday",
+    "kickoff": "4:30p",
+    "home": "Florida State",
+    "away": "Wake Forest",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Doak Campbell Stadium",
+      "lat": 30.4384,
+      "lng": -84.3045
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401752754",
+    "sourceId": 401752754,
+    "sourceWeek": 10,
+    "week": 11,
+    "date": "2025-11-01",
+    "day": "Saturday",
+    "kickoff": "4:30p",
+    "home": "Auburn",
+    "away": "Kentucky",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Jordan-Hare Stadium",
+      "lat": 32.6017,
+      "lng": -85.4893
     },
     "missingVenue": false,
     "division": "fbs"

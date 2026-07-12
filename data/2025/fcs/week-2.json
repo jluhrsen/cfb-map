@@ -44,28 +44,6 @@
     "division": "fcs"
   },
   {
-    "id": "2025-ncaa-401756853",
-    "sourceId": 401756853,
-    "sourceWeek": 1,
-    "week": 2,
-    "date": "2025-08-30",
-    "day": "Saturday",
-    "kickoff": "12:30p",
-    "home": "Iowa State",
-    "away": "South Dakota",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Jack Trice Stadium",
-      "lat": 42.014,
-      "lng": -93.6356
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401762793",
     "sourceId": 401762793,
     "sourceWeek": 1,
@@ -110,26 +88,26 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401767350",
-    "sourceId": 401767350,
+    "id": "2025-ncaa-401756853",
+    "sourceId": 401756853,
     "sourceWeek": 1,
     "week": 2,
     "date": "2025-08-30",
     "day": "Saturday",
-    "kickoff": "1p",
-    "home": "Florida A&M",
-    "away": "Howard",
-    "homeDivision": "fcs",
+    "kickoff": "12:30p",
+    "home": "Iowa State",
+    "away": "South Dakota",
+    "homeDivision": "fbs",
     "awayDivision": "fcs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Hard Rock Stadium",
-      "lat": 25.958,
-      "lng": -80.2389
+      "name": "Jack Trice Stadium",
+      "lat": 42.014,
+      "lng": -93.6356
     },
     "missingVenue": false,
-    "division": "fcs"
+    "division": "fbs"
   },
   {
     "id": "2025-ncaa-401752804",
@@ -152,6 +130,28 @@
     },
     "missingVenue": false,
     "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401767350",
+    "sourceId": 401767350,
+    "sourceWeek": 1,
+    "week": 2,
+    "date": "2025-08-30",
+    "day": "Saturday",
+    "kickoff": "1p",
+    "home": "Florida A&M",
+    "away": "Howard",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Hard Rock Stadium",
+      "lat": 25.958,
+      "lng": -80.2389
+    },
+    "missingVenue": false,
+    "division": "fcs"
   },
   {
     "id": "2025-ncaa-401752666",

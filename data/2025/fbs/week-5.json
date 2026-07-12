@@ -22,6 +22,28 @@
     "division": "fbs"
   },
   {
+    "id": "2025-ncaa-401752845",
+    "sourceId": 401752845,
+    "sourceWeek": 4,
+    "week": 5,
+    "date": "2025-09-20",
+    "day": "Saturday",
+    "kickoff": "9a",
+    "home": "Wisconsin",
+    "away": "Maryland",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Camp Randall Stadium",
+      "lat": 43.0703,
+      "lng": -89.4124
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
     "id": "2025-ncaa-401754617",
     "sourceId": 401754617,
     "sourceWeek": 4,
@@ -83,28 +105,6 @@
       "name": "Raymond James Stadium",
       "lat": 27.9759,
       "lng": -82.5033
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2025-ncaa-401752845",
-    "sourceId": 401752845,
-    "sourceWeek": 4,
-    "week": 5,
-    "date": "2025-09-20",
-    "day": "Saturday",
-    "kickoff": "9a",
-    "home": "Wisconsin",
-    "away": "Maryland",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Camp Randall Stadium",
-      "lat": 43.0703,
-      "lng": -89.4124
     },
     "missingVenue": false,
     "division": "fbs"
