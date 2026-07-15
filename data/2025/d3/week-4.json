@@ -1,22 +1,22 @@
 [
   {
-    "id": "2025-ncaa-401777139",
-    "sourceId": 401777139,
+    "id": "2025-ncaa-401777153",
+    "sourceId": 401777153,
     "sourceWeek": 3,
     "week": 4,
     "date": "2025-09-13",
     "day": "Saturday",
     "kickoff": "1p",
-    "home": "Lewis & Clark College",
-    "away": "NEWBERG",
+    "home": "Willamette",
+    "away": "Pacific (OR)",
     "homeDivision": "d3",
     "awayDivision": "d3",
-    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/2i62768ao3nlh5wq.png",
-    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/mi23750dj6i6tf21.png",
+    "homeLogo": "https://lh3.googleusercontent.com/6tOuPbn-4tztWUJrhNcODPR25WMo6bats7oaCuwY5KNzSTZneTGpKn-Z6PvWnJ0lNSE8hu7916kIwJhR3qYlbVWPYUo3NLgS2EM",
+    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/lkxbjwugyaf69m59.png",
     "venue": {
-      "name": "Griswold Stadium",
-      "lat": 45.4519,
-      "lng": -122.6727
+      "name": "McCulloch Stadium",
+      "lat": 44.9388,
+      "lng": -123.0355
     },
     "missingVenue": false,
     "division": "d3"
@@ -44,23 +44,23 @@
     "division": "d3"
   },
   {
-    "id": "2025-ncaa-401777153",
-    "sourceId": 401777153,
+    "id": "2025-ncaa-401777139",
+    "sourceId": 401777139,
     "sourceWeek": 3,
     "week": 4,
     "date": "2025-09-13",
     "day": "Saturday",
     "kickoff": "1p",
-    "home": "Willamette",
-    "away": "Pacific (OR)",
+    "home": "Lewis & Clark College",
+    "away": "NEWBERG",
     "homeDivision": "d3",
     "awayDivision": "d3",
-    "homeLogo": "https://lh3.googleusercontent.com/6tOuPbn-4tztWUJrhNcODPR25WMo6bats7oaCuwY5KNzSTZneTGpKn-Z6PvWnJ0lNSE8hu7916kIwJhR3qYlbVWPYUo3NLgS2EM",
-    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/lkxbjwugyaf69m59.png",
+    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/2i62768ao3nlh5wq.png",
+    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/mi23750dj6i6tf21.png",
     "venue": {
-      "name": "McCulloch Stadium",
-      "lat": 44.9388,
-      "lng": -123.0355
+      "name": "Griswold Stadium",
+      "lat": 45.4519,
+      "lng": -122.6727
     },
     "missingVenue": false,
     "division": "d3"
