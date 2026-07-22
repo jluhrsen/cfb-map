@@ -120,6 +120,13 @@ function isUnsetNCAAKickoff(dateStr) {
   return /T0[45]:00:00(?:\.000)?Z$/.test(dateStr);
 }
 
+function getGameDate(startDate) {
+  if (isUnsetNCAAKickoff(startDate)) {
+    return startDate.split('T')[0];
+  }
+  return new Date(startDate).toLocaleDateString('en-CA', { timeZone: DISPLAY_TIME_ZONE });
+}
+
 function normalizeNCAADivision(classification, fallback) {
   return NCAA_DIVISION_MAP[classification] || fallback || 'unknown';
 }
@@ -203,7 +210,7 @@ function normalizeNCAAGame(game, seasonStart) {
   const awayDivision = normalizeNCAADivision(game.awayClassification, game.division);
   const gameDivision = homeDivision;
   const week = calculateWeek(game.startDate, seasonStart);
-  const date = game.startDate.split('T')[0];
+  const date = getGameDate(game.startDate);
   const kickoffOverride = findKickoffOverride(game.season, date, game.homeTeam, game.awayTeam);
 
   return {
@@ -212,7 +219,7 @@ function normalizeNCAAGame(game, seasonStart) {
     sourceWeek: game.week || null,
     week,
     date,
-    day: getDayOfWeek(game.startDate),
+    day: getDayOfWeek(date),
     kickoff: kickoffOverride?.kickoff || (isUnsetNCAAKickoff(game.startDate) ? 'TBD' : parseKickoffTime(game.startDate)),
     home: game.homeTeam,
     away: game.awayTeam,
@@ -287,8 +294,8 @@ function normalizeNFLGame(game) {
   return {
     id: `nfl-${game.id}`,
     week: game.week,
-    date: game.date.split('T')[0],
-    day: getDayOfWeek(game.date),
+    date: new Date(game.date).toLocaleDateString('en-CA', { timeZone: DISPLAY_TIME_ZONE }),
+    day: getDayOfWeek(new Date(game.date).toLocaleDateString('en-CA', { timeZone: DISPLAY_TIME_ZONE })),
     kickoff: parseKickoffTime(game.date),
     home: game.home_team,
     away: game.away_team,
