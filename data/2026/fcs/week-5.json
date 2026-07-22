@@ -77,7 +77,7 @@
     "away": "Lindenwood",
     "homeDivision": "fbs",
     "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2199.png",
+    "homeLogo": null,
     "awayLogo": null,
     "venue": {
       "name": "Rynearson Stadium",
@@ -86,6 +86,50 @@
     },
     "missingVenue": false,
     "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401867858",
+    "sourceId": 401867858,
+    "sourceWeek": 4,
+    "week": 5,
+    "date": "2026-09-26",
+    "day": "Saturday",
+    "kickoff": "10a",
+    "home": "Indiana State",
+    "away": "North Dakota",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Memorial Stadium",
+      "lat": 38.9628,
+      "lng": -95.2464
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
+    "id": "2026-ncaa-401868308",
+    "sourceId": 401868308,
+    "sourceWeek": 4,
+    "week": 5,
+    "date": "2026-09-26",
+    "day": "Saturday",
+    "kickoff": "3p",
+    "home": "Stephen F. Austin",
+    "away": "Northeastern State",
+    "homeDivision": "fcs",
+    "awayDivision": "d2",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Homer Bryce Stadium",
+      "lat": 31.6204,
+      "lng": -94.6486
+    },
+    "missingVenue": false,
+    "division": "fcs"
   },
   {
     "id": "2026-ncaa-401860892",
@@ -110,6 +154,50 @@
     "division": "fbs"
   },
   {
+    "id": "2026-ncaa-401868327",
+    "sourceId": 401868327,
+    "sourceWeek": 4,
+    "week": 5,
+    "date": "2026-09-26",
+    "day": "Saturday",
+    "kickoff": "3p",
+    "home": "Alabama State",
+    "away": "Mississippi Valley State",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Hornet Stadium",
+      "lat": 38.5598,
+      "lng": -121.4242
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
+    "id": "2026-ncaa-401868076",
+    "sourceId": 401868076,
+    "sourceWeek": 4,
+    "week": 5,
+    "date": "2026-09-26",
+    "day": "Saturday",
+    "kickoff": "4p",
+    "home": "Eastern Washington",
+    "away": "Cal Poly",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/13.png",
+    "venue": {
+      "name": "Roos Field",
+      "lat": 47.4901,
+      "lng": -117.5888
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
     "id": "2026-ncaa-401862783",
     "sourceId": 401862783,
     "sourceWeek": 4,
@@ -132,24 +220,23 @@
     "division": "fbs"
   },
   {
-    "id": "2026-manual-cal-poly-5",
-    "sourceId": "2026-manual-cal-poly-5",
-    "source": "manual",
-    "week": 5,
+    "id": "2026-ncaa-401868131",
+    "sourceId": 401868131,
     "sourceWeek": 4,
-    "date": "2026-09-26",
-    "day": "Saturday",
-    "kickoff": "TBD",
-    "home": "Eastern Washington",
-    "away": "Cal Poly",
+    "week": 5,
+    "date": "2026-09-27",
+    "day": "Sunday",
+    "kickoff": "5p",
+    "home": "Northern Colorado",
+    "away": "Utah Tech",
     "homeDivision": "fcs",
     "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/331.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/13.png",
+    "homeLogo": null,
+    "awayLogo": null,
     "venue": {
-      "name": "Roos Field",
-      "lat": 47.4901,
-      "lng": -117.5888
+      "name": "Nottingham Field",
+      "lat": 40.4071,
+      "lng": -104.7017
     },
     "missingVenue": false,
     "division": "fcs"

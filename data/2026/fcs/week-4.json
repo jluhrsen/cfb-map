@@ -12,7 +12,7 @@
     "homeDivision": "fbs",
     "awayDivision": "fcs",
     "homeLogo": null,
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2502.png",
+    "awayLogo": null,
     "venue": {
       "name": "Autzen Stadium",
       "lat": 44.0584,
@@ -20,6 +20,28 @@
     },
     "missingVenue": false,
     "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401867857",
+    "sourceId": 401867857,
+    "sourceWeek": 3,
+    "week": 4,
+    "date": "2026-09-19",
+    "day": "Saturday",
+    "kickoff": "10a",
+    "home": "Indiana State",
+    "away": "Valparaiso",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Memorial Stadium",
+      "lat": 38.9628,
+      "lng": -95.2464
+    },
+    "missingVenue": false,
+    "division": "fcs"
   },
   {
     "id": "2026-ncaa-401858448",
@@ -44,28 +66,6 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401860890",
-    "sourceId": 401860890,
-    "sourceWeek": 3,
-    "week": 4,
-    "date": "2026-09-19",
-    "day": "Saturday",
-    "kickoff": "12:30p",
-    "home": "Washington State",
-    "away": "Duquesne",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Gesa Field",
-      "lat": 46.7318,
-      "lng": -117.1601
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2026-ncaa-401858233",
     "sourceId": 401858233,
     "sourceWeek": 3,
@@ -83,6 +83,28 @@
       "name": "California Memorial Stadium",
       "lat": 37.8713,
       "lng": -122.2507
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401860890",
+    "sourceId": 401860890,
+    "sourceWeek": 3,
+    "week": 4,
+    "date": "2026-09-19",
+    "day": "Saturday",
+    "kickoff": "12:30p",
+    "home": "Washington State",
+    "away": "Duquesne",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Gesa Field",
+      "lat": 46.7318,
+      "lng": -117.1601
     },
     "missingVenue": false,
     "division": "fbs"
@@ -154,28 +176,6 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401858459",
-    "sourceId": 401858459,
-    "sourceWeek": 3,
-    "week": 4,
-    "date": "2026-09-19",
-    "day": "Saturday",
-    "kickoff": "4:15p",
-    "home": "Washington",
-    "away": "Eastern Washington",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/331.png",
-    "venue": {
-      "name": "Husky Stadium",
-      "lat": 47.6504,
-      "lng": -122.3016
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2026-ncaa-401858452",
     "sourceId": 401858452,
     "sourceWeek": 3,
@@ -196,6 +196,72 @@
     },
     "missingVenue": false,
     "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401858459",
+    "sourceId": 401858459,
+    "sourceWeek": 3,
+    "week": 4,
+    "date": "2026-09-19",
+    "day": "Saturday",
+    "kickoff": "4:15p",
+    "home": "Washington",
+    "away": "Eastern Washington",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Husky Stadium",
+      "lat": 47.6504,
+      "lng": -122.3016
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401868130",
+    "sourceId": 401868130,
+    "sourceWeek": 3,
+    "week": 4,
+    "date": "2026-09-20",
+    "day": "Sunday",
+    "kickoff": "5p",
+    "home": "Northern Colorado",
+    "away": "Northeastern State",
+    "homeDivision": "fcs",
+    "awayDivision": "d2",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Nottingham Field",
+      "lat": 40.4071,
+      "lng": -104.7017
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
+    "id": "2026-ncaa-401868075",
+    "sourceId": 401868075,
+    "sourceWeek": 3,
+    "week": 4,
+    "date": "2026-09-20",
+    "day": "Sunday",
+    "kickoff": "5p",
+    "home": "Cal Poly",
+    "away": "San Diego",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/13.png",
+    "awayLogo": null,
+    "venue": {
+      "name": "Alex G. Spanos Stadium",
+      "lat": 35.3005,
+      "lng": -120.6587
+    },
+    "missingVenue": false,
+    "division": "fcs"
   },
   {
     "id": "2026-ncaa-401860885",
@@ -232,7 +298,7 @@
     "homeDivision": "fbs",
     "awayDivision": "fcs",
     "homeLogo": null,
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/149.png",
+    "awayLogo": null,
     "venue": {
       "name": "Reser Stadium",
       "lat": 44.559,
@@ -240,28 +306,5 @@
     },
     "missingVenue": false,
     "division": "fbs"
-  },
-  {
-    "id": "2026-manual-cal-poly-4",
-    "sourceId": "2026-manual-cal-poly-4",
-    "source": "manual",
-    "week": 4,
-    "sourceWeek": 3,
-    "date": "2026-09-19",
-    "day": "Saturday",
-    "kickoff": "TBD",
-    "home": "Cal Poly",
-    "away": "San Diego",
-    "homeDivision": "fcs",
-    "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/13.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/301.png",
-    "venue": {
-      "name": "Mustang Memorial Field Presented by French Hospital",
-      "lat": 35.3005,
-      "lng": -120.6587
-    },
-    "missingVenue": false,
-    "division": "fcs"
   }
 ]

@@ -12,7 +12,7 @@
     "homeDivision": "fbs",
     "awayDivision": "fcs",
     "homeLogo": null,
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/331.png",
+    "awayLogo": null,
     "venue": {
       "name": "Albertsons Stadium",
       "lat": 43.6029,
@@ -100,7 +100,7 @@
     "homeDivision": "fcs",
     "awayDivision": "fcs",
     "homeLogo": null,
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2449.png",
+    "awayLogo": null,
     "venue": {
       "name": "Nissan Stadium",
       "lat": 36.1665,
@@ -108,28 +108,6 @@
     },
     "missingVenue": false,
     "division": "fcs"
-  },
-  {
-    "id": "2025-ncaa-401752815",
-    "sourceId": 401752815,
-    "sourceWeek": 2,
-    "week": 3,
-    "date": "2025-09-06",
-    "day": "Saturday",
-    "kickoff": "12:30p",
-    "home": "Ohio State",
-    "away": "Grambling",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Ohio Stadium",
-      "lat": 40.0018,
-      "lng": -83.0197
-    },
-    "missingVenue": false,
-    "division": "fbs"
   },
   {
     "id": "2025-ncaa-401752692",
@@ -149,6 +127,28 @@
       "name": "Neyland Stadium",
       "lat": 35.9551,
       "lng": -83.9252
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401752815",
+    "sourceId": 401752815,
+    "sourceWeek": 2,
+    "week": 3,
+    "date": "2025-09-06",
+    "day": "Saturday",
+    "kickoff": "12:30p",
+    "home": "Ohio State",
+    "away": "Grambling",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Ohio Stadium",
+      "lat": 40.0018,
+      "lng": -83.0197
     },
     "missingVenue": false,
     "division": "fbs"
@@ -209,8 +209,8 @@
     "away": "Utah Tech",
     "homeDivision": "fcs",
     "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2464.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/3101.png",
+    "homeLogo": null,
+    "awayLogo": null,
     "venue": {
       "name": "Walkup Skydome",
       "lat": 35.1803,
@@ -232,33 +232,11 @@
     "homeDivision": "fbs",
     "awayDivision": "fcs",
     "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2440.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/16.png",
+    "awayLogo": null,
     "venue": {
       "name": "Mackay Stadium",
       "lat": 39.5468,
       "lng": -119.8175
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2025-ncaa-401754530",
-    "sourceId": 401754530,
-    "sourceWeek": 2,
-    "week": 3,
-    "date": "2025-09-06",
-    "day": "Saturday",
-    "kickoff": "3p",
-    "home": "California",
-    "away": "Texas Southern",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "California Memorial Stadium",
-      "lat": 37.8713,
-      "lng": -122.2507
     },
     "missingVenue": false,
     "division": "fbs"
@@ -286,6 +264,28 @@
     "division": "fbs"
   },
   {
+    "id": "2025-ncaa-401754530",
+    "sourceId": 401754530,
+    "sourceWeek": 2,
+    "week": 3,
+    "date": "2025-09-06",
+    "day": "Saturday",
+    "kickoff": "3p",
+    "home": "California",
+    "away": "Texas Southern",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "California Memorial Stadium",
+      "lat": 37.8713,
+      "lng": -122.2507
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
     "id": "2025-ncaa-401760364",
     "sourceId": 401760364,
     "sourceWeek": 2,
@@ -298,11 +298,33 @@
     "homeDivision": "fbs",
     "awayDivision": "fcs",
     "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/36.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2458.png",
+    "awayLogo": null,
     "venue": {
       "name": "Canvas Stadium",
       "lat": 40.5749,
       "lng": -105.0896
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401762795",
+    "sourceId": 401762795,
+    "sourceWeek": 2,
+    "week": 3,
+    "date": "2025-09-06",
+    "day": "Saturday",
+    "kickoff": "4p",
+    "home": "Eastern Michigan",
+    "away": "Long Island University",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Rynearson Stadium",
+      "lat": 42.2473,
+      "lng": -83.6253
     },
     "missingVenue": false,
     "division": "fbs"
@@ -330,28 +352,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401762795",
-    "sourceId": 401762795,
-    "sourceWeek": 2,
-    "week": 3,
-    "date": "2025-09-06",
-    "day": "Saturday",
-    "kickoff": "4p",
-    "home": "Eastern Michigan",
-    "away": "Long Island University",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2199.png",
-    "awayLogo": null,
-    "venue": {
-      "name": "Rynearson Stadium",
-      "lat": 42.2473,
-      "lng": -83.6253
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401767097",
     "sourceId": 401767097,
     "sourceWeek": 2,
@@ -363,8 +363,8 @@
     "away": "Central Washington",
     "homeDivision": "fcs",
     "awayDivision": "d2",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/149.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2120.png",
+    "homeLogo": null,
+    "awayLogo": null,
     "venue": {
       "name": "Washington-Grizzly Stadium",
       "lat": 46.8601,
@@ -385,7 +385,7 @@
     "away": "UT Martin",
     "homeDivision": "fbs",
     "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2638.png",
+    "homeLogo": null,
     "awayLogo": null,
     "venue": {
       "name": "Sun Bowl",
@@ -407,7 +407,7 @@
     "away": "Southern Utah",
     "homeDivision": "fcs",
     "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/301.png",
+    "homeLogo": null,
     "awayLogo": null,
     "venue": {
       "name": "Torero Stadium",
@@ -430,7 +430,7 @@
     "homeDivision": "fbs",
     "awayDivision": "fcs",
     "homeLogo": null,
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2692.png",
+    "awayLogo": null,
     "venue": {
       "name": "Arizona Stadium",
       "lat": 32.2287,
@@ -452,7 +452,7 @@
     "homeDivision": "fbs",
     "awayDivision": "fcs",
     "homeLogo": null,
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/302.png",
+    "awayLogo": null,
     "venue": {
       "name": "Husky Stadium",
       "lat": 47.6504,

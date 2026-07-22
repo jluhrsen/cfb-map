@@ -1,5 +1,27 @@
 [
   {
+    "id": "2026-ncaa-401873229",
+    "sourceId": 401873229,
+    "sourceWeek": 2,
+    "week": 3,
+    "date": "2026-09-12",
+    "day": "Saturday",
+    "kickoff": "10a",
+    "home": "Puget Sound",
+    "away": "Lewis & Clark College",
+    "homeDivision": "d3",
+    "awayDivision": "d3",
+    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/wpoqmrhctdrju4jh.png",
+    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/2i62768ao3nlh5wq.png",
+    "venue": {
+      "name": "Baker Stadium",
+      "lat": 47.2605,
+      "lng": -122.4825
+    },
+    "missingVenue": false,
+    "division": "d3"
+  },
+  {
     "id": "2026-manual-willamette-2",
     "sourceId": "2026-manual-willamette-2",
     "source": "manual",

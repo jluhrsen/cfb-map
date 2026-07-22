@@ -77,12 +77,34 @@
     "away": "Indiana State",
     "homeDivision": "fcs",
     "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/149.png",
+    "homeLogo": null,
     "awayLogo": null,
     "venue": {
       "name": "Washington-Grizzly Stadium",
       "lat": 46.8601,
       "lng": -113.9845
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
+    "id": "2025-ncaa-401767114",
+    "sourceId": 401767114,
+    "sourceWeek": 4,
+    "week": 5,
+    "date": "2025-09-20",
+    "day": "Saturday",
+    "kickoff": "2p",
+    "home": "Northern Arizona",
+    "away": "Incarnate Word",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Walkup Skydome",
+      "lat": 35.1803,
+      "lng": -111.6544
     },
     "missingVenue": false,
     "division": "fcs"
@@ -108,28 +130,6 @@
     },
     "missingVenue": false,
     "division": "fbs"
-  },
-  {
-    "id": "2025-ncaa-401767114",
-    "sourceId": 401767114,
-    "sourceWeek": 4,
-    "week": 5,
-    "date": "2025-09-20",
-    "day": "Saturday",
-    "kickoff": "2p",
-    "home": "Northern Arizona",
-    "away": "Incarnate Word",
-    "homeDivision": "fcs",
-    "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2464.png",
-    "awayLogo": null,
-    "venue": {
-      "name": "Walkup Skydome",
-      "lat": 35.1803,
-      "lng": -111.6544
-    },
-    "missingVenue": false,
-    "division": "fcs"
   },
   {
     "id": "2025-ncaa-401762821",
@@ -165,7 +165,7 @@
     "away": "Lincoln (CA)",
     "homeDivision": "fcs",
     "awayDivision": "d2",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/304.png",
+    "homeLogo": null,
     "awayLogo": null,
     "venue": {
       "name": "Holt Arena",
@@ -188,7 +188,7 @@
     "homeDivision": "fcs",
     "awayDivision": "fcs",
     "homeLogo": null,
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2458.png",
+    "awayLogo": null,
     "venue": {
       "name": "Husky Stadium",
       "lat": 47.6504,
@@ -209,7 +209,7 @@
     "away": "Western Illinois",
     "homeDivision": "fcs",
     "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/331.png",
+    "homeLogo": null,
     "awayLogo": null,
     "venue": {
       "name": "Roos Field",
@@ -297,7 +297,7 @@
     "away": "Cal Poly",
     "homeDivision": "fcs",
     "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2617.png",
+    "homeLogo": null,
     "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/13.png",
     "venue": {
       "name": "Homer Bryce Stadium",
@@ -319,7 +319,7 @@
     "away": "Central Arkansas",
     "homeDivision": "fcs",
     "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/16.png",
+    "homeLogo": null,
     "awayLogo": null,
     "venue": {
       "name": "Hornet Stadium",

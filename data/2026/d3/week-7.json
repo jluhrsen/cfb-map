@@ -1,5 +1,27 @@
 [
   {
+    "id": "2026-ncaa-401873232",
+    "sourceId": 401873232,
+    "sourceWeek": 6,
+    "week": 7,
+    "date": "2026-10-10",
+    "day": "Saturday",
+    "kickoff": "10a",
+    "home": "Pacific Lutheran",
+    "away": "Puget Sound",
+    "homeDivision": "d3",
+    "awayDivision": "d3",
+    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/bi1umnuk45dh7ppn.png",
+    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/wpoqmrhctdrju4jh.png",
+    "venue": {
+      "name": "Sparks Stadium",
+      "lat": 47.1872,
+      "lng": -122.3005
+    },
+    "missingVenue": false,
+    "division": "d3"
+  },
+  {
     "id": "2026-manual-willamette-5",
     "sourceId": "2026-manual-willamette-5",
     "source": "manual",
@@ -12,7 +34,7 @@
     "away": "Willamette",
     "homeDivision": "d3",
     "awayDivision": "d3",
-    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/2i62768ao3nlh5wq.png",
+    "homeLogo": null,
     "awayLogo": "https://lh3.googleusercontent.com/6tOuPbn-4tztWUJrhNcODPR25WMo6bats7oaCuwY5KNzSTZneTGpKn-Z6PvWnJ0lNSE8hu7916kIwJhR3qYlbVWPYUo3NLgS2EM",
     "venue": {
       "name": "Griswold Stadium",

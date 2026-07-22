@@ -33,8 +33,8 @@
     "away": "Montana State",
     "homeDivision": "fcs",
     "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2464.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/147.png",
+    "homeLogo": null,
+    "awayLogo": null,
     "venue": {
       "name": "Walkup Skydome",
       "lat": 35.1803,
@@ -55,12 +55,34 @@
     "away": "Portland State",
     "homeDivision": "fcs",
     "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/331.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2502.png",
+    "homeLogo": null,
+    "awayLogo": null,
     "venue": {
       "name": "Roos Field",
       "lat": 47.4901,
       "lng": -117.5888
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
+    "id": "2025-ncaa-401767083",
+    "sourceId": 401767083,
+    "sourceWeek": 6,
+    "week": 7,
+    "date": "2025-10-05",
+    "day": "Sunday",
+    "kickoff": "5p",
+    "home": "Idaho State",
+    "away": "Montana",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Holt Arena",
+      "lat": 42.8723,
+      "lng": -112.4341
     },
     "missingVenue": false,
     "division": "fcs"
@@ -78,33 +100,11 @@
     "homeDivision": "fcs",
     "awayDivision": "fcs",
     "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/13.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/302.png",
+    "awayLogo": null,
     "venue": {
       "name": "Alex G. Spanos Stadium",
       "lat": 35.3005,
       "lng": -120.6587
-    },
-    "missingVenue": false,
-    "division": "fcs"
-  },
-  {
-    "id": "2025-ncaa-401767083",
-    "sourceId": 401767083,
-    "sourceWeek": 6,
-    "week": 7,
-    "date": "2025-10-05",
-    "day": "Sunday",
-    "kickoff": "5p",
-    "home": "Idaho State",
-    "away": "Montana",
-    "homeDivision": "fcs",
-    "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/304.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/149.png",
-    "venue": {
-      "name": "Holt Arena",
-      "lat": 42.8723,
-      "lng": -112.4341
     },
     "missingVenue": false,
     "division": "fcs"

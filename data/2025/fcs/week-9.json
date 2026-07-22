@@ -12,7 +12,7 @@
     "homeDivision": "fcs",
     "awayDivision": "fcs",
     "homeLogo": null,
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2449.png",
+    "awayLogo": null,
     "venue": {
       "name": "Memorial Stadium",
       "lat": 38.9628,
@@ -33,7 +33,7 @@
     "away": "Sacred Heart",
     "homeDivision": "fcs",
     "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/149.png",
+    "homeLogo": null,
     "awayLogo": null,
     "venue": {
       "name": "Washington-Grizzly Stadium",
@@ -66,28 +66,6 @@
     "division": "fcs"
   },
   {
-    "id": "2025-ncaa-401767517",
-    "sourceId": 401767517,
-    "sourceWeek": 8,
-    "week": 9,
-    "date": "2025-10-18",
-    "day": "Saturday",
-    "kickoff": "4p",
-    "home": "Stephen F. Austin",
-    "away": "Nicholls",
-    "homeDivision": "fcs",
-    "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2617.png",
-    "awayLogo": null,
-    "venue": {
-      "name": "Homer Bryce Stadium",
-      "lat": 31.6204,
-      "lng": -94.6486
-    },
-    "missingVenue": false,
-    "division": "fcs"
-  },
-  {
     "id": "2025-ncaa-401767092",
     "sourceId": 401767092,
     "sourceWeek": 8,
@@ -99,12 +77,34 @@
     "away": "Idaho",
     "homeDivision": "fcs",
     "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/331.png",
+    "homeLogo": null,
     "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/70.png",
     "venue": {
       "name": "Roos Field",
       "lat": 47.4901,
       "lng": -117.5888
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
+    "id": "2025-ncaa-401767517",
+    "sourceId": 401767517,
+    "sourceWeek": 8,
+    "week": 9,
+    "date": "2025-10-18",
+    "day": "Saturday",
+    "kickoff": "4p",
+    "home": "Stephen F. Austin",
+    "away": "Nicholls",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Homer Bryce Stadium",
+      "lat": 31.6204,
+      "lng": -94.6486
     },
     "missingVenue": false,
     "division": "fcs"
@@ -121,8 +121,8 @@
     "away": "Northern Colorado",
     "homeDivision": "fcs",
     "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/16.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2458.png",
+    "homeLogo": null,
+    "awayLogo": null,
     "venue": {
       "name": "Hornet Stadium",
       "lat": 38.5598,

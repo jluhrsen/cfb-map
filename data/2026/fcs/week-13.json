@@ -1,5 +1,27 @@
 [
   {
+    "id": "2026-ncaa-401868314",
+    "sourceId": 401868314,
+    "sourceWeek": 12,
+    "week": 13,
+    "date": "2026-11-20",
+    "day": "Friday",
+    "kickoff": "4p",
+    "home": "Stephen F. Austin",
+    "away": "Northwestern State",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Homer Bryce Stadium",
+      "lat": 31.6204,
+      "lng": -94.6486
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
     "id": "2026-ncaa-401856746",
     "sourceId": 401856746,
     "sourceWeek": 12,
@@ -20,6 +42,28 @@
     },
     "missingVenue": false,
     "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401868353",
+    "sourceId": 401868353,
+    "sourceWeek": 12,
+    "week": 13,
+    "date": "2026-11-21",
+    "day": "Saturday",
+    "kickoff": "12p",
+    "home": "Alabama State",
+    "away": "Prairie View A&M",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Hornet Stadium",
+      "lat": 38.5598,
+      "lng": -121.4242
+    },
+    "missingVenue": false,
+    "division": "fcs"
   },
   {
     "id": "2026-ncaa-401856747",
@@ -44,24 +88,133 @@
     "division": "fbs"
   },
   {
-    "id": "2026-manual-cal-poly-12",
-    "sourceId": "2026-manual-cal-poly-12",
-    "source": "manual",
-    "week": 13,
+    "id": "2026-ncaa-401868092",
+    "sourceId": 401868092,
     "sourceWeek": 12,
+    "week": 13,
     "date": "2026-11-21",
     "day": "Saturday",
-    "kickoff": "TBD",
+    "kickoff": "1p",
+    "home": "Eastern Washington",
+    "away": "Portland State",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Roos Field",
+      "lat": 47.4901,
+      "lng": -117.5888
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
+    "id": "2026-ncaa-401868128",
+    "sourceId": 401868128,
+    "sourceWeek": 12,
+    "week": 13,
+    "date": "2026-11-21",
+    "day": "Saturday",
+    "kickoff": "1p",
+    "home": "Northern Arizona",
+    "away": "Northern Colorado",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Walkup Skydome",
+      "lat": 35.1803,
+      "lng": -111.6544
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
+    "id": "2026-ncaa-401868083",
+    "sourceId": 401868083,
+    "sourceWeek": 12,
+    "week": 13,
+    "date": "2026-11-21",
+    "day": "Saturday",
+    "kickoff": "1p",
     "home": "UC Davis",
     "away": "Cal Poly",
     "homeDivision": "fcs",
     "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/302.png",
+    "homeLogo": null,
     "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/13.png",
     "venue": {
       "name": "UC Davis Health Stadium",
       "lat": 38.5382,
       "lng": -121.7595
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
+    "id": "2026-ncaa-401868294",
+    "sourceId": 401868294,
+    "sourceWeek": 12,
+    "week": 13,
+    "date": "2026-11-21",
+    "day": "Saturday",
+    "kickoff": "2p",
+    "home": "Houston Christian",
+    "away": "UT Rio Grande Valley",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Husky Stadium",
+      "lat": 47.6504,
+      "lng": -122.3016
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
+    "id": "2026-ncaa-401868100",
+    "sourceId": 401868100,
+    "sourceWeek": 12,
+    "week": 13,
+    "date": "2026-11-21",
+    "day": "Saturday",
+    "kickoff": "3p",
+    "home": "Idaho State",
+    "away": "Idaho",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/70.png",
+    "venue": {
+      "name": "Holt Arena",
+      "lat": 42.8723,
+      "lng": -112.4341
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
+    "id": "2026-ncaa-401868287",
+    "sourceId": 401868287,
+    "sourceWeek": 12,
+    "week": 13,
+    "date": "2026-11-22",
+    "day": "Sunday",
+    "kickoff": "5p",
+    "home": "San Diego",
+    "away": "Stetson",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Torero Stadium",
+      "lat": 32.7741,
+      "lng": -117.1833
     },
     "missingVenue": false,
     "division": "fcs"

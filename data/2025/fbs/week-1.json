@@ -12,7 +12,7 @@
     "homeDivision": "fbs",
     "awayDivision": "fcs",
     "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2439.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/304.png",
+    "awayLogo": null,
     "venue": {
       "name": "Allegiant Stadium",
       "lat": 36.0909,
@@ -232,7 +232,7 @@
     "homeDivision": "fbs",
     "awayDivision": "fcs",
     "homeLogo": null,
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2617.png",
+    "awayLogo": null,
     "venue": {
       "name": "TDECU Stadium",
       "lat": 29.7211,
@@ -308,28 +308,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752802",
-    "sourceId": 401752802,
-    "sourceWeek": 1,
-    "week": 1,
-    "date": "2025-08-29",
-    "day": "Friday",
-    "kickoff": "4p",
-    "home": "Michigan State",
-    "away": "Western Michigan",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Spartan Stadium",
-      "lat": 37.3975,
-      "lng": -121.8635
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401761589",
     "sourceId": 401761589,
     "sourceWeek": 1,
@@ -347,6 +325,28 @@
       "name": "Bank of America Stadium",
       "lat": 35.2258,
       "lng": -80.8528
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401752802",
+    "sourceId": 401752802,
+    "sourceWeek": 1,
+    "week": 1,
+    "date": "2025-08-29",
+    "day": "Friday",
+    "kickoff": "4p",
+    "home": "Michigan State",
+    "away": "Western Michigan",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Spartan Stadium",
+      "lat": 37.3975,
+      "lng": -121.8635
     },
     "missingVenue": false,
     "division": "fbs"

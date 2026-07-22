@@ -4,7 +4,7 @@
     2025,
     2026
   ],
-  "lastUpdated": "2026-07-20T12:13:31.731Z",
+  "lastUpdated": "2026-07-22T17:47:04.842Z",
   "weeksByYear": {
     "2025": [
       {
@@ -121,102 +121,102 @@
     "2026": [
       {
         "number": 1,
-        "startDate": "2026-08-28",
+        "startDate": "2026-08-27",
         "label": "Week 1"
       },
       {
         "number": 2,
-        "startDate": "2026-09-04",
+        "startDate": "2026-09-03",
         "label": "Week 2"
       },
       {
         "number": 3,
-        "startDate": "2026-09-11",
+        "startDate": "2026-09-10",
         "label": "Week 3"
       },
       {
         "number": 4,
-        "startDate": "2026-09-18",
+        "startDate": "2026-09-17",
         "label": "Week 4"
       },
       {
         "number": 5,
-        "startDate": "2026-09-25",
+        "startDate": "2026-09-24",
         "label": "Week 5"
       },
       {
         "number": 6,
-        "startDate": "2026-10-02",
+        "startDate": "2026-10-01",
         "label": "Week 6"
       },
       {
         "number": 7,
-        "startDate": "2026-10-09",
+        "startDate": "2026-10-08",
         "label": "Week 7"
       },
       {
         "number": 8,
-        "startDate": "2026-10-16",
+        "startDate": "2026-10-15",
         "label": "Week 8"
       },
       {
         "number": 9,
-        "startDate": "2026-10-23",
+        "startDate": "2026-10-22",
         "label": "Week 9"
       },
       {
         "number": 10,
-        "startDate": "2026-10-30",
+        "startDate": "2026-10-29",
         "label": "Week 10"
       },
       {
         "number": 11,
-        "startDate": "2026-11-06",
+        "startDate": "2026-11-05",
         "label": "Week 11"
       },
       {
         "number": 12,
-        "startDate": "2026-11-13",
+        "startDate": "2026-11-12",
         "label": "Week 12"
       },
       {
         "number": 13,
-        "startDate": "2026-11-20",
+        "startDate": "2026-11-19",
         "label": "Week 13"
       },
       {
         "number": 14,
-        "startDate": "2026-11-27",
+        "startDate": "2026-11-26",
         "label": "Week 14"
       },
       {
         "number": 15,
-        "startDate": "2026-12-04",
+        "startDate": "2026-12-03",
         "label": "Week 15"
       },
       {
         "number": 16,
-        "startDate": "2026-12-11",
+        "startDate": "2026-12-10",
         "label": "Week 16"
       },
       {
         "number": 17,
-        "startDate": "2026-12-18",
+        "startDate": "2026-12-17",
         "label": "Week 17"
       },
       {
         "number": 18,
-        "startDate": "2026-12-25",
+        "startDate": "2026-12-24",
         "label": "Week 18"
       },
       {
         "number": 19,
-        "startDate": "2027-01-01",
+        "startDate": "2026-12-31",
         "label": "Week 19"
       },
       {
         "number": 20,
-        "startDate": "2027-01-08",
+        "startDate": "2027-01-07",
         "label": "Week 20"
       }
     ]
@@ -461,7 +461,7 @@
       "name": "Central Washington",
       "division": "d2",
       "abbreviation": "CEN",
-      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2120.png"
+      "logo": null
     },
     {
       "name": "Chadron St",
@@ -554,6 +554,12 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/dal.png"
     },
     {
+      "name": "Davidson",
+      "division": "fcs",
+      "abbreviation": "DAV",
+      "logo": null
+    },
+    {
       "name": "Dayton",
       "division": "fcs",
       "abbreviation": "DAY",
@@ -629,13 +635,13 @@
       "name": "Eastern Michigan",
       "division": "fbs",
       "abbreviation": "EAS",
-      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2199.png"
+      "logo": null
     },
     {
       "name": "Eastern Washington",
       "division": "fcs",
       "abbreviation": "EAS",
-      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/331.png"
+      "logo": null
     },
     {
       "name": "Elon",
@@ -701,7 +707,7 @@
       "name": "George Fox",
       "division": "d3",
       "abbreviation": "GEO",
-      "logo": "https://cdn.prestosports.com/action/cdn/logos/id/mi23750dj6i6tf21.png"
+      "logo": null
     },
     {
       "name": "Georgia",
@@ -797,7 +803,7 @@
       "name": "Idaho State",
       "division": "fcs",
       "abbreviation": "IDA",
-      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/304.png"
+      "logo": null
     },
     {
       "name": "Illinois",
@@ -932,6 +938,12 @@
       "logo": null
     },
     {
+      "name": "Lane College",
+      "division": "d2",
+      "abbreviation": "LAN",
+      "logo": null
+    },
+    {
       "name": "Las Vegas Raiders",
       "division": "nfl",
       "abbreviation": "LAS",
@@ -941,7 +953,7 @@
       "name": "Lewis & Clark",
       "division": "d3",
       "abbreviation": "LEW",
-      "logo": "https://cdn.prestosports.com/action/cdn/logos/id/2i62768ao3nlh5wq.png"
+      "logo": null
     },
     {
       "name": "Lewis & Clark College",
@@ -962,6 +974,12 @@
       "logo": null
     },
     {
+      "name": "Lincoln (PA)",
+      "division": "d2",
+      "abbreviation": "LIN",
+      "logo": null
+    },
+    {
       "name": "Lindenwood",
       "division": "fcs",
       "abbreviation": "LIN",
@@ -971,7 +989,7 @@
       "name": "Linfield",
       "division": "d3",
       "abbreviation": "LIN",
-      "logo": "https://cdn.prestosports.com/action/cdn/logos/id/8ab4hlzfjvtul4nx.png"
+      "logo": null
     },
     {
       "name": "Linfield College",
@@ -1031,6 +1049,12 @@
       "name": "LYONCOLL",
       "division": "d3",
       "abbreviation": "LYO",
+      "logo": null
+    },
+    {
+      "name": "Marist",
+      "division": "fcs",
+      "abbreviation": "MAR",
       "logo": null
     },
     {
@@ -1169,13 +1193,13 @@
       "name": "Montana",
       "division": "fcs",
       "abbreviation": "MON",
-      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/149.png"
+      "logo": null
     },
     {
       "name": "Montana State",
       "division": "fcs",
       "abbreviation": "MON",
-      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/147.png"
+      "logo": null
     },
     {
       "name": "Morehouse College",
@@ -1307,13 +1331,13 @@
       "name": "North Dakota State",
       "division": "fcs",
       "abbreviation": "NOR",
-      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2449.png"
+      "logo": null
     },
     {
       "name": "North Dakota State",
       "division": "fbs",
       "abbreviation": "NOR",
-      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2449.png"
+      "logo": null
     },
     {
       "name": "North Texas",
@@ -1322,22 +1346,28 @@
       "logo": null
     },
     {
+      "name": "Northeastern State",
+      "division": "d2",
+      "abbreviation": "NOR",
+      "logo": null
+    },
+    {
       "name": "Northern Arizona",
       "division": "fcs",
       "abbreviation": "NOR",
-      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2464.png"
+      "logo": null
     },
     {
       "name": "Northern Colorado",
       "division": "fcs",
       "abbreviation": "NOR",
-      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2458.png"
+      "logo": null
     },
     {
       "name": "Northern Illinois",
       "division": "fbs",
       "abbreviation": "NOR",
-      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2459.png"
+      "logo": null
     },
     {
       "name": "Northern Iowa",
@@ -1457,13 +1487,13 @@
       "name": "Pomona-Pitzer",
       "division": "d3",
       "abbreviation": "POM",
-      "logo": "https://dbukjj6eu5tsf.cloudfront.net/sidearm.sites/pomapitzer.sidearmsports.com/images/responsive_2023/nav_logo_main.svg"
+      "logo": null
     },
     {
       "name": "Portland State",
       "division": "fcs",
       "abbreviation": "POR",
-      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2502.png"
+      "logo": null
     },
     {
       "name": "Prairie View A&M",
@@ -1523,13 +1553,13 @@
       "name": "Sacramento State",
       "division": "fcs",
       "abbreviation": "SAC",
-      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/16.png"
+      "logo": null
     },
     {
       "name": "Sacramento State",
       "division": "fbs",
       "abbreviation": "SAC",
-      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/16.png"
+      "logo": null
     },
     {
       "name": "Sacred Heart",
@@ -1553,7 +1583,7 @@
       "name": "San Diego",
       "division": "fcs",
       "abbreviation": "SAN",
-      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/301.png"
+      "logo": null
     },
     {
       "name": "San Diego State",
@@ -1679,7 +1709,13 @@
       "name": "Stephen F. Austin",
       "division": "fcs",
       "abbreviation": "STE",
-      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2617.png"
+      "logo": null
+    },
+    {
+      "name": "Stetson",
+      "division": "fcs",
+      "abbreviation": "STE",
+      "logo": null
     },
     {
       "name": "Stony Brook",
@@ -1847,7 +1883,7 @@
       "name": "UC Davis",
       "division": "fcs",
       "abbreviation": "UC ",
-      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/302.png"
+      "logo": null
     },
     {
       "name": "UCF",
@@ -1865,7 +1901,7 @@
       "name": "UConn",
       "division": "fbs",
       "abbreviation": "UCO",
-      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png"
+      "logo": null
     },
     {
       "name": "UL Monroe",
@@ -1883,7 +1919,7 @@
       "name": "USC",
       "division": "fbs",
       "abbreviation": "USC",
-      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/30.png"
+      "logo": null
     },
     {
       "name": "UT Martin",
@@ -1913,18 +1949,24 @@
       "name": "Utah Tech",
       "division": "fcs",
       "abbreviation": "UTA",
-      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/3101.png"
+      "logo": null
     },
     {
       "name": "UTEP",
       "division": "fbs",
       "abbreviation": "UTE",
-      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2638.png"
+      "logo": null
     },
     {
       "name": "UTSA",
       "division": "fbs",
       "abbreviation": "UTS",
+      "logo": null
+    },
+    {
+      "name": "Valparaiso",
+      "division": "fcs",
+      "abbreviation": "VAL",
       "logo": null
     },
     {
@@ -1991,7 +2033,7 @@
       "name": "Weber State",
       "division": "fcs",
       "abbreviation": "WEB",
-      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2692.png"
+      "logo": null
     },
     {
       "name": "West Virginia",
@@ -2021,7 +2063,7 @@
       "name": "Western Oregon",
       "division": "d2",
       "abbreviation": "WES",
-      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2848.png"
+      "logo": null
     },
     {
       "name": "Whitworth",

@@ -1,5 +1,27 @@
 [
   {
+    "id": "2026-ncaa-401873236",
+    "sourceId": 401873236,
+    "sourceWeek": 10,
+    "week": 11,
+    "date": "2026-11-07",
+    "day": "Saturday",
+    "kickoff": "10a",
+    "home": "Linfield College",
+    "away": "Puget Sound",
+    "homeDivision": "d3",
+    "awayDivision": "d3",
+    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/8ab4hlzfjvtul4nx.png",
+    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/wpoqmrhctdrju4jh.png",
+    "venue": {
+      "name": "Maxwell Field",
+      "lat": 45.2099,
+      "lng": -123.1987
+    },
+    "missingVenue": false,
+    "division": "d3"
+  },
+  {
     "id": "2026-manual-willamette-9",
     "sourceId": "2026-manual-willamette-9",
     "source": "manual",

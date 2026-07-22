@@ -1,5 +1,93 @@
 [
   {
+    "id": "2026-ncaa-401868114",
+    "sourceId": 401868114,
+    "sourceWeek": 5,
+    "week": 6,
+    "date": "2026-10-03",
+    "day": "Saturday",
+    "kickoff": "1p",
+    "home": "Montana",
+    "away": "Northern Colorado",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Washington-Grizzly Stadium",
+      "lat": 46.8601,
+      "lng": -113.9845
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
+    "id": "2026-ncaa-401868220",
+    "sourceId": 401868220,
+    "sourceWeek": 5,
+    "week": 6,
+    "date": "2026-10-03",
+    "day": "Saturday",
+    "kickoff": "1p",
+    "home": "San Diego",
+    "away": "Davidson",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Torero Stadium",
+      "lat": 32.7741,
+      "lng": -117.1833
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
+    "id": "2026-ncaa-401868309",
+    "sourceId": 401868309,
+    "sourceWeek": 5,
+    "week": 6,
+    "date": "2026-10-03",
+    "day": "Saturday",
+    "kickoff": "3p",
+    "home": "Stephen F. Austin",
+    "away": "Incarnate Word",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Homer Bryce Stadium",
+      "lat": 31.6204,
+      "lng": -94.6486
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
+    "id": "2026-ncaa-401869151",
+    "sourceId": 401869151,
+    "sourceWeek": 5,
+    "week": 6,
+    "date": "2026-10-03",
+    "day": "Saturday",
+    "kickoff": "4p",
+    "home": "Houston Christian",
+    "away": "Nicholls",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Husky Stadium",
+      "lat": 47.6504,
+      "lng": -122.3016
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
     "id": "2026-ncaa-401856706",
     "sourceId": 401856706,
     "sourceWeek": 5,
@@ -22,24 +110,45 @@
     "division": "fbs"
   },
   {
-    "id": "2026-manual-cal-poly-6",
-    "sourceId": "2026-manual-cal-poly-6",
-    "source": "manual",
-    "week": 6,
+    "id": "2026-ncaa-401868077",
+    "sourceId": 401868077,
     "sourceWeek": 5,
-    "date": "2026-10-03",
-    "day": "Saturday",
-    "kickoff": "TBD",
+    "week": 6,
+    "date": "2026-10-04",
+    "day": "Sunday",
+    "kickoff": "5p",
     "home": "Cal Poly",
     "away": "Weber State",
     "homeDivision": "fcs",
     "awayDivision": "fcs",
     "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/13.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2692.png",
+    "awayLogo": null,
     "venue": {
-      "name": "Mustang Memorial Field Presented by French Hospital",
+      "name": "Alex G. Spanos Stadium",
       "lat": 35.3005,
       "lng": -120.6587
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
+    "id": "2026-ncaa-401868104",
+    "sourceId": 401868104,
+    "sourceWeek": 5,
+    "week": 6,
+    "date": "2026-10-04",
+    "day": "Sunday",
+    "kickoff": "5p",
+    "home": "Idaho State",
+    "away": "Northern Arizona",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Holt Arena",
+      "lat": 42.8723,
+      "lng": -112.4341
     },
     "missingVenue": false,
     "division": "fcs"

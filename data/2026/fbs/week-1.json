@@ -11,7 +11,7 @@
     "away": "San José State",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/30.png",
+    "homeLogo": null,
     "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/23.png",
     "venue": {
       "name": "Los Angeles Memorial Coliseum",
@@ -33,7 +33,7 @@
     "away": "Jacksonville State",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2449.png",
+    "homeLogo": null,
     "awayLogo": null,
     "venue": {
       "name": "Fargodome",
@@ -55,34 +55,12 @@
     "away": "Sacramento State",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2199.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/16.png",
+    "homeLogo": null,
+    "awayLogo": null,
     "venue": {
       "name": "Rynearson Stadium",
       "lat": 42.2473,
       "lng": -83.6253
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2026-ncaa-401864570",
-    "sourceId": 401864570,
-    "sourceWeek": 1,
-    "week": 1,
-    "date": "2026-08-29",
-    "day": "Saturday",
-    "kickoff": "4p",
-    "home": "Florida State",
-    "away": "New Mexico State",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Doak Campbell Stadium",
-      "lat": 30.4384,
-      "lng": -84.3045
     },
     "missingVenue": false,
     "division": "fbs"
@@ -110,6 +88,28 @@
     "division": "fbs"
   },
   {
+    "id": "2026-ncaa-401864570",
+    "sourceId": 401864570,
+    "sourceWeek": 1,
+    "week": 1,
+    "date": "2026-08-29",
+    "day": "Saturday",
+    "kickoff": "4p",
+    "home": "Florida State",
+    "away": "New Mexico State",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Doak Campbell Stadium",
+      "lat": 30.4384,
+      "lng": -84.3045
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
     "id": "2026-ncaa-401862693",
     "sourceId": 401862693,
     "sourceWeek": 1,
@@ -127,28 +127,6 @@
       "name": "Allegiant Stadium",
       "lat": 36.0909,
       "lng": -115.1833
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2026-ncaa-401858423",
-    "sourceId": 401858423,
-    "sourceWeek": 1,
-    "week": 1,
-    "date": "2026-09-03",
-    "day": "Thursday",
-    "kickoff": "3p",
-    "home": "Rutgers",
-    "away": "Massachusetts",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "SHI Stadium",
-      "lat": 40.5139,
-      "lng": -74.4647
     },
     "missingVenue": false,
     "division": "fbs"

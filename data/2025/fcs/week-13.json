@@ -55,7 +55,7 @@
     "away": "Northern Iowa",
     "homeDivision": "fcs",
     "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2449.png",
+    "homeLogo": null,
     "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2460.png",
     "venue": {
       "name": "Fargodome",
@@ -77,34 +77,12 @@
     "away": "Northern Colorado",
     "homeDivision": "fcs",
     "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/331.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2458.png",
+    "homeLogo": null,
+    "awayLogo": null,
     "venue": {
       "name": "Roos Field",
       "lat": 47.4901,
       "lng": -117.5888
-    },
-    "missingVenue": false,
-    "division": "fcs"
-  },
-  {
-    "id": "2025-ncaa-401767078",
-    "sourceId": 401767078,
-    "sourceWeek": 12,
-    "week": 13,
-    "date": "2025-11-15",
-    "day": "Saturday",
-    "kickoff": "1p",
-    "home": "Northern Arizona",
-    "away": "Cal Poly",
-    "homeDivision": "fcs",
-    "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2464.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/13.png",
-    "venue": {
-      "name": "Walkup Skydome",
-      "lat": 35.1803,
-      "lng": -111.6544
     },
     "missingVenue": false,
     "division": "fcs"
@@ -121,12 +99,34 @@
     "away": "Butler",
     "homeDivision": "fcs",
     "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/301.png",
+    "homeLogo": null,
     "awayLogo": null,
     "venue": {
       "name": "Torero Stadium",
       "lat": 32.7741,
       "lng": -117.1833
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
+    "id": "2025-ncaa-401767078",
+    "sourceId": 401767078,
+    "sourceWeek": 12,
+    "week": 13,
+    "date": "2025-11-15",
+    "day": "Saturday",
+    "kickoff": "1p",
+    "home": "Northern Arizona",
+    "away": "Cal Poly",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/13.png",
+    "venue": {
+      "name": "Walkup Skydome",
+      "lat": 35.1803,
+      "lng": -111.6544
     },
     "missingVenue": false,
     "division": "fcs"
@@ -143,7 +143,7 @@
     "away": "Lamar",
     "homeDivision": "fcs",
     "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2617.png",
+    "homeLogo": null,
     "awayLogo": null,
     "venue": {
       "name": "Homer Bryce Stadium",
@@ -165,8 +165,8 @@
     "away": "Weber State",
     "homeDivision": "fcs",
     "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/304.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2692.png",
+    "homeLogo": null,
+    "awayLogo": null,
     "venue": {
       "name": "Holt Arena",
       "lat": 42.8723,
@@ -187,7 +187,7 @@
     "away": "Idaho",
     "homeDivision": "fcs",
     "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/16.png",
+    "homeLogo": null,
     "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/70.png",
     "venue": {
       "name": "Hornet Stadium",

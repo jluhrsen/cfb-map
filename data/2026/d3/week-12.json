@@ -1,5 +1,27 @@
 [
   {
+    "id": "2026-ncaa-401873237",
+    "sourceId": 401873237,
+    "sourceWeek": 11,
+    "week": 12,
+    "date": "2026-11-14",
+    "day": "Saturday",
+    "kickoff": "10a",
+    "home": "Puget Sound",
+    "away": "Whitworth",
+    "homeDivision": "d3",
+    "awayDivision": "d3",
+    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/wpoqmrhctdrju4jh.png",
+    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/ekkb9ky91gzlit7x.png",
+    "venue": {
+      "name": "Baker Stadium",
+      "lat": 47.2605,
+      "lng": -122.4825
+    },
+    "missingVenue": false,
+    "division": "d3"
+  },
+  {
     "id": "2026-manual-willamette-10",
     "sourceId": "2026-manual-willamette-10",
     "source": "manual",
@@ -13,7 +35,7 @@
     "homeDivision": "d3",
     "awayDivision": "d3",
     "homeLogo": "https://lh3.googleusercontent.com/6tOuPbn-4tztWUJrhNcODPR25WMo6bats7oaCuwY5KNzSTZneTGpKn-Z6PvWnJ0lNSE8hu7916kIwJhR3qYlbVWPYUo3NLgS2EM",
-    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/8ab4hlzfjvtul4nx.png",
+    "awayLogo": null,
     "venue": {
       "name": "McCulloch Stadium",
       "lat": 44.9388,

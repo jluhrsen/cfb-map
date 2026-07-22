@@ -1,0 +1,46 @@
+[
+  {
+    "id": "2026-ncaa-401868354",
+    "sourceId": 401868354,
+    "sourceWeek": 13,
+    "week": 14,
+    "date": "2026-11-26",
+    "day": "Thursday",
+    "kickoff": "12p",
+    "home": "Alabama State",
+    "away": "Tuskegee",
+    "homeDivision": "fcs",
+    "awayDivision": "d2",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Hornet Stadium",
+      "lat": 38.5598,
+      "lng": -121.4242
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
+    "id": "2026-ncaa-401868957",
+    "sourceId": 401868957,
+    "sourceWeek": 13,
+    "week": 14,
+    "date": "2026-11-28",
+    "day": "Saturday",
+    "kickoff": "11a",
+    "home": "Southern",
+    "away": "Grambling",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Caesars Superdome",
+      "lat": 29.9511,
+      "lng": -90.0812
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  }
+]
