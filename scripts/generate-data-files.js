@@ -342,7 +342,9 @@ async function generateDataFiles(ncaaData, nflData, outputDir) {
       .map(g => normalizeManualGame(g, seasonStart))
       .filter(g => g !== null);
 
-    // Drop manual games that ESPN now covers (same teams, date within ±2 days)
+    // Deduplicate: when ESPN and manual have the same game (same teams,
+    // date within ±2 days), keep the ESPN entry but inherit the manual
+    // entry's venue if ESPN's venue didn't resolve.
     const dedupedManual = normalizedManual.filter(manual => {
       const manualMs = new Date(manual.date + 'T00:00:00Z').getTime();
       const duplicate = normalized.find(espn => {
@@ -351,7 +353,13 @@ async function generateDataFiles(ncaaData, nflData, outputDir) {
           teamsMatch(espn.home, espn.away, manual.home, manual.away);
       });
       if (duplicate) {
-        console.log(`  Dedup: dropping manual "${manual.away} at ${manual.home}" (${manual.date}), ESPN has it as ${duplicate.id}`);
+        if (duplicate.missingVenue && !manual.missingVenue) {
+          duplicate.venue = manual.venue;
+          duplicate.missingVenue = false;
+          console.log(`  Dedup: dropping manual "${manual.away} at ${manual.home}" (${manual.date}), ESPN has it as ${duplicate.id} (using manual venue "${manual.venue.name}")`);
+        } else {
+          console.log(`  Dedup: dropping manual "${manual.away} at ${manual.home}" (${manual.date}), ESPN has it as ${duplicate.id}`);
+        }
       }
       return !duplicate;
     });
