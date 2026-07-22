@@ -247,7 +247,7 @@ function normalizeManualGame(game, seasonStart) {
     sourceWeek: game.week || null,
     date: game.date,
     day: getDayOfWeek(game.date),
-    kickoff: game.kickoff || (game.home === 'Willamette' || game.away === 'Willamette' ? '1p' : 'TBD'),
+    kickoff: game.kickoff || 'TBD',
     home: game.home,
     away: game.away,
     homeDivision: game.homeDivision || game.division,
