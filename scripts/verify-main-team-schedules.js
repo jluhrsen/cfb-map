@@ -45,11 +45,13 @@ function normalizeForMatch(name) {
 function isManualCoveredByEspn(manualGame, espnGames) {
   const mHome = normalizeForMatch(manualGame.home);
   const mAway = normalizeForMatch(manualGame.away);
+  const manualMs = new Date(manualGame.date + 'T00:00:00Z').getTime();
   return espnGames.some(e => {
     const eHome = normalizeForMatch(e.homeTeam);
     const eAway = normalizeForMatch(e.awayTeam);
     const eDate = (e.startDate || '').split('T')[0];
-    return eDate === manualGame.date &&
+    const espnMs = new Date(eDate + 'T00:00:00Z').getTime();
+    return Math.abs(espnMs - manualMs) <= 2 * 86400000 &&
       ((eHome === mHome && eAway === mAway) || (eHome === mAway && eAway === mHome));
   });
 }
