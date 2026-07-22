@@ -341,7 +341,20 @@ async function generateDataFiles(ncaaData, nflData, outputDir) {
     const normalizedManual = (MANUAL_GAMES[year] || [])
       .map(g => normalizeManualGame(g, seasonStart))
       .filter(g => g !== null);
-    const combined = [...normalized, ...normalizedManual];
+
+    // Drop manual games that ESPN now covers (same teams, same date)
+    const dedupedManual = normalizedManual.filter(manual => {
+      const duplicate = normalized.find(espn =>
+        espn.date === manual.date &&
+        teamsMatch(espn.home, espn.away, manual.home, manual.away)
+      );
+      if (duplicate) {
+        console.log(`  Dedup: dropping manual "${manual.away} at ${manual.home}" (${manual.date}), ESPN has it as ${duplicate.id}`);
+      }
+      return !duplicate;
+    });
+
+    const combined = [...normalized, ...dedupedManual];
     const mappable = combined.filter(g => !g.missingVenue);
     const missingVenueGames = combined.filter(g => g.missingVenue);
 

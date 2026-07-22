@@ -33,6 +33,27 @@ function rawGameKey(game, sport) {
   return sport === 'nfl' ? `nfl-${game.id}` : `${game.season}-ncaa-${game.id}`;
 }
 
+function normalizeForMatch(name) {
+  return String(name || '')
+    .normalize('NFD')
+    .replace(/[̀-ͯ]/g, '')
+    .replace(/[^a-z0-9]+/gi, ' ')
+    .trim()
+    .toLowerCase();
+}
+
+function isManualCoveredByEspn(manualGame, espnGames) {
+  const mHome = normalizeForMatch(manualGame.home);
+  const mAway = normalizeForMatch(manualGame.away);
+  return espnGames.some(e => {
+    const eHome = normalizeForMatch(e.homeTeam);
+    const eAway = normalizeForMatch(e.awayTeam);
+    const eDate = (e.startDate || '').split('T')[0];
+    return eDate === manualGame.date &&
+      ((eHome === mHome && eAway === mAway) || (eHome === mAway && eAway === mHome));
+  });
+}
+
 function normalizeDivision(classification, fallback) {
   return DIVISION_MAP[classification] || fallback || 'unknown';
 }
@@ -93,14 +114,18 @@ async function verify({ dataDir = 'public/data', rawDir = 'build-data' } = {}) {
 
     for (const team of MAIN_TEAMS) {
       const names = teamNames(team);
+      const espnForTeam = team.sport === 'ncaa'
+        ? (ncaaRaw[year] || []).filter(game => hasTeam(game, names, 'ncaa'))
+        : [];
+      const manualForTeam = team.sport === 'ncaa'
+        ? (MANUAL_GAMES[year] || [])
+          .map(game => ({ ...game, source: 'manual' }))
+          .filter(game => hasTeam(game, names, 'ncaa'))
+          .filter(game => !isManualCoveredByEspn(game, espnForTeam))
+        : [];
       const rawGames = team.sport === 'nfl'
         ? (nflRaw[year] || []).filter(game => hasTeam(game, names, 'nfl'))
-        : [
-          ...(ncaaRaw[year] || []).filter(game => hasTeam(game, names, 'ncaa')),
-          ...(MANUAL_GAMES[year] || [])
-            .map(game => ({ ...game, source: 'manual' }))
-            .filter(game => hasTeam(game, names, 'ncaa'))
-        ];
+        : [...espnForTeam, ...manualForTeam];
 
       if (rawGames.length === 0) {
         summary.push(`${year} ${team.name}: no source games found`);
