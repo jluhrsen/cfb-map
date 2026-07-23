@@ -44,28 +44,6 @@
     "division": "fcs"
   },
   {
-    "id": "2025-ncaa-401760359",
-    "sourceId": 401760359,
-    "sourceWeek": 1,
-    "week": 2,
-    "date": "2025-08-30",
-    "day": "Saturday",
-    "kickoff": "12:30p",
-    "home": "Air Force",
-    "away": "Bucknell",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2005.png",
-    "awayLogo": null,
-    "venue": {
-      "name": "Falcon Stadium",
-      "lat": 38.9967,
-      "lng": -104.8436
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401756853",
     "sourceId": 401756853,
     "sourceWeek": 1,
@@ -83,6 +61,28 @@
       "name": "Jack Trice Stadium",
       "lat": 42.014,
       "lng": -93.6356
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401760359",
+    "sourceId": 401760359,
+    "sourceWeek": 1,
+    "week": 2,
+    "date": "2025-08-30",
+    "day": "Saturday",
+    "kickoff": "12:30p",
+    "home": "Air Force",
+    "away": "Bucknell",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2005.png",
+    "awayLogo": null,
+    "venue": {
+      "name": "Falcon Stadium",
+      "lat": 38.9967,
+      "lng": -104.8436
     },
     "missingVenue": false,
     "division": "fbs"
@@ -220,28 +220,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752668",
-    "sourceId": 401752668,
-    "sourceWeek": 1,
-    "week": 2,
-    "date": "2025-08-30",
-    "day": "Saturday",
-    "kickoff": "4p",
-    "home": "Florida",
-    "away": "Long Island University",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Ben Hill Griffin Stadium",
-      "lat": 29.65,
-      "lng": -82.3486
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401752679",
     "sourceId": 401752679,
     "sourceWeek": 1,
@@ -264,12 +242,34 @@
     "division": "fbs"
   },
   {
+    "id": "2025-ncaa-401752668",
+    "sourceId": 401752668,
+    "sourceWeek": 1,
+    "week": 2,
+    "date": "2025-08-30",
+    "day": "Saturday",
+    "kickoff": "4p",
+    "home": "Florida",
+    "away": "Long Island University",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Ben Hill Griffin Stadium",
+      "lat": 29.65,
+      "lng": -82.3486
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
     "id": "2025-ncaa-401762435",
     "sourceId": 401762435,
     "sourceWeek": 1,
     "week": 2,
-    "date": "2025-08-31",
-    "day": "Sunday",
+    "date": "2025-08-30",
+    "day": "Saturday",
     "kickoff": "5p",
     "home": "North Texas",
     "away": "Lamar",
@@ -290,8 +290,8 @@
     "sourceId": 401767070,
     "sourceWeek": 1,
     "week": 2,
-    "date": "2025-08-31",
-    "day": "Sunday",
+    "date": "2025-08-30",
+    "day": "Saturday",
     "kickoff": "5p",
     "home": "San Diego",
     "away": "Cal Poly",
@@ -312,8 +312,8 @@
     "sourceId": 401756851,
     "sourceWeek": 1,
     "week": 2,
-    "date": "2025-08-31",
-    "day": "Sunday",
+    "date": "2025-08-30",
+    "day": "Saturday",
     "kickoff": "5p",
     "home": "BYU",
     "away": "Portland State",
@@ -334,8 +334,8 @@
     "sourceId": 401752947,
     "sourceWeek": 1,
     "week": 2,
-    "date": "2025-08-31",
-    "day": "Sunday",
+    "date": "2025-08-30",
+    "day": "Saturday",
     "kickoff": "7p",
     "home": "Washington State",
     "away": "Idaho",
