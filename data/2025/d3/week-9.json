@@ -1,27 +1,5 @@
 [
   {
-    "id": "2025-ncaa-401777148",
-    "sourceId": 401777148,
-    "sourceWeek": 8,
-    "week": 9,
-    "date": "2025-10-18",
-    "day": "Saturday",
-    "kickoff": "1p",
-    "home": "Linfield College",
-    "away": "Whitworth",
-    "homeDivision": "d3",
-    "awayDivision": "d3",
-    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/8ab4hlzfjvtul4nx.png",
-    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/ekkb9ky91gzlit7x.png",
-    "venue": {
-      "name": "Maxwell Field",
-      "lat": 45.2099,
-      "lng": -123.1987
-    },
-    "missingVenue": false,
-    "division": "d3"
-  },
-  {
     "id": "2025-ncaa-401777155",
     "sourceId": 401777155,
     "sourceWeek": 8,
@@ -66,6 +44,28 @@
     "division": "d3"
   },
   {
+    "id": "2025-ncaa-401777148",
+    "sourceId": 401777148,
+    "sourceWeek": 8,
+    "week": 9,
+    "date": "2025-10-18",
+    "day": "Saturday",
+    "kickoff": "1p",
+    "home": "Linfield",
+    "away": "Whitworth",
+    "homeDivision": "d3",
+    "awayDivision": "d3",
+    "homeLogo": null,
+    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/ekkb9ky91gzlit7x.png",
+    "venue": {
+      "name": "Maxwell Field",
+      "lat": 45.2099,
+      "lng": -123.1987
+    },
+    "missingVenue": false,
+    "division": "d3"
+  },
+  {
     "id": "2025-ncaa-401777142",
     "sourceId": 401777142,
     "sourceWeek": 8,
@@ -73,12 +73,12 @@
     "date": "2025-10-18",
     "day": "Saturday",
     "kickoff": "1:30p",
-    "home": "NEWBERG",
-    "away": "Lewis & Clark College",
+    "home": "George Fox",
+    "away": "Lewis & Clark",
     "homeDivision": "d3",
     "awayDivision": "d3",
-    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/mi23750dj6i6tf21.png",
-    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/2i62768ao3nlh5wq.png",
+    "homeLogo": null,
+    "awayLogo": null,
     "venue": {
       "name": "Stoffer Family Stadium",
       "lat": 45.3051,
