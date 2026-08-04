@@ -44,23 +44,23 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752873",
-    "sourceId": 401752873,
+    "id": "2025-ncaa-401762839",
+    "sourceId": 401762839,
     "sourceWeek": 8,
     "week": 9,
     "date": "2025-10-18",
     "day": "Saturday",
     "kickoff": "9a",
-    "home": "Michigan",
-    "away": "Washington",
+    "home": "Bowling Green",
+    "away": "Central Michigan",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
     "homeLogo": null,
-    "awayLogo": null,
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2117.png",
     "venue": {
-      "name": "Michigan Stadium",
-      "lat": 42.2658,
-      "lng": -83.7487
+      "name": "Doyt L. Perry Stadium",
+      "lat": 41.375,
+      "lng": -83.635
     },
     "missingVenue": false,
     "division": "fbs"
@@ -88,6 +88,28 @@
     "division": "fbs"
   },
   {
+    "id": "2025-ncaa-401752873",
+    "sourceId": 401752873,
+    "sourceWeek": 8,
+    "week": 9,
+    "date": "2025-10-18",
+    "day": "Saturday",
+    "kickoff": "9a",
+    "home": "Michigan",
+    "away": "Washington",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Michigan Stadium",
+      "lat": 42.2658,
+      "lng": -83.7487
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
     "id": "2025-ncaa-401752745",
     "sourceId": 401752745,
     "sourceWeek": 8,
@@ -105,28 +127,6 @@
       "name": "FirstBank Stadium",
       "lat": 36.0103,
       "lng": -86.8051
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2025-ncaa-401762839",
-    "sourceId": 401762839,
-    "sourceWeek": 8,
-    "week": 9,
-    "date": "2025-10-18",
-    "day": "Saturday",
-    "kickoff": "9a",
-    "home": "Bowling Green",
-    "away": "Central Michigan",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2117.png",
-    "venue": {
-      "name": "Doyt L. Perry Stadium",
-      "lat": 41.375,
-      "lng": -83.635
     },
     "missingVenue": false,
     "division": "fbs"
@@ -154,50 +154,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752739",
-    "sourceId": 401752739,
-    "sourceWeek": 8,
-    "week": 9,
-    "date": "2025-10-18",
-    "day": "Saturday",
-    "kickoff": "12:30p",
-    "home": "Arkansas",
-    "away": "Texas A&M",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Razorback Stadium",
-      "lat": 36.0684,
-      "lng": -94.1789
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2025-ncaa-401754565",
-    "sourceId": 401754565,
-    "sourceWeek": 8,
-    "week": 9,
-    "date": "2025-10-18",
-    "day": "Saturday",
-    "kickoff": "12:30p",
-    "home": "Clemson",
-    "away": "SMU",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Memorial Stadium (Clemson, SC)",
-      "lat": 34.6784,
-      "lng": -82.8444
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401760393",
     "sourceId": 401760393,
     "sourceWeek": 8,
@@ -220,23 +176,23 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401760392",
-    "sourceId": 401760392,
+    "id": "2025-ncaa-401752739",
+    "sourceId": 401752739,
     "sourceWeek": 8,
     "week": 9,
     "date": "2025-10-18",
     "day": "Saturday",
     "kickoff": "12:30p",
-    "home": "Air Force",
-    "away": "Wyoming",
+    "home": "Arkansas",
+    "away": "Texas A&M",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2005.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2751.png",
+    "homeLogo": null,
+    "awayLogo": null,
     "venue": {
-      "name": "Falcon Stadium",
-      "lat": 38.9967,
-      "lng": -104.8436
+      "name": "Razorback Stadium",
+      "lat": 36.0684,
+      "lng": -94.1789
     },
     "missingVenue": false,
     "division": "fbs"
@@ -264,23 +220,23 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752877",
-    "sourceId": 401752877,
+    "id": "2025-ncaa-401754565",
+    "sourceId": 401754565,
     "sourceWeek": 8,
     "week": 9,
     "date": "2025-10-18",
     "day": "Saturday",
     "kickoff": "12:30p",
-    "home": "Wisconsin",
-    "away": "Ohio State",
+    "home": "Clemson",
+    "away": "SMU",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Camp Randall Stadium",
-      "lat": 43.0703,
-      "lng": -89.4124
+      "name": "Memorial Stadium (Clemson, SC)",
+      "lat": 34.6784,
+      "lng": -82.8444
     },
     "missingVenue": false,
     "division": "fbs"
@@ -308,6 +264,28 @@
     "division": "fbs"
   },
   {
+    "id": "2025-ncaa-401752877",
+    "sourceId": 401752877,
+    "sourceWeek": 8,
+    "week": 9,
+    "date": "2025-10-18",
+    "day": "Saturday",
+    "kickoff": "12:30p",
+    "home": "Wisconsin",
+    "away": "Ohio State",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Camp Randall Stadium",
+      "lat": 43.0703,
+      "lng": -89.4124
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
     "id": "2025-ncaa-401762491",
     "sourceId": 401762491,
     "sourceWeek": 8,
@@ -325,6 +303,28 @@
       "name": "DATCU Stadium",
       "lat": 33.2071,
       "lng": -97.1514
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401760392",
+    "sourceId": 401760392,
+    "sourceWeek": 8,
+    "week": 9,
+    "date": "2025-10-18",
+    "day": "Saturday",
+    "kickoff": "12:30p",
+    "home": "Air Force",
+    "away": "Wyoming",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2005.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2751.png",
+    "venue": {
+      "name": "Falcon Stadium",
+      "lat": 38.9967,
+      "lng": -104.8436
     },
     "missingVenue": false,
     "division": "fbs"
