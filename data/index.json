@@ -4,7 +4,7 @@
     2025,
     2026
   ],
-  "lastUpdated": "2026-08-04T12:00:03.237Z",
+  "lastUpdated": "2026-08-05T11:55:25.143Z",
   "weeksByYear": {
     "2025": [
       {
@@ -198,26 +198,6 @@
         "number": 16,
         "startDate": "2026-12-10",
         "label": "Week 16"
-      },
-      {
-        "number": 17,
-        "startDate": "2026-12-17",
-        "label": "Week 17"
-      },
-      {
-        "number": 18,
-        "startDate": "2026-12-24",
-        "label": "Week 18"
-      },
-      {
-        "number": 19,
-        "startDate": "2026-12-31",
-        "label": "Week 19"
-      },
-      {
-        "number": 20,
-        "startDate": "2027-01-07",
-        "label": "Week 20"
       }
     ]
   },
@@ -278,12 +258,6 @@
       "logo": null
     },
     {
-      "name": "Arizona Cardinals",
-      "division": "nfl",
-      "abbreviation": "ARI",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ari.png"
-    },
-    {
       "name": "Arizona State",
       "division": "fbs",
       "abbreviation": "ARI",
@@ -314,12 +288,6 @@
       "logo": null
     },
     {
-      "name": "Atlanta Falcons",
-      "division": "nfl",
-      "abbreviation": "ATL",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/atl.png"
-    },
-    {
       "name": "Auburn",
       "division": "fbs",
       "abbreviation": "AUB",
@@ -342,12 +310,6 @@
       "division": "fbs",
       "abbreviation": "BAL",
       "logo": null
-    },
-    {
-      "name": "Baltimore Ravens",
-      "division": "nfl",
-      "abbreviation": "BAL",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/bal.png"
     },
     {
       "name": "Baylor",
@@ -392,12 +354,6 @@
       "logo": null
     },
     {
-      "name": "Buffalo Bills",
-      "division": "nfl",
-      "abbreviation": "BUF",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/buf.png"
-    },
-    {
       "name": "Butler",
       "division": "fcs",
       "abbreviation": "BUT",
@@ -432,12 +388,6 @@
       "division": "fcs",
       "abbreviation": "CAM",
       "logo": null
-    },
-    {
-      "name": "Carolina Panthers",
-      "division": "nfl",
-      "abbreviation": "CAR",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/car.png"
     },
     {
       "name": "Centenary (LA)",
@@ -500,22 +450,10 @@
       "logo": null
     },
     {
-      "name": "Chicago Bears",
-      "division": "nfl",
-      "abbreviation": "CHI",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/chi.png"
-    },
-    {
       "name": "Cincinnati",
       "division": "fbs",
       "abbreviation": "CIN",
       "logo": null
-    },
-    {
-      "name": "Cincinnati Bengals",
-      "division": "nfl",
-      "abbreviation": "CIN",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cin.png"
     },
     {
       "name": "Claremont Mudd Scripps",
@@ -528,12 +466,6 @@
       "division": "fbs",
       "abbreviation": "CLE",
       "logo": null
-    },
-    {
-      "name": "Cleveland Browns",
-      "division": "nfl",
-      "abbreviation": "CLE",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cle.png"
     },
     {
       "name": "Colgate",
@@ -552,12 +484,6 @@
       "division": "fbs",
       "abbreviation": "COL",
       "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/36.png"
-    },
-    {
-      "name": "Dallas Cowboys",
-      "division": "nfl",
-      "abbreviation": "DAL",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/dal.png"
     },
     {
       "name": "Davidson",
@@ -582,18 +508,6 @@
       "division": "fcs",
       "abbreviation": "DEL",
       "logo": null
-    },
-    {
-      "name": "Denver Broncos",
-      "division": "nfl",
-      "abbreviation": "DEN",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/den.png"
-    },
-    {
-      "name": "Detroit Lions",
-      "division": "nfl",
-      "abbreviation": "DET",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/det.png"
     },
     {
       "name": "Drake",
@@ -746,12 +660,6 @@
       "logo": null
     },
     {
-      "name": "Green Bay Packers",
-      "division": "nfl",
-      "abbreviation": "GRE",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png"
-    },
-    {
       "name": "Hampton",
       "division": "fcs",
       "abbreviation": "HAM",
@@ -786,12 +694,6 @@
       "division": "fcs",
       "abbreviation": "HOU",
       "logo": null
-    },
-    {
-      "name": "Houston Texans",
-      "division": "nfl",
-      "abbreviation": "HOU",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/hou.png"
     },
     {
       "name": "Howard",
@@ -842,12 +744,6 @@
       "logo": null
     },
     {
-      "name": "Indianapolis Colts",
-      "division": "nfl",
-      "abbreviation": "IND",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ind.png"
-    },
-    {
       "name": "Iowa",
       "division": "fbs",
       "abbreviation": "IOW",
@@ -866,12 +762,6 @@
       "logo": null
     },
     {
-      "name": "Jacksonville Jaguars",
-      "division": "nfl",
-      "abbreviation": "JAC",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/jax.png"
-    },
-    {
       "name": "Jacksonville State",
       "division": "fbs",
       "abbreviation": "JAC",
@@ -888,12 +778,6 @@
       "division": "fbs",
       "abbreviation": "KAN",
       "logo": null
-    },
-    {
-      "name": "Kansas City Chiefs",
-      "division": "nfl",
-      "abbreviation": "KAN",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/kc.png"
     },
     {
       "name": "Kansas State",
@@ -950,12 +834,6 @@
       "logo": null
     },
     {
-      "name": "Las Vegas Raiders",
-      "division": "nfl",
-      "abbreviation": "LAS",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lv.png"
-    },
-    {
       "name": "Lewis & Clark",
       "division": "d3",
       "abbreviation": "LEW",
@@ -996,18 +874,6 @@
       "division": "fcs",
       "abbreviation": "LON",
       "logo": null
-    },
-    {
-      "name": "Los Angeles Chargers",
-      "division": "nfl",
-      "abbreviation": "LOS",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lac.png"
-    },
-    {
-      "name": "Los Angeles Rams",
-      "division": "nfl",
-      "abbreviation": "LOS",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lar.png"
     },
     {
       "name": "Louisiana",
@@ -1112,12 +978,6 @@
       "logo": null
     },
     {
-      "name": "Miami Dolphins",
-      "division": "nfl",
-      "abbreviation": "MIA",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/mia.png"
-    },
-    {
       "name": "Michigan",
       "division": "fbs",
       "abbreviation": "MIC",
@@ -1146,12 +1006,6 @@
       "division": "fbs",
       "abbreviation": "MIN",
       "logo": null
-    },
-    {
-      "name": "Minnesota Vikings",
-      "division": "nfl",
-      "abbreviation": "MIN",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/min.png"
     },
     {
       "name": "Mississippi State",
@@ -1232,12 +1086,6 @@
       "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2440.png"
     },
     {
-      "name": "New England Patriots",
-      "division": "nfl",
-      "abbreviation": "NEW",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ne.png"
-    },
-    {
       "name": "New Hampshire",
       "division": "fcs",
       "abbreviation": "NEW",
@@ -1254,24 +1102,6 @@
       "division": "fbs",
       "abbreviation": "NEW",
       "logo": null
-    },
-    {
-      "name": "New Orleans Saints",
-      "division": "nfl",
-      "abbreviation": "NEW",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/no.png"
-    },
-    {
-      "name": "New York Giants",
-      "division": "nfl",
-      "abbreviation": "NEW",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyg.png"
-    },
-    {
-      "name": "New York Jets",
-      "division": "nfl",
-      "abbreviation": "NEW",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png"
     },
     {
       "name": "Nicholls",
@@ -1442,22 +1272,10 @@
       "logo": null
     },
     {
-      "name": "Philadelphia Eagles",
-      "division": "nfl",
-      "abbreviation": "PHI",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/phi.png"
-    },
-    {
       "name": "Pittsburgh",
       "division": "fbs",
       "abbreviation": "PIT",
       "logo": null
-    },
-    {
-      "name": "Pittsburgh Steelers",
-      "division": "nfl",
-      "abbreviation": "PIT",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/pit.png"
     },
     {
       "name": "Pomona Pitzer",
@@ -1574,12 +1392,6 @@
       "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/21.png"
     },
     {
-      "name": "San Francisco 49ers",
-      "division": "nfl",
-      "abbreviation": "SAN",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sf.png"
-    },
-    {
       "name": "San José State",
       "division": "fbs",
       "abbreviation": "SAN",
@@ -1590,12 +1402,6 @@
       "division": "fcs",
       "abbreviation": "SE ",
       "logo": null
-    },
-    {
-      "name": "Seattle Seahawks",
-      "division": "nfl",
-      "abbreviation": "SEA",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sea.png"
     },
     {
       "name": "Simpson (CA)",
@@ -1718,12 +1524,6 @@
       "logo": null
     },
     {
-      "name": "Tampa Bay Buccaneers",
-      "division": "nfl",
-      "abbreviation": "TAM",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/tb.png"
-    },
-    {
       "name": "Tarleton State",
       "division": "fcs",
       "abbreviation": "TAR",
@@ -1758,12 +1558,6 @@
       "division": "fcs",
       "abbreviation": "TEN",
       "logo": null
-    },
-    {
-      "name": "Tennessee Titans",
-      "division": "nfl",
-      "abbreviation": "TEN",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ten.png"
     },
     {
       "name": "Texas",
@@ -1998,12 +1792,6 @@
       "division": "fbs",
       "abbreviation": "WAS",
       "logo": null
-    },
-    {
-      "name": "Washington Commanders",
-      "division": "nfl",
-      "abbreviation": "WAS",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png"
     },
     {
       "name": "Washington State",
