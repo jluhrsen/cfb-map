@@ -66,6 +66,28 @@
     "division": "fcs"
   },
   {
+    "id": "2025-ncaa-401767600",
+    "sourceId": 401767600,
+    "sourceWeek": 12,
+    "week": 13,
+    "date": "2025-11-15",
+    "day": "Saturday",
+    "kickoff": "1p",
+    "home": "San Diego",
+    "away": "Butler",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Torero Stadium",
+      "lat": 32.7741,
+      "lng": -117.1833
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
     "id": "2025-ncaa-401767067",
     "sourceId": 401767067,
     "sourceWeek": 12,
@@ -105,28 +127,6 @@
       "name": "Walkup Skydome",
       "lat": 35.1803,
       "lng": -111.6544
-    },
-    "missingVenue": false,
-    "division": "fcs"
-  },
-  {
-    "id": "2025-ncaa-401767600",
-    "sourceId": 401767600,
-    "sourceWeek": 12,
-    "week": 13,
-    "date": "2025-11-15",
-    "day": "Saturday",
-    "kickoff": "1p",
-    "home": "San Diego",
-    "away": "Butler",
-    "homeDivision": "fcs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Torero Stadium",
-      "lat": 32.7741,
-      "lng": -117.1833
     },
     "missingVenue": false,
     "division": "fcs"
