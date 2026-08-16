@@ -14,12 +14,20 @@ async function fetchNFLSeason(year) {
 
   const allGames = [];
 
+  // ESPN's WAF returns a 403 HTML page instead of JSON for requests with no
+  // User-Agent header, and even for typical browser-style ones. A curl-style
+  // User-Agent is allowed through (verified empirically).
+  const headers = {
+    'User-Agent': 'curl/8.11.1',
+    'Accept': 'application/json'
+  };
+
   // NFL has 18 weeks in regular season
   for (let week = 1; week <= 18; week++) {
     const url = `${ESPN_API_BASE}/scoreboard?seasontype=2&week=${week}&dates=${year}`;
 
     try {
-      const data = await fetchJSON(url);
+      const data = await fetchJSON(url, headers);
       const games = data.events || [];
 
       console.log(`  Week ${week}: ${games.length} games`);
