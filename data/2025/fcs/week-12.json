@@ -22,28 +22,6 @@
     "division": "fcs"
   },
   {
-    "id": "2025-ncaa-401767474",
-    "sourceId": 401767474,
-    "sourceWeek": 11,
-    "week": 12,
-    "date": "2025-11-08",
-    "day": "Saturday",
-    "kickoff": "12p",
-    "home": "Houston Christian",
-    "away": "Stephen F. Austin",
-    "homeDivision": "fcs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Husky Stadium",
-      "lat": 47.6504,
-      "lng": -122.3016
-    },
-    "missingVenue": false,
-    "division": "fcs"
-  },
-  {
     "id": "2025-ncaa-401767365",
     "sourceId": 401767365,
     "sourceWeek": 11,
@@ -66,6 +44,28 @@
     "division": "fcs"
   },
   {
+    "id": "2025-ncaa-401767474",
+    "sourceId": 401767474,
+    "sourceWeek": 11,
+    "week": 12,
+    "date": "2025-11-08",
+    "day": "Saturday",
+    "kickoff": "12p",
+    "home": "Houston Christian",
+    "away": "Stephen F. Austin",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2617.png",
+    "venue": {
+      "name": "Husky Stadium",
+      "lat": 47.6504,
+      "lng": -122.3016
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
     "id": "2025-ncaa-401767069",
     "sourceId": 401767069,
     "sourceWeek": 11,
@@ -77,8 +77,8 @@
     "away": "Eastern Washington",
     "homeDivision": "fcs",
     "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/149.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/331.png",
     "venue": {
       "name": "Washington-Grizzly Stadium",
       "lat": 46.8601,
@@ -99,7 +99,7 @@
     "away": "Cal Poly",
     "homeDivision": "fcs",
     "awayDivision": "fcs",
-    "homeLogo": null,
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/304.png",
     "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/13.png",
     "venue": {
       "name": "Holt Arena",
@@ -121,8 +121,8 @@
     "away": "Northern Colorado",
     "homeDivision": "fcs",
     "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2464.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2458.png",
     "venue": {
       "name": "Walkup Skydome",
       "lat": 35.1803,

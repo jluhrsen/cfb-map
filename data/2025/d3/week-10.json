@@ -1,27 +1,5 @@
 [
   {
-    "id": "2025-ncaa-401777156",
-    "sourceId": 401777156,
-    "sourceWeek": 9,
-    "week": 10,
-    "date": "2025-10-25",
-    "day": "Saturday",
-    "kickoff": "1p",
-    "home": "Pacific (OR)",
-    "away": "Willamette",
-    "homeDivision": "d3",
-    "awayDivision": "d3",
-    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/lkxbjwugyaf69m59.png",
-    "awayLogo": "https://lh3.googleusercontent.com/6tOuPbn-4tztWUJrhNcODPR25WMo6bats7oaCuwY5KNzSTZneTGpKn-Z6PvWnJ0lNSE8hu7916kIwJhR3qYlbVWPYUo3NLgS2EM",
-    "venue": {
-      "name": "Hanson Stadium",
-      "lat": 45.5195,
-      "lng": -123.1107
-    },
-    "missingVenue": false,
-    "division": "d3"
-  },
-  {
     "id": "2025-ncaa-401777173",
     "sourceId": 401777173,
     "sourceWeek": 9,
@@ -33,7 +11,7 @@
     "away": "Whitworth",
     "homeDivision": "d3",
     "awayDivision": "d3",
-    "homeLogo": null,
+    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/2i62768ao3nlh5wq.png",
     "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/ekkb9ky91gzlit7x.png",
     "venue": {
       "name": "Griswold Stadium",
@@ -56,11 +34,33 @@
     "homeDivision": "d3",
     "awayDivision": "d3",
     "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/bi1umnuk45dh7ppn.png",
-    "awayLogo": null,
+    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/8ab4hlzfjvtul4nx.png",
     "venue": {
       "name": "Sparks Stadium",
       "lat": 47.1872,
       "lng": -122.3005
+    },
+    "missingVenue": false,
+    "division": "d3"
+  },
+  {
+    "id": "2025-ncaa-401777156",
+    "sourceId": 401777156,
+    "sourceWeek": 9,
+    "week": 10,
+    "date": "2025-10-25",
+    "day": "Saturday",
+    "kickoff": "1p",
+    "home": "Pacific (OR)",
+    "away": "Willamette",
+    "homeDivision": "d3",
+    "awayDivision": "d3",
+    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/lkxbjwugyaf69m59.png",
+    "awayLogo": "https://lh3.googleusercontent.com/6tOuPbn-4tztWUJrhNcODPR25WMo6bats7oaCuwY5KNzSTZneTGpKn-Z6PvWnJ0lNSE8hu7916kIwJhR3qYlbVWPYUo3NLgS2EM",
+    "venue": {
+      "name": "Hanson Stadium",
+      "lat": 45.5195,
+      "lng": -123.1107
     },
     "missingVenue": false,
     "division": "d3"
@@ -77,7 +77,7 @@
     "away": "Puget Sound",
     "homeDivision": "d3",
     "awayDivision": "d3",
-    "homeLogo": null,
+    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/mi23750dj6i6tf21.png",
     "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/wpoqmrhctdrju4jh.png",
     "venue": {
       "name": "Stoffer Family Stadium",
