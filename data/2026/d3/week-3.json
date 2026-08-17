@@ -22,11 +22,32 @@
     "division": "d3"
   },
   {
-    "id": "2026-manual-willamette-2",
-    "sourceId": "2026-manual-willamette-2",
-    "source": "manual",
+    "id": "2026-ncaa-401908319",
+    "sourceId": 401908319,
+    "sourceWeek": 2,
     "week": 3,
-    "sourceWeek": 3,
+    "date": "2026-09-12",
+    "day": "Saturday",
+    "kickoff": "12p",
+    "home": "Pacific Lutheran",
+    "away": "Mary Hardin Baylor",
+    "homeDivision": "d3",
+    "awayDivision": "d3",
+    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/bi1umnuk45dh7ppn.png",
+    "awayLogo": null,
+    "venue": {
+      "name": "Sparks Stadium",
+      "lat": 47.1872,
+      "lng": -122.3005
+    },
+    "missingVenue": false,
+    "division": "d3"
+  },
+  {
+    "id": "2026-ncaa-401908422",
+    "sourceId": 401908422,
+    "sourceWeek": 2,
+    "week": 3,
     "date": "2026-09-12",
     "day": "Saturday",
     "kickoff": "7p",

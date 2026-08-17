@@ -1,10 +1,9 @@
 [
   {
-    "id": "2026-manual-willamette-3",
-    "sourceId": "2026-manual-willamette-3",
-    "source": "manual",
+    "id": "2026-ncaa-401908455",
+    "sourceId": 401908455,
+    "sourceWeek": 3,
     "week": 4,
-    "sourceWeek": 4,
     "date": "2026-09-19",
     "day": "Saturday",
     "kickoff": "12p",
@@ -18,6 +17,28 @@
       "name": "McCulloch Stadium",
       "lat": 44.9388,
       "lng": -123.0355
+    },
+    "missingVenue": false,
+    "division": "d3"
+  },
+  {
+    "id": "2026-ncaa-401908406",
+    "sourceId": 401908406,
+    "sourceWeek": 3,
+    "week": 4,
+    "date": "2026-09-19",
+    "day": "Saturday",
+    "kickoff": "1p",
+    "home": "Lewis & Clark",
+    "away": "Pomona Pitzer",
+    "homeDivision": "d3",
+    "awayDivision": "d3",
+    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/2i62768ao3nlh5wq.png",
+    "awayLogo": "https://dbukjj6eu5tsf.cloudfront.net/sidearm.sites/pomapitzer.sidearmsports.com/images/responsive_2023/nav_logo_main.svg",
+    "venue": {
+      "name": "Griswold Stadium",
+      "lat": 45.4519,
+      "lng": -122.6727
     },
     "missingVenue": false,
     "division": "d3"

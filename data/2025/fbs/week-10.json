@@ -22,28 +22,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752883",
-    "sourceId": 401752883,
-    "sourceWeek": 9,
-    "week": 10,
-    "date": "2025-10-25",
-    "day": "Saturday",
-    "kickoff": "9a",
-    "home": "Nebraska",
-    "away": "Northwestern",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Memorial Stadium (Lincoln, NE)",
-      "lat": 40.8202,
-      "lng": -96.7055
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401756932",
     "sourceId": 401756932,
     "sourceWeek": 9,
@@ -88,6 +66,28 @@
     "division": "fbs"
   },
   {
+    "id": "2025-ncaa-401752885",
+    "sourceId": 401752885,
+    "sourceWeek": 9,
+    "week": 10,
+    "date": "2025-10-25",
+    "day": "Saturday",
+    "kickoff": "9a",
+    "home": "Indiana",
+    "away": "UCLA",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Memorial Stadium (Bloomington, IN)",
+      "lat": 39.1793,
+      "lng": -86.5232
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
     "id": "2025-ncaa-401762848",
     "sourceId": 401762848,
     "sourceWeek": 9,
@@ -110,23 +110,23 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752885",
-    "sourceId": 401752885,
+    "id": "2025-ncaa-401752883",
+    "sourceId": 401752883,
     "sourceWeek": 9,
     "week": 10,
     "date": "2025-10-25",
     "day": "Saturday",
     "kickoff": "9a",
-    "home": "Indiana",
-    "away": "UCLA",
+    "home": "Nebraska",
+    "away": "Northwestern",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Memorial Stadium (Bloomington, IN)",
-      "lat": 39.1793,
-      "lng": -86.5232
+      "name": "Memorial Stadium (Lincoln, NE)",
+      "lat": 40.8202,
+      "lng": -96.7055
     },
     "missingVenue": false,
     "division": "fbs"
@@ -176,45 +176,45 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752880",
-    "sourceId": 401752880,
+    "id": "2025-ncaa-401762847",
+    "sourceId": 401762847,
     "sourceWeek": 9,
     "week": 10,
     "date": "2025-10-25",
     "day": "Saturday",
     "kickoff": "12:30p",
-    "home": "Washington",
-    "away": "Illinois",
+    "home": "Central Michigan",
+    "away": "Massachusetts",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
-    "homeLogo": null,
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2117.png",
     "awayLogo": null,
     "venue": {
-      "name": "Husky Stadium",
-      "lat": 47.6504,
-      "lng": -122.3016
+      "name": "Kelly/Shorts Stadium",
+      "lat": 43.5779,
+      "lng": -84.7738
     },
     "missingVenue": false,
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401754574",
-    "sourceId": 401754574,
+    "id": "2025-ncaa-401752952",
+    "sourceId": 401752952,
     "sourceWeek": 9,
     "week": 10,
     "date": "2025-10-25",
     "day": "Saturday",
     "kickoff": "12:30p",
-    "home": "Pittsburgh",
-    "away": "NC State",
+    "home": "Washington State",
+    "away": "Toledo",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Acrisure Stadium",
-      "lat": 40.4468,
-      "lng": -80.0158
+      "name": "Gesa Field",
+      "lat": 46.7318,
+      "lng": -117.1601
     },
     "missingVenue": false,
     "division": "fbs"
@@ -264,23 +264,23 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401756931",
-    "sourceId": 401756931,
+    "id": "2025-ncaa-401752880",
+    "sourceId": 401752880,
     "sourceWeek": 9,
     "week": 10,
     "date": "2025-10-25",
     "day": "Saturday",
     "kickoff": "12:30p",
-    "home": "Iowa State",
-    "away": "BYU",
+    "home": "Washington",
+    "away": "Illinois",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Jack Trice Stadium",
-      "lat": 42.014,
-      "lng": -93.6356
+      "name": "Husky Stadium",
+      "lat": 47.6504,
+      "lng": -122.3016
     },
     "missingVenue": false,
     "division": "fbs"
@@ -308,45 +308,45 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401762847",
-    "sourceId": 401762847,
+    "id": "2025-ncaa-401754574",
+    "sourceId": 401754574,
     "sourceWeek": 9,
     "week": 10,
     "date": "2025-10-25",
     "day": "Saturday",
     "kickoff": "12:30p",
-    "home": "Central Michigan",
-    "away": "Massachusetts",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2117.png",
-    "awayLogo": null,
-    "venue": {
-      "name": "Kelly/Shorts Stadium",
-      "lat": 43.5779,
-      "lng": -84.7738
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2025-ncaa-401752952",
-    "sourceId": 401752952,
-    "sourceWeek": 9,
-    "week": 10,
-    "date": "2025-10-25",
-    "day": "Saturday",
-    "kickoff": "12:30p",
-    "home": "Washington State",
-    "away": "Toledo",
+    "home": "Pittsburgh",
+    "away": "NC State",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Gesa Field",
-      "lat": 46.7318,
-      "lng": -117.1601
+      "name": "Acrisure Stadium",
+      "lat": 40.4468,
+      "lng": -80.0158
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401756931",
+    "sourceId": 401756931,
+    "sourceWeek": 9,
+    "week": 10,
+    "date": "2025-10-25",
+    "day": "Saturday",
+    "kickoff": "12:30p",
+    "home": "Iowa State",
+    "away": "BYU",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Jack Trice Stadium",
+      "lat": 42.014,
+      "lng": -93.6356
     },
     "missingVenue": false,
     "division": "fbs"
@@ -396,28 +396,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752881",
-    "sourceId": 401752881,
-    "sourceWeek": 9,
-    "week": 10,
-    "date": "2025-10-25",
-    "day": "Saturday",
-    "kickoff": "4:30p",
-    "home": "Michigan State",
-    "away": "Michigan",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Spartan Stadium",
-      "lat": 37.3975,
-      "lng": -121.8635
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401752748",
     "sourceId": 401752748,
     "sourceWeek": 9,
@@ -435,6 +413,28 @@
       "name": "Tiger Stadium (LA)",
       "lat": 30.4122,
       "lng": -91.1839
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401752881",
+    "sourceId": 401752881,
+    "sourceWeek": 9,
+    "week": 10,
+    "date": "2025-10-25",
+    "day": "Saturday",
+    "kickoff": "4:30p",
+    "home": "Michigan State",
+    "away": "Michigan",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Spartan Stadium",
+      "lat": 37.3975,
+      "lng": -121.8635
     },
     "missingVenue": false,
     "division": "fbs"
