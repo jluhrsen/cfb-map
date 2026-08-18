@@ -22,28 +22,6 @@
     "division": "d3"
   },
   {
-    "id": "2026-ncaa-401908421",
-    "sourceId": 401908421,
-    "sourceWeek": 11,
-    "week": 12,
-    "date": "2026-11-14",
-    "day": "Saturday",
-    "kickoff": "1p",
-    "home": "Willamette",
-    "away": "Linfield",
-    "homeDivision": "d3",
-    "awayDivision": "d3",
-    "homeLogo": "https://lh3.googleusercontent.com/6tOuPbn-4tztWUJrhNcODPR25WMo6bats7oaCuwY5KNzSTZneTGpKn-Z6PvWnJ0lNSE8hu7916kIwJhR3qYlbVWPYUo3NLgS2EM",
-    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/8ab4hlzfjvtul4nx.png",
-    "venue": {
-      "name": "McCulloch Stadium",
-      "lat": 44.9388,
-      "lng": -123.0355
-    },
-    "missingVenue": false,
-    "division": "d3"
-  },
-  {
     "id": "2026-ncaa-401908411",
     "sourceId": 401908411,
     "sourceWeek": 11,
@@ -61,6 +39,28 @@
       "name": "Griswold Stadium",
       "lat": 45.4519,
       "lng": -122.6727
+    },
+    "missingVenue": false,
+    "division": "d3"
+  },
+  {
+    "id": "2026-ncaa-401908421",
+    "sourceId": 401908421,
+    "sourceWeek": 11,
+    "week": 12,
+    "date": "2026-11-14",
+    "day": "Saturday",
+    "kickoff": "1p",
+    "home": "Willamette",
+    "away": "Linfield",
+    "homeDivision": "d3",
+    "awayDivision": "d3",
+    "homeLogo": "https://lh3.googleusercontent.com/6tOuPbn-4tztWUJrhNcODPR25WMo6bats7oaCuwY5KNzSTZneTGpKn-Z6PvWnJ0lNSE8hu7916kIwJhR3qYlbVWPYUo3NLgS2EM",
+    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/8ab4hlzfjvtul4nx.png",
+    "venue": {
+      "name": "McCulloch Stadium",
+      "lat": 44.9388,
+      "lng": -123.0355
     },
     "missingVenue": false,
     "division": "d3"
