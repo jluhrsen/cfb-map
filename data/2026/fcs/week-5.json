@@ -110,26 +110,26 @@
     "division": "fcs"
   },
   {
-    "id": "2026-ncaa-401860892",
-    "sourceId": 401860892,
+    "id": "2026-ncaa-401868327",
+    "sourceId": 401868327,
     "sourceWeek": 4,
     "week": 5,
     "date": "2026-09-26",
     "day": "Saturday",
     "kickoff": "3p",
-    "home": "Texas State",
-    "away": "Incarnate Word",
-    "homeDivision": "fbs",
+    "home": "Alabama State",
+    "away": "Mississippi Valley State",
+    "homeDivision": "fcs",
     "awayDivision": "fcs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Bobcat Stadium (TX)",
-      "lat": 29.8911,
-      "lng": -97.9256
+      "name": "Hornet Stadium",
+      "lat": 38.5598,
+      "lng": -121.4242
     },
     "missingVenue": false,
-    "division": "fbs"
+    "division": "fcs"
   },
   {
     "id": "2026-ncaa-401868308",
@@ -154,26 +154,26 @@
     "division": "fcs"
   },
   {
-    "id": "2026-ncaa-401868327",
-    "sourceId": 401868327,
+    "id": "2026-ncaa-401860892",
+    "sourceId": 401860892,
     "sourceWeek": 4,
     "week": 5,
     "date": "2026-09-26",
     "day": "Saturday",
     "kickoff": "3p",
-    "home": "Alabama State",
-    "away": "Mississippi Valley State",
-    "homeDivision": "fcs",
+    "home": "Texas State",
+    "away": "Incarnate Word",
+    "homeDivision": "fbs",
     "awayDivision": "fcs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Hornet Stadium",
-      "lat": 38.5598,
-      "lng": -121.4242
+      "name": "Bobcat Stadium (TX)",
+      "lat": 29.8911,
+      "lng": -97.9256
     },
     "missingVenue": false,
-    "division": "fcs"
+    "division": "fbs"
   },
   {
     "id": "2026-ncaa-401868076",
