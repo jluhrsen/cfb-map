@@ -88,23 +88,23 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401868083",
-    "sourceId": 401868083,
+    "id": "2026-ncaa-401868128",
+    "sourceId": 401868128,
     "sourceWeek": 12,
     "week": 13,
     "date": "2026-11-21",
     "day": "Saturday",
     "kickoff": "1p",
-    "home": "UC Davis",
-    "away": "Cal Poly",
+    "home": "Northern Arizona",
+    "away": "Northern Colorado",
     "homeDivision": "fcs",
     "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/302.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/13.png",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2464.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2458.png",
     "venue": {
-      "name": "UC Davis Health Stadium",
-      "lat": 38.5382,
-      "lng": -121.7595
+      "name": "Walkup Skydome",
+      "lat": 35.1803,
+      "lng": -111.6544
     },
     "missingVenue": false,
     "division": "fcs"
@@ -132,23 +132,23 @@
     "division": "fcs"
   },
   {
-    "id": "2026-ncaa-401868128",
-    "sourceId": 401868128,
+    "id": "2026-ncaa-401868083",
+    "sourceId": 401868083,
     "sourceWeek": 12,
     "week": 13,
     "date": "2026-11-21",
     "day": "Saturday",
     "kickoff": "1p",
-    "home": "Northern Arizona",
-    "away": "Northern Colorado",
+    "home": "UC Davis",
+    "away": "Cal Poly",
     "homeDivision": "fcs",
     "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2464.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2458.png",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/302.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/13.png",
     "venue": {
-      "name": "Walkup Skydome",
-      "lat": 35.1803,
-      "lng": -111.6544
+      "name": "UC Davis Health Stadium",
+      "lat": 38.5382,
+      "lng": -121.7595
     },
     "missingVenue": false,
     "division": "fcs"
