@@ -132,6 +132,28 @@
     "division": "fcs"
   },
   {
+    "id": "2026-ncaa-401856785",
+    "sourceId": 401856785,
+    "sourceWeek": 2,
+    "week": 3,
+    "date": "2026-09-12",
+    "day": "Saturday",
+    "kickoff": "12:30p",
+    "home": "Colorado",
+    "away": "Weber State",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/38.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2692.png",
+    "venue": {
+      "name": "Folsom Field",
+      "lat": 40.0096,
+      "lng": -105.2644
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
     "id": "2026-ncaa-401866412",
     "sourceId": 401866412,
     "sourceWeek": 2,
@@ -154,23 +176,23 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401856785",
-    "sourceId": 401856785,
+    "id": "2026-ncaa-401864506",
+    "sourceId": 401864506,
     "sourceWeek": 2,
     "week": 3,
     "date": "2026-09-12",
     "day": "Saturday",
-    "kickoff": "12:30p",
-    "home": "Colorado",
-    "away": "Weber State",
+    "kickoff": "1p",
+    "home": "Wyoming",
+    "away": "Northern Colorado",
     "homeDivision": "fbs",
     "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/38.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2692.png",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2751.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2458.png",
     "venue": {
-      "name": "Folsom Field",
-      "lat": 40.0096,
-      "lng": -105.2644
+      "name": "War Memorial Stadium",
+      "lat": 41.307,
+      "lng": -105.5677
     },
     "missingVenue": false,
     "division": "fbs"
@@ -196,28 +218,6 @@
     },
     "missingVenue": false,
     "division": "fcs"
-  },
-  {
-    "id": "2026-ncaa-401864506",
-    "sourceId": 401864506,
-    "sourceWeek": 2,
-    "week": 3,
-    "date": "2026-09-12",
-    "day": "Saturday",
-    "kickoff": "1p",
-    "home": "Wyoming",
-    "away": "Northern Colorado",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2751.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2458.png",
-    "venue": {
-      "name": "War Memorial Stadium",
-      "lat": 41.307,
-      "lng": -105.5677
-    },
-    "missingVenue": false,
-    "division": "fbs"
   },
   {
     "id": "2026-ncaa-401856672",
@@ -264,26 +264,48 @@
     "division": "fcs"
   },
   {
-    "id": "2026-ncaa-401868123",
-    "sourceId": 401868123,
+    "id": "2026-ncaa-401869150",
+    "sourceId": 401869150,
     "sourceWeek": 2,
     "week": 3,
     "date": "2026-09-12",
     "day": "Saturday",
     "kickoff": "4p",
-    "home": "Northern Arizona",
-    "away": "Incarnate Word",
+    "home": "Houston Christian",
+    "away": "Arkansas Baptist",
     "homeDivision": "fcs",
-    "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2464.png",
+    "awayDivision": "fbs",
+    "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Walkup Skydome",
-      "lat": 35.1803,
-      "lng": -111.6544
+      "name": "Husky Stadium",
+      "lat": 47.6504,
+      "lng": -122.3016
     },
     "missingVenue": false,
     "division": "fcs"
+  },
+  {
+    "id": "2026-ncaa-401864503",
+    "sourceId": 401864503,
+    "sourceWeek": 2,
+    "week": 3,
+    "date": "2026-09-12",
+    "day": "Saturday",
+    "kickoff": "4p",
+    "home": "Northern Illinois",
+    "away": "Illinois State",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2459.png",
+    "awayLogo": null,
+    "venue": {
+      "name": "Huskie Stadium",
+      "lat": 41.9308,
+      "lng": -88.7572
+    },
+    "missingVenue": false,
+    "division": "fbs"
   },
   {
     "id": "2026-ncaa-401860882",
@@ -330,48 +352,26 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401869150",
-    "sourceId": 401869150,
+    "id": "2026-ncaa-401868123",
+    "sourceId": 401868123,
     "sourceWeek": 2,
     "week": 3,
     "date": "2026-09-12",
     "day": "Saturday",
     "kickoff": "4p",
-    "home": "Houston Christian",
-    "away": "Arkansas Baptist",
+    "home": "Northern Arizona",
+    "away": "Incarnate Word",
     "homeDivision": "fcs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
+    "awayDivision": "fcs",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2464.png",
     "awayLogo": null,
     "venue": {
-      "name": "Husky Stadium",
-      "lat": 47.6504,
-      "lng": -122.3016
+      "name": "Walkup Skydome",
+      "lat": 35.1803,
+      "lng": -111.6544
     },
     "missingVenue": false,
     "division": "fcs"
-  },
-  {
-    "id": "2026-ncaa-401864503",
-    "sourceId": 401864503,
-    "sourceWeek": 2,
-    "week": 3,
-    "date": "2026-09-12",
-    "day": "Saturday",
-    "kickoff": "4p",
-    "home": "Northern Illinois",
-    "away": "Illinois State",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2459.png",
-    "awayLogo": null,
-    "venue": {
-      "name": "Huskie Stadium",
-      "lat": 41.9308,
-      "lng": -88.7572
-    },
-    "missingVenue": false,
-    "division": "fbs"
   },
   {
     "id": "2026-ncaa-401858447",

@@ -66,28 +66,6 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401866427",
-    "sourceId": 401866427,
-    "sourceWeek": 4,
-    "week": 5,
-    "date": "2026-09-26",
-    "day": "Saturday",
-    "kickoff": "10a",
-    "home": "Eastern Michigan",
-    "away": "Lindenwood",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2199.png",
-    "awayLogo": null,
-    "venue": {
-      "name": "Rynearson Stadium",
-      "lat": 42.2473,
-      "lng": -83.6253
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2026-ncaa-401867858",
     "sourceId": 401867858,
     "sourceWeek": 4,
@@ -110,6 +88,28 @@
     "division": "fcs"
   },
   {
+    "id": "2026-ncaa-401866427",
+    "sourceId": 401866427,
+    "sourceWeek": 4,
+    "week": 5,
+    "date": "2026-09-26",
+    "day": "Saturday",
+    "kickoff": "10a",
+    "home": "Eastern Michigan",
+    "away": "Lindenwood",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2199.png",
+    "awayLogo": null,
+    "venue": {
+      "name": "Rynearson Stadium",
+      "lat": 42.2473,
+      "lng": -83.6253
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
     "id": "2026-ncaa-401868308",
     "sourceId": 401868308,
     "sourceWeek": 4,
@@ -127,28 +127,6 @@
       "name": "Homer Bryce Stadium",
       "lat": 31.6204,
       "lng": -94.6486
-    },
-    "missingVenue": false,
-    "division": "fcs"
-  },
-  {
-    "id": "2026-ncaa-401868327",
-    "sourceId": 401868327,
-    "sourceWeek": 4,
-    "week": 5,
-    "date": "2026-09-26",
-    "day": "Saturday",
-    "kickoff": "3p",
-    "home": "Alabama State",
-    "away": "Mississippi Valley State",
-    "homeDivision": "fcs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Hornet Stadium",
-      "lat": 38.5598,
-      "lng": -121.4242
     },
     "missingVenue": false,
     "division": "fcs"
@@ -174,6 +152,28 @@
     },
     "missingVenue": false,
     "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401868327",
+    "sourceId": 401868327,
+    "sourceWeek": 4,
+    "week": 5,
+    "date": "2026-09-26",
+    "day": "Saturday",
+    "kickoff": "3p",
+    "home": "Alabama State",
+    "away": "Mississippi Valley State",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Hornet Stadium",
+      "lat": 38.5598,
+      "lng": -121.4242
+    },
+    "missingVenue": false,
+    "division": "fcs"
   },
   {
     "id": "2026-ncaa-401868076",
