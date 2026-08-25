@@ -110,28 +110,6 @@
     "division": "fcs"
   },
   {
-    "id": "2026-ncaa-401868129",
-    "sourceId": 401868129,
-    "sourceWeek": 1,
-    "week": 1,
-    "date": "2026-08-29",
-    "day": "Saturday",
-    "kickoff": "6p",
-    "home": "Northern Colorado",
-    "away": "Weber State",
-    "homeDivision": "fcs",
-    "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2458.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2692.png",
-    "venue": {
-      "name": "Nottingham Field",
-      "lat": 40.4071,
-      "lng": -104.7017
-    },
-    "missingVenue": false,
-    "division": "fcs"
-  },
-  {
     "id": "2026-ncaa-401868110",
     "sourceId": 401868110,
     "sourceWeek": 1,
@@ -149,6 +127,28 @@
       "name": "Washington-Grizzly Stadium",
       "lat": 46.8601,
       "lng": -113.9845
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
+    "id": "2026-ncaa-401868129",
+    "sourceId": 401868129,
+    "sourceWeek": 1,
+    "week": 1,
+    "date": "2026-08-29",
+    "day": "Saturday",
+    "kickoff": "6p",
+    "home": "Northern Colorado",
+    "away": "Weber State",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2458.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2692.png",
+    "venue": {
+      "name": "Nottingham Field",
+      "lat": 40.4071,
+      "lng": -104.7017
     },
     "missingVenue": false,
     "division": "fcs"

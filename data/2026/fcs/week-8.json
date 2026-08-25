@@ -110,23 +110,23 @@
     "division": "fcs"
   },
   {
-    "id": "2026-ncaa-401868088",
-    "sourceId": 401868088,
+    "id": "2026-ncaa-401869152",
+    "sourceId": 401869152,
     "sourceWeek": 7,
     "week": 8,
     "date": "2026-10-17",
     "day": "Saturday",
     "kickoff": "4p",
-    "home": "Eastern Washington",
-    "away": "Montana State",
+    "home": "Houston Christian",
+    "away": "East Texas A&M",
     "homeDivision": "fcs",
     "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/331.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/147.png",
+    "homeLogo": null,
+    "awayLogo": null,
     "venue": {
-      "name": "Roos Field",
-      "lat": 47.4901,
-      "lng": -117.5888
+      "name": "Husky Stadium",
+      "lat": 47.6504,
+      "lng": -122.3016
     },
     "missingVenue": false,
     "division": "fcs"
@@ -154,23 +154,23 @@
     "division": "fcs"
   },
   {
-    "id": "2026-ncaa-401869152",
-    "sourceId": 401869152,
+    "id": "2026-ncaa-401868088",
+    "sourceId": 401868088,
     "sourceWeek": 7,
     "week": 8,
     "date": "2026-10-17",
     "day": "Saturday",
     "kickoff": "4p",
-    "home": "Houston Christian",
-    "away": "East Texas A&M",
+    "home": "Eastern Washington",
+    "away": "Montana State",
     "homeDivision": "fcs",
     "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/331.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/147.png",
     "venue": {
-      "name": "Husky Stadium",
-      "lat": 47.6504,
-      "lng": -122.3016
+      "name": "Roos Field",
+      "lat": 47.4901,
+      "lng": -117.5888
     },
     "missingVenue": false,
     "division": "fcs"
