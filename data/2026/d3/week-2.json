@@ -44,15 +44,14 @@
     "division": "d3"
   },
   {
-    "id": "2026-manual-willamette-1",
-    "sourceId": "2026-manual-willamette-1",
-    "source": "manual",
+    "id": "2026-ncaa-401908460",
+    "sourceId": 401908460,
+    "sourceWeek": 1,
     "week": 2,
-    "sourceWeek": 2,
     "date": "2026-09-05",
     "day": "Saturday",
     "kickoff": "12p",
-    "home": "Pomona-Pitzer",
+    "home": "Pomona Pitzer",
     "away": "Willamette",
     "homeDivision": "d3",
     "awayDivision": "d3",
@@ -62,6 +61,72 @@
       "name": "Merritt Field",
       "lat": 34.098,
       "lng": -117.714
+    },
+    "missingVenue": false,
+    "division": "d3"
+  },
+  {
+    "id": "2026-ncaa-401908429",
+    "sourceId": 401908429,
+    "sourceWeek": 1,
+    "week": 2,
+    "date": "2026-09-05",
+    "day": "Saturday",
+    "kickoff": "1p",
+    "home": "Pacific Lutheran",
+    "away": "Cal Lutheran",
+    "homeDivision": "d3",
+    "awayDivision": "d3",
+    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/bi1umnuk45dh7ppn.png",
+    "awayLogo": null,
+    "venue": {
+      "name": "Sparks Stadium",
+      "lat": 47.1872,
+      "lng": -122.3005
+    },
+    "missingVenue": false,
+    "division": "d3"
+  },
+  {
+    "id": "2026-ncaa-401908454",
+    "sourceId": 401908454,
+    "sourceWeek": 1,
+    "week": 2,
+    "date": "2026-09-05",
+    "day": "Saturday",
+    "kickoff": "5p",
+    "home": "La Verne",
+    "away": "Azusa Pacific",
+    "homeDivision": "d3",
+    "awayDivision": "d3",
+    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/xd9a451s9o7md2nt.png",
+    "awayLogo": null,
+    "venue": {
+      "name": "Ortmayer Stadium",
+      "lat": 34.1008,
+      "lng": -117.7678
+    },
+    "missingVenue": false,
+    "division": "d3"
+  },
+  {
+    "id": "2026-ncaa-401908393",
+    "sourceId": 401908393,
+    "sourceWeek": 1,
+    "week": 2,
+    "date": "2026-09-05",
+    "day": "Saturday",
+    "kickoff": "7:05p",
+    "home": "George Fox",
+    "away": "Redlands",
+    "homeDivision": "d3",
+    "awayDivision": "d3",
+    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/mi23750dj6i6tf21.png",
+    "awayLogo": null,
+    "venue": {
+      "name": "Stoffer Family Stadium",
+      "lat": 45.3051,
+      "lng": -122.9677
     },
     "missingVenue": false,
     "division": "d3"

@@ -66,28 +66,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401756853",
-    "sourceId": 401756853,
-    "sourceWeek": 1,
-    "week": 2,
-    "date": "2025-08-30",
-    "day": "Saturday",
-    "kickoff": "12:30p",
-    "home": "Iowa State",
-    "away": "South Dakota",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Jack Trice Stadium",
-      "lat": 42.014,
-      "lng": -93.6356
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401762793",
     "sourceId": 401762793,
     "sourceWeek": 1,
@@ -105,6 +83,28 @@
       "name": "Huskie Stadium",
       "lat": 41.9308,
       "lng": -88.7572
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401756853",
+    "sourceId": 401756853,
+    "sourceWeek": 1,
+    "week": 2,
+    "date": "2025-08-30",
+    "day": "Saturday",
+    "kickoff": "12:30p",
+    "home": "Iowa State",
+    "away": "South Dakota",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Jack Trice Stadium",
+      "lat": 42.014,
+      "lng": -93.6356
     },
     "missingVenue": false,
     "division": "fbs"
@@ -264,6 +264,28 @@
     "division": "fbs"
   },
   {
+    "id": "2025-ncaa-401756851",
+    "sourceId": 401756851,
+    "sourceWeek": 1,
+    "week": 2,
+    "date": "2025-08-30",
+    "day": "Saturday",
+    "kickoff": "5p",
+    "home": "BYU",
+    "away": "Portland State",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2502.png",
+    "venue": {
+      "name": "LaVell Edwards Stadium",
+      "lat": 40.2578,
+      "lng": -111.6563
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
     "id": "2025-ncaa-401762435",
     "sourceId": 401762435,
     "sourceWeek": 1,
@@ -306,28 +328,6 @@
     },
     "missingVenue": false,
     "division": "fcs"
-  },
-  {
-    "id": "2025-ncaa-401756851",
-    "sourceId": 401756851,
-    "sourceWeek": 1,
-    "week": 2,
-    "date": "2025-08-30",
-    "day": "Saturday",
-    "kickoff": "5p",
-    "home": "BYU",
-    "away": "Portland State",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2502.png",
-    "venue": {
-      "name": "LaVell Edwards Stadium",
-      "lat": 40.2578,
-      "lng": -111.6563
-    },
-    "missingVenue": false,
-    "division": "fbs"
   },
   {
     "id": "2025-ncaa-401752947",

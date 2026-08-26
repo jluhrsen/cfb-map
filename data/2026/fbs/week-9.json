@@ -44,89 +44,23 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401858275",
-    "sourceId": 401858275,
+    "id": "2026-ncaa-401866476",
+    "sourceId": 401866476,
     "sourceWeek": 8,
     "week": 9,
     "date": "2026-10-24",
     "day": "Saturday",
     "kickoff": "TBD",
-    "home": "North Carolina",
-    "away": "Syracuse",
+    "home": "Central Michigan",
+    "away": "Miami (OH)",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
-    "homeLogo": null,
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2117.png",
     "awayLogo": null,
     "venue": {
-      "name": "Kenan Stadium",
-      "lat": 35.9096,
-      "lng": -79.0478
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2026-ncaa-401858276",
-    "sourceId": 401858276,
-    "sourceWeek": 8,
-    "week": 9,
-    "date": "2026-10-24",
-    "day": "Saturday",
-    "kickoff": "TBD",
-    "home": "Clemson",
-    "away": "Virginia Tech",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Memorial Stadium (Clemson, SC)",
-      "lat": 34.6784,
-      "lng": -82.8444
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2026-ncaa-401858495",
-    "sourceId": 401858495,
-    "sourceWeek": 8,
-    "week": 9,
-    "date": "2026-10-24",
-    "day": "Saturday",
-    "kickoff": "TBD",
-    "home": "Illinois",
-    "away": "Oregon",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Memorial Stadium (Champaign, IL)",
-      "lat": 40.0993,
-      "lng": -88.2358
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2026-ncaa-401858496",
-    "sourceId": 401858496,
-    "sourceWeek": 8,
-    "week": 9,
-    "date": "2026-10-24",
-    "day": "Saturday",
-    "kickoff": "TBD",
-    "home": "Michigan",
-    "away": "Indiana",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Michigan Stadium",
-      "lat": 42.2658,
-      "lng": -83.7487
+      "name": "Kelly/Shorts Stadium",
+      "lat": 43.5779,
+      "lng": -84.7738
     },
     "missingVenue": false,
     "division": "fbs"
@@ -149,28 +83,6 @@
       "name": "Huskie Stadium",
       "lat": 41.9308,
       "lng": -88.7572
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2026-ncaa-401866476",
-    "sourceId": 401866476,
-    "sourceWeek": 8,
-    "week": 9,
-    "date": "2026-10-24",
-    "day": "Saturday",
-    "kickoff": "TBD",
-    "home": "Central Michigan",
-    "away": "Miami (OH)",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2117.png",
-    "awayLogo": null,
-    "venue": {
-      "name": "Kelly/Shorts Stadium",
-      "lat": 43.5779,
-      "lng": -84.7738
     },
     "missingVenue": false,
     "division": "fbs"
@@ -347,6 +259,94 @@
       "name": "Hard Rock Stadium",
       "lat": 25.958,
       "lng": -80.2389
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401858275",
+    "sourceId": 401858275,
+    "sourceWeek": 8,
+    "week": 9,
+    "date": "2026-10-24",
+    "day": "Saturday",
+    "kickoff": "TBD",
+    "home": "North Carolina",
+    "away": "Syracuse",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Kenan Stadium",
+      "lat": 35.9096,
+      "lng": -79.0478
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401858276",
+    "sourceId": 401858276,
+    "sourceWeek": 8,
+    "week": 9,
+    "date": "2026-10-24",
+    "day": "Saturday",
+    "kickoff": "TBD",
+    "home": "Clemson",
+    "away": "Virginia Tech",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Memorial Stadium (Clemson, SC)",
+      "lat": 34.6784,
+      "lng": -82.8444
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401858495",
+    "sourceId": 401858495,
+    "sourceWeek": 8,
+    "week": 9,
+    "date": "2026-10-24",
+    "day": "Saturday",
+    "kickoff": "TBD",
+    "home": "Illinois",
+    "away": "Oregon",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Memorial Stadium (Champaign, IL)",
+      "lat": 40.0993,
+      "lng": -88.2358
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401858496",
+    "sourceId": 401858496,
+    "sourceWeek": 8,
+    "week": 9,
+    "date": "2026-10-24",
+    "day": "Saturday",
+    "kickoff": "TBD",
+    "home": "Michigan",
+    "away": "Indiana",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Michigan Stadium",
+      "lat": 42.2658,
+      "lng": -83.7487
     },
     "missingVenue": false,
     "division": "fbs"
