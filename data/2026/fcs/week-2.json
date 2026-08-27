@@ -110,28 +110,6 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401856779",
-    "sourceId": 401856779,
-    "sourceWeek": 1,
-    "week": 2,
-    "date": "2026-09-05",
-    "day": "Saturday",
-    "kickoff": "10a",
-    "home": "Iowa State",
-    "away": "Southeast Missouri State",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Jack Trice Stadium",
-      "lat": 42.014,
-      "lng": -93.6356
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2026-ncaa-401856659",
     "sourceId": 401856659,
     "sourceWeek": 1,
@@ -149,6 +127,28 @@
       "name": "Kroger Field",
       "lat": 38.022,
       "lng": -84.5037
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401856779",
+    "sourceId": 401856779,
+    "sourceWeek": 1,
+    "week": 2,
+    "date": "2026-09-05",
+    "day": "Saturday",
+    "kickoff": "10a",
+    "home": "Iowa State",
+    "away": "Southeast Missouri State",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Jack Trice Stadium",
+      "lat": 42.014,
+      "lng": -93.6356
     },
     "missingVenue": false,
     "division": "fbs"
@@ -352,28 +352,6 @@
     "division": "fcs"
   },
   {
-    "id": "2026-ncaa-401856669",
-    "sourceId": 401856669,
-    "sourceWeek": 1,
-    "week": 2,
-    "date": "2026-09-05",
-    "day": "Saturday",
-    "kickoff": "4p",
-    "home": "Vanderbilt",
-    "away": "Austin Peay",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "FirstBank Stadium",
-      "lat": 36.0103,
-      "lng": -86.8051
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2026-ncaa-401860880",
     "sourceId": 401860880,
     "sourceWeek": 1,
@@ -391,6 +369,28 @@
       "name": "Maverik Stadium",
       "lat": 41.7517,
       "lng": -111.8116
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401856669",
+    "sourceId": 401856669,
+    "sourceWeek": 1,
+    "week": 2,
+    "date": "2026-09-05",
+    "day": "Saturday",
+    "kickoff": "4p",
+    "home": "Vanderbilt",
+    "away": "Austin Peay",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "FirstBank Stadium",
+      "lat": 36.0103,
+      "lng": -86.8051
     },
     "missingVenue": false,
     "division": "fbs"
@@ -462,50 +462,6 @@
     "division": "fcs"
   },
   {
-    "id": "2026-ncaa-401868306",
-    "sourceId": 401868306,
-    "sourceWeek": 1,
-    "week": 2,
-    "date": "2026-09-05",
-    "day": "Saturday",
-    "kickoff": "5p",
-    "home": "Stephen F. Austin",
-    "away": "East Texas A&M",
-    "homeDivision": "fcs",
-    "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2617.png",
-    "awayLogo": null,
-    "venue": {
-      "name": "Homer Bryce Stadium",
-      "lat": 31.6204,
-      "lng": -94.6486
-    },
-    "missingVenue": false,
-    "division": "fcs"
-  },
-  {
-    "id": "2026-ncaa-401856775",
-    "sourceId": 401856775,
-    "sourceWeek": 1,
-    "week": 2,
-    "date": "2026-09-05",
-    "day": "Saturday",
-    "kickoff": "5p",
-    "home": "BYU",
-    "away": "Utah Tech",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/3101.png",
-    "venue": {
-      "name": "LaVell Edwards Stadium",
-      "lat": 40.2578,
-      "lng": -111.6563
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2026-ncaa-401858431",
     "sourceId": 401858431,
     "sourceWeek": 1,
@@ -550,6 +506,28 @@
     "division": "fbs"
   },
   {
+    "id": "2026-ncaa-401868306",
+    "sourceId": 401868306,
+    "sourceWeek": 1,
+    "week": 2,
+    "date": "2026-09-05",
+    "day": "Saturday",
+    "kickoff": "5p",
+    "home": "Stephen F. Austin",
+    "away": "East Texas A&M",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2617.png",
+    "awayLogo": null,
+    "venue": {
+      "name": "Homer Bryce Stadium",
+      "lat": 31.6204,
+      "lng": -94.6486
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
     "id": "2026-ncaa-401867883",
     "sourceId": 401867883,
     "sourceWeek": 1,
@@ -570,6 +548,28 @@
     },
     "missingVenue": false,
     "division": "fcs"
+  },
+  {
+    "id": "2026-ncaa-401856775",
+    "sourceId": 401856775,
+    "sourceWeek": 1,
+    "week": 2,
+    "date": "2026-09-05",
+    "day": "Saturday",
+    "kickoff": "5p",
+    "home": "BYU",
+    "away": "Utah Tech",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/3101.png",
+    "venue": {
+      "name": "LaVell Edwards Stadium",
+      "lat": 40.2578,
+      "lng": -111.6563
+    },
+    "missingVenue": false,
+    "division": "fbs"
   },
   {
     "id": "2026-ncaa-401856773",

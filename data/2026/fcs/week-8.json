@@ -110,28 +110,6 @@
     "division": "fcs"
   },
   {
-    "id": "2026-ncaa-401868125",
-    "sourceId": 401868125,
-    "sourceWeek": 7,
-    "week": 8,
-    "date": "2026-10-17",
-    "day": "Saturday",
-    "kickoff": "4p",
-    "home": "Northern Arizona",
-    "away": "Portland State",
-    "homeDivision": "fcs",
-    "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2464.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2502.png",
-    "venue": {
-      "name": "Walkup Skydome",
-      "lat": 35.1803,
-      "lng": -111.6544
-    },
-    "missingVenue": false,
-    "division": "fcs"
-  },
-  {
     "id": "2026-ncaa-401868088",
     "sourceId": 401868088,
     "sourceWeek": 7,
@@ -149,6 +127,28 @@
       "name": "Roos Field",
       "lat": 47.4901,
       "lng": -117.5888
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
+    "id": "2026-ncaa-401868125",
+    "sourceId": 401868125,
+    "sourceWeek": 7,
+    "week": 8,
+    "date": "2026-10-17",
+    "day": "Saturday",
+    "kickoff": "4p",
+    "home": "Northern Arizona",
+    "away": "Portland State",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2464.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2502.png",
+    "venue": {
+      "name": "Walkup Skydome",
+      "lat": 35.1803,
+      "lng": -111.6544
     },
     "missingVenue": false,
     "division": "fcs"

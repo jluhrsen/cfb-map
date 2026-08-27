@@ -22,6 +22,50 @@
     "division": "fbs"
   },
   {
+    "id": "2025-ncaa-401761617",
+    "sourceId": 401761617,
+    "sourceWeek": 5,
+    "week": 6,
+    "date": "2025-09-27",
+    "day": "Saturday",
+    "kickoff": "9a",
+    "home": "North Texas",
+    "away": "South Alabama",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "DATCU Stadium",
+      "lat": 33.2071,
+      "lng": -97.1514
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401752717",
+    "sourceId": 401752717,
+    "sourceWeek": 5,
+    "week": 6,
+    "date": "2025-09-27",
+    "day": "Saturday",
+    "kickoff": "9a",
+    "home": "Arkansas",
+    "away": "Notre Dame",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Razorback Stadium",
+      "lat": 36.0684,
+      "lng": -94.1789
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
     "id": "2025-ncaa-401756905",
     "sourceId": 401756905,
     "sourceWeek": 5,
@@ -83,50 +127,6 @@
       "name": "Memorial Stadium (Champaign, IL)",
       "lat": 40.0993,
       "lng": -88.2358
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2025-ncaa-401752717",
-    "sourceId": 401752717,
-    "sourceWeek": 5,
-    "week": 6,
-    "date": "2025-09-27",
-    "day": "Saturday",
-    "kickoff": "9a",
-    "home": "Arkansas",
-    "away": "Notre Dame",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Razorback Stadium",
-      "lat": 36.0684,
-      "lng": -94.1789
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2025-ncaa-401761617",
-    "sourceId": 401761617,
-    "sourceWeek": 5,
-    "week": 6,
-    "date": "2025-09-27",
-    "day": "Saturday",
-    "kickoff": "9a",
-    "home": "North Texas",
-    "away": "South Alabama",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "DATCU Stadium",
-      "lat": 33.2071,
-      "lng": -97.1514
     },
     "missingVenue": false,
     "division": "fbs"
@@ -198,28 +198,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752853",
-    "sourceId": 401752853,
-    "sourceWeek": 5,
-    "week": 6,
-    "date": "2025-09-27",
-    "day": "Saturday",
-    "kickoff": "12:30p",
-    "home": "Iowa",
-    "away": "Indiana",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Kinnick Stadium",
-      "lat": 41.6581,
-      "lng": -91.5509
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401760380",
     "sourceId": 401760380,
     "sourceWeek": 5,
@@ -242,45 +220,23 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752724",
-    "sourceId": 401752724,
+    "id": "2025-ncaa-401756907",
+    "sourceId": 401756907,
     "sourceWeek": 5,
     "week": 6,
     "date": "2025-09-27",
     "day": "Saturday",
     "kickoff": "12:30p",
-    "home": "Texas A&M",
-    "away": "Auburn",
+    "home": "Oklahoma State",
+    "away": "Baylor",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Kyle Field",
-      "lat": 30.61,
-      "lng": -96.34
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2025-ncaa-401752852",
-    "sourceId": 401752852,
-    "sourceWeek": 5,
-    "week": 6,
-    "date": "2025-09-27",
-    "day": "Saturday",
-    "kickoff": "12:30p",
-    "home": "Washington",
-    "away": "Ohio State",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Husky Stadium",
-      "lat": 47.6504,
-      "lng": -122.3016
+      "name": "Boone Pickens Stadium",
+      "lat": 36.1286,
+      "lng": -97.0651
     },
     "missingVenue": false,
     "division": "fbs"
@@ -308,23 +264,67 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401756907",
-    "sourceId": 401756907,
+    "id": "2025-ncaa-401752852",
+    "sourceId": 401752852,
     "sourceWeek": 5,
     "week": 6,
     "date": "2025-09-27",
     "day": "Saturday",
     "kickoff": "12:30p",
-    "home": "Oklahoma State",
-    "away": "Baylor",
+    "home": "Washington",
+    "away": "Ohio State",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Boone Pickens Stadium",
-      "lat": 36.1286,
-      "lng": -97.0651
+      "name": "Husky Stadium",
+      "lat": 47.6504,
+      "lng": -122.3016
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401752724",
+    "sourceId": 401752724,
+    "sourceWeek": 5,
+    "week": 6,
+    "date": "2025-09-27",
+    "day": "Saturday",
+    "kickoff": "12:30p",
+    "home": "Texas A&M",
+    "away": "Auburn",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Kyle Field",
+      "lat": 30.61,
+      "lng": -96.34
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401752853",
+    "sourceId": 401752853,
+    "sourceWeek": 5,
+    "week": 6,
+    "date": "2025-09-27",
+    "day": "Saturday",
+    "kickoff": "12:30p",
+    "home": "Iowa",
+    "away": "Indiana",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Kinnick Stadium",
+      "lat": 41.6581,
+      "lng": -91.5509
     },
     "missingVenue": false,
     "division": "fbs"
@@ -374,6 +374,50 @@
     "division": "fbs"
   },
   {
+    "id": "2025-ncaa-401752721",
+    "sourceId": 401752721,
+    "sourceWeek": 5,
+    "week": 6,
+    "date": "2025-09-27",
+    "day": "Saturday",
+    "kickoff": "4:30p",
+    "home": "Missouri",
+    "away": "Massachusetts",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Memorial Stadium",
+      "lat": 38.9628,
+      "lng": -95.2464
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401752718",
+    "sourceId": 401752718,
+    "sourceWeek": 5,
+    "week": 6,
+    "date": "2025-09-27",
+    "day": "Saturday",
+    "kickoff": "4:30p",
+    "home": "Georgia",
+    "away": "Alabama",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Sanford Stadium",
+      "lat": 33.9498,
+      "lng": -83.3732
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
     "id": "2025-ncaa-401752854",
     "sourceId": 401752854,
     "sourceWeek": 5,
@@ -391,6 +435,28 @@
       "name": "Beaver Stadium",
       "lat": 40.8122,
       "lng": -77.8561
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401760379",
+    "sourceId": 401760379,
+    "sourceWeek": 5,
+    "week": 6,
+    "date": "2025-09-27",
+    "day": "Saturday",
+    "kickoff": "4:30p",
+    "home": "Boise State",
+    "away": "App State",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Albertsons Stadium",
+      "lat": 43.6029,
+      "lng": -116.1958
     },
     "missingVenue": false,
     "division": "fbs"
@@ -435,72 +501,6 @@
       "name": "Canvas Stadium",
       "lat": 40.5749,
       "lng": -105.0896
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2025-ncaa-401752718",
-    "sourceId": 401752718,
-    "sourceWeek": 5,
-    "week": 6,
-    "date": "2025-09-27",
-    "day": "Saturday",
-    "kickoff": "4:30p",
-    "home": "Georgia",
-    "away": "Alabama",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Sanford Stadium",
-      "lat": 33.9498,
-      "lng": -83.3732
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2025-ncaa-401752721",
-    "sourceId": 401752721,
-    "sourceWeek": 5,
-    "week": 6,
-    "date": "2025-09-27",
-    "day": "Saturday",
-    "kickoff": "4:30p",
-    "home": "Missouri",
-    "away": "Massachusetts",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Memorial Stadium",
-      "lat": 38.9628,
-      "lng": -95.2464
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2025-ncaa-401760379",
-    "sourceId": 401760379,
-    "sourceWeek": 5,
-    "week": 6,
-    "date": "2025-09-27",
-    "day": "Saturday",
-    "kickoff": "4:30p",
-    "home": "Boise State",
-    "away": "App State",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Albertsons Stadium",
-      "lat": 43.6029,
-      "lng": -116.1958
     },
     "missingVenue": false,
     "division": "fbs"
