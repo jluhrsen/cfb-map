@@ -44,28 +44,6 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401858218",
-    "sourceId": 401858218,
-    "sourceWeek": 2,
-    "week": 3,
-    "date": "2026-09-12",
-    "day": "Saturday",
-    "kickoff": "9a",
-    "home": "North Carolina",
-    "away": "East Tennessee State",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Kenan Stadium",
-      "lat": 35.9096,
-      "lng": -79.0478
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2026-ncaa-401858439",
     "sourceId": 401858439,
     "sourceWeek": 2,
@@ -83,6 +61,28 @@
       "name": "Memorial Stadium (Bloomington, IN)",
       "lat": 39.1793,
       "lng": -86.5232
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401858218",
+    "sourceId": 401858218,
+    "sourceWeek": 2,
+    "week": 3,
+    "date": "2026-09-12",
+    "day": "Saturday",
+    "kickoff": "9a",
+    "home": "North Carolina",
+    "away": "East Tennessee State",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Kenan Stadium",
+      "lat": 35.9096,
+      "lng": -79.0478
     },
     "missingVenue": false,
     "division": "fbs"
@@ -108,6 +108,28 @@
     },
     "missingVenue": false,
     "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401873229",
+    "sourceId": 401873229,
+    "sourceWeek": 2,
+    "week": 3,
+    "date": "2026-09-12",
+    "day": "Saturday",
+    "kickoff": "10a",
+    "home": "Puget Sound",
+    "away": "Lewis-Clark Valley College",
+    "homeDivision": "d3",
+    "awayDivision": "fcs",
+    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/wpoqmrhctdrju4jh.png",
+    "awayLogo": null,
+    "venue": {
+      "name": "Baker Stadium",
+      "lat": 47.2605,
+      "lng": -122.4825
+    },
+    "missingVenue": false,
+    "division": "d3"
   },
   {
     "id": "2026-ncaa-401868112",
@@ -286,26 +308,26 @@
     "division": "fcs"
   },
   {
-    "id": "2026-ncaa-401864503",
-    "sourceId": 401864503,
+    "id": "2026-ncaa-401869150",
+    "sourceId": 401869150,
     "sourceWeek": 2,
     "week": 3,
     "date": "2026-09-12",
     "day": "Saturday",
     "kickoff": "4p",
-    "home": "Northern Illinois",
-    "away": "Illinois State",
-    "homeDivision": "fbs",
+    "home": "Houston Christian",
+    "away": "Arkansas Baptist",
+    "homeDivision": "fcs",
     "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2459.png",
+    "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Huskie Stadium",
-      "lat": 41.9308,
-      "lng": -88.7572
+      "name": "Husky Stadium",
+      "lat": 47.6504,
+      "lng": -122.3016
     },
     "missingVenue": false,
-    "division": "fbs"
+    "division": "fcs"
   },
   {
     "id": "2026-ncaa-401860882",
@@ -352,26 +374,26 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401869150",
-    "sourceId": 401869150,
+    "id": "2026-ncaa-401864503",
+    "sourceId": 401864503,
     "sourceWeek": 2,
     "week": 3,
     "date": "2026-09-12",
     "day": "Saturday",
     "kickoff": "4p",
-    "home": "Houston Christian",
-    "away": "Arkansas Baptist",
-    "homeDivision": "fcs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
+    "home": "Northern Illinois",
+    "away": "Illinois State",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2459.png",
     "awayLogo": null,
     "venue": {
-      "name": "Husky Stadium",
-      "lat": 47.6504,
-      "lng": -122.3016
+      "name": "Huskie Stadium",
+      "lat": 41.9308,
+      "lng": -88.7572
     },
     "missingVenue": false,
-    "division": "fcs"
+    "division": "fbs"
   },
   {
     "id": "2026-ncaa-401858447",
