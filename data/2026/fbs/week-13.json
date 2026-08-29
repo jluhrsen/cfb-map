@@ -22,28 +22,6 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401858529",
-    "sourceId": 401858529,
-    "sourceWeek": 12,
-    "week": 13,
-    "date": "2026-11-20",
-    "day": "Friday",
-    "kickoff": "5p",
-    "home": "Michigan State",
-    "away": "Oregon",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Spartan Stadium",
-      "lat": 37.3975,
-      "lng": -121.8635
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2026-ncaa-401864545",
     "sourceId": 401864545,
     "sourceWeek": 12,
@@ -66,67 +44,23 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401858302",
-    "sourceId": 401858302,
+    "id": "2026-ncaa-401858529",
+    "sourceId": 401858529,
     "sourceWeek": 12,
     "week": 13,
-    "date": "2026-11-21",
-    "day": "Saturday",
-    "kickoff": "TBD",
-    "home": "Miami",
-    "away": "Virginia Tech",
+    "date": "2026-11-20",
+    "day": "Friday",
+    "kickoff": "5p",
+    "home": "Michigan State",
+    "away": "Oregon",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Hard Rock Stadium",
-      "lat": 25.958,
-      "lng": -80.2389
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2026-ncaa-401856748",
-    "sourceId": 401856748,
-    "sourceWeek": 12,
-    "week": 13,
-    "date": "2026-11-21",
-    "day": "Saturday",
-    "kickoff": "TBD",
-    "home": "Florida",
-    "away": "Vanderbilt",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Ben Hill Griffin Stadium",
-      "lat": 29.65,
-      "lng": -82.3486
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2026-ncaa-401856751",
-    "sourceId": 401856751,
-    "sourceWeek": 12,
-    "week": 13,
-    "date": "2026-11-21",
-    "day": "Saturday",
-    "kickoff": "TBD",
-    "home": "Missouri",
-    "away": "Kentucky",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Memorial Stadium",
-      "lat": 38.9628,
-      "lng": -95.2464
+      "name": "Spartan Stadium",
+      "lat": 37.3975,
+      "lng": -121.8635
     },
     "missingVenue": false,
     "division": "fbs"
@@ -391,6 +325,72 @@
       "name": "Mackay Stadium",
       "lat": 39.5468,
       "lng": -119.8175
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401858302",
+    "sourceId": 401858302,
+    "sourceWeek": 12,
+    "week": 13,
+    "date": "2026-11-21",
+    "day": "Saturday",
+    "kickoff": "TBD",
+    "home": "Miami",
+    "away": "Virginia Tech",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Hard Rock Stadium",
+      "lat": 25.958,
+      "lng": -80.2389
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401856748",
+    "sourceId": 401856748,
+    "sourceWeek": 12,
+    "week": 13,
+    "date": "2026-11-21",
+    "day": "Saturday",
+    "kickoff": "TBD",
+    "home": "Florida",
+    "away": "Vanderbilt",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Ben Hill Griffin Stadium",
+      "lat": 29.65,
+      "lng": -82.3486
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401856751",
+    "sourceId": 401856751,
+    "sourceWeek": 12,
+    "week": 13,
+    "date": "2026-11-21",
+    "day": "Saturday",
+    "kickoff": "TBD",
+    "home": "Missouri",
+    "away": "Kentucky",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Memorial Stadium",
+      "lat": 38.9628,
+      "lng": -95.2464
     },
     "missingVenue": false,
     "division": "fbs"
