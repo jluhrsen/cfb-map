@@ -110,6 +110,28 @@
     "division": "fcs"
   },
   {
+    "id": "2026-ncaa-401866412",
+    "sourceId": 401866412,
+    "sourceWeek": 2,
+    "week": 3,
+    "date": "2026-09-12",
+    "day": "Saturday",
+    "kickoff": "12:30p",
+    "home": "Akron",
+    "away": "Robert Morris",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2006.png",
+    "awayLogo": null,
+    "venue": {
+      "name": "InfoCision Stadium",
+      "lat": 41.0726,
+      "lng": -81.5084
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
     "id": "2026-ncaa-401856785",
     "sourceId": 401856785,
     "sourceWeek": 2,
@@ -132,23 +154,23 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401866412",
-    "sourceId": 401866412,
+    "id": "2026-ncaa-401864506",
+    "sourceId": 401864506,
     "sourceWeek": 2,
     "week": 3,
     "date": "2026-09-12",
     "day": "Saturday",
-    "kickoff": "12:30p",
-    "home": "Akron",
-    "away": "Robert Morris",
+    "kickoff": "1p",
+    "home": "Wyoming",
+    "away": "Northern Colorado",
     "homeDivision": "fbs",
     "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2006.png",
-    "awayLogo": null,
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2751.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2458.png",
     "venue": {
-      "name": "InfoCision Stadium",
-      "lat": 41.0726,
-      "lng": -81.5084
+      "name": "War Memorial Stadium",
+      "lat": 41.307,
+      "lng": -105.5677
     },
     "missingVenue": false,
     "division": "fbs"
@@ -174,28 +196,6 @@
     },
     "missingVenue": false,
     "division": "fcs"
-  },
-  {
-    "id": "2026-ncaa-401864506",
-    "sourceId": 401864506,
-    "sourceWeek": 2,
-    "week": 3,
-    "date": "2026-09-12",
-    "day": "Saturday",
-    "kickoff": "1p",
-    "home": "Wyoming",
-    "away": "Northern Colorado",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2751.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2458.png",
-    "venue": {
-      "name": "War Memorial Stadium",
-      "lat": 41.307,
-      "lng": -105.5677
-    },
-    "missingVenue": false,
-    "division": "fbs"
   },
   {
     "id": "2026-ncaa-401868123",
@@ -264,6 +264,28 @@
     "division": "fcs"
   },
   {
+    "id": "2026-ncaa-401864503",
+    "sourceId": 401864503,
+    "sourceWeek": 2,
+    "week": 3,
+    "date": "2026-09-12",
+    "day": "Saturday",
+    "kickoff": "4p",
+    "home": "Northern Illinois",
+    "away": "Illinois State",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2459.png",
+    "awayLogo": null,
+    "venue": {
+      "name": "Huskie Stadium",
+      "lat": 41.9308,
+      "lng": -88.7572
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
     "id": "2026-ncaa-401856787",
     "sourceId": 401856787,
     "sourceWeek": 2,
@@ -286,23 +308,23 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401864503",
-    "sourceId": 401864503,
+    "id": "2026-ncaa-401860882",
+    "sourceId": 401860882,
     "sourceWeek": 2,
     "week": 3,
     "date": "2026-09-12",
     "day": "Saturday",
     "kickoff": "4p",
-    "home": "Northern Illinois",
-    "away": "Illinois State",
+    "home": "Colorado State",
+    "away": "Southern Utah",
     "homeDivision": "fbs",
     "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2459.png",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/36.png",
     "awayLogo": null,
     "venue": {
-      "name": "Huskie Stadium",
-      "lat": 41.9308,
-      "lng": -88.7572
+      "name": "Canvas Stadium",
+      "lat": 40.5749,
+      "lng": -105.0896
     },
     "missingVenue": false,
     "division": "fbs"
@@ -330,28 +352,6 @@
     "division": "fcs"
   },
   {
-    "id": "2026-ncaa-401860882",
-    "sourceId": 401860882,
-    "sourceWeek": 2,
-    "week": 3,
-    "date": "2026-09-12",
-    "day": "Saturday",
-    "kickoff": "4p",
-    "home": "Colorado State",
-    "away": "Southern Utah",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/36.png",
-    "awayLogo": null,
-    "venue": {
-      "name": "Canvas Stadium",
-      "lat": 40.5749,
-      "lng": -105.0896
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2026-ncaa-401858447",
     "sourceId": 401858447,
     "sourceWeek": 2,
@@ -374,28 +374,6 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401864505",
-    "sourceId": 401864505,
-    "sourceWeek": 2,
-    "week": 3,
-    "date": "2026-09-12",
-    "day": "Saturday",
-    "kickoff": "6p",
-    "home": "UTEP",
-    "away": "Texas Southern",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2638.png",
-    "awayLogo": null,
-    "venue": {
-      "name": "Sun Bowl",
-      "lat": 31.7688,
-      "lng": -106.4992
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2026-ncaa-401864504",
     "sourceId": 401864504,
     "sourceWeek": 2,
@@ -413,6 +391,28 @@
       "name": "CEFCU Stadium",
       "lat": 37.3197,
       "lng": -121.8684
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401864505",
+    "sourceId": 401864505,
+    "sourceWeek": 2,
+    "week": 3,
+    "date": "2026-09-12",
+    "day": "Saturday",
+    "kickoff": "6p",
+    "home": "UTEP",
+    "away": "Texas Southern",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2638.png",
+    "awayLogo": null,
+    "venue": {
+      "name": "Sun Bowl",
+      "lat": 31.7688,
+      "lng": -106.4992
     },
     "missingVenue": false,
     "division": "fbs"

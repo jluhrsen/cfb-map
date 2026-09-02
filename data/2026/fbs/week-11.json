@@ -88,23 +88,23 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401858517",
-    "sourceId": 401858517,
+    "id": "2026-ncaa-401858511",
+    "sourceId": 401858511,
     "sourceWeek": 10,
     "week": 11,
     "date": "2026-11-07",
     "day": "Saturday",
     "kickoff": "TBD",
-    "home": "Wisconsin",
-    "away": "Rutgers",
+    "home": "Michigan",
+    "away": "Michigan State",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Camp Randall Stadium",
-      "lat": 43.0703,
-      "lng": -89.4124
+      "name": "Michigan Stadium",
+      "lat": 42.2658,
+      "lng": -83.7487
     },
     "missingVenue": false,
     "division": "fbs"
@@ -127,6 +127,28 @@
       "name": "Jordan-Hare Stadium",
       "lat": 32.6017,
       "lng": -85.4893
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401864532",
+    "sourceId": 401864532,
+    "sourceWeek": 10,
+    "week": 11,
+    "date": "2026-11-07",
+    "day": "Saturday",
+    "kickoff": "TBD",
+    "home": "UTEP",
+    "away": "Hawai'i",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2638.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/62.png",
+    "venue": {
+      "name": "Sun Bowl",
+      "lat": 31.7688,
+      "lng": -106.4992
     },
     "missingVenue": false,
     "division": "fbs"
@@ -286,45 +308,45 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401864534",
-    "sourceId": 401864534,
+    "id": "2026-ncaa-401862821",
+    "sourceId": 401862821,
     "sourceWeek": 10,
     "week": 11,
     "date": "2026-11-07",
     "day": "Saturday",
     "kickoff": "TBD",
-    "home": "San José State",
-    "away": "Northern Illinois",
+    "home": "North Texas",
+    "away": "Rice",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/23.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2459.png",
+    "homeLogo": null,
+    "awayLogo": null,
     "venue": {
-      "name": "CEFCU Stadium",
-      "lat": 37.3197,
-      "lng": -121.8684
+      "name": "DATCU Stadium",
+      "lat": 33.2071,
+      "lng": -97.1514
     },
     "missingVenue": false,
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401864532",
-    "sourceId": 401864532,
+    "id": "2026-ncaa-401858517",
+    "sourceId": 401858517,
     "sourceWeek": 10,
     "week": 11,
     "date": "2026-11-07",
     "day": "Saturday",
     "kickoff": "TBD",
-    "home": "UTEP",
-    "away": "Hawai'i",
+    "home": "Wisconsin",
+    "away": "Rutgers",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2638.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/62.png",
+    "homeLogo": null,
+    "awayLogo": null,
     "venue": {
-      "name": "Sun Bowl",
-      "lat": 31.7688,
-      "lng": -106.4992
+      "name": "Camp Randall Stadium",
+      "lat": 43.0703,
+      "lng": -89.4124
     },
     "missingVenue": false,
     "division": "fbs"
@@ -352,28 +374,6 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401858511",
-    "sourceId": 401858511,
-    "sourceWeek": 10,
-    "week": 11,
-    "date": "2026-11-07",
-    "day": "Saturday",
-    "kickoff": "TBD",
-    "home": "Michigan",
-    "away": "Michigan State",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Michigan Stadium",
-      "lat": 42.2658,
-      "lng": -83.7487
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2026-ncaa-401858514",
     "sourceId": 401858514,
     "sourceWeek": 10,
@@ -396,23 +396,23 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401862821",
-    "sourceId": 401862821,
+    "id": "2026-ncaa-401864534",
+    "sourceId": 401864534,
     "sourceWeek": 10,
     "week": 11,
     "date": "2026-11-07",
     "day": "Saturday",
     "kickoff": "TBD",
-    "home": "North Texas",
-    "away": "Rice",
+    "home": "San José State",
+    "away": "Northern Illinois",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/23.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2459.png",
     "venue": {
-      "name": "DATCU Stadium",
-      "lat": 33.2071,
-      "lng": -97.1514
+      "name": "CEFCU Stadium",
+      "lat": 37.3197,
+      "lng": -121.8684
     },
     "missingVenue": false,
     "division": "fbs"
@@ -484,28 +484,6 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401860912",
-    "sourceId": 401860912,
-    "sourceWeek": 10,
-    "week": 11,
-    "date": "2026-11-07",
-    "day": "Saturday",
-    "kickoff": "7:30p",
-    "home": "Oregon State",
-    "away": "Texas State",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Reser Stadium",
-      "lat": 44.559,
-      "lng": -123.2814
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2026-ncaa-401864535",
     "sourceId": 401864535,
     "sourceWeek": 10,
@@ -528,23 +506,23 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401866458",
-    "sourceId": 401866458,
-    "sourceWeek": 11,
+    "id": "2026-ncaa-401860912",
+    "sourceId": 401860912,
+    "sourceWeek": 10,
     "week": 11,
-    "date": "2026-11-10",
-    "day": "Tuesday",
-    "kickoff": "4p",
-    "home": "Akron",
-    "away": "Western Michigan",
+    "date": "2026-11-07",
+    "day": "Saturday",
+    "kickoff": "7:30p",
+    "home": "Oregon State",
+    "away": "Texas State",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2006.png",
+    "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "InfoCision Stadium",
-      "lat": 41.0726,
-      "lng": -81.5084
+      "name": "Reser Stadium",
+      "lat": 44.559,
+      "lng": -123.2814
     },
     "missingVenue": false,
     "division": "fbs"
@@ -567,6 +545,28 @@
       "name": "Doyt L. Perry Stadium",
       "lat": 41.375,
       "lng": -83.635
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401866458",
+    "sourceId": 401866458,
+    "sourceWeek": 11,
+    "week": 11,
+    "date": "2026-11-10",
+    "day": "Tuesday",
+    "kickoff": "4p",
+    "home": "Akron",
+    "away": "Western Michigan",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2006.png",
+    "awayLogo": null,
+    "venue": {
+      "name": "InfoCision Stadium",
+      "lat": 41.0726,
+      "lng": -81.5084
     },
     "missingVenue": false,
     "division": "fbs"
