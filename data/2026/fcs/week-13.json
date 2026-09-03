@@ -88,28 +88,6 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401868092",
-    "sourceId": 401868092,
-    "sourceWeek": 12,
-    "week": 13,
-    "date": "2026-11-21",
-    "day": "Saturday",
-    "kickoff": "1p",
-    "home": "Eastern Washington",
-    "away": "Portland State",
-    "homeDivision": "fcs",
-    "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/331.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2502.png",
-    "venue": {
-      "name": "Roos Field",
-      "lat": 47.4901,
-      "lng": -117.5888
-    },
-    "missingVenue": false,
-    "division": "fcs"
-  },
-  {
     "id": "2026-ncaa-401868083",
     "sourceId": 401868083,
     "sourceWeek": 12,
@@ -149,6 +127,28 @@
       "name": "Walkup Skydome",
       "lat": 35.1803,
       "lng": -111.6544
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
+    "id": "2026-ncaa-401868092",
+    "sourceId": 401868092,
+    "sourceWeek": 12,
+    "week": 13,
+    "date": "2026-11-21",
+    "day": "Saturday",
+    "kickoff": "1p",
+    "home": "Eastern Washington",
+    "away": "Portland State",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/331.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2502.png",
+    "venue": {
+      "name": "Roos Field",
+      "lat": 47.4901,
+      "lng": -117.5888
     },
     "missingVenue": false,
     "division": "fcs"

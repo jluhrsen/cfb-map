@@ -22,28 +22,6 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401858218",
-    "sourceId": 401858218,
-    "sourceWeek": 2,
-    "week": 3,
-    "date": "2026-09-12",
-    "day": "Saturday",
-    "kickoff": "9a",
-    "home": "North Carolina",
-    "away": "East Tennessee State",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Kenan Stadium",
-      "lat": 35.9096,
-      "lng": -79.0478
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2026-ncaa-401858439",
     "sourceId": 401858439,
     "sourceWeek": 2,
@@ -61,6 +39,28 @@
       "name": "Memorial Stadium (Bloomington, IN)",
       "lat": 39.1793,
       "lng": -86.5232
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401858218",
+    "sourceId": 401858218,
+    "sourceWeek": 2,
+    "week": 3,
+    "date": "2026-09-12",
+    "day": "Saturday",
+    "kickoff": "9a",
+    "home": "North Carolina",
+    "away": "East Tennessee State",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Kenan Stadium",
+      "lat": 35.9096,
+      "lng": -79.0478
     },
     "missingVenue": false,
     "division": "fbs"
