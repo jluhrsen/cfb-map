@@ -264,28 +264,6 @@
     "division": "fcs"
   },
   {
-    "id": "2026-ncaa-401869150",
-    "sourceId": 401869150,
-    "sourceWeek": 2,
-    "week": 3,
-    "date": "2026-09-12",
-    "day": "Saturday",
-    "kickoff": "4p",
-    "home": "Houston Christian",
-    "away": "Arkansas Baptist",
-    "homeDivision": "fcs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Husky Stadium",
-      "lat": 47.6504,
-      "lng": -122.3016
-    },
-    "missingVenue": false,
-    "division": "fcs"
-  },
-  {
     "id": "2026-ncaa-401860882",
     "sourceId": 401860882,
     "sourceWeek": 2,
@@ -303,6 +281,28 @@
       "name": "Canvas Stadium",
       "lat": 40.5749,
       "lng": -105.0896
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401856787",
+    "sourceId": 401856787,
+    "sourceWeek": 2,
+    "week": 3,
+    "date": "2026-09-12",
+    "day": "Saturday",
+    "kickoff": "4p",
+    "home": "Houston",
+    "away": "Southern",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "TDECU Stadium",
+      "lat": 29.7211,
+      "lng": -95.3506
     },
     "missingVenue": false,
     "division": "fbs"
@@ -330,26 +330,26 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401856787",
-    "sourceId": 401856787,
+    "id": "2026-ncaa-401869150",
+    "sourceId": 401869150,
     "sourceWeek": 2,
     "week": 3,
     "date": "2026-09-12",
     "day": "Saturday",
     "kickoff": "4p",
-    "home": "Houston",
-    "away": "Southern",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
+    "home": "Houston Christian",
+    "away": "Arkansas Baptist",
+    "homeDivision": "fcs",
+    "awayDivision": "fbs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "TDECU Stadium",
-      "lat": 29.7211,
-      "lng": -95.3506
+      "name": "Husky Stadium",
+      "lat": 47.6504,
+      "lng": -122.3016
     },
     "missingVenue": false,
-    "division": "fbs"
+    "division": "fcs"
   },
   {
     "id": "2026-ncaa-401858447",

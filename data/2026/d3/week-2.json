@@ -22,35 +22,13 @@
     "division": "d3"
   },
   {
-    "id": "2026-ncaa-401873228",
-    "sourceId": 401873228,
-    "sourceWeek": 1,
-    "week": 2,
-    "date": "2026-09-05",
-    "day": "Saturday",
-    "kickoff": "10a",
-    "home": "Puget Sound",
-    "away": "Lewis & Clark",
-    "homeDivision": "d3",
-    "awayDivision": "d3",
-    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/wpoqmrhctdrju4jh.png",
-    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/2i62768ao3nlh5wq.png",
-    "venue": {
-      "name": "Baker Stadium",
-      "lat": 47.2605,
-      "lng": -122.4825
-    },
-    "missingVenue": false,
-    "division": "d3"
-  },
-  {
     "id": "2026-ncaa-401908460",
     "sourceId": 401908460,
     "sourceWeek": 1,
     "week": 2,
     "date": "2026-09-05",
     "day": "Saturday",
-    "kickoff": "12p",
+    "kickoff": "11a",
     "home": "Pomona Pitzer",
     "away": "Willamette",
     "homeDivision": "d3",
@@ -83,6 +61,28 @@
       "name": "Sparks Stadium",
       "lat": 47.1872,
       "lng": -122.3005
+    },
+    "missingVenue": false,
+    "division": "d3"
+  },
+  {
+    "id": "2026-ncaa-401873228",
+    "sourceId": 401873228,
+    "sourceWeek": 1,
+    "week": 2,
+    "date": "2026-09-05",
+    "day": "Saturday",
+    "kickoff": "1p",
+    "home": "Puget Sound",
+    "away": "Lewis & Clark",
+    "homeDivision": "d3",
+    "awayDivision": "d3",
+    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/wpoqmrhctdrju4jh.png",
+    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/2i62768ao3nlh5wq.png",
+    "venue": {
+      "name": "Baker Stadium",
+      "lat": 47.2605,
+      "lng": -122.4825
     },
     "missingVenue": false,
     "division": "d3"
