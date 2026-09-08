@@ -154,6 +154,28 @@
     "division": "fbs"
   },
   {
+    "id": "2025-ncaa-401754595",
+    "sourceId": 401754595,
+    "sourceWeek": 12,
+    "week": 13,
+    "date": "2025-11-15",
+    "day": "Saturday",
+    "kickoff": "12:30p",
+    "home": "Miami",
+    "away": "NC State",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Hard Rock Stadium",
+      "lat": 25.958,
+      "lng": -80.2389
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
     "id": "2025-ncaa-401752903",
     "sourceId": 401752903,
     "sourceWeek": 12,
@@ -220,28 +242,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752906",
-    "sourceId": 401752906,
-    "sourceWeek": 12,
-    "week": 13,
-    "date": "2025-11-15",
-    "day": "Saturday",
-    "kickoff": "12:30p",
-    "home": "Illinois",
-    "away": "Maryland",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Memorial Stadium (Champaign, IL)",
-      "lat": 40.0993,
-      "lng": -88.2358
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401752765",
     "sourceId": 401752765,
     "sourceWeek": 12,
@@ -264,23 +264,23 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401754595",
-    "sourceId": 401754595,
+    "id": "2025-ncaa-401752906",
+    "sourceId": 401752906,
     "sourceWeek": 12,
     "week": 13,
     "date": "2025-11-15",
     "day": "Saturday",
     "kickoff": "12:30p",
-    "home": "Miami",
-    "away": "NC State",
+    "home": "Illinois",
+    "away": "Maryland",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Hard Rock Stadium",
-      "lat": 25.958,
-      "lng": -80.2389
+      "name": "Memorial Stadium (Champaign, IL)",
+      "lat": 40.0993,
+      "lng": -88.2358
     },
     "missingVenue": false,
     "division": "fbs"
@@ -528,28 +528,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401762862",
-    "sourceId": 401762862,
-    "sourceWeek": 13,
-    "week": 13,
-    "date": "2025-11-18",
-    "day": "Tuesday",
-    "kickoff": "4p",
-    "home": "Bowling Green",
-    "away": "Akron",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2006.png",
-    "venue": {
-      "name": "Doyt L. Perry Stadium",
-      "lat": 41.375,
-      "lng": -83.635
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401762864",
     "sourceId": 401762864,
     "sourceWeek": 13,
@@ -567,6 +545,28 @@
       "name": "Huskie Stadium",
       "lat": 41.9308,
       "lng": -88.7572
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401762862",
+    "sourceId": 401762862,
+    "sourceWeek": 13,
+    "week": 13,
+    "date": "2025-11-18",
+    "day": "Tuesday",
+    "kickoff": "4p",
+    "home": "Bowling Green",
+    "away": "Akron",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2006.png",
+    "venue": {
+      "name": "Doyt L. Perry Stadium",
+      "lat": 41.375,
+      "lng": -83.635
     },
     "missingVenue": false,
     "division": "fbs"
