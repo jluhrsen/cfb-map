@@ -308,6 +308,28 @@
     "division": "fbs"
   },
   {
+    "id": "2025-ncaa-401760409",
+    "sourceId": 401760409,
+    "sourceWeek": 11,
+    "week": 12,
+    "date": "2025-11-08",
+    "day": "Saturday",
+    "kickoff": "4:30p",
+    "home": "Utah State",
+    "away": "Nevada",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/328.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2440.png",
+    "venue": {
+      "name": "Maverik Stadium",
+      "lat": 41.7517,
+      "lng": -111.8116
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
     "id": "2025-ncaa-401757166",
     "sourceId": 401757166,
     "sourceWeek": 11,
@@ -347,28 +369,6 @@
       "name": "Kroger Field",
       "lat": 38.022,
       "lng": -84.5037
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2025-ncaa-401760409",
-    "sourceId": 401760409,
-    "sourceWeek": 11,
-    "week": 12,
-    "date": "2025-11-08",
-    "day": "Saturday",
-    "kickoff": "4:30p",
-    "home": "Utah State",
-    "away": "Nevada",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/328.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2440.png",
-    "venue": {
-      "name": "Maverik Stadium",
-      "lat": 41.7517,
-      "lng": -111.8116
     },
     "missingVenue": false,
     "division": "fbs"

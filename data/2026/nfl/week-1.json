@@ -1,23 +1,5 @@
 [
   {
-    "id": "nfl-401872656",
-    "week": 1,
-    "date": "2026-09-09",
-    "day": "Wednesday",
-    "kickoff": "5:20p",
-    "home": "Seattle Seahawks",
-    "away": "New England Patriots",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sea.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ne.png",
-    "venue": {
-      "name": "Lumen Field",
-      "lat": 47.5952,
-      "lng": -122.3316
-    },
-    "missingVenue": false,
-    "division": "nfl"
-  },
-  {
     "id": "nfl-401872657",
     "week": 1,
     "date": "2026-09-10",
@@ -31,6 +13,24 @@
       "name": "Melbourne Cricket Ground",
       "lat": -37.8199,
       "lng": 144.9834
+    },
+    "missingVenue": false,
+    "division": "nfl"
+  },
+  {
+    "id": "nfl-401872656",
+    "week": 1,
+    "date": "2026-09-09",
+    "day": "Wednesday",
+    "kickoff": "5:20p",
+    "home": "Seattle Seahawks",
+    "away": "New England Patriots",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sea.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ne.png",
+    "venue": {
+      "name": "Lumen Field",
+      "lat": 47.5952,
+      "lng": -122.3316
     },
     "missingVenue": false,
     "division": "nfl"
