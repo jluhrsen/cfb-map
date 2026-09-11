@@ -1,23 +1,5 @@
 [
   {
-    "id": "nfl-401872657",
-    "week": 1,
-    "date": "2026-09-10",
-    "day": "Thursday",
-    "kickoff": "5:35p",
-    "home": "Los Angeles Rams",
-    "away": "San Francisco 49ers",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lar.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sf.png",
-    "venue": {
-      "name": "Melbourne Cricket Ground",
-      "lat": -37.8199,
-      "lng": 144.9834
-    },
-    "missingVenue": false,
-    "division": "nfl"
-  },
-  {
     "id": "nfl-401872656",
     "week": 1,
     "date": "2026-09-09",
@@ -31,6 +13,24 @@
       "name": "Lumen Field",
       "lat": 47.5952,
       "lng": -122.3316
+    },
+    "missingVenue": false,
+    "division": "nfl"
+  },
+  {
+    "id": "nfl-401872657",
+    "week": 1,
+    "date": "2026-09-10",
+    "day": "Thursday",
+    "kickoff": "5:35p",
+    "home": "Los Angeles Rams",
+    "away": "San Francisco 49ers",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lar.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sf.png",
+    "venue": {
+      "name": "Melbourne Cricket Ground",
+      "lat": -37.8199,
+      "lng": 144.9834
     },
     "missingVenue": false,
     "division": "nfl"
