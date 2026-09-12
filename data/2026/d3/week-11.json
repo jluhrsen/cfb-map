@@ -44,6 +44,28 @@
     "division": "d3"
   },
   {
+    "id": "2026-ncaa-401908410",
+    "sourceId": 401908410,
+    "sourceWeek": 10,
+    "week": 11,
+    "date": "2026-11-07",
+    "day": "Saturday",
+    "kickoff": "1p",
+    "home": "Pacific Lutheran",
+    "away": "Lewis & Clark",
+    "homeDivision": "d3",
+    "awayDivision": "d3",
+    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/bi1umnuk45dh7ppn.png",
+    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/2i62768ao3nlh5wq.png",
+    "venue": {
+      "name": "Sparks Stadium",
+      "lat": 47.1872,
+      "lng": -122.3005
+    },
+    "missingVenue": false,
+    "division": "d3"
+  },
+  {
     "id": "2026-ncaa-401908399",
     "sourceId": 401908399,
     "sourceWeek": 10,
@@ -83,28 +105,6 @@
       "name": "Ortmayer Stadium",
       "lat": 34.1008,
       "lng": -117.7678
-    },
-    "missingVenue": false,
-    "division": "d3"
-  },
-  {
-    "id": "2026-ncaa-401908410",
-    "sourceId": 401908410,
-    "sourceWeek": 10,
-    "week": 11,
-    "date": "2026-11-07",
-    "day": "Saturday",
-    "kickoff": "1p",
-    "home": "Pacific Lutheran",
-    "away": "Lewis & Clark",
-    "homeDivision": "d3",
-    "awayDivision": "d3",
-    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/bi1umnuk45dh7ppn.png",
-    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/2i62768ao3nlh5wq.png",
-    "venue": {
-      "name": "Sparks Stadium",
-      "lat": 47.1872,
-      "lng": -122.3005
     },
     "missingVenue": false,
     "division": "d3"
