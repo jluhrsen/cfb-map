@@ -1,5 +1,27 @@
 [
   {
+    "id": "2025-ncaa-401777155",
+    "sourceId": 401777155,
+    "sourceWeek": 8,
+    "week": 9,
+    "date": "2025-10-18",
+    "day": "Saturday",
+    "kickoff": "1p",
+    "home": "Pacific Lutheran",
+    "away": "Pacific (OR)",
+    "homeDivision": "d3",
+    "awayDivision": "d3",
+    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/bi1umnuk45dh7ppn.png",
+    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/lkxbjwugyaf69m59.png",
+    "venue": {
+      "name": "Sparks Stadium",
+      "lat": 47.1872,
+      "lng": -122.3005
+    },
+    "missingVenue": false,
+    "division": "d3"
+  },
+  {
     "id": "2025-ncaa-401777170",
     "sourceId": 401777170,
     "sourceWeek": 8,
@@ -39,28 +61,6 @@
       "name": "Maxwell Field",
       "lat": 45.2099,
       "lng": -123.1987
-    },
-    "missingVenue": false,
-    "division": "d3"
-  },
-  {
-    "id": "2025-ncaa-401777155",
-    "sourceId": 401777155,
-    "sourceWeek": 8,
-    "week": 9,
-    "date": "2025-10-18",
-    "day": "Saturday",
-    "kickoff": "1p",
-    "home": "Pacific Lutheran",
-    "away": "Pacific (OR)",
-    "homeDivision": "d3",
-    "awayDivision": "d3",
-    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/bi1umnuk45dh7ppn.png",
-    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/lkxbjwugyaf69m59.png",
-    "venue": {
-      "name": "Sparks Stadium",
-      "lat": 47.1872,
-      "lng": -122.3005
     },
     "missingVenue": false,
     "division": "d3"
