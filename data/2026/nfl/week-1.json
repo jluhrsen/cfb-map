@@ -1,23 +1,5 @@
 [
   {
-    "id": "nfl-401872931",
-    "week": 1,
-    "date": "2026-09-14",
-    "day": "Monday",
-    "kickoff": "5:15p",
-    "home": "Kansas City Chiefs",
-    "away": "Denver Broncos",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/kc.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/den.png",
-    "venue": {
-      "name": "Arrowhead Stadium",
-      "lat": 39.0489,
-      "lng": -94.4839
-    },
-    "missingVenue": false,
-    "division": "nfl"
-  },
-  {
     "id": "nfl-401872656",
     "week": 1,
     "date": "2026-09-09",
@@ -283,6 +265,24 @@
       "name": "MetLife Stadium",
       "lat": 40.8128,
       "lng": -74.0742
+    },
+    "missingVenue": false,
+    "division": "nfl"
+  },
+  {
+    "id": "nfl-401872931",
+    "week": 1,
+    "date": "2026-09-14",
+    "day": "Monday",
+    "kickoff": "5:15p",
+    "home": "Kansas City Chiefs",
+    "away": "Denver Broncos",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/kc.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/den.png",
+    "venue": {
+      "name": "Arrowhead Stadium",
+      "lat": 39.0489,
+      "lng": -94.4839
     },
     "missingVenue": false,
     "division": "nfl"
