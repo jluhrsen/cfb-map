@@ -88,28 +88,6 @@
     "division": "fcs"
   },
   {
-    "id": "2026-ncaa-401867862",
-    "sourceId": 401867862,
-    "sourceWeek": 10,
-    "week": 11,
-    "date": "2026-11-07",
-    "day": "Saturday",
-    "kickoff": "3p",
-    "home": "Indiana State",
-    "away": "Southern Illinois",
-    "homeDivision": "fcs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Memorial Stadium",
-      "lat": 38.9628,
-      "lng": -95.2464
-    },
-    "missingVenue": false,
-    "division": "fcs"
-  },
-  {
     "id": "2026-ncaa-401868108",
     "sourceId": 401868108,
     "sourceWeek": 10,
@@ -127,6 +105,28 @@
       "name": "Holt Arena",
       "lat": 42.8723,
       "lng": -112.4341
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
+    "id": "2026-ncaa-401867862",
+    "sourceId": 401867862,
+    "sourceWeek": 10,
+    "week": 11,
+    "date": "2026-11-07",
+    "day": "Saturday",
+    "kickoff": "3p",
+    "home": "Indiana State",
+    "away": "Southern Illinois",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Memorial Stadium",
+      "lat": 38.9628,
+      "lng": -95.2464
     },
     "missingVenue": false,
     "division": "fcs"
