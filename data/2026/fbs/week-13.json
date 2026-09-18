@@ -22,28 +22,6 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401858529",
-    "sourceId": 401858529,
-    "sourceWeek": 12,
-    "week": 13,
-    "date": "2026-11-20",
-    "day": "Friday",
-    "kickoff": "5p",
-    "home": "Michigan State",
-    "away": "Oregon",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Spartan Stadium",
-      "lat": 37.3975,
-      "lng": -121.8635
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2026-ncaa-401864545",
     "sourceId": 401864545,
     "sourceWeek": 12,
@@ -66,23 +44,45 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401856755",
-    "sourceId": 401856755,
+    "id": "2026-ncaa-401858529",
+    "sourceId": 401858529,
+    "sourceWeek": 12,
+    "week": 13,
+    "date": "2026-11-20",
+    "day": "Friday",
+    "kickoff": "5p",
+    "home": "Michigan State",
+    "away": "Oregon",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Spartan Stadium",
+      "lat": 37.3975,
+      "lng": -121.8635
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401858527",
+    "sourceId": 401858527,
     "sourceWeek": 12,
     "week": 13,
     "date": "2026-11-21",
     "day": "Saturday",
     "kickoff": "TBD",
-    "home": "Texas",
-    "away": "Arkansas",
+    "home": "Illinois",
+    "away": "Iowa",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
+    "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "DKR-Texas Memorial Stadium",
-      "lat": 30.2839,
-      "lng": -97.7325
+      "name": "Memorial Stadium (Champaign, IL)",
+      "lat": 40.0993,
+      "lng": -88.2358
     },
     "missingVenue": false,
     "division": "fbs"
@@ -110,28 +110,6 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401858532",
-    "sourceId": 401858532,
-    "sourceWeek": 12,
-    "week": 13,
-    "date": "2026-11-21",
-    "day": "Saturday",
-    "kickoff": "TBD",
-    "home": "Penn State",
-    "away": "Rutgers",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Beaver Stadium",
-      "lat": 40.8122,
-      "lng": -77.8561
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2026-ncaa-401858304",
     "sourceId": 401858304,
     "sourceWeek": 12,
@@ -154,45 +132,45 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401858531",
-    "sourceId": 401858531,
+    "id": "2026-ncaa-401856751",
+    "sourceId": 401856751,
     "sourceWeek": 12,
     "week": 13,
     "date": "2026-11-21",
     "day": "Saturday",
     "kickoff": "TBD",
-    "home": "Nebraska",
-    "away": "Ohio State",
+    "home": "Missouri",
+    "away": "Kentucky",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Memorial Stadium (Lincoln, NE)",
-      "lat": 40.8202,
-      "lng": -96.7055
+      "name": "Memorial Stadium",
+      "lat": 38.9628,
+      "lng": -95.2464
     },
     "missingVenue": false,
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401858528",
-    "sourceId": 401858528,
+    "id": "2026-ncaa-401858308",
+    "sourceId": 401858308,
     "sourceWeek": 12,
     "week": 13,
     "date": "2026-11-21",
     "day": "Saturday",
     "kickoff": "TBD",
-    "home": "Michigan",
-    "away": "UCLA",
+    "home": "California",
+    "away": "Stanford",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
     "homeLogo": null,
-    "awayLogo": null,
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/24.png",
     "venue": {
-      "name": "Michigan Stadium",
-      "lat": 42.2658,
-      "lng": -83.7487
+      "name": "California Memorial Stadium",
+      "lat": 37.8713,
+      "lng": -122.2507
     },
     "missingVenue": false,
     "division": "fbs"
@@ -220,23 +198,23 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401864541",
-    "sourceId": 401864541,
+    "id": "2026-ncaa-401856754",
+    "sourceId": 401856754,
     "sourceWeek": 12,
     "week": 13,
     "date": "2026-11-21",
     "day": "Saturday",
     "kickoff": "TBD",
-    "home": "Nevada",
-    "away": "Hawai'i",
+    "home": "Tennessee",
+    "away": "LSU",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2440.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/62.png",
+    "homeLogo": null,
+    "awayLogo": null,
     "venue": {
-      "name": "Mackay Stadium",
-      "lat": 39.5468,
-      "lng": -119.8175
+      "name": "Neyland Stadium",
+      "lat": 35.9551,
+      "lng": -83.9252
     },
     "missingVenue": false,
     "division": "fbs"
@@ -308,89 +286,111 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401856754",
-    "sourceId": 401856754,
+    "id": "2026-ncaa-401858532",
+    "sourceId": 401858532,
     "sourceWeek": 12,
     "week": 13,
     "date": "2026-11-21",
     "day": "Saturday",
     "kickoff": "TBD",
-    "home": "Tennessee",
-    "away": "LSU",
+    "home": "Penn State",
+    "away": "Rutgers",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Neyland Stadium",
-      "lat": 35.9551,
-      "lng": -83.9252
+      "name": "Beaver Stadium",
+      "lat": 40.8122,
+      "lng": -77.8561
     },
     "missingVenue": false,
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401858527",
-    "sourceId": 401858527,
+    "id": "2026-ncaa-401856755",
+    "sourceId": 401856755,
     "sourceWeek": 12,
     "week": 13,
     "date": "2026-11-21",
     "day": "Saturday",
     "kickoff": "TBD",
-    "home": "Illinois",
-    "away": "Iowa",
+    "home": "Texas",
+    "away": "Arkansas",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
+    "awayLogo": null,
+    "venue": {
+      "name": "DKR-Texas Memorial Stadium",
+      "lat": 30.2839,
+      "lng": -97.7325
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401858531",
+    "sourceId": 401858531,
+    "sourceWeek": 12,
+    "week": 13,
+    "date": "2026-11-21",
+    "day": "Saturday",
+    "kickoff": "TBD",
+    "home": "Nebraska",
+    "away": "Ohio State",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Memorial Stadium (Champaign, IL)",
-      "lat": 40.0993,
-      "lng": -88.2358
+      "name": "Memorial Stadium (Lincoln, NE)",
+      "lat": 40.8202,
+      "lng": -96.7055
     },
     "missingVenue": false,
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401858308",
-    "sourceId": 401858308,
+    "id": "2026-ncaa-401864541",
+    "sourceId": 401864541,
     "sourceWeek": 12,
     "week": 13,
     "date": "2026-11-21",
     "day": "Saturday",
     "kickoff": "TBD",
-    "home": "California",
-    "away": "Stanford",
+    "home": "Nevada",
+    "away": "Hawai'i",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/24.png",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2440.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/62.png",
     "venue": {
-      "name": "California Memorial Stadium",
-      "lat": 37.8713,
-      "lng": -122.2507
+      "name": "Mackay Stadium",
+      "lat": 39.5468,
+      "lng": -119.8175
     },
     "missingVenue": false,
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401856751",
-    "sourceId": 401856751,
+    "id": "2026-ncaa-401858528",
+    "sourceId": 401858528,
     "sourceWeek": 12,
     "week": 13,
     "date": "2026-11-21",
     "day": "Saturday",
     "kickoff": "TBD",
-    "home": "Missouri",
-    "away": "Kentucky",
+    "home": "Michigan",
+    "away": "UCLA",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Memorial Stadium",
-      "lat": 38.9628,
-      "lng": -95.2464
+      "name": "Michigan Stadium",
+      "lat": 42.2658,
+      "lng": -83.7487
     },
     "missingVenue": false,
     "division": "fbs"
