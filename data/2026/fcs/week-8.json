@@ -132,28 +132,6 @@
     "division": "fcs"
   },
   {
-    "id": "2026-ncaa-401869152",
-    "sourceId": 401869152,
-    "sourceWeek": 7,
-    "week": 8,
-    "date": "2026-10-17",
-    "day": "Saturday",
-    "kickoff": "4p",
-    "home": "Houston Christian",
-    "away": "East Texas A&M",
-    "homeDivision": "fcs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Husky Stadium",
-      "lat": 47.6504,
-      "lng": -122.3016
-    },
-    "missingVenue": false,
-    "division": "fcs"
-  },
-  {
     "id": "2026-ncaa-401868125",
     "sourceId": 401868125,
     "sourceWeek": 7,
@@ -171,6 +149,28 @@
       "name": "Walkup Skydome",
       "lat": 35.1803,
       "lng": -111.6544
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
+    "id": "2026-ncaa-401869152",
+    "sourceId": 401869152,
+    "sourceWeek": 7,
+    "week": 8,
+    "date": "2026-10-17",
+    "day": "Saturday",
+    "kickoff": "4p",
+    "home": "Houston Christian",
+    "away": "East Texas A&M",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Husky Stadium",
+      "lat": 47.6504,
+      "lng": -122.3016
     },
     "missingVenue": false,
     "division": "fcs"
