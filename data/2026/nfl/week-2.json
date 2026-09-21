@@ -1,5 +1,41 @@
 [
   {
+    "id": "nfl-401872947",
+    "week": 2,
+    "date": "2026-09-21",
+    "day": "Monday",
+    "kickoff": "5:15p",
+    "home": "Los Angeles Rams",
+    "away": "New York Giants",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lar.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyg.png",
+    "venue": {
+      "name": "SoFi Stadium",
+      "lat": 33.9535,
+      "lng": -118.3392
+    },
+    "missingVenue": false,
+    "division": "nfl"
+  },
+  {
+    "id": "nfl-401872932",
+    "week": 2,
+    "date": "2026-09-17",
+    "day": "Thursday",
+    "kickoff": "5:15p",
+    "home": "Buffalo Bills",
+    "away": "Detroit Lions",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/buf.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/det.png",
+    "venue": {
+      "name": "Highmark Stadium",
+      "lat": 42.7738,
+      "lng": -78.787
+    },
+    "missingVenue": false,
+    "division": "nfl"
+  },
+  {
     "id": "nfl-401872933",
     "week": 2,
     "date": "2026-09-20",
@@ -247,42 +283,6 @@
       "name": "Arrowhead Stadium",
       "lat": 39.0489,
       "lng": -94.4839
-    },
-    "missingVenue": false,
-    "division": "nfl"
-  },
-  {
-    "id": "nfl-401872932",
-    "week": 2,
-    "date": "2026-09-17",
-    "day": "Thursday",
-    "kickoff": "5:15p",
-    "home": "Buffalo Bills",
-    "away": "Detroit Lions",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/buf.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/det.png",
-    "venue": {
-      "name": "Highmark Stadium",
-      "lat": 42.7738,
-      "lng": -78.787
-    },
-    "missingVenue": false,
-    "division": "nfl"
-  },
-  {
-    "id": "nfl-401872947",
-    "week": 2,
-    "date": "2026-09-21",
-    "day": "Monday",
-    "kickoff": "5:15p",
-    "home": "Los Angeles Rams",
-    "away": "New York Giants",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lar.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyg.png",
-    "venue": {
-      "name": "SoFi Stadium",
-      "lat": 33.9535,
-      "lng": -118.3392
     },
     "missingVenue": false,
     "division": "nfl"
