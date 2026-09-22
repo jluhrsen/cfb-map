@@ -1,23 +1,5 @@
 [
   {
-    "id": "nfl-401872947",
-    "week": 2,
-    "date": "2026-09-21",
-    "day": "Monday",
-    "kickoff": "5:15p",
-    "home": "Los Angeles Rams",
-    "away": "New York Giants",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lar.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyg.png",
-    "venue": {
-      "name": "SoFi Stadium",
-      "lat": 33.9535,
-      "lng": -118.3392
-    },
-    "missingVenue": false,
-    "division": "nfl"
-  },
-  {
     "id": "nfl-401872932",
     "week": 2,
     "date": "2026-09-17",
@@ -283,6 +265,24 @@
       "name": "Arrowhead Stadium",
       "lat": 39.0489,
       "lng": -94.4839
+    },
+    "missingVenue": false,
+    "division": "nfl"
+  },
+  {
+    "id": "nfl-401872947",
+    "week": 2,
+    "date": "2026-09-21",
+    "day": "Monday",
+    "kickoff": "5:15p",
+    "home": "Los Angeles Rams",
+    "away": "New York Giants",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lar.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyg.png",
+    "venue": {
+      "name": "SoFi Stadium",
+      "lat": 33.9535,
+      "lng": -118.3392
     },
     "missingVenue": false,
     "division": "nfl"

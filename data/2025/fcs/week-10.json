@@ -88,28 +88,6 @@
     "division": "fcs"
   },
   {
-    "id": "2025-ncaa-401767419",
-    "sourceId": 401767419,
-    "sourceWeek": 9,
-    "week": 10,
-    "date": "2025-10-25",
-    "day": "Saturday",
-    "kickoff": "3p",
-    "home": "Grambling",
-    "away": "Jackson State",
-    "homeDivision": "fcs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Allegiant Stadium",
-      "lat": 36.0909,
-      "lng": -115.1833
-    },
-    "missingVenue": false,
-    "division": "fcs"
-  },
-  {
     "id": "2025-ncaa-401767085",
     "sourceId": 401767085,
     "sourceWeek": 9,
@@ -127,6 +105,28 @@
       "name": "Holt Arena",
       "lat": 42.8723,
       "lng": -112.4341
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
+    "id": "2025-ncaa-401767419",
+    "sourceId": 401767419,
+    "sourceWeek": 9,
+    "week": 10,
+    "date": "2025-10-25",
+    "day": "Saturday",
+    "kickoff": "3p",
+    "home": "Grambling",
+    "away": "Jackson State",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Allegiant Stadium",
+      "lat": 36.0909,
+      "lng": -115.1833
     },
     "missingVenue": false,
     "division": "fcs"
