@@ -110,28 +110,6 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401856819",
-    "sourceId": 401856819,
-    "sourceWeek": 5,
-    "week": 6,
-    "date": "2026-10-03",
-    "day": "Saturday",
-    "kickoff": "9a",
-    "home": "Houston",
-    "away": "UCF",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "TDECU Stadium",
-      "lat": 29.7211,
-      "lng": -95.3506
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2026-ncaa-401856807",
     "sourceId": 401856807,
     "sourceWeek": 5,
@@ -149,6 +127,28 @@
       "name": "Memorial Stadium",
       "lat": 38.9628,
       "lng": -95.2464
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401856819",
+    "sourceId": 401856819,
+    "sourceWeek": 5,
+    "week": 6,
+    "date": "2026-10-03",
+    "day": "Saturday",
+    "kickoff": "9a",
+    "home": "Houston",
+    "away": "UCF",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "TDECU Stadium",
+      "lat": 29.7211,
+      "lng": -95.3506
     },
     "missingVenue": false,
     "division": "fbs"
@@ -242,23 +242,23 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401858473",
-    "sourceId": 401858473,
+    "id": "2026-ncaa-401866430",
+    "sourceId": 401866430,
     "sourceWeek": 5,
     "week": 6,
     "date": "2026-10-03",
     "day": "Saturday",
     "kickoff": "12:30p",
-    "home": "Iowa",
-    "away": "Ohio State",
+    "home": "Central Michigan",
+    "away": "Akron",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2117.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2006.png",
     "venue": {
-      "name": "Kinnick Stadium",
-      "lat": 41.6581,
-      "lng": -91.5509
+      "name": "Kelly/Shorts Stadium",
+      "lat": 43.5779,
+      "lng": -84.7738
     },
     "missingVenue": false,
     "division": "fbs"
@@ -286,28 +286,6 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401856708",
-    "sourceId": 401856708,
-    "sourceWeek": 5,
-    "week": 6,
-    "date": "2026-10-03",
-    "day": "Saturday",
-    "kickoff": "12:30p",
-    "home": "Missouri",
-    "away": "Florida",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Memorial Stadium",
-      "lat": 38.9628,
-      "lng": -95.2464
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2026-ncaa-401858247",
     "sourceId": 401858247,
     "sourceWeek": 5,
@@ -330,23 +308,45 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401866430",
-    "sourceId": 401866430,
+    "id": "2026-ncaa-401856708",
+    "sourceId": 401856708,
     "sourceWeek": 5,
     "week": 6,
     "date": "2026-10-03",
     "day": "Saturday",
     "kickoff": "12:30p",
-    "home": "Central Michigan",
-    "away": "Akron",
+    "home": "Missouri",
+    "away": "Florida",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2117.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2006.png",
+    "homeLogo": null,
+    "awayLogo": null,
     "venue": {
-      "name": "Kelly/Shorts Stadium",
-      "lat": 43.5779,
-      "lng": -84.7738
+      "name": "Memorial Stadium",
+      "lat": 38.9628,
+      "lng": -95.2464
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401858473",
+    "sourceId": 401858473,
+    "sourceWeek": 5,
+    "week": 6,
+    "date": "2026-10-03",
+    "day": "Saturday",
+    "kickoff": "12:30p",
+    "home": "Iowa",
+    "away": "Ohio State",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Kinnick Stadium",
+      "lat": 41.6581,
+      "lng": -91.5509
     },
     "missingVenue": false,
     "division": "fbs"
@@ -462,6 +462,28 @@
     "division": "fbs"
   },
   {
+    "id": "2026-ncaa-401858478",
+    "sourceId": 401858478,
+    "sourceWeek": 5,
+    "week": 6,
+    "date": "2026-10-03",
+    "day": "Saturday",
+    "kickoff": "4:30p",
+    "home": "USC",
+    "away": "Washington",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/30.png",
+    "awayLogo": null,
+    "venue": {
+      "name": "Los Angeles Memorial Coliseum",
+      "lat": 34.0141,
+      "lng": -118.2879
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
     "id": "2026-ncaa-401862792",
     "sourceId": 401862792,
     "sourceWeek": 5,
@@ -501,28 +523,6 @@
       "name": "Folsom Field",
       "lat": 40.0096,
       "lng": -105.2644
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2026-ncaa-401858478",
-    "sourceId": 401858478,
-    "sourceWeek": 5,
-    "week": 6,
-    "date": "2026-10-03",
-    "day": "Saturday",
-    "kickoff": "4:30p",
-    "home": "USC",
-    "away": "Washington",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/30.png",
-    "awayLogo": null,
-    "venue": {
-      "name": "Los Angeles Memorial Coliseum",
-      "lat": 34.0141,
-      "lng": -118.2879
     },
     "missingVenue": false,
     "division": "fbs"
