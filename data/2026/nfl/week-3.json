@@ -1,23 +1,5 @@
 [
   {
-    "id": "nfl-401872948",
-    "week": 3,
-    "date": "2026-09-24",
-    "day": "Thursday",
-    "kickoff": "5:15p",
-    "home": "Green Bay Packers",
-    "away": "Atlanta Falcons",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/atl.png",
-    "venue": {
-      "name": "Lambeau Field",
-      "lat": 44.5013,
-      "lng": -88.0622
-    },
-    "missingVenue": false,
-    "division": "nfl"
-  },
-  {
     "id": "nfl-401872953",
     "week": 3,
     "date": "2026-09-27",
@@ -265,6 +247,24 @@
       "name": "Empower Field at Mile High",
       "lat": 39.7439,
       "lng": -105.0201
+    },
+    "missingVenue": false,
+    "division": "nfl"
+  },
+  {
+    "id": "nfl-401872948",
+    "week": 3,
+    "date": "2026-09-24",
+    "day": "Thursday",
+    "kickoff": "5:15p",
+    "home": "Green Bay Packers",
+    "away": "Atlanta Falcons",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/atl.png",
+    "venue": {
+      "name": "Lambeau Field",
+      "lat": 44.5013,
+      "lng": -88.0622
     },
     "missingVenue": false,
     "division": "nfl"

@@ -44,28 +44,6 @@
     "division": "d3"
   },
   {
-    "id": "2026-ncaa-401908409",
-    "sourceId": 401908409,
-    "sourceWeek": 9,
-    "week": 10,
-    "date": "2026-10-31",
-    "day": "Saturday",
-    "kickoff": "1p",
-    "home": "Lewis & Clark",
-    "away": "Linfield",
-    "homeDivision": "d3",
-    "awayDivision": "d3",
-    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/2i62768ao3nlh5wq.png",
-    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/8ab4hlzfjvtul4nx.png",
-    "venue": {
-      "name": "Griswold Stadium",
-      "lat": 45.4519,
-      "lng": -122.6727
-    },
-    "missingVenue": false,
-    "division": "d3"
-  },
-  {
     "id": "2026-ncaa-401908432",
     "sourceId": 401908432,
     "sourceWeek": 9,
@@ -83,6 +61,28 @@
       "name": "Sparks Stadium",
       "lat": 47.1872,
       "lng": -122.3005
+    },
+    "missingVenue": false,
+    "division": "d3"
+  },
+  {
+    "id": "2026-ncaa-401908409",
+    "sourceId": 401908409,
+    "sourceWeek": 9,
+    "week": 10,
+    "date": "2026-10-31",
+    "day": "Saturday",
+    "kickoff": "1p",
+    "home": "Lewis & Clark",
+    "away": "Linfield",
+    "homeDivision": "d3",
+    "awayDivision": "d3",
+    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/2i62768ao3nlh5wq.png",
+    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/8ab4hlzfjvtul4nx.png",
+    "venue": {
+      "name": "Griswold Stadium",
+      "lat": 45.4519,
+      "lng": -122.6727
     },
     "missingVenue": false,
     "division": "d3"
