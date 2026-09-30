@@ -36,6 +36,24 @@
     "division": "nfl"
   },
   {
+    "id": "nfl-401872990",
+    "week": 5,
+    "date": "2026-10-11",
+    "day": "Sunday",
+    "kickoff": "10a",
+    "home": "Green Bay Packers",
+    "away": "Chicago Bears",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/chi.png",
+    "venue": {
+      "name": "Lambeau Field",
+      "lat": 44.5013,
+      "lng": -88.0622
+    },
+    "missingVenue": false,
+    "division": "nfl"
+  },
+  {
     "id": "nfl-401872984",
     "week": 5,
     "date": "2026-10-11",
@@ -175,24 +193,6 @@
       "name": "SoFi Stadium",
       "lat": 33.9535,
       "lng": -118.3392
-    },
-    "missingVenue": false,
-    "division": "nfl"
-  },
-  {
-    "id": "nfl-401872990",
-    "week": 5,
-    "date": "2026-10-11",
-    "day": "Sunday",
-    "kickoff": "1:25p",
-    "home": "Green Bay Packers",
-    "away": "Chicago Bears",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/chi.png",
-    "venue": {
-      "name": "Lambeau Field",
-      "lat": 44.5013,
-      "lng": -88.0622
     },
     "missingVenue": false,
     "division": "nfl"
