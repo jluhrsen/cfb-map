@@ -22,28 +22,6 @@
     "division": "d3"
   },
   {
-    "id": "2025-ncaa-401777157",
-    "sourceId": 401777157,
-    "sourceWeek": 10,
-    "week": 11,
-    "date": "2025-11-01",
-    "day": "Saturday",
-    "kickoff": "1p",
-    "home": "Puget Sound",
-    "away": "Pacific (OR)",
-    "homeDivision": "d3",
-    "awayDivision": "d3",
-    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/wpoqmrhctdrju4jh.png",
-    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/lkxbjwugyaf69m59.png",
-    "venue": {
-      "name": "Baker Stadium",
-      "lat": 47.2605,
-      "lng": -122.4825
-    },
-    "missingVenue": false,
-    "division": "d3"
-  },
-  {
     "id": "2025-ncaa-401774258",
     "sourceId": 401774258,
     "sourceWeek": 10,
@@ -61,6 +39,28 @@
       "name": "Ortmayer Stadium",
       "lat": 34.1008,
       "lng": -117.7678
+    },
+    "missingVenue": false,
+    "division": "d3"
+  },
+  {
+    "id": "2025-ncaa-401777157",
+    "sourceId": 401777157,
+    "sourceWeek": 10,
+    "week": 11,
+    "date": "2025-11-01",
+    "day": "Saturday",
+    "kickoff": "1p",
+    "home": "Puget Sound",
+    "away": "Pacific (OR)",
+    "homeDivision": "d3",
+    "awayDivision": "d3",
+    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/wpoqmrhctdrju4jh.png",
+    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/lkxbjwugyaf69m59.png",
+    "venue": {
+      "name": "Baker Stadium",
+      "lat": 47.2605,
+      "lng": -122.4825
     },
     "missingVenue": false,
     "division": "d3"

@@ -44,23 +44,23 @@
     "division": "d3"
   },
   {
-    "id": "2026-ncaa-401908459",
-    "sourceId": 401908459,
+    "id": "2026-ncaa-401908399",
+    "sourceId": 401908399,
     "sourceWeek": 10,
     "week": 11,
     "date": "2026-11-07",
     "day": "Saturday",
     "kickoff": "1p",
-    "home": "La Verne",
-    "away": "Whittier",
+    "home": "Pacific (OR)",
+    "away": "George Fox",
     "homeDivision": "d3",
     "awayDivision": "d3",
-    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/xd9a451s9o7md2nt.png",
-    "awayLogo": null,
+    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/lkxbjwugyaf69m59.png",
+    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/mi23750dj6i6tf21.png",
     "venue": {
-      "name": "Ortmayer Stadium",
-      "lat": 34.1008,
-      "lng": -117.7678
+      "name": "Hanson Stadium",
+      "lat": 45.5195,
+      "lng": -123.1107
     },
     "missingVenue": false,
     "division": "d3"
@@ -88,23 +88,23 @@
     "division": "d3"
   },
   {
-    "id": "2026-ncaa-401908399",
-    "sourceId": 401908399,
+    "id": "2026-ncaa-401908459",
+    "sourceId": 401908459,
     "sourceWeek": 10,
     "week": 11,
     "date": "2026-11-07",
     "day": "Saturday",
     "kickoff": "1p",
-    "home": "Pacific (OR)",
-    "away": "George Fox",
+    "home": "La Verne",
+    "away": "Whittier",
     "homeDivision": "d3",
     "awayDivision": "d3",
-    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/lkxbjwugyaf69m59.png",
-    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/mi23750dj6i6tf21.png",
+    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/xd9a451s9o7md2nt.png",
+    "awayLogo": null,
     "venue": {
-      "name": "Hanson Stadium",
-      "lat": 45.5195,
-      "lng": -123.1107
+      "name": "Ortmayer Stadium",
+      "lat": 34.1008,
+      "lng": -117.7678
     },
     "missingVenue": false,
     "division": "d3"
