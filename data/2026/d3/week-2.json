@@ -44,28 +44,6 @@
     "division": "d3"
   },
   {
-    "id": "2026-ncaa-401908429",
-    "sourceId": 401908429,
-    "sourceWeek": 1,
-    "week": 2,
-    "date": "2026-09-05",
-    "day": "Saturday",
-    "kickoff": "1p",
-    "home": "Pacific Lutheran",
-    "away": "Cal Lutheran",
-    "homeDivision": "d3",
-    "awayDivision": "d3",
-    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/bi1umnuk45dh7ppn.png",
-    "awayLogo": null,
-    "venue": {
-      "name": "Sparks Stadium",
-      "lat": 47.1872,
-      "lng": -122.3005
-    },
-    "missingVenue": false,
-    "division": "d3"
-  },
-  {
     "id": "2026-ncaa-401873228",
     "sourceId": 401873228,
     "sourceWeek": 1,
@@ -83,6 +61,28 @@
       "name": "Baker Stadium",
       "lat": 47.2605,
       "lng": -122.4825
+    },
+    "missingVenue": false,
+    "division": "d3"
+  },
+  {
+    "id": "2026-ncaa-401908429",
+    "sourceId": 401908429,
+    "sourceWeek": 1,
+    "week": 2,
+    "date": "2026-09-05",
+    "day": "Saturday",
+    "kickoff": "1p",
+    "home": "Pacific Lutheran",
+    "away": "Cal Lutheran",
+    "homeDivision": "d3",
+    "awayDivision": "d3",
+    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/bi1umnuk45dh7ppn.png",
+    "awayLogo": null,
+    "venue": {
+      "name": "Sparks Stadium",
+      "lat": 47.1872,
+      "lng": -122.3005
     },
     "missingVenue": false,
     "division": "d3"
