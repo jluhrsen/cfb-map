@@ -66,67 +66,23 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401856851",
-    "sourceId": 401856851,
+    "id": "2026-ncaa-401856738",
+    "sourceId": 401856738,
     "sourceWeek": 10,
     "week": 11,
     "date": "2026-11-07",
     "day": "Saturday",
     "kickoff": "TBD",
-    "home": "Houston",
-    "away": "Cincinnati",
+    "home": "Auburn",
+    "away": "Arkansas",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "TDECU Stadium",
-      "lat": 29.7211,
-      "lng": -95.3506
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2026-ncaa-401858285",
-    "sourceId": 401858285,
-    "sourceWeek": 10,
-    "week": 11,
-    "date": "2026-11-07",
-    "day": "Saturday",
-    "kickoff": "TBD",
-    "home": "Syracuse",
-    "away": "Clemson",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "JMA Wireless Dome",
-      "lat": 43.0361,
-      "lng": -76.1364
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2026-ncaa-401862821",
-    "sourceId": 401862821,
-    "sourceWeek": 10,
-    "week": 11,
-    "date": "2026-11-07",
-    "day": "Saturday",
-    "kickoff": "TBD",
-    "home": "North Texas",
-    "away": "Rice",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "DATCU Stadium",
-      "lat": 33.2071,
-      "lng": -97.1514
+      "name": "Jordan-Hare Stadium",
+      "lat": 32.6017,
+      "lng": -85.4893
     },
     "missingVenue": false,
     "division": "fbs"
@@ -149,6 +105,28 @@
       "name": "CEFCU Stadium",
       "lat": 37.3197,
       "lng": -121.8684
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401862821",
+    "sourceId": 401862821,
+    "sourceWeek": 10,
+    "week": 11,
+    "date": "2026-11-07",
+    "day": "Saturday",
+    "kickoff": "TBD",
+    "home": "North Texas",
+    "away": "Rice",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "DATCU Stadium",
+      "lat": 33.2071,
+      "lng": -97.1514
     },
     "missingVenue": false,
     "division": "fbs"
@@ -264,6 +242,72 @@
     "division": "fbs"
   },
   {
+    "id": "2026-ncaa-401858516",
+    "sourceId": 401858516,
+    "sourceWeek": 10,
+    "week": 11,
+    "date": "2026-11-07",
+    "day": "Saturday",
+    "kickoff": "TBD",
+    "home": "Washington",
+    "away": "Penn State",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Husky Stadium",
+      "lat": 47.6504,
+      "lng": -122.3016
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401858517",
+    "sourceId": 401858517,
+    "sourceWeek": 10,
+    "week": 11,
+    "date": "2026-11-07",
+    "day": "Saturday",
+    "kickoff": "TBD",
+    "home": "Wisconsin",
+    "away": "Rutgers",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Camp Randall Stadium",
+      "lat": 43.0703,
+      "lng": -89.4124
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401858285",
+    "sourceId": 401858285,
+    "sourceWeek": 10,
+    "week": 11,
+    "date": "2026-11-07",
+    "day": "Saturday",
+    "kickoff": "TBD",
+    "home": "Syracuse",
+    "away": "Clemson",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "JMA Wireless Dome",
+      "lat": 43.0361,
+      "lng": -76.1364
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
     "id": "2026-ncaa-401864532",
     "sourceId": 401864532,
     "sourceWeek": 10,
@@ -308,28 +352,6 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401856738",
-    "sourceId": 401856738,
-    "sourceWeek": 10,
-    "week": 11,
-    "date": "2026-11-07",
-    "day": "Saturday",
-    "kickoff": "TBD",
-    "home": "Auburn",
-    "away": "Arkansas",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Jordan-Hare Stadium",
-      "lat": 32.6017,
-      "lng": -85.4893
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2026-ncaa-401856849",
     "sourceId": 401856849,
     "sourceWeek": 10,
@@ -352,45 +374,23 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401858517",
-    "sourceId": 401858517,
+    "id": "2026-ncaa-401856851",
+    "sourceId": 401856851,
     "sourceWeek": 10,
     "week": 11,
     "date": "2026-11-07",
     "day": "Saturday",
     "kickoff": "TBD",
-    "home": "Wisconsin",
-    "away": "Rutgers",
+    "home": "Houston",
+    "away": "Cincinnati",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Camp Randall Stadium",
-      "lat": 43.0703,
-      "lng": -89.4124
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2026-ncaa-401858516",
-    "sourceId": 401858516,
-    "sourceWeek": 10,
-    "week": 11,
-    "date": "2026-11-07",
-    "day": "Saturday",
-    "kickoff": "TBD",
-    "home": "Washington",
-    "away": "Penn State",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Husky Stadium",
-      "lat": 47.6504,
-      "lng": -122.3016
+      "name": "TDECU Stadium",
+      "lat": 29.7211,
+      "lng": -95.3506
     },
     "missingVenue": false,
     "division": "fbs"

@@ -176,28 +176,6 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401864515",
-    "sourceId": 401864515,
-    "sourceWeek": 5,
-    "week": 6,
-    "date": "2026-10-03",
-    "day": "Saturday",
-    "kickoff": "12:30p",
-    "home": "North Dakota State",
-    "away": "Wyoming",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2449.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2751.png",
-    "venue": {
-      "name": "Fargodome",
-      "lat": 46.9028,
-      "lng": -96.8013
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2026-ncaa-401866430",
     "sourceId": 401866430,
     "sourceWeek": 5,
@@ -286,23 +264,23 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401858253",
-    "sourceId": 401858253,
+    "id": "2026-ncaa-401864515",
+    "sourceId": 401864515,
     "sourceWeek": 5,
     "week": 6,
     "date": "2026-10-03",
     "day": "Saturday",
     "kickoff": "12:30p",
-    "home": "Florida State",
-    "away": "Virginia",
+    "home": "North Dakota State",
+    "away": "Wyoming",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2449.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2751.png",
     "venue": {
-      "name": "Doak Campbell Stadium",
-      "lat": 30.4384,
-      "lng": -84.3045
+      "name": "Fargodome",
+      "lat": 46.9028,
+      "lng": -96.8013
     },
     "missingVenue": false,
     "division": "fbs"
@@ -325,6 +303,28 @@
       "name": "Kinnick Stadium",
       "lat": 41.6581,
       "lng": -91.5509
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401858253",
+    "sourceId": 401858253,
+    "sourceWeek": 5,
+    "week": 6,
+    "date": "2026-10-03",
+    "day": "Saturday",
+    "kickoff": "12:30p",
+    "home": "Florida State",
+    "away": "Virginia",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Doak Campbell Stadium",
+      "lat": 30.4384,
+      "lng": -84.3045
     },
     "missingVenue": false,
     "division": "fbs"
@@ -418,23 +418,23 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401856821",
-    "sourceId": 401856821,
+    "id": "2026-ncaa-401858249",
+    "sourceId": 401858249,
     "sourceWeek": 5,
     "week": 6,
     "date": "2026-10-03",
     "day": "Saturday",
     "kickoff": "4:30p",
-    "home": "Colorado",
-    "away": "Texas Tech",
+    "home": "Clemson",
+    "away": "Miami",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/38.png",
+    "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Folsom Field",
-      "lat": 40.0096,
-      "lng": -105.2644
+      "name": "Memorial Stadium (Clemson, SC)",
+      "lat": 34.6784,
+      "lng": -82.8444
     },
     "missingVenue": false,
     "division": "fbs"
@@ -462,23 +462,23 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401858249",
-    "sourceId": 401858249,
+    "id": "2026-ncaa-401862792",
+    "sourceId": 401862792,
     "sourceWeek": 5,
     "week": 6,
     "date": "2026-10-03",
     "day": "Saturday",
     "kickoff": "4:30p",
-    "home": "Clemson",
-    "away": "Miami",
+    "home": "South Florida",
+    "away": "Temple",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Memorial Stadium (Clemson, SC)",
-      "lat": 34.6784,
-      "lng": -82.8444
+      "name": "Raymond James Stadium",
+      "lat": 27.9759,
+      "lng": -82.5033
     },
     "missingVenue": false,
     "division": "fbs"
@@ -506,23 +506,23 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401862792",
-    "sourceId": 401862792,
+    "id": "2026-ncaa-401856821",
+    "sourceId": 401856821,
     "sourceWeek": 5,
     "week": 6,
     "date": "2026-10-03",
     "day": "Saturday",
     "kickoff": "4:30p",
-    "home": "South Florida",
-    "away": "Temple",
+    "home": "Colorado",
+    "away": "Texas Tech",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
-    "homeLogo": null,
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/38.png",
     "awayLogo": null,
     "venue": {
-      "name": "Raymond James Stadium",
-      "lat": 27.9759,
-      "lng": -82.5033
+      "name": "Folsom Field",
+      "lat": 40.0096,
+      "lng": -105.2644
     },
     "missingVenue": false,
     "division": "fbs"
