@@ -1,23 +1,5 @@
 [
   {
-    "id": "nfl-401872964",
-    "week": 4,
-    "date": "2026-10-01",
-    "day": "Thursday",
-    "kickoff": "5:15p",
-    "home": "Cleveland Browns",
-    "away": "Pittsburgh Steelers",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cle.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/pit.png",
-    "venue": {
-      "name": "Huntington Bank Field",
-      "lat": 41.5061,
-      "lng": -81.6995
-    },
-    "missingVenue": false,
-    "division": "nfl"
-  },
-  {
     "id": "nfl-401872965",
     "week": 4,
     "date": "2026-10-04",
@@ -265,6 +247,24 @@
       "name": "Bank of America Stadium",
       "lat": 35.2258,
       "lng": -80.8528
+    },
+    "missingVenue": false,
+    "division": "nfl"
+  },
+  {
+    "id": "nfl-401872964",
+    "week": 4,
+    "date": "2026-10-01",
+    "day": "Thursday",
+    "kickoff": "5:15p",
+    "home": "Cleveland Browns",
+    "away": "Pittsburgh Steelers",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cle.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/pit.png",
+    "venue": {
+      "name": "Huntington Bank Field",
+      "lat": 41.5061,
+      "lng": -81.6995
     },
     "missingVenue": false,
     "division": "nfl"
