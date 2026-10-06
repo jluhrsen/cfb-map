@@ -1,23 +1,5 @@
 [
   {
-    "id": "nfl-401872979",
-    "week": 4,
-    "date": "2026-10-05",
-    "day": "Monday",
-    "kickoff": "5:15p",
-    "home": "New Orleans Saints",
-    "away": "Atlanta Falcons",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/no.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/atl.png",
-    "venue": {
-      "name": "Caesars Superdome",
-      "lat": 29.9511,
-      "lng": -90.0812
-    },
-    "missingVenue": false,
-    "division": "nfl"
-  },
-  {
     "id": "nfl-401872964",
     "week": 4,
     "date": "2026-10-01",
@@ -283,6 +265,24 @@
       "name": "Bank of America Stadium",
       "lat": 35.2258,
       "lng": -80.8528
+    },
+    "missingVenue": false,
+    "division": "nfl"
+  },
+  {
+    "id": "nfl-401872979",
+    "week": 4,
+    "date": "2026-10-05",
+    "day": "Monday",
+    "kickoff": "5:15p",
+    "home": "New Orleans Saints",
+    "away": "Atlanta Falcons",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/no.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/atl.png",
+    "venue": {
+      "name": "Caesars Superdome",
+      "lat": 29.9511,
+      "lng": -90.0812
     },
     "missingVenue": false,
     "division": "nfl"
