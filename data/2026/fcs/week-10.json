@@ -1,27 +1,5 @@
 [
   {
-    "id": "2026-ncaa-401868312",
-    "sourceId": 401868312,
-    "sourceWeek": 9,
-    "week": 10,
-    "date": "2026-10-31",
-    "day": "Saturday",
-    "kickoff": "12p",
-    "home": "Stephen F. Austin",
-    "away": "Houston Christian",
-    "homeDivision": "fcs",
-    "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2617.png",
-    "awayLogo": null,
-    "venue": {
-      "name": "Homer Bryce Stadium",
-      "lat": 31.6204,
-      "lng": -94.6486
-    },
-    "missingVenue": false,
-    "division": "fcs"
-  },
-  {
     "id": "2026-ncaa-401868081",
     "sourceId": 401868081,
     "sourceWeek": 9,
@@ -39,6 +17,28 @@
       "name": "Bobcat Stadium (MT)",
       "lat": 45.6602,
       "lng": -111.0492
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
+    "id": "2026-ncaa-401868312",
+    "sourceId": 401868312,
+    "sourceWeek": 9,
+    "week": 10,
+    "date": "2026-10-31",
+    "day": "Saturday",
+    "kickoff": "12p",
+    "home": "Stephen F. Austin",
+    "away": "Houston Christian",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2617.png",
+    "awayLogo": null,
+    "venue": {
+      "name": "Homer Bryce Stadium",
+      "lat": 31.6204,
+      "lng": -94.6486
     },
     "missingVenue": false,
     "division": "fcs"
