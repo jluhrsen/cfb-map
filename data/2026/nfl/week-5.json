@@ -1,23 +1,5 @@
 [
   {
-    "id": "nfl-401872980",
-    "week": 5,
-    "date": "2026-10-08",
-    "day": "Thursday",
-    "kickoff": "5:15p",
-    "home": "Dallas Cowboys",
-    "away": "Tampa Bay Buccaneers",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/dal.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/tb.png",
-    "venue": {
-      "name": "AT&T Stadium",
-      "lat": 32.7473,
-      "lng": -97.0945
-    },
-    "missingVenue": false,
-    "division": "nfl"
-  },
-  {
     "id": "nfl-401872981",
     "week": 5,
     "date": "2026-10-11",
@@ -247,6 +229,24 @@
       "name": "Mercedes-Benz Stadium",
       "lat": 33.7553,
       "lng": -84.4006
+    },
+    "missingVenue": false,
+    "division": "nfl"
+  },
+  {
+    "id": "nfl-401872980",
+    "week": 5,
+    "date": "2026-10-08",
+    "day": "Thursday",
+    "kickoff": "5:15p",
+    "home": "Dallas Cowboys",
+    "away": "Tampa Bay Buccaneers",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/dal.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/tb.png",
+    "venue": {
+      "name": "AT&T Stadium",
+      "lat": 32.7473,
+      "lng": -97.0945
     },
     "missingVenue": false,
     "division": "nfl"
