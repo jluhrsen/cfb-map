@@ -1,23 +1,5 @@
 [
   {
-    "id": "nfl-401872994",
-    "week": 5,
-    "date": "2026-10-12",
-    "day": "Monday",
-    "kickoff": "5:15p",
-    "home": "Los Angeles Rams",
-    "away": "Buffalo Bills",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lar.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/buf.png",
-    "venue": {
-      "name": "SoFi Stadium",
-      "lat": 33.9535,
-      "lng": -118.3392
-    },
-    "missingVenue": false,
-    "division": "nfl"
-  },
-  {
     "id": "nfl-401872980",
     "week": 5,
     "date": "2026-10-08",
@@ -265,6 +247,24 @@
       "name": "Mercedes-Benz Stadium",
       "lat": 33.7553,
       "lng": -84.4006
+    },
+    "missingVenue": false,
+    "division": "nfl"
+  },
+  {
+    "id": "nfl-401872994",
+    "week": 5,
+    "date": "2026-10-12",
+    "day": "Monday",
+    "kickoff": "5:15p",
+    "home": "Los Angeles Rams",
+    "away": "Buffalo Bills",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lar.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/buf.png",
+    "venue": {
+      "name": "SoFi Stadium",
+      "lat": 33.9535,
+      "lng": -118.3392
     },
     "missingVenue": false,
     "division": "nfl"
