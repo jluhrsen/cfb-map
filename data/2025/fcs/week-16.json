@@ -22,28 +22,6 @@
     "division": "fcs"
   },
   {
-    "id": "2025-ncaa-401836197",
-    "sourceId": 401836197,
-    "sourceWeek": 15,
-    "week": 16,
-    "date": "2025-12-06",
-    "day": "Saturday",
-    "kickoff": "11a",
-    "home": "Montana",
-    "away": "South Dakota State",
-    "homeDivision": "fcs",
-    "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/149.png",
-    "awayLogo": null,
-    "venue": {
-      "name": "Washington-Grizzly Stadium",
-      "lat": 46.8601,
-      "lng": -113.9845
-    },
-    "missingVenue": false,
-    "division": "fcs"
-  },
-  {
     "id": "2025-ncaa-401836216",
     "sourceId": 401836216,
     "sourceWeek": 15,
@@ -61,6 +39,28 @@
       "name": "Homer Bryce Stadium",
       "lat": 31.6204,
       "lng": -94.6486
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
+    "id": "2025-ncaa-401836197",
+    "sourceId": 401836197,
+    "sourceWeek": 15,
+    "week": 16,
+    "date": "2025-12-06",
+    "day": "Saturday",
+    "kickoff": "11a",
+    "home": "Montana",
+    "away": "South Dakota State",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/149.png",
+    "awayLogo": null,
+    "venue": {
+      "name": "Washington-Grizzly Stadium",
+      "lat": 46.8601,
+      "lng": -113.9845
     },
     "missingVenue": false,
     "division": "fcs"
