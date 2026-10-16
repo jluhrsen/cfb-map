@@ -220,28 +220,6 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401868075",
-    "sourceId": 401868075,
-    "sourceWeek": 3,
-    "week": 4,
-    "date": "2026-09-19",
-    "day": "Saturday",
-    "kickoff": "5p",
-    "home": "Cal Poly",
-    "away": "San Diego",
-    "homeDivision": "fcs",
-    "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/13.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/301.png",
-    "venue": {
-      "name": "Alex G. Spanos Stadium",
-      "lat": 35.3005,
-      "lng": -120.6587
-    },
-    "missingVenue": false,
-    "division": "fcs"
-  },
-  {
     "id": "2026-ncaa-401868130",
     "sourceId": 401868130,
     "sourceWeek": 3,
@@ -259,6 +237,28 @@
       "name": "Nottingham Field",
       "lat": 40.4071,
       "lng": -104.7017
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
+    "id": "2026-ncaa-401868075",
+    "sourceId": 401868075,
+    "sourceWeek": 3,
+    "week": 4,
+    "date": "2026-09-19",
+    "day": "Saturday",
+    "kickoff": "5p",
+    "home": "Cal Poly",
+    "away": "San Diego",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/13.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/301.png",
+    "venue": {
+      "name": "Alex G. Spanos Stadium",
+      "lat": 35.3005,
+      "lng": -120.6587
     },
     "missingVenue": false,
     "division": "fcs"
