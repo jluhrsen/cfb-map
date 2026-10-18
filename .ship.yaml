@@ -1,0 +1,22 @@
+# Read by the `ship` skill (~/.claude/skills/ship).
+mode: static-pages
+name: cfb-map
+
+build:
+  - npm run build:data
+  - npm run build
+
+# Publishing is explicit for this repo. daily-update.yml triggers only on
+# `schedule` (06:00 ET) and `workflow_dispatch` -- NOT on push -- so pushing to
+# main does not put anything live. `npm run deploy` would rebuild first; the
+# build above already did, so push the existing build directory.
+publish: npx gh-pages -d build
+
+git:
+  remote: origin
+  branch: main
+
+verify:
+  url: https://cfb.luhrsenlounge.net
+  # Pages drops the custom domain if this file is missing from the publish dir.
+  expect_file: public/CNAME

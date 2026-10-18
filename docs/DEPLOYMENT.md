@@ -37,9 +37,23 @@ npm start
 
 ## Deployment
 
-The app automatically deploys to GitHub Pages after successful builds.
+The site is served by GitHub Pages at **https://cfb.luhrsenlounge.net**. The
+custom domain comes from `public/CNAME`, which the build copies into `build/`;
+the `actions-gh-pages` step also sets `cname:` on every publish. If that file
+goes missing from the publish directory, Pages reverts to
+`jluhrsen.github.io/cfb-map/` and the custom domain breaks.
 
-Access at: `https://<username>.github.io/cfb-map/`
+Publishing is **not** triggered by pushing to `main`. `daily-update.yml` runs
+only on its 06:00 ET schedule and on `workflow_dispatch`, so a push alone
+changes nothing that is live. To publish:
+
+- **Automatically** — wait for the daily run, which fetches fresh data and then
+  deploys.
+- **On demand** — Actions tab, "Daily Data Update", "Run workflow".
+- **From a laptop** — `npm run deploy` (builds, then `gh-pages -d build`).
+
+`ship` (the Claude skill) runs the laptop path and verifies the result;
+`.ship.yaml` in the repo root holds its targets.
 
 ## Monitoring
 
