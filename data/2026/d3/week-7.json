@@ -22,23 +22,23 @@
     "division": "d3"
   },
   {
-    "id": "2026-ncaa-401873232",
-    "sourceId": 401873232,
+    "id": "2026-ncaa-401908450",
+    "sourceId": 401908450,
     "sourceWeek": 6,
     "week": 7,
     "date": "2026-10-10",
     "day": "Saturday",
     "kickoff": "1p",
-    "home": "Pacific Lutheran",
-    "away": "Puget Sound",
+    "home": "La Verne",
+    "away": "Claremont Mudd Scripps",
     "homeDivision": "d3",
     "awayDivision": "d3",
-    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/bi1umnuk45dh7ppn.png",
-    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/wpoqmrhctdrju4jh.png",
+    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/xd9a451s9o7md2nt.png",
+    "awayLogo": null,
     "venue": {
-      "name": "Sparks Stadium",
-      "lat": 47.1872,
-      "lng": -122.3005
+      "name": "Ortmayer Stadium",
+      "lat": 34.1008,
+      "lng": -117.7678
     },
     "missingVenue": false,
     "division": "d3"
@@ -66,23 +66,23 @@
     "division": "d3"
   },
   {
-    "id": "2026-ncaa-401908450",
-    "sourceId": 401908450,
+    "id": "2026-ncaa-401873232",
+    "sourceId": 401873232,
     "sourceWeek": 6,
     "week": 7,
     "date": "2026-10-10",
     "day": "Saturday",
     "kickoff": "1p",
-    "home": "La Verne",
-    "away": "Claremont Mudd Scripps",
+    "home": "Pacific Lutheran",
+    "away": "Puget Sound",
     "homeDivision": "d3",
     "awayDivision": "d3",
-    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/xd9a451s9o7md2nt.png",
-    "awayLogo": null,
+    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/bi1umnuk45dh7ppn.png",
+    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/wpoqmrhctdrju4jh.png",
     "venue": {
-      "name": "Ortmayer Stadium",
-      "lat": 34.1008,
-      "lng": -117.7678
+      "name": "Sparks Stadium",
+      "lat": 47.1872,
+      "lng": -122.3005
     },
     "missingVenue": false,
     "division": "d3"
