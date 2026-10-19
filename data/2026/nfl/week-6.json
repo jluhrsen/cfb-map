@@ -1,5 +1,41 @@
 [
   {
+    "id": "nfl-401873008",
+    "week": 6,
+    "date": "2026-10-19",
+    "day": "Monday",
+    "kickoff": "5:15p",
+    "home": "San Francisco 49ers",
+    "away": "Washington Commanders",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sf.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
+    "venue": {
+      "name": "Levi's Stadium",
+      "lat": 37.403,
+      "lng": -121.9697
+    },
+    "missingVenue": false,
+    "division": "nfl"
+  },
+  {
+    "id": "nfl-401872995",
+    "week": 6,
+    "date": "2026-10-15",
+    "day": "Thursday",
+    "kickoff": "5:15p",
+    "home": "Denver Broncos",
+    "away": "Seattle Seahawks",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/den.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sea.png",
+    "venue": {
+      "name": "Empower Field at Mile High",
+      "lat": 39.7439,
+      "lng": -105.0201
+    },
+    "missingVenue": false,
+    "division": "nfl"
+  },
+  {
     "id": "nfl-401872996",
     "week": 6,
     "date": "2026-10-18",
@@ -211,42 +247,6 @@
       "name": "Lambeau Field",
       "lat": 44.5013,
       "lng": -88.0622
-    },
-    "missingVenue": false,
-    "division": "nfl"
-  },
-  {
-    "id": "nfl-401872995",
-    "week": 6,
-    "date": "2026-10-15",
-    "day": "Thursday",
-    "kickoff": "5:15p",
-    "home": "Denver Broncos",
-    "away": "Seattle Seahawks",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/den.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sea.png",
-    "venue": {
-      "name": "Empower Field at Mile High",
-      "lat": 39.7439,
-      "lng": -105.0201
-    },
-    "missingVenue": false,
-    "division": "nfl"
-  },
-  {
-    "id": "nfl-401873008",
-    "week": 6,
-    "date": "2026-10-19",
-    "day": "Monday",
-    "kickoff": "5:15p",
-    "home": "San Francisco 49ers",
-    "away": "Washington Commanders",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sf.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
-    "venue": {
-      "name": "Levi's Stadium",
-      "lat": 37.403,
-      "lng": -121.9697
     },
     "missingVenue": false,
     "division": "nfl"
