@@ -22,23 +22,23 @@
     "division": "fcs"
   },
   {
-    "id": "2025-ncaa-401767365",
-    "sourceId": 401767365,
+    "id": "2025-ncaa-401767069",
+    "sourceId": 401767069,
     "sourceWeek": 11,
     "week": 12,
     "date": "2025-11-08",
     "day": "Saturday",
     "kickoff": "12p",
-    "home": "Alabama State",
-    "away": "Texas Southern",
+    "home": "Montana",
+    "away": "Eastern Washington",
     "homeDivision": "fcs",
     "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/149.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/331.png",
     "venue": {
-      "name": "Hornet Stadium",
-      "lat": 38.5598,
-      "lng": -121.4242
+      "name": "Washington-Grizzly Stadium",
+      "lat": 46.8601,
+      "lng": -113.9845
     },
     "missingVenue": false,
     "division": "fcs"
@@ -66,45 +66,23 @@
     "division": "fcs"
   },
   {
-    "id": "2025-ncaa-401767069",
-    "sourceId": 401767069,
+    "id": "2025-ncaa-401767365",
+    "sourceId": 401767365,
     "sourceWeek": 11,
     "week": 12,
     "date": "2025-11-08",
     "day": "Saturday",
     "kickoff": "12p",
-    "home": "Montana",
-    "away": "Eastern Washington",
+    "home": "Alabama State",
+    "away": "Texas Southern",
     "homeDivision": "fcs",
     "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/149.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/331.png",
+    "homeLogo": null,
+    "awayLogo": null,
     "venue": {
-      "name": "Washington-Grizzly Stadium",
-      "lat": 46.8601,
-      "lng": -113.9845
-    },
-    "missingVenue": false,
-    "division": "fcs"
-  },
-  {
-    "id": "2025-ncaa-401767077",
-    "sourceId": 401767077,
-    "sourceWeek": 11,
-    "week": 12,
-    "date": "2025-11-08",
-    "day": "Saturday",
-    "kickoff": "3p",
-    "home": "Idaho State",
-    "away": "Cal Poly",
-    "homeDivision": "fcs",
-    "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/304.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/13.png",
-    "venue": {
-      "name": "Holt Arena",
-      "lat": 42.8723,
-      "lng": -112.4341
+      "name": "Hornet Stadium",
+      "lat": 38.5598,
+      "lng": -121.4242
     },
     "missingVenue": false,
     "division": "fcs"
@@ -127,6 +105,28 @@
       "name": "Walkup Skydome",
       "lat": 35.1803,
       "lng": -111.6544
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
+    "id": "2025-ncaa-401767077",
+    "sourceId": 401767077,
+    "sourceWeek": 11,
+    "week": 12,
+    "date": "2025-11-08",
+    "day": "Saturday",
+    "kickoff": "3p",
+    "home": "Idaho State",
+    "away": "Cal Poly",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/304.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/13.png",
+    "venue": {
+      "name": "Holt Arena",
+      "lat": 42.8723,
+      "lng": -112.4341
     },
     "missingVenue": false,
     "division": "fcs"
