@@ -110,26 +110,26 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401868308",
-    "sourceId": 401868308,
+    "id": "2026-ncaa-401860892",
+    "sourceId": 401860892,
     "sourceWeek": 4,
     "week": 5,
     "date": "2026-09-26",
     "day": "Saturday",
     "kickoff": "3p",
-    "home": "Stephen F. Austin",
-    "away": "Northeastern State",
-    "homeDivision": "fcs",
-    "awayDivision": "d2",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2617.png",
+    "home": "Texas State",
+    "away": "Incarnate Word",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Homer Bryce Stadium",
-      "lat": 31.6204,
-      "lng": -94.6486
+      "name": "Bobcat Stadium (TX)",
+      "lat": 29.8911,
+      "lng": -97.9256
     },
     "missingVenue": false,
-    "division": "fcs"
+    "division": "fbs"
   },
   {
     "id": "2026-ncaa-401868327",
@@ -154,26 +154,26 @@
     "division": "fcs"
   },
   {
-    "id": "2026-ncaa-401860892",
-    "sourceId": 401860892,
+    "id": "2026-ncaa-401868308",
+    "sourceId": 401868308,
     "sourceWeek": 4,
     "week": 5,
     "date": "2026-09-26",
     "day": "Saturday",
     "kickoff": "3p",
-    "home": "Texas State",
-    "away": "Incarnate Word",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
+    "home": "Stephen F. Austin",
+    "away": "Northeastern State",
+    "homeDivision": "fcs",
+    "awayDivision": "d2",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2617.png",
     "awayLogo": null,
     "venue": {
-      "name": "Bobcat Stadium (TX)",
-      "lat": 29.8911,
-      "lng": -97.9256
+      "name": "Homer Bryce Stadium",
+      "lat": 31.6204,
+      "lng": -94.6486
     },
     "missingVenue": false,
-    "division": "fbs"
+    "division": "fcs"
   },
   {
     "id": "2026-ncaa-401868076",
