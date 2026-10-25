@@ -176,6 +176,28 @@
     "division": "fbs"
   },
   {
+    "id": "2026-ncaa-401856727",
+    "sourceId": 401856727,
+    "sourceWeek": 8,
+    "week": 9,
+    "date": "2026-10-24",
+    "day": "Saturday",
+    "kickoff": "12:30p",
+    "home": "Alabama",
+    "away": "Texas A&M",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Bryant-Denny Stadium",
+      "lat": 33.208,
+      "lng": -87.5502
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
     "id": "2026-ncaa-401864526",
     "sourceId": 401864526,
     "sourceWeek": 8,
@@ -215,28 +237,6 @@
       "name": "Rose Bowl",
       "lat": 34.1611,
       "lng": -118.1676
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2026-ncaa-401856727",
-    "sourceId": 401856727,
-    "sourceWeek": 8,
-    "week": 9,
-    "date": "2026-10-24",
-    "day": "Saturday",
-    "kickoff": "12:30p",
-    "home": "Alabama",
-    "away": "Texas A&M",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Bryant-Denny Stadium",
-      "lat": 33.208,
-      "lng": -87.5502
     },
     "missingVenue": false,
     "division": "fbs"
@@ -352,23 +352,23 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401858500",
-    "sourceId": 401858500,
+    "id": "2026-ncaa-401856838",
+    "sourceId": 401856838,
     "sourceWeek": 8,
     "week": 9,
     "date": "2026-10-24",
     "day": "Saturday",
     "kickoff": "4:30p",
-    "home": "Wisconsin",
-    "away": "USC",
+    "home": "Arizona",
+    "away": "Iowa State",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
     "homeLogo": null,
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/30.png",
+    "awayLogo": null,
     "venue": {
-      "name": "Camp Randall Stadium",
-      "lat": 43.0703,
-      "lng": -89.4124
+      "name": "Arizona Stadium",
+      "lat": 32.2287,
+      "lng": -110.9489
     },
     "missingVenue": false,
     "division": "fbs"
@@ -418,45 +418,23 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401860906",
-    "sourceId": 401860906,
+    "id": "2026-ncaa-401858500",
+    "sourceId": 401858500,
     "sourceWeek": 8,
     "week": 9,
     "date": "2026-10-24",
     "day": "Saturday",
     "kickoff": "4:30p",
-    "home": "Texas State",
-    "away": "Utah State",
+    "home": "Wisconsin",
+    "away": "USC",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
     "homeLogo": null,
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/328.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/30.png",
     "venue": {
-      "name": "Bobcat Stadium (TX)",
-      "lat": 29.8911,
-      "lng": -97.9256
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2026-ncaa-401856838",
-    "sourceId": 401856838,
-    "sourceWeek": 8,
-    "week": 9,
-    "date": "2026-10-24",
-    "day": "Saturday",
-    "kickoff": "4:30p",
-    "home": "Arizona",
-    "away": "Iowa State",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Arizona Stadium",
-      "lat": 32.2287,
-      "lng": -110.9489
+      "name": "Camp Randall Stadium",
+      "lat": 43.0703,
+      "lng": -89.4124
     },
     "missingVenue": false,
     "division": "fbs"
@@ -479,6 +457,28 @@
       "name": "Kenan Stadium",
       "lat": 35.9096,
       "lng": -79.0478
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401860906",
+    "sourceId": 401860906,
+    "sourceWeek": 8,
+    "week": 9,
+    "date": "2026-10-24",
+    "day": "Saturday",
+    "kickoff": "4:30p",
+    "home": "Texas State",
+    "away": "Utah State",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/328.png",
+    "venue": {
+      "name": "Bobcat Stadium (TX)",
+      "lat": 29.8911,
+      "lng": -97.9256
     },
     "missingVenue": false,
     "division": "fbs"
