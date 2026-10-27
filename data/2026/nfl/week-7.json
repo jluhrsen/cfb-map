@@ -1,23 +1,5 @@
 [
   {
-    "id": "nfl-401873009",
-    "week": 7,
-    "date": "2026-10-26",
-    "day": "Monday",
-    "kickoff": "5:15p",
-    "home": "Philadelphia Eagles",
-    "away": "Dallas Cowboys",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/phi.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/dal.png",
-    "venue": {
-      "name": "Lincoln Financial Field",
-      "lat": 39.9008,
-      "lng": -75.1675
-    },
-    "missingVenue": false,
-    "division": "nfl"
-  },
-  {
     "id": "nfl-401873010",
     "week": 7,
     "date": "2026-10-22",
@@ -247,6 +229,24 @@
       "name": "Lumen Field",
       "lat": 47.5952,
       "lng": -122.3316
+    },
+    "missingVenue": false,
+    "division": "nfl"
+  },
+  {
+    "id": "nfl-401873009",
+    "week": 7,
+    "date": "2026-10-26",
+    "day": "Monday",
+    "kickoff": "5:15p",
+    "home": "Philadelphia Eagles",
+    "away": "Dallas Cowboys",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/phi.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/dal.png",
+    "venue": {
+      "name": "Lincoln Financial Field",
+      "lat": 39.9008,
+      "lng": -75.1675
     },
     "missingVenue": false,
     "division": "nfl"

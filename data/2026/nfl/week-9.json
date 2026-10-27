@@ -180,24 +180,6 @@
     "division": "nfl"
   },
   {
-    "id": "nfl-401873047",
-    "week": 9,
-    "date": "2026-11-08",
-    "day": "Sunday",
-    "kickoff": "1:05p",
-    "home": "San Francisco 49ers",
-    "away": "Las Vegas Raiders",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sf.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lv.png",
-    "venue": {
-      "name": "Levi's Stadium",
-      "lat": 37.403,
-      "lng": -121.9697
-    },
-    "missingVenue": false,
-    "division": "nfl"
-  },
-  {
     "id": "nfl-401873049",
     "week": 9,
     "date": "2026-11-08",
@@ -211,6 +193,24 @@
       "name": "Gillette Stadium",
       "lat": 42.0909,
       "lng": -71.2643
+    },
+    "missingVenue": false,
+    "division": "nfl"
+  },
+  {
+    "id": "nfl-401873047",
+    "week": 9,
+    "date": "2026-11-08",
+    "day": "Sunday",
+    "kickoff": "1:25p",
+    "home": "San Francisco 49ers",
+    "away": "Las Vegas Raiders",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sf.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lv.png",
+    "venue": {
+      "name": "Levi's Stadium",
+      "lat": 37.403,
+      "lng": -121.9697
     },
     "missingVenue": false,
     "division": "nfl"

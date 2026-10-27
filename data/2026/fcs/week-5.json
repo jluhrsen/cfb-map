@@ -44,28 +44,6 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401867858",
-    "sourceId": 401867858,
-    "sourceWeek": 4,
-    "week": 5,
-    "date": "2026-09-26",
-    "day": "Saturday",
-    "kickoff": "10a",
-    "home": "Indiana State",
-    "away": "North Dakota",
-    "homeDivision": "fcs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Memorial Stadium",
-      "lat": 38.9628,
-      "lng": -95.2464
-    },
-    "missingVenue": false,
-    "division": "fcs"
-  },
-  {
     "id": "2026-ncaa-401866427",
     "sourceId": 401866427,
     "sourceWeek": 4,
@@ -86,6 +64,28 @@
     },
     "missingVenue": false,
     "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401867858",
+    "sourceId": 401867858,
+    "sourceWeek": 4,
+    "week": 5,
+    "date": "2026-09-26",
+    "day": "Saturday",
+    "kickoff": "10a",
+    "home": "Indiana State",
+    "away": "North Dakota",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Memorial Stadium",
+      "lat": 38.9628,
+      "lng": -95.2464
+    },
+    "missingVenue": false,
+    "division": "fcs"
   },
   {
     "id": "2026-ncaa-401858237",
