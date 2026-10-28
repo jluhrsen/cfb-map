@@ -110,6 +110,28 @@
     "division": "fbs"
   },
   {
+    "id": "2026-ncaa-401856850",
+    "sourceId": 401856850,
+    "sourceWeek": 10,
+    "week": 11,
+    "date": "2026-11-07",
+    "day": "Saturday",
+    "kickoff": "TBD",
+    "home": "Kansas",
+    "away": "UCF",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Memorial Stadium",
+      "lat": 38.9628,
+      "lng": -95.2464
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
     "id": "2026-ncaa-401856851",
     "sourceId": 401856851,
     "sourceWeek": 10,
@@ -154,28 +176,6 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401858514",
-    "sourceId": 401858514,
-    "sourceWeek": 10,
-    "week": 11,
-    "date": "2026-11-07",
-    "day": "Saturday",
-    "kickoff": "TBD",
-    "home": "Ohio State",
-    "away": "Oregon",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Ohio Stadium",
-      "lat": 40.0018,
-      "lng": -83.0197
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2026-ncaa-401858516",
     "sourceId": 401858516,
     "sourceWeek": 10,
@@ -198,45 +198,23 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401856850",
-    "sourceId": 401856850,
-    "sourceWeek": 10,
-    "week": 11,
-    "date": "2026-11-07",
-    "day": "Saturday",
-    "kickoff": "TBD",
-    "home": "Kansas",
-    "away": "UCF",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Memorial Stadium",
-      "lat": 38.9628,
-      "lng": -95.2464
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2026-ncaa-401856743",
-    "sourceId": 401856743,
+    "id": "2026-ncaa-401858285",
+    "sourceId": 401858285,
     "sourceWeek": 10,
     "week": 11,
     "date": "2026-11-07",
     "day": "Saturday",
     "kickoff": "9a",
-    "home": "Missouri",
-    "away": "Texas",
+    "home": "Syracuse",
+    "away": "Clemson",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
     "homeLogo": null,
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
+    "awayLogo": null,
     "venue": {
-      "name": "Memorial Stadium",
-      "lat": 38.9628,
-      "lng": -95.2464
+      "name": "JMA Wireless Dome",
+      "lat": 43.0361,
+      "lng": -76.1364
     },
     "missingVenue": false,
     "division": "fbs"
@@ -264,23 +242,23 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401858285",
-    "sourceId": 401858285,
+    "id": "2026-ncaa-401856743",
+    "sourceId": 401856743,
     "sourceWeek": 10,
     "week": 11,
     "date": "2026-11-07",
     "day": "Saturday",
     "kickoff": "9a",
-    "home": "Syracuse",
-    "away": "Clemson",
+    "home": "Missouri",
+    "away": "Texas",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
     "homeLogo": null,
-    "awayLogo": null,
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
     "venue": {
-      "name": "JMA Wireless Dome",
-      "lat": 43.0361,
-      "lng": -76.1364
+      "name": "Memorial Stadium",
+      "lat": 38.9628,
+      "lng": -95.2464
     },
     "missingVenue": false,
     "division": "fbs"
@@ -330,6 +308,28 @@
     "division": "fbs"
   },
   {
+    "id": "2026-ncaa-401858514",
+    "sourceId": 401858514,
+    "sourceWeek": 10,
+    "week": 11,
+    "date": "2026-11-07",
+    "day": "Saturday",
+    "kickoff": "12:30p",
+    "home": "Ohio State",
+    "away": "Oregon",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Ohio Stadium",
+      "lat": 40.0018,
+      "lng": -83.0197
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
     "id": "2026-ncaa-401856740",
     "sourceId": 401856740,
     "sourceWeek": 10,
@@ -352,28 +352,6 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401862821",
-    "sourceId": 401862821,
-    "sourceWeek": 10,
-    "week": 11,
-    "date": "2026-11-07",
-    "day": "Saturday",
-    "kickoff": "1p",
-    "home": "North Texas",
-    "away": "Rice",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "DATCU Stadium",
-      "lat": 33.2071,
-      "lng": -97.1514
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2026-ncaa-401864534",
     "sourceId": 401864534,
     "sourceWeek": 10,
@@ -391,6 +369,28 @@
       "name": "CEFCU Stadium",
       "lat": 37.3197,
       "lng": -121.8684
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401862821",
+    "sourceId": 401862821,
+    "sourceWeek": 10,
+    "week": 11,
+    "date": "2026-11-07",
+    "day": "Saturday",
+    "kickoff": "1p",
+    "home": "North Texas",
+    "away": "Rice",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "DATCU Stadium",
+      "lat": 33.2071,
+      "lng": -97.1514
     },
     "missingVenue": false,
     "division": "fbs"
@@ -572,28 +572,6 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401866459",
-    "sourceId": 401866459,
-    "sourceWeek": 11,
-    "week": 11,
-    "date": "2026-11-10",
-    "day": "Tuesday",
-    "kickoff": "4p",
-    "home": "Bowling Green",
-    "away": "Kent State",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Doyt L. Perry Stadium",
-      "lat": 41.375,
-      "lng": -83.635
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2026-ncaa-401866458",
     "sourceId": 401866458,
     "sourceWeek": 11,
@@ -611,6 +589,28 @@
       "name": "InfoCision Stadium",
       "lat": 41.0726,
       "lng": -81.5084
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401866459",
+    "sourceId": 401866459,
+    "sourceWeek": 11,
+    "week": 11,
+    "date": "2026-11-10",
+    "day": "Tuesday",
+    "kickoff": "4p",
+    "home": "Bowling Green",
+    "away": "Kent State",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Doyt L. Perry Stadium",
+      "lat": 41.375,
+      "lng": -83.635
     },
     "missingVenue": false,
     "division": "fbs"
