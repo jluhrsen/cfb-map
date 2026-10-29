@@ -110,28 +110,6 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401868077",
-    "sourceId": 401868077,
-    "sourceWeek": 5,
-    "week": 6,
-    "date": "2026-10-03",
-    "day": "Saturday",
-    "kickoff": "5p",
-    "home": "Cal Poly",
-    "away": "Weber State",
-    "homeDivision": "fcs",
-    "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/13.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2692.png",
-    "venue": {
-      "name": "Alex G. Spanos Stadium",
-      "lat": 35.3005,
-      "lng": -120.6587
-    },
-    "missingVenue": false,
-    "division": "fcs"
-  },
-  {
     "id": "2026-ncaa-401868104",
     "sourceId": 401868104,
     "sourceWeek": 5,
@@ -149,6 +127,28 @@
       "name": "Holt Arena",
       "lat": 42.8723,
       "lng": -112.4341
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
+    "id": "2026-ncaa-401868077",
+    "sourceId": 401868077,
+    "sourceWeek": 5,
+    "week": 6,
+    "date": "2026-10-03",
+    "day": "Saturday",
+    "kickoff": "5p",
+    "home": "Cal Poly",
+    "away": "Weber State",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/13.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2692.png",
+    "venue": {
+      "name": "Alex G. Spanos Stadium",
+      "lat": 35.3005,
+      "lng": -120.6587
     },
     "missingVenue": false,
     "division": "fcs"

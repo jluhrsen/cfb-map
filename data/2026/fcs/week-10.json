@@ -1,22 +1,22 @@
 [
   {
-    "id": "2026-ncaa-401867956",
-    "sourceId": 401867956,
+    "id": "2026-ncaa-401868312",
+    "sourceId": 401868312,
     "sourceWeek": 9,
     "week": 10,
     "date": "2026-10-31",
     "day": "Saturday",
     "kickoff": "12p",
-    "home": "Norfolk State",
-    "away": "Delaware State",
+    "home": "Stephen F. Austin",
+    "away": "Houston Christian",
     "homeDivision": "fcs",
     "awayDivision": "fcs",
-    "homeLogo": null,
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2617.png",
     "awayLogo": null,
     "venue": {
-      "name": "Lincoln Financial Field",
-      "lat": 39.9008,
-      "lng": -75.1675
+      "name": "Homer Bryce Stadium",
+      "lat": 31.6204,
+      "lng": -94.6486
     },
     "missingVenue": false,
     "division": "fcs"
@@ -44,23 +44,23 @@
     "division": "fcs"
   },
   {
-    "id": "2026-ncaa-401868312",
-    "sourceId": 401868312,
+    "id": "2026-ncaa-401867956",
+    "sourceId": 401867956,
     "sourceWeek": 9,
     "week": 10,
     "date": "2026-10-31",
     "day": "Saturday",
     "kickoff": "12p",
-    "home": "Stephen F. Austin",
-    "away": "Houston Christian",
+    "home": "Norfolk State",
+    "away": "Delaware State",
     "homeDivision": "fcs",
     "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2617.png",
+    "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Homer Bryce Stadium",
-      "lat": 31.6204,
-      "lng": -94.6486
+      "name": "Lincoln Financial Field",
+      "lat": 39.9008,
+      "lng": -75.1675
     },
     "missingVenue": false,
     "division": "fcs"
