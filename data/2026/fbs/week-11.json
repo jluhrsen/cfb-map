@@ -198,28 +198,6 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401856743",
-    "sourceId": 401856743,
-    "sourceWeek": 10,
-    "week": 11,
-    "date": "2026-11-07",
-    "day": "Saturday",
-    "kickoff": "9a",
-    "home": "Missouri",
-    "away": "Texas",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
-    "venue": {
-      "name": "Memorial Stadium",
-      "lat": 38.9628,
-      "lng": -95.2464
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2026-ncaa-401858285",
     "sourceId": 401858285,
     "sourceWeek": 10,
@@ -237,6 +215,28 @@
       "name": "JMA Wireless Dome",
       "lat": 43.0361,
       "lng": -76.1364
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401856743",
+    "sourceId": 401856743,
+    "sourceWeek": 10,
+    "week": 11,
+    "date": "2026-11-07",
+    "day": "Saturday",
+    "kickoff": "9a",
+    "home": "Missouri",
+    "away": "Texas",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
+    "venue": {
+      "name": "Memorial Stadium",
+      "lat": 38.9628,
+      "lng": -95.2464
     },
     "missingVenue": false,
     "division": "fbs"
@@ -308,28 +308,6 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401858514",
-    "sourceId": 401858514,
-    "sourceWeek": 10,
-    "week": 11,
-    "date": "2026-11-07",
-    "day": "Saturday",
-    "kickoff": "12:30p",
-    "home": "Ohio State",
-    "away": "Oregon",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Ohio Stadium",
-      "lat": 40.0018,
-      "lng": -83.0197
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2026-ncaa-401856740",
     "sourceId": 401856740,
     "sourceWeek": 10,
@@ -352,23 +330,23 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401864534",
-    "sourceId": 401864534,
+    "id": "2026-ncaa-401858514",
+    "sourceId": 401858514,
     "sourceWeek": 10,
     "week": 11,
     "date": "2026-11-07",
     "day": "Saturday",
-    "kickoff": "1p",
-    "home": "San José State",
-    "away": "Northern Illinois",
+    "kickoff": "12:30p",
+    "home": "Ohio State",
+    "away": "Oregon",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/23.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2459.png",
+    "homeLogo": null,
+    "awayLogo": null,
     "venue": {
-      "name": "CEFCU Stadium",
-      "lat": 37.3197,
-      "lng": -121.8684
+      "name": "Ohio Stadium",
+      "lat": 40.0018,
+      "lng": -83.0197
     },
     "missingVenue": false,
     "division": "fbs"
@@ -391,6 +369,28 @@
       "name": "DATCU Stadium",
       "lat": 33.2071,
       "lng": -97.1514
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401864534",
+    "sourceId": 401864534,
+    "sourceWeek": 10,
+    "week": 11,
+    "date": "2026-11-07",
+    "day": "Saturday",
+    "kickoff": "1p",
+    "home": "San José State",
+    "away": "Northern Illinois",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/23.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2459.png",
+    "venue": {
+      "name": "CEFCU Stadium",
+      "lat": 37.3197,
+      "lng": -121.8684
     },
     "missingVenue": false,
     "division": "fbs"
@@ -484,28 +484,6 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401864532",
-    "sourceId": 401864532,
-    "sourceWeek": 10,
-    "week": 11,
-    "date": "2026-11-07",
-    "day": "Saturday",
-    "kickoff": "6:30p",
-    "home": "UTEP",
-    "away": "Hawai'i",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2638.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/62.png",
-    "venue": {
-      "name": "Sun Bowl",
-      "lat": 31.7688,
-      "lng": -106.4992
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2026-ncaa-401860913",
     "sourceId": 401860913,
     "sourceWeek": 10,
@@ -528,23 +506,23 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401860912",
-    "sourceId": 401860912,
+    "id": "2026-ncaa-401864532",
+    "sourceId": 401864532,
     "sourceWeek": 10,
     "week": 11,
     "date": "2026-11-07",
     "day": "Saturday",
-    "kickoff": "7:30p",
-    "home": "Oregon State",
-    "away": "Texas State",
+    "kickoff": "6:30p",
+    "home": "UTEP",
+    "away": "Hawai'i",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2638.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/62.png",
     "venue": {
-      "name": "Reser Stadium",
-      "lat": 44.559,
-      "lng": -123.2814
+      "name": "Sun Bowl",
+      "lat": 31.7688,
+      "lng": -106.4992
     },
     "missingVenue": false,
     "division": "fbs"
@@ -567,6 +545,28 @@
       "name": "Allegiant Stadium",
       "lat": 36.0909,
       "lng": -115.1833
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401860912",
+    "sourceId": 401860912,
+    "sourceWeek": 10,
+    "week": 11,
+    "date": "2026-11-07",
+    "day": "Saturday",
+    "kickoff": "7:30p",
+    "home": "Oregon State",
+    "away": "Texas State",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Reser Stadium",
+      "lat": 44.559,
+      "lng": -123.2814
     },
     "missingVenue": false,
     "division": "fbs"
