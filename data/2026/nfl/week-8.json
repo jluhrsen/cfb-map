@@ -1,23 +1,5 @@
 [
   {
-    "id": "nfl-401873023",
-    "week": 8,
-    "date": "2026-10-29",
-    "day": "Thursday",
-    "kickoff": "5:15p",
-    "home": "Green Bay Packers",
-    "away": "Carolina Panthers",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/car.png",
-    "venue": {
-      "name": "Lambeau Field",
-      "lat": 44.5013,
-      "lng": -88.0622
-    },
-    "missingVenue": false,
-    "division": "nfl"
-  },
-  {
     "id": "nfl-401873026",
     "week": 8,
     "date": "2026-11-01",
@@ -229,6 +211,24 @@
       "name": "Northwest Stadium",
       "lat": 38.9076,
       "lng": -76.8645
+    },
+    "missingVenue": false,
+    "division": "nfl"
+  },
+  {
+    "id": "nfl-401873023",
+    "week": 8,
+    "date": "2026-10-29",
+    "day": "Thursday",
+    "kickoff": "5:15p",
+    "home": "Green Bay Packers",
+    "away": "Carolina Panthers",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/car.png",
+    "venue": {
+      "name": "Lambeau Field",
+      "lat": 44.5013,
+      "lng": -88.0622
     },
     "missingVenue": false,
     "division": "nfl"
