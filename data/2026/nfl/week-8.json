@@ -1,23 +1,5 @@
 [
   {
-    "id": "nfl-401873036",
-    "week": 8,
-    "date": "2026-11-02",
-    "day": "Monday",
-    "kickoff": "5:15p",
-    "home": "Seattle Seahawks",
-    "away": "Chicago Bears",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sea.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/chi.png",
-    "venue": {
-      "name": "Lumen Field",
-      "lat": 47.5952,
-      "lng": -122.3316
-    },
-    "missingVenue": false,
-    "division": "nfl"
-  },
-  {
     "id": "nfl-401873023",
     "week": 8,
     "date": "2026-10-29",
@@ -247,6 +229,24 @@
       "name": "Northwest Stadium",
       "lat": 38.9076,
       "lng": -76.8645
+    },
+    "missingVenue": false,
+    "division": "nfl"
+  },
+  {
+    "id": "nfl-401873036",
+    "week": 8,
+    "date": "2026-11-02",
+    "day": "Monday",
+    "kickoff": "5:15p",
+    "home": "Seattle Seahawks",
+    "away": "Chicago Bears",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sea.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/chi.png",
+    "venue": {
+      "name": "Lumen Field",
+      "lat": 47.5952,
+      "lng": -122.3316
     },
     "missingVenue": false,
     "division": "nfl"
