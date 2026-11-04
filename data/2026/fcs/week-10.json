@@ -1,27 +1,5 @@
 [
   {
-    "id": "2026-ncaa-401867956",
-    "sourceId": 401867956,
-    "sourceWeek": 9,
-    "week": 10,
-    "date": "2026-10-31",
-    "day": "Saturday",
-    "kickoff": "12p",
-    "home": "Norfolk State",
-    "away": "Delaware State",
-    "homeDivision": "fcs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Lincoln Financial Field",
-      "lat": 39.9008,
-      "lng": -75.1675
-    },
-    "missingVenue": false,
-    "division": "fcs"
-  },
-  {
     "id": "2026-ncaa-401868081",
     "sourceId": 401868081,
     "sourceWeek": 9,
@@ -66,23 +44,23 @@
     "division": "fcs"
   },
   {
-    "id": "2026-ncaa-401868267",
-    "sourceId": 401868267,
+    "id": "2026-ncaa-401867956",
+    "sourceId": 401867956,
     "sourceWeek": 9,
     "week": 10,
     "date": "2026-10-31",
     "day": "Saturday",
-    "kickoff": "1p",
-    "home": "San Diego",
-    "away": "Marist",
+    "kickoff": "12p",
+    "home": "Norfolk State",
+    "away": "Delaware State",
     "homeDivision": "fcs",
     "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/301.png",
+    "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Torero Stadium",
-      "lat": 32.7741,
-      "lng": -117.1833
+      "name": "Lincoln Financial Field",
+      "lat": 39.9008,
+      "lng": -75.1675
     },
     "missingVenue": false,
     "division": "fcs"
@@ -105,6 +83,28 @@
       "name": "Roos Field",
       "lat": 47.4901,
       "lng": -117.5888
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
+    "id": "2026-ncaa-401868267",
+    "sourceId": 401868267,
+    "sourceWeek": 9,
+    "week": 10,
+    "date": "2026-10-31",
+    "day": "Saturday",
+    "kickoff": "1p",
+    "home": "San Diego",
+    "away": "Marist",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/301.png",
+    "awayLogo": null,
+    "venue": {
+      "name": "Torero Stadium",
+      "lat": 32.7741,
+      "lng": -117.1833
     },
     "missingVenue": false,
     "division": "fcs"
