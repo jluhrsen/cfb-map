@@ -132,6 +132,28 @@
     "division": "fbs"
   },
   {
+    "id": "2025-ncaa-401752898",
+    "sourceId": 401752898,
+    "sourceWeek": 11,
+    "week": 12,
+    "date": "2025-11-08",
+    "day": "Saturday",
+    "kickoff": "12:30p",
+    "home": "Iowa",
+    "away": "Oregon",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Kinnick Stadium",
+      "lat": 41.6581,
+      "lng": -91.5509
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
     "id": "2025-ncaa-401754587",
     "sourceId": 401754587,
     "sourceWeek": 11,
@@ -171,28 +193,6 @@
       "name": "Memorial Stadium",
       "lat": 38.9628,
       "lng": -95.2464
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2025-ncaa-401752898",
-    "sourceId": 401752898,
-    "sourceWeek": 11,
-    "week": 12,
-    "date": "2025-11-08",
-    "day": "Saturday",
-    "kickoff": "12:30p",
-    "home": "Iowa",
-    "away": "Oregon",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Kinnick Stadium",
-      "lat": 41.6581,
-      "lng": -91.5509
     },
     "missingVenue": false,
     "division": "fbs"
