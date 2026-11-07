@@ -132,28 +132,6 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401856743",
-    "sourceId": 401856743,
-    "sourceWeek": 10,
-    "week": 11,
-    "date": "2026-11-07",
-    "day": "Saturday",
-    "kickoff": "9a",
-    "home": "Missouri",
-    "away": "Texas",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
-    "venue": {
-      "name": "Memorial Stadium",
-      "lat": 38.9628,
-      "lng": -95.2464
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2026-ncaa-401856849",
     "sourceId": 401856849,
     "sourceWeek": 10,
@@ -171,6 +149,28 @@
       "name": "Rice-Eccles Stadium",
       "lat": 40.7597,
       "lng": -111.8478
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401856743",
+    "sourceId": 401856743,
+    "sourceWeek": 10,
+    "week": 11,
+    "date": "2026-11-07",
+    "day": "Saturday",
+    "kickoff": "9a",
+    "home": "Missouri",
+    "away": "Texas",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
+    "venue": {
+      "name": "Memorial Stadium",
+      "lat": 38.9628,
+      "lng": -95.2464
     },
     "missingVenue": false,
     "division": "fbs"
@@ -198,28 +198,6 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401856740",
-    "sourceId": 401856740,
-    "sourceWeek": 10,
-    "week": 11,
-    "date": "2026-11-07",
-    "day": "Saturday",
-    "kickoff": "12:30p",
-    "home": "LSU",
-    "away": "Alabama",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Tiger Stadium (LA)",
-      "lat": 30.4122,
-      "lng": -91.1839
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2026-ncaa-401858516",
     "sourceId": 401858516,
     "sourceWeek": 10,
@@ -237,6 +215,28 @@
       "name": "Husky Stadium",
       "lat": 47.6504,
       "lng": -122.3016
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401856851",
+    "sourceId": 401856851,
+    "sourceWeek": 10,
+    "week": 11,
+    "date": "2026-11-07",
+    "day": "Saturday",
+    "kickoff": "12:30p",
+    "home": "Houston",
+    "away": "Cincinnati",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "TDECU Stadium",
+      "lat": 29.7211,
+      "lng": -95.3506
     },
     "missingVenue": false,
     "division": "fbs"
@@ -264,23 +264,23 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401856851",
-    "sourceId": 401856851,
+    "id": "2026-ncaa-401856740",
+    "sourceId": 401856740,
     "sourceWeek": 10,
     "week": 11,
     "date": "2026-11-07",
     "day": "Saturday",
     "kickoff": "12:30p",
-    "home": "Houston",
-    "away": "Cincinnati",
+    "home": "LSU",
+    "away": "Alabama",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "TDECU Stadium",
-      "lat": 29.7211,
-      "lng": -95.3506
+      "name": "Tiger Stadium (LA)",
+      "lat": 30.4122,
+      "lng": -91.1839
     },
     "missingVenue": false,
     "division": "fbs"
@@ -418,28 +418,6 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401858291",
-    "sourceId": 401858291,
-    "sourceWeek": 10,
-    "week": 11,
-    "date": "2026-11-07",
-    "day": "Saturday",
-    "kickoff": "4:30p",
-    "home": "Notre Dame",
-    "away": "Miami",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Notre Dame Stadium",
-      "lat": 41.6997,
-      "lng": -86.2347
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2026-ncaa-401858511",
     "sourceId": 401858511,
     "sourceWeek": 10,
@@ -457,6 +435,28 @@
       "name": "Michigan Stadium",
       "lat": 42.2658,
       "lng": -83.7487
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401858291",
+    "sourceId": 401858291,
+    "sourceWeek": 10,
+    "week": 11,
+    "date": "2026-11-07",
+    "day": "Saturday",
+    "kickoff": "4:30p",
+    "home": "Notre Dame",
+    "away": "Miami",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Notre Dame Stadium",
+      "lat": 41.6997,
+      "lng": -86.2347
     },
     "missingVenue": false,
     "division": "fbs"

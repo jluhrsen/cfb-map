@@ -110,28 +110,6 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401856858",
-    "sourceId": 401856858,
-    "sourceWeek": 11,
-    "week": 12,
-    "date": "2026-11-14",
-    "day": "Saturday",
-    "kickoff": "TBD",
-    "home": "BYU",
-    "away": "Baylor",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "LaVell Edwards Stadium",
-      "lat": 40.2578,
-      "lng": -111.6563
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2026-ncaa-401858298",
     "sourceId": 401858298,
     "sourceWeek": 11,
@@ -171,50 +149,6 @@
       "name": "Kroger Field",
       "lat": 38.022,
       "lng": -84.5037
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2026-ncaa-401856885",
-    "sourceId": 401856885,
-    "sourceWeek": 11,
-    "week": 12,
-    "date": "2026-11-14",
-    "day": "Saturday",
-    "kickoff": "TBD",
-    "home": "LSU",
-    "away": "Texas",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
-    "venue": {
-      "name": "Tiger Stadium (LA)",
-      "lat": 30.4122,
-      "lng": -91.1839
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2026-ncaa-401856863",
-    "sourceId": 401856863,
-    "sourceWeek": 11,
-    "week": 12,
-    "date": "2026-11-14",
-    "day": "Saturday",
-    "kickoff": "TBD",
-    "home": "Oklahoma State",
-    "away": "Texas Tech",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Boone Pickens Stadium",
-      "lat": 36.1286,
-      "lng": -97.0651
     },
     "missingVenue": false,
     "division": "fbs"
@@ -264,28 +198,6 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401858519",
-    "sourceId": 401858519,
-    "sourceWeek": 11,
-    "week": 12,
-    "date": "2026-11-14",
-    "day": "Saturday",
-    "kickoff": "TBD",
-    "home": "Iowa",
-    "away": "Purdue",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Kinnick Stadium",
-      "lat": 41.6581,
-      "lng": -91.5509
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2026-ncaa-401858299",
     "sourceId": 401858299,
     "sourceWeek": 11,
@@ -330,6 +242,50 @@
     "division": "fbs"
   },
   {
+    "id": "2026-ncaa-401856885",
+    "sourceId": 401856885,
+    "sourceWeek": 11,
+    "week": 12,
+    "date": "2026-11-14",
+    "day": "Saturday",
+    "kickoff": "TBD",
+    "home": "LSU",
+    "away": "Texas",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
+    "venue": {
+      "name": "Tiger Stadium (LA)",
+      "lat": 30.4122,
+      "lng": -91.1839
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401856863",
+    "sourceId": 401856863,
+    "sourceWeek": 11,
+    "week": 12,
+    "date": "2026-11-14",
+    "day": "Saturday",
+    "kickoff": "TBD",
+    "home": "Oklahoma State",
+    "away": "Texas Tech",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Boone Pickens Stadium",
+      "lat": 36.1286,
+      "lng": -97.0651
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
     "id": "2026-ncaa-401856859",
     "sourceId": 401856859,
     "sourceWeek": 11,
@@ -347,6 +303,50 @@
       "name": "Jack Trice Stadium",
       "lat": 42.014,
       "lng": -93.6356
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401858519",
+    "sourceId": 401858519,
+    "sourceWeek": 11,
+    "week": 12,
+    "date": "2026-11-14",
+    "day": "Saturday",
+    "kickoff": "TBD",
+    "home": "Iowa",
+    "away": "Purdue",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Kinnick Stadium",
+      "lat": 41.6581,
+      "lng": -91.5509
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401856858",
+    "sourceId": 401856858,
+    "sourceWeek": 11,
+    "week": 12,
+    "date": "2026-11-14",
+    "day": "Saturday",
+    "kickoff": "TBD",
+    "home": "BYU",
+    "away": "Baylor",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "LaVell Edwards Stadium",
+      "lat": 40.2578,
+      "lng": -111.6563
     },
     "missingVenue": false,
     "division": "fbs"
@@ -506,28 +506,6 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401858294",
-    "sourceId": 401858294,
-    "sourceWeek": 11,
-    "week": 12,
-    "date": "2026-11-14",
-    "day": "Saturday",
-    "kickoff": "12:30p",
-    "home": "Notre Dame",
-    "away": "Boston College",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Notre Dame Stadium",
-      "lat": 41.6997,
-      "lng": -86.2347
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2026-ncaa-401864536",
     "sourceId": 401864536,
     "sourceWeek": 11,
@@ -589,6 +567,28 @@
       "name": "Memorial Stadium (Bloomington, IN)",
       "lat": 39.1793,
       "lng": -86.5232
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401858294",
+    "sourceId": 401858294,
+    "sourceWeek": 11,
+    "week": 12,
+    "date": "2026-11-14",
+    "day": "Saturday",
+    "kickoff": "12:30p",
+    "home": "Notre Dame",
+    "away": "Boston College",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Notre Dame Stadium",
+      "lat": 41.6997,
+      "lng": -86.2347
     },
     "missingVenue": false,
     "division": "fbs"
@@ -660,28 +660,6 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401864538",
-    "sourceId": 401864538,
-    "sourceWeek": 11,
-    "week": 12,
-    "date": "2026-11-14",
-    "day": "Saturday",
-    "kickoff": "4p",
-    "home": "Air Force",
-    "away": "San José State",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2005.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/23.png",
-    "venue": {
-      "name": "Falcon Stadium",
-      "lat": 38.9967,
-      "lng": -104.8436
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2026-ncaa-401858524",
     "sourceId": 401858524,
     "sourceWeek": 11,
@@ -699,6 +677,28 @@
       "name": "Beaver Stadium",
       "lat": 40.8122,
       "lng": -77.8561
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401864538",
+    "sourceId": 401864538,
+    "sourceWeek": 11,
+    "week": 12,
+    "date": "2026-11-14",
+    "day": "Saturday",
+    "kickoff": "4p",
+    "home": "Air Force",
+    "away": "San José State",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2005.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/23.png",
+    "venue": {
+      "name": "Falcon Stadium",
+      "lat": 38.9967,
+      "lng": -104.8436
     },
     "missingVenue": false,
     "division": "fbs"
