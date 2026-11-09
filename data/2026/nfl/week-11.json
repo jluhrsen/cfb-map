@@ -108,19 +108,19 @@
     "division": "nfl"
   },
   {
-    "id": "nfl-401873069",
+    "id": "nfl-401873076",
     "week": 11,
     "date": "2026-11-22",
     "day": "Sunday",
     "kickoff": "10a",
-    "home": "New York Giants",
-    "away": "Jacksonville Jaguars",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyg.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/jax.png",
+    "home": "Philadelphia Eagles",
+    "away": "Pittsburgh Steelers",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/phi.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/pit.png",
     "venue": {
-      "name": "MetLife Stadium",
-      "lat": 40.8128,
-      "lng": -74.0742
+      "name": "Lincoln Financial Field",
+      "lat": 39.9008,
+      "lng": -75.1675
     },
     "missingVenue": false,
     "division": "nfl"
@@ -180,19 +180,19 @@
     "division": "nfl"
   },
   {
-    "id": "nfl-401873076",
+    "id": "nfl-401873069",
     "week": 11,
     "date": "2026-11-22",
     "day": "Sunday",
     "kickoff": "1:25p",
-    "home": "Philadelphia Eagles",
-    "away": "Pittsburgh Steelers",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/phi.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/pit.png",
+    "home": "New York Giants",
+    "away": "Jacksonville Jaguars",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyg.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/jax.png",
     "venue": {
-      "name": "Lincoln Financial Field",
-      "lat": 39.9008,
-      "lng": -75.1675
+      "name": "MetLife Stadium",
+      "lat": 40.8128,
+      "lng": -74.0742
     },
     "missingVenue": false,
     "division": "nfl"

@@ -1,5 +1,41 @@
 [
   {
+    "id": "nfl-401873051",
+    "week": 9,
+    "date": "2026-11-09",
+    "day": "Monday",
+    "kickoff": "5:15p",
+    "home": "Minnesota Vikings",
+    "away": "Buffalo Bills",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/min.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/buf.png",
+    "venue": {
+      "name": "U.S. Bank Stadium",
+      "lat": 44.9738,
+      "lng": -93.2578
+    },
+    "missingVenue": false,
+    "division": "nfl"
+  },
+  {
+    "id": "nfl-401873037",
+    "week": 9,
+    "date": "2026-11-05",
+    "day": "Thursday",
+    "kickoff": "5:15p",
+    "home": "Baltimore Ravens",
+    "away": "Jacksonville Jaguars",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/bal.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/jax.png",
+    "venue": {
+      "name": "M&T Bank Stadium",
+      "lat": 39.278,
+      "lng": -76.6227
+    },
+    "missingVenue": false,
+    "division": "nfl"
+  },
+  {
     "id": "nfl-401873038",
     "week": 9,
     "date": "2026-11-08",
@@ -229,42 +265,6 @@
       "name": "Soldier Field",
       "lat": 41.8623,
       "lng": -87.6167
-    },
-    "missingVenue": false,
-    "division": "nfl"
-  },
-  {
-    "id": "nfl-401873037",
-    "week": 9,
-    "date": "2026-11-05",
-    "day": "Thursday",
-    "kickoff": "5:15p",
-    "home": "Baltimore Ravens",
-    "away": "Jacksonville Jaguars",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/bal.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/jax.png",
-    "venue": {
-      "name": "M&T Bank Stadium",
-      "lat": 39.278,
-      "lng": -76.6227
-    },
-    "missingVenue": false,
-    "division": "nfl"
-  },
-  {
-    "id": "nfl-401873051",
-    "week": 9,
-    "date": "2026-11-09",
-    "day": "Monday",
-    "kickoff": "5:15p",
-    "home": "Minnesota Vikings",
-    "away": "Buffalo Bills",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/min.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/buf.png",
-    "venue": {
-      "name": "U.S. Bank Stadium",
-      "lat": 44.9738,
-      "lng": -93.2578
     },
     "missingVenue": false,
     "division": "nfl"
