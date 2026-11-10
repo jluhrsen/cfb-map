@@ -396,28 +396,6 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401858294",
-    "sourceId": 401858294,
-    "sourceWeek": 11,
-    "week": 12,
-    "date": "2026-11-14",
-    "day": "Saturday",
-    "kickoff": "12:30p",
-    "home": "Notre Dame",
-    "away": "Boston College",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Notre Dame Stadium",
-      "lat": 41.6997,
-      "lng": -86.2347
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2026-ncaa-401856883",
     "sourceId": 401856883,
     "sourceWeek": 11,
@@ -435,6 +413,28 @@
       "name": "Sanford Stadium",
       "lat": 33.9498,
       "lng": -83.3732
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401858294",
+    "sourceId": 401858294,
+    "sourceWeek": 11,
+    "week": 12,
+    "date": "2026-11-14",
+    "day": "Saturday",
+    "kickoff": "12:30p",
+    "home": "Notre Dame",
+    "away": "Boston College",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Notre Dame Stadium",
+      "lat": 41.6997,
+      "lng": -86.2347
     },
     "missingVenue": false,
     "division": "fbs"
@@ -528,28 +528,6 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401858298",
-    "sourceId": 401858298,
-    "sourceWeek": 11,
-    "week": 12,
-    "date": "2026-11-14",
-    "day": "Saturday",
-    "kickoff": "4p",
-    "home": "North Carolina",
-    "away": "Louisville",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Kenan Stadium",
-      "lat": 35.9096,
-      "lng": -79.0478
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2026-ncaa-401864538",
     "sourceId": 401864538,
     "sourceWeek": 11,
@@ -594,23 +572,23 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401858299",
-    "sourceId": 401858299,
+    "id": "2026-ncaa-401858298",
+    "sourceId": 401858298,
     "sourceWeek": 11,
     "week": 12,
     "date": "2026-11-14",
     "day": "Saturday",
-    "kickoff": "4:30p",
-    "home": "Virginia Tech",
-    "away": "Stanford",
+    "kickoff": "4p",
+    "home": "North Carolina",
+    "away": "Louisville",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
     "homeLogo": null,
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/24.png",
+    "awayLogo": null,
     "venue": {
-      "name": "Lane Stadium",
-      "lat": 37.2206,
-      "lng": -80.4183
+      "name": "Kenan Stadium",
+      "lat": 35.9096,
+      "lng": -79.0478
     },
     "missingVenue": false,
     "division": "fbs"
@@ -633,6 +611,28 @@
       "name": "Kinnick Stadium",
       "lat": 41.6581,
       "lng": -91.5509
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401858299",
+    "sourceId": 401858299,
+    "sourceWeek": 11,
+    "week": 12,
+    "date": "2026-11-14",
+    "day": "Saturday",
+    "kickoff": "4:30p",
+    "home": "Virginia Tech",
+    "away": "Stanford",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/24.png",
+    "venue": {
+      "name": "Lane Stadium",
+      "lat": 37.2206,
+      "lng": -80.4183
     },
     "missingVenue": false,
     "division": "fbs"

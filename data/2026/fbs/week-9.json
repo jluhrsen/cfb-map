@@ -308,6 +308,28 @@
     "division": "fbs"
   },
   {
+    "id": "2026-ncaa-401856836",
+    "sourceId": 401856836,
+    "sourceWeek": 8,
+    "week": 9,
+    "date": "2026-10-24",
+    "day": "Saturday",
+    "kickoff": "4p",
+    "home": "Oklahoma State",
+    "away": "Colorado",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/38.png",
+    "venue": {
+      "name": "Boone Pickens Stadium",
+      "lat": 36.1286,
+      "lng": -97.0651
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
     "id": "2026-ncaa-401858276",
     "sourceId": 401858276,
     "sourceWeek": 8,
@@ -330,23 +352,23 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401856836",
-    "sourceId": 401856836,
+    "id": "2026-ncaa-401856729",
+    "sourceId": 401856729,
     "sourceWeek": 8,
     "week": 9,
     "date": "2026-10-24",
     "day": "Saturday",
-    "kickoff": "4p",
-    "home": "Oklahoma State",
-    "away": "Colorado",
+    "kickoff": "4:30p",
+    "home": "Kentucky",
+    "away": "Vanderbilt",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
     "homeLogo": null,
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/38.png",
+    "awayLogo": null,
     "venue": {
-      "name": "Boone Pickens Stadium",
-      "lat": 36.1286,
-      "lng": -97.0651
+      "name": "Kroger Field",
+      "lat": 38.022,
+      "lng": -84.5037
     },
     "missingVenue": false,
     "division": "fbs"
@@ -374,50 +396,6 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401856732",
-    "sourceId": 401856732,
-    "sourceWeek": 8,
-    "week": 9,
-    "date": "2026-10-24",
-    "day": "Saturday",
-    "kickoff": "4:30p",
-    "home": "Texas",
-    "away": "Ole Miss",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
-    "awayLogo": null,
-    "venue": {
-      "name": "DKR-Texas Memorial Stadium",
-      "lat": 30.2839,
-      "lng": -97.7325
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2026-ncaa-401858500",
-    "sourceId": 401858500,
-    "sourceWeek": 8,
-    "week": 9,
-    "date": "2026-10-24",
-    "day": "Saturday",
-    "kickoff": "4:30p",
-    "home": "Wisconsin",
-    "away": "USC",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/30.png",
-    "venue": {
-      "name": "Camp Randall Stadium",
-      "lat": 43.0703,
-      "lng": -89.4124
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2026-ncaa-401860906",
     "sourceId": 401860906,
     "sourceWeek": 8,
@@ -435,6 +413,28 @@
       "name": "Bobcat Stadium (TX)",
       "lat": 29.8911,
       "lng": -97.9256
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401856732",
+    "sourceId": 401856732,
+    "sourceWeek": 8,
+    "week": 9,
+    "date": "2026-10-24",
+    "day": "Saturday",
+    "kickoff": "4:30p",
+    "home": "Texas",
+    "away": "Ole Miss",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
+    "awayLogo": null,
+    "venue": {
+      "name": "DKR-Texas Memorial Stadium",
+      "lat": 30.2839,
+      "lng": -97.7325
     },
     "missingVenue": false,
     "division": "fbs"
@@ -462,23 +462,23 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401856729",
-    "sourceId": 401856729,
+    "id": "2026-ncaa-401858500",
+    "sourceId": 401858500,
     "sourceWeek": 8,
     "week": 9,
     "date": "2026-10-24",
     "day": "Saturday",
     "kickoff": "4:30p",
-    "home": "Kentucky",
-    "away": "Vanderbilt",
+    "home": "Wisconsin",
+    "away": "USC",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
     "homeLogo": null,
-    "awayLogo": null,
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/30.png",
     "venue": {
-      "name": "Kroger Field",
-      "lat": 38.022,
-      "lng": -84.5037
+      "name": "Camp Randall Stadium",
+      "lat": 43.0703,
+      "lng": -89.4124
     },
     "missingVenue": false,
     "division": "fbs"
