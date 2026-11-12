@@ -44,28 +44,6 @@
     "division": "fcs"
   },
   {
-    "id": "2026-ncaa-401868106",
-    "sourceId": 401868106,
-    "sourceWeek": 8,
-    "week": 9,
-    "date": "2026-10-24",
-    "day": "Saturday",
-    "kickoff": "3p",
-    "home": "Idaho State",
-    "away": "Portland State",
-    "homeDivision": "fcs",
-    "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/304.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2502.png",
-    "venue": {
-      "name": "Holt Arena",
-      "lat": 42.8723,
-      "lng": -112.4341
-    },
-    "missingVenue": false,
-    "division": "fcs"
-  },
-  {
     "id": "2026-ncaa-401868311",
     "sourceId": 401868311,
     "sourceWeek": 8,
@@ -83,6 +61,28 @@
       "name": "Homer Bryce Stadium",
       "lat": 31.6204,
       "lng": -94.6486
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
+    "id": "2026-ncaa-401868106",
+    "sourceId": 401868106,
+    "sourceWeek": 8,
+    "week": 9,
+    "date": "2026-10-24",
+    "day": "Saturday",
+    "kickoff": "3p",
+    "home": "Idaho State",
+    "away": "Portland State",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/304.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2502.png",
+    "venue": {
+      "name": "Holt Arena",
+      "lat": 42.8723,
+      "lng": -112.4341
     },
     "missingVenue": false,
     "division": "fcs"
