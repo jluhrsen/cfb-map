@@ -1,23 +1,5 @@
 [
   {
-    "id": "nfl-401873052",
-    "week": 10,
-    "date": "2026-11-12",
-    "day": "Thursday",
-    "kickoff": "5:15p",
-    "home": "New York Giants",
-    "away": "Washington Commanders",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyg.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
-    "venue": {
-      "name": "MetLife Stadium",
-      "lat": 40.8128,
-      "lng": -74.0742
-    },
-    "missingVenue": false,
-    "division": "nfl"
-  },
-  {
     "id": "nfl-401873053",
     "week": 10,
     "date": "2026-11-15",
@@ -229,6 +211,24 @@
       "name": "Paycor Stadium",
       "lat": 39.0954,
       "lng": -84.516
+    },
+    "missingVenue": false,
+    "division": "nfl"
+  },
+  {
+    "id": "nfl-401873052",
+    "week": 10,
+    "date": "2026-11-12",
+    "day": "Thursday",
+    "kickoff": "5:15p",
+    "home": "New York Giants",
+    "away": "Washington Commanders",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyg.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
+    "venue": {
+      "name": "MetLife Stadium",
+      "lat": 40.8128,
+      "lng": -74.0742
     },
     "missingVenue": false,
     "division": "nfl"
