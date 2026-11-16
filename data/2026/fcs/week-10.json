@@ -1,22 +1,22 @@
 [
   {
-    "id": "2026-ncaa-401867956",
-    "sourceId": 401867956,
+    "id": "2026-ncaa-401868081",
+    "sourceId": 401868081,
     "sourceWeek": 9,
     "week": 10,
     "date": "2026-10-31",
     "day": "Saturday",
     "kickoff": "12p",
-    "home": "Norfolk State",
-    "away": "Delaware State",
+    "home": "Montana State",
+    "away": "Cal Poly",
     "homeDivision": "fcs",
     "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/147.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/13.png",
     "venue": {
-      "name": "Lincoln Financial Field",
-      "lat": 39.9008,
-      "lng": -75.1675
+      "name": "Bobcat Stadium (MT)",
+      "lat": 45.6602,
+      "lng": -111.0492
     },
     "missingVenue": false,
     "division": "fcs"
@@ -44,23 +44,23 @@
     "division": "fcs"
   },
   {
-    "id": "2026-ncaa-401868081",
-    "sourceId": 401868081,
+    "id": "2026-ncaa-401867956",
+    "sourceId": 401867956,
     "sourceWeek": 9,
     "week": 10,
     "date": "2026-10-31",
     "day": "Saturday",
     "kickoff": "12p",
-    "home": "Montana State",
-    "away": "Cal Poly",
+    "home": "Norfolk State",
+    "away": "Delaware State",
     "homeDivision": "fcs",
     "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/147.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/13.png",
+    "homeLogo": null,
+    "awayLogo": null,
     "venue": {
-      "name": "Bobcat Stadium (MT)",
-      "lat": 45.6602,
-      "lng": -111.0492
+      "name": "Lincoln Financial Field",
+      "lat": 39.9008,
+      "lng": -75.1675
     },
     "missingVenue": false,
     "division": "fcs"
