@@ -1,5 +1,27 @@
 [
   {
+    "id": "2026-ncaa-401867956",
+    "sourceId": 401867956,
+    "sourceWeek": 9,
+    "week": 10,
+    "date": "2026-10-31",
+    "day": "Saturday",
+    "kickoff": "12p",
+    "home": "Norfolk State",
+    "away": "Delaware State",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Lincoln Financial Field",
+      "lat": 39.9008,
+      "lng": -75.1675
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
     "id": "2026-ncaa-401868081",
     "sourceId": 401868081,
     "sourceWeek": 9,
@@ -39,28 +61,6 @@
       "name": "Homer Bryce Stadium",
       "lat": 31.6204,
       "lng": -94.6486
-    },
-    "missingVenue": false,
-    "division": "fcs"
-  },
-  {
-    "id": "2026-ncaa-401867956",
-    "sourceId": 401867956,
-    "sourceWeek": 9,
-    "week": 10,
-    "date": "2026-10-31",
-    "day": "Saturday",
-    "kickoff": "12p",
-    "home": "Norfolk State",
-    "away": "Delaware State",
-    "homeDivision": "fcs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Lincoln Financial Field",
-      "lat": 39.9008,
-      "lng": -75.1675
     },
     "missingVenue": false,
     "division": "fcs"

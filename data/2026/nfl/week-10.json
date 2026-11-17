@@ -1,23 +1,5 @@
 [
   {
-    "id": "nfl-401873065",
-    "week": 10,
-    "date": "2026-11-16",
-    "day": "Monday",
-    "kickoff": "5:15p",
-    "home": "Baltimore Ravens",
-    "away": "Los Angeles Chargers",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/bal.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lac.png",
-    "venue": {
-      "name": "M&T Bank Stadium",
-      "lat": 39.278,
-      "lng": -76.6227
-    },
-    "missingVenue": false,
-    "division": "nfl"
-  },
-  {
     "id": "nfl-401873052",
     "week": 10,
     "date": "2026-11-12",
@@ -247,6 +229,24 @@
       "name": "Paycor Stadium",
       "lat": 39.0954,
       "lng": -84.516
+    },
+    "missingVenue": false,
+    "division": "nfl"
+  },
+  {
+    "id": "nfl-401873065",
+    "week": 10,
+    "date": "2026-11-16",
+    "day": "Monday",
+    "kickoff": "5:15p",
+    "home": "Baltimore Ravens",
+    "away": "Los Angeles Chargers",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/bal.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lac.png",
+    "venue": {
+      "name": "M&T Bank Stadium",
+      "lat": 39.278,
+      "lng": -76.6227
     },
     "missingVenue": false,
     "division": "nfl"

@@ -22,28 +22,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401760382",
-    "sourceId": 401760382,
-    "sourceWeek": 6,
-    "week": 7,
-    "date": "2025-10-03",
-    "day": "Friday",
-    "kickoff": "7:30p",
-    "home": "San Diego State",
-    "away": "Colorado State",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/21.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/36.png",
-    "venue": {
-      "name": "Snapdragon Stadium",
-      "lat": 32.7831,
-      "lng": -117.1194
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401756909",
     "sourceId": 401756909,
     "sourceWeek": 6,
@@ -66,23 +44,23 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401754550",
-    "sourceId": 401754550,
+    "id": "2025-ncaa-401760382",
+    "sourceId": 401760382,
     "sourceWeek": 6,
     "week": 7,
-    "date": "2025-10-04",
-    "day": "Saturday",
-    "kickoff": "9a",
-    "home": "Pittsburgh",
-    "away": "Boston College",
+    "date": "2025-10-03",
+    "day": "Friday",
+    "kickoff": "7:30p",
+    "home": "San Diego State",
+    "away": "Colorado State",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/21.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/36.png",
     "venue": {
-      "name": "Acrisure Stadium",
-      "lat": 40.4468,
-      "lng": -80.0158
+      "name": "Snapdragon Stadium",
+      "lat": 32.7831,
+      "lng": -117.1194
     },
     "missingVenue": false,
     "division": "fbs"
@@ -149,6 +127,28 @@
       "name": "Sanford Stadium",
       "lat": 33.9498,
       "lng": -83.3732
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401754550",
+    "sourceId": 401754550,
+    "sourceWeek": 6,
+    "week": 7,
+    "date": "2025-10-04",
+    "day": "Saturday",
+    "kickoff": "9a",
+    "home": "Pittsburgh",
+    "away": "Boston College",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Acrisure Stadium",
+      "lat": 40.4468,
+      "lng": -80.0158
     },
     "missingVenue": false,
     "division": "fbs"
@@ -242,45 +242,23 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752855",
-    "sourceId": 401752855,
+    "id": "2025-ncaa-401762873",
+    "sourceId": 401762873,
     "sourceWeek": 6,
     "week": 7,
     "date": "2025-10-04",
     "day": "Saturday",
     "kickoff": "12:30p",
-    "home": "UCLA",
-    "away": "Penn State",
+    "home": "Northern Illinois",
+    "away": "Miami (OH)",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
-    "homeLogo": null,
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2459.png",
     "awayLogo": null,
     "venue": {
-      "name": "Rose Bowl",
-      "lat": 34.1611,
-      "lng": -118.1676
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2025-ncaa-401752727",
-    "sourceId": 401752727,
-    "sourceWeek": 6,
-    "week": 7,
-    "date": "2025-10-04",
-    "day": "Saturday",
-    "kickoff": "12:30p",
-    "home": "Florida",
-    "away": "Texas",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
-    "venue": {
-      "name": "Ben Hill Griffin Stadium",
-      "lat": 29.65,
-      "lng": -82.3486
+      "name": "Huskie Stadium",
+      "lat": 41.9308,
+      "lng": -88.7572
     },
     "missingVenue": false,
     "division": "fbs"
@@ -308,6 +286,50 @@
     "division": "fbs"
   },
   {
+    "id": "2025-ncaa-401752727",
+    "sourceId": 401752727,
+    "sourceWeek": 6,
+    "week": 7,
+    "date": "2025-10-04",
+    "day": "Saturday",
+    "kickoff": "12:30p",
+    "home": "Florida",
+    "away": "Texas",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
+    "venue": {
+      "name": "Ben Hill Griffin Stadium",
+      "lat": 29.65,
+      "lng": -82.3486
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401752855",
+    "sourceId": 401752855,
+    "sourceWeek": 6,
+    "week": 7,
+    "date": "2025-10-04",
+    "day": "Saturday",
+    "kickoff": "12:30p",
+    "home": "UCLA",
+    "away": "Penn State",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Rose Bowl",
+      "lat": 34.1611,
+      "lng": -118.1676
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
     "id": "2025-ncaa-401752858",
     "sourceId": 401752858,
     "sourceWeek": 6,
@@ -330,23 +352,23 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401762873",
-    "sourceId": 401762873,
+    "id": "2025-ncaa-401752857",
+    "sourceId": 401752857,
     "sourceWeek": 6,
     "week": 7,
     "date": "2025-10-04",
     "day": "Saturday",
     "kickoff": "12:30p",
-    "home": "Northern Illinois",
-    "away": "Miami (OH)",
+    "home": "Maryland",
+    "away": "Washington",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2459.png",
+    "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Huskie Stadium",
-      "lat": 41.9308,
-      "lng": -88.7572
+      "name": "SECU Stadium",
+      "lat": 38.9941,
+      "lng": -76.948
     },
     "missingVenue": false,
     "division": "fbs"
@@ -369,28 +391,6 @@
       "name": "Bryant-Denny Stadium",
       "lat": 33.208,
       "lng": -87.5502
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2025-ncaa-401752857",
-    "sourceId": 401752857,
-    "sourceWeek": 6,
-    "week": 7,
-    "date": "2025-10-04",
-    "day": "Saturday",
-    "kickoff": "12:30p",
-    "home": "Maryland",
-    "away": "Washington",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "SECU Stadium",
-      "lat": 38.9941,
-      "lng": -76.948
     },
     "missingVenue": false,
     "division": "fbs"
@@ -462,28 +462,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401754553",
-    "sourceId": 401754553,
-    "sourceWeek": 6,
-    "week": 7,
-    "date": "2025-10-04",
-    "day": "Saturday",
-    "kickoff": "4:30p",
-    "home": "Florida State",
-    "away": "Miami",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Doak Campbell Stadium",
-      "lat": 30.4384,
-      "lng": -84.3045
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401752859",
     "sourceId": 401752859,
     "sourceWeek": 6,
@@ -528,23 +506,23 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401760383",
-    "sourceId": 401760383,
+    "id": "2025-ncaa-401754553",
+    "sourceId": 401754553,
     "sourceWeek": 6,
     "week": 7,
     "date": "2025-10-04",
     "day": "Saturday",
-    "kickoff": "7:30p",
-    "home": "Fresno State",
-    "away": "Nevada",
+    "kickoff": "4:30p",
+    "home": "Florida State",
+    "away": "Miami",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/278.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2440.png",
+    "homeLogo": null,
+    "awayLogo": null,
     "venue": {
-      "name": "Valley Children's Stadium",
-      "lat": 36.8144,
-      "lng": -119.758
+      "name": "Doak Campbell Stadium",
+      "lat": 30.4384,
+      "lng": -84.3045
     },
     "missingVenue": false,
     "division": "fbs"
@@ -567,6 +545,28 @@
       "name": "California Memorial Stadium",
       "lat": 37.8713,
       "lng": -122.2507
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401760383",
+    "sourceId": 401760383,
+    "sourceWeek": 6,
+    "week": 7,
+    "date": "2025-10-04",
+    "day": "Saturday",
+    "kickoff": "7:30p",
+    "home": "Fresno State",
+    "away": "Nevada",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/278.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2440.png",
+    "venue": {
+      "name": "Valley Children's Stadium",
+      "lat": 36.8144,
+      "lng": -119.758
     },
     "missingVenue": false,
     "division": "fbs"
