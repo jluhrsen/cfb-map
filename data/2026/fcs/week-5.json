@@ -110,28 +110,6 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401868327",
-    "sourceId": 401868327,
-    "sourceWeek": 4,
-    "week": 5,
-    "date": "2026-09-26",
-    "day": "Saturday",
-    "kickoff": "3p",
-    "home": "Alabama State",
-    "away": "Mississippi Valley State",
-    "homeDivision": "fcs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Hornet Stadium",
-      "lat": 38.5598,
-      "lng": -121.4242
-    },
-    "missingVenue": false,
-    "division": "fcs"
-  },
-  {
     "id": "2026-ncaa-401860892",
     "sourceId": 401860892,
     "sourceWeek": 4,
@@ -152,6 +130,28 @@
     },
     "missingVenue": false,
     "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401868327",
+    "sourceId": 401868327,
+    "sourceWeek": 4,
+    "week": 5,
+    "date": "2026-09-26",
+    "day": "Saturday",
+    "kickoff": "3p",
+    "home": "Alabama State",
+    "away": "Mississippi Valley State",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Hornet Stadium",
+      "lat": 38.5598,
+      "lng": -121.4242
+    },
+    "missingVenue": false,
+    "division": "fcs"
   },
   {
     "id": "2026-ncaa-401868308",

@@ -66,50 +66,6 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401862816",
-    "sourceId": 401862816,
-    "sourceWeek": 9,
-    "week": 10,
-    "date": "2026-10-31",
-    "day": "Saturday",
-    "kickoff": "9a",
-    "home": "South Florida",
-    "away": "UAB",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Raymond James Stadium",
-      "lat": 27.9759,
-      "lng": -82.5033
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2026-ncaa-401858278",
-    "sourceId": 401858278,
-    "sourceWeek": 9,
-    "week": 10,
-    "date": "2026-10-31",
-    "day": "Saturday",
-    "kickoff": "9a",
-    "home": "Syracuse",
-    "away": "SMU",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "JMA Wireless Dome",
-      "lat": 43.0361,
-      "lng": -76.1364
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2026-ncaa-401858503",
     "sourceId": 401858503,
     "sourceWeek": 9,
@@ -149,6 +105,50 @@
       "name": "Gillette Stadium",
       "lat": 42.0909,
       "lng": -71.2643
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401862816",
+    "sourceId": 401862816,
+    "sourceWeek": 9,
+    "week": 10,
+    "date": "2026-10-31",
+    "day": "Saturday",
+    "kickoff": "9a",
+    "home": "South Florida",
+    "away": "UAB",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Raymond James Stadium",
+      "lat": 27.9759,
+      "lng": -82.5033
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401858278",
+    "sourceId": 401858278,
+    "sourceWeek": 9,
+    "week": 10,
+    "date": "2026-10-31",
+    "day": "Saturday",
+    "kickoff": "9a",
+    "home": "Syracuse",
+    "away": "SMU",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "JMA Wireless Dome",
+      "lat": 43.0361,
+      "lng": -76.1364
     },
     "missingVenue": false,
     "division": "fbs"
@@ -220,28 +220,6 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401856734",
-    "sourceId": 401856734,
-    "sourceWeek": 9,
-    "week": 10,
-    "date": "2026-10-31",
-    "day": "Saturday",
-    "kickoff": "12:30p",
-    "home": "Georgia",
-    "away": "Florida",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Mercedes-Benz Stadium",
-      "lat": 33.7553,
-      "lng": -84.4006
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2026-ncaa-401858505",
     "sourceId": 401858505,
     "sourceWeek": 9,
@@ -259,28 +237,6 @@
       "name": "Autzen Stadium",
       "lat": 44.0584,
       "lng": -123.0681
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2026-ncaa-401858501",
-    "sourceId": 401858501,
-    "sourceWeek": 9,
-    "week": 10,
-    "date": "2026-10-31",
-    "day": "Saturday",
-    "kickoff": "12:30p",
-    "home": "Indiana",
-    "away": "Minnesota",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Memorial Stadium (Bloomington, IN)",
-      "lat": 39.1793,
-      "lng": -86.5232
     },
     "missingVenue": false,
     "division": "fbs"
@@ -308,23 +264,23 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401860910",
-    "sourceId": 401860910,
+    "id": "2026-ncaa-401856734",
+    "sourceId": 401856734,
     "sourceWeek": 9,
     "week": 10,
     "date": "2026-10-31",
     "day": "Saturday",
     "kickoff": "12:30p",
-    "home": "Utah State",
-    "away": "Colorado State",
+    "home": "Georgia",
+    "away": "Florida",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/328.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/36.png",
+    "homeLogo": null,
+    "awayLogo": null,
     "venue": {
-      "name": "Maverik Stadium",
-      "lat": 41.7517,
-      "lng": -111.8116
+      "name": "Mercedes-Benz Stadium",
+      "lat": 33.7553,
+      "lng": -84.4006
     },
     "missingVenue": false,
     "division": "fbs"
@@ -347,6 +303,50 @@
       "name": "Fargodome",
       "lat": 46.9028,
       "lng": -96.8013
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401860910",
+    "sourceId": 401860910,
+    "sourceWeek": 9,
+    "week": 10,
+    "date": "2026-10-31",
+    "day": "Saturday",
+    "kickoff": "12:30p",
+    "home": "Utah State",
+    "away": "Colorado State",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/328.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/36.png",
+    "venue": {
+      "name": "Maverik Stadium",
+      "lat": 41.7517,
+      "lng": -111.8116
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401858501",
+    "sourceId": 401858501,
+    "sourceWeek": 9,
+    "week": 10,
+    "date": "2026-10-31",
+    "day": "Saturday",
+    "kickoff": "12:30p",
+    "home": "Indiana",
+    "away": "Minnesota",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Memorial Stadium (Bloomington, IN)",
+      "lat": 39.1793,
+      "lng": -86.5232
     },
     "missingVenue": false,
     "division": "fbs"
@@ -418,6 +418,28 @@
     "division": "fbs"
   },
   {
+    "id": "2026-ncaa-401858280",
+    "sourceId": 401858280,
+    "sourceWeek": 9,
+    "week": 10,
+    "date": "2026-10-31",
+    "day": "Saturday",
+    "kickoff": "4p",
+    "home": "Florida State",
+    "away": "Clemson",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Doak Campbell Stadium",
+      "lat": 30.4384,
+      "lng": -84.3045
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
     "id": "2026-ncaa-401856847",
     "sourceId": 401856847,
     "sourceWeek": 9,
@@ -462,23 +484,23 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401858280",
-    "sourceId": 401858280,
+    "id": "2026-ncaa-401858282",
+    "sourceId": 401858282,
     "sourceWeek": 9,
     "week": 10,
     "date": "2026-10-31",
     "day": "Saturday",
-    "kickoff": "4p",
-    "home": "Florida State",
-    "away": "Clemson",
+    "kickoff": "4:30p",
+    "home": "North Carolina",
+    "away": "Miami",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Doak Campbell Stadium",
-      "lat": 30.4384,
-      "lng": -84.3045
+      "name": "Kenan Stadium",
+      "lat": 35.9096,
+      "lng": -79.0478
     },
     "missingVenue": false,
     "division": "fbs"
@@ -506,28 +528,6 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401858509",
-    "sourceId": 401858509,
-    "sourceWeek": 9,
-    "week": 10,
-    "date": "2026-10-31",
-    "day": "Saturday",
-    "kickoff": "4:30p",
-    "home": "USC",
-    "away": "Ohio State",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/30.png",
-    "awayLogo": null,
-    "venue": {
-      "name": "Los Angeles Memorial Coliseum",
-      "lat": 34.0141,
-      "lng": -118.2879
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2026-ncaa-401856737",
     "sourceId": 401856737,
     "sourceWeek": 9,
@@ -550,23 +550,23 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401858282",
-    "sourceId": 401858282,
+    "id": "2026-ncaa-401858509",
+    "sourceId": 401858509,
     "sourceWeek": 9,
     "week": 10,
     "date": "2026-10-31",
     "day": "Saturday",
     "kickoff": "4:30p",
-    "home": "North Carolina",
-    "away": "Miami",
+    "home": "USC",
+    "away": "Ohio State",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
-    "homeLogo": null,
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/30.png",
     "awayLogo": null,
     "venue": {
-      "name": "Kenan Stadium",
-      "lat": 35.9096,
-      "lng": -79.0478
+      "name": "Los Angeles Memorial Coliseum",
+      "lat": 34.0141,
+      "lng": -118.2879
     },
     "missingVenue": false,
     "division": "fbs"
