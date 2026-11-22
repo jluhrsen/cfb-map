@@ -1,0 +1,46 @@
+[
+  {
+    "id": "2026-ncaa-401869542",
+    "sourceId": 401869542,
+    "sourceWeek": 14,
+    "week": 15,
+    "date": "2026-12-04",
+    "day": "Friday",
+    "kickoff": "5p",
+    "home": "Boise State",
+    "away": "San Diego State",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/21.png",
+    "venue": {
+      "name": "Albertsons Stadium",
+      "lat": 43.6029,
+      "lng": -116.1958
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401858318",
+    "sourceId": 401858318,
+    "sourceWeek": 14,
+    "week": 15,
+    "date": "2026-12-05",
+    "day": "Saturday",
+    "kickoff": "9a",
+    "home": "Miami",
+    "away": "Wake Forest",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Bank of America Stadium",
+      "lat": 35.2258,
+      "lng": -80.8528
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  }
+]
