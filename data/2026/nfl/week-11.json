@@ -1,5 +1,41 @@
 [
   {
+    "id": "nfl-401873078",
+    "week": 11,
+    "date": "2026-11-23",
+    "day": "Monday",
+    "kickoff": "5:15p",
+    "home": "Washington Commanders",
+    "away": "Cincinnati Bengals",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cin.png",
+    "venue": {
+      "name": "Northwest Stadium",
+      "lat": 38.9076,
+      "lng": -76.8645
+    },
+    "missingVenue": false,
+    "division": "nfl"
+  },
+  {
+    "id": "nfl-401873066",
+    "week": 11,
+    "date": "2026-11-19",
+    "day": "Thursday",
+    "kickoff": "5:15p",
+    "home": "Houston Texans",
+    "away": "Indianapolis Colts",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/hou.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ind.png",
+    "venue": {
+      "name": "Reliant Stadium",
+      "lat": 29.6847,
+      "lng": -95.4107
+    },
+    "missingVenue": false,
+    "division": "nfl"
+  },
+  {
     "id": "nfl-401873070",
     "week": 11,
     "date": "2026-11-22",
@@ -193,42 +229,6 @@
       "name": "Estadio Banorte",
       "lat": 25.666,
       "lng": -100.244
-    },
-    "missingVenue": false,
-    "division": "nfl"
-  },
-  {
-    "id": "nfl-401873066",
-    "week": 11,
-    "date": "2026-11-19",
-    "day": "Thursday",
-    "kickoff": "5:15p",
-    "home": "Houston Texans",
-    "away": "Indianapolis Colts",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/hou.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ind.png",
-    "venue": {
-      "name": "Reliant Stadium",
-      "lat": 29.6847,
-      "lng": -95.4107
-    },
-    "missingVenue": false,
-    "division": "nfl"
-  },
-  {
-    "id": "nfl-401873078",
-    "week": 11,
-    "date": "2026-11-23",
-    "day": "Monday",
-    "kickoff": "5:15p",
-    "home": "Washington Commanders",
-    "away": "Cincinnati Bengals",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cin.png",
-    "venue": {
-      "name": "Northwest Stadium",
-      "lat": 38.9076,
-      "lng": -76.8645
     },
     "missingVenue": false,
     "division": "nfl"
