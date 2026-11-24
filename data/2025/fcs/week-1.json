@@ -22,28 +22,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401767446",
-    "sourceId": 401767446,
-    "sourceWeek": 1,
-    "week": 1,
-    "date": "2025-08-28",
-    "day": "Thursday",
-    "kickoff": "3p",
-    "home": "Indiana State",
-    "away": "McKendree",
-    "homeDivision": "fcs",
-    "awayDivision": "d2",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Memorial Stadium",
-      "lat": 38.9628,
-      "lng": -95.2464
-    },
-    "missingVenue": false,
-    "division": "fcs"
-  },
-  {
     "id": "2025-ncaa-401762790",
     "sourceId": 401762790,
     "sourceWeek": 1,
@@ -64,6 +42,28 @@
     },
     "missingVenue": false,
     "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401767446",
+    "sourceId": 401767446,
+    "sourceWeek": 1,
+    "week": 1,
+    "date": "2025-08-28",
+    "day": "Thursday",
+    "kickoff": "3p",
+    "home": "Indiana State",
+    "away": "McKendree",
+    "homeDivision": "fcs",
+    "awayDivision": "d2",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Memorial Stadium",
+      "lat": 38.9628,
+      "lng": -95.2464
+    },
+    "missingVenue": false,
+    "division": "fcs"
   },
   {
     "id": "2025-ncaa-401756876",
