@@ -90,6 +90,12 @@
 }
 
 .search-result {
+  width: 100%;
+  box-sizing: border-box;
+  border: 0;
+  background: transparent;
+  color: inherit;
+  text-align: left;
   padding: 8px 10px;
   cursor: pointer;
   display: flex;
@@ -108,6 +114,11 @@
 
 .search-result:hover {
   background: #f3f6fa;
+}
+
+.search-result:focus-visible {
+  outline: 2px solid #2563eb;
+  outline-offset: -2px;
 }
 
 .team-logo-small {

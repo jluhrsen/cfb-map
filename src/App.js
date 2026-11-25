@@ -1,4 +1,4 @@
-import { MapContainer, TileLayer, Marker, Popup, Tooltip } from 'react-leaflet';
+import { MapContainer, TileLayer, Marker, Popup, Tooltip, useMap } from 'react-leaflet';
 import 'leaflet/dist/leaflet.css';
 import './App.css';
 import L from 'leaflet';
@@ -120,12 +120,18 @@ function App() {
   // When a new team is selected, move to the first available game instead of
   // leaving the map on an empty default week/year.
   useEffect(() => {
-    if (!index || selectedTeams.length === 0) {
+    if (!index || selectedTeams.length === 0 || selectedDivisions.length === 0) {
       lastAutoLocatedTeams.current = '';
       return;
     }
 
-    const teamsKey = selectedTeams.slice().sort().join('|');
+    if (index.availableSeasons?.length > 0 && !index.availableSeasons.includes(selectedYear)) {
+      return;
+    }
+
+    const teamsKey = JSON.stringify([
+      selectedTeams.slice().sort(), selectedDivisions.slice().sort()
+    ]);
     if (teamsKey === lastAutoLocatedTeams.current) {
       return;
     }
@@ -134,7 +140,7 @@ function App() {
     let cancelled = false;
 
     const findAvailableGame = async () => {
-      const divisionsToSearch = index.divisions || selectedDivisions;
+      const divisionsToSearch = selectedDivisions;
       const years = [
         selectedYear,
         ...(index.availableSeasons || [])
@@ -241,6 +247,7 @@ function App() {
           zoomDelta={0.15}
           className="map"
         >
+          <GameMapViewport games={games} />
           <TileLayer
             attribution='&copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors'
             url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
@@ -271,6 +278,20 @@ function App() {
       </main>
     </div>
   );
+}
+
+function GameMapViewport({ games }) {
+  const map = useMap();
+
+  useEffect(() => {
+    if (games.length > 0) {
+      map.fitBounds(games.map(game => [game.venue.lat, game.venue.lng]), {
+        padding: [40, 40], maxZoom: 8
+      });
+    }
+  }, [games, map]);
+
+  return null;
 }
 
 function createGameIcon(game) {

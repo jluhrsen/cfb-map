@@ -71,8 +71,9 @@ function TeamSelector() {
           <div className="search-dropdown">
             {filteredTeams.length > 0 ? (
               filteredTeams.slice(0, searchTerm ? 10 : 100).map(team => (
-                <div
+                <button
                   key={team.name}
+                  type="button"
                   className="search-result"
                   onClick={() => handleAddTeam(team.name)}
                 >
@@ -81,7 +82,7 @@ function TeamSelector() {
                   )}
                   <span>{team.name}</span>
                   <span className="team-division">{team.division.toUpperCase()}</span>
-                </div>
+                </button>
               ))
             ) : (
               <div className="no-results">No teams found</div>
