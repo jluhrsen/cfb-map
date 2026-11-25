@@ -1,27 +1,5 @@
 [
   {
-    "id": "2025-ncaa-401752838",
-    "sourceId": 401752838,
-    "sourceWeek": 3,
-    "week": 4,
-    "date": "2025-09-13",
-    "day": "Saturday",
-    "kickoff": "9a",
-    "home": "Maryland",
-    "away": "Towson",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "SECU Stadium",
-      "lat": 38.9941,
-      "lng": -76.948
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401752828",
     "sourceId": 401752828,
     "sourceWeek": 3,
@@ -44,6 +22,28 @@
     "division": "fbs"
   },
   {
+    "id": "2025-ncaa-401752838",
+    "sourceId": 401752838,
+    "sourceWeek": 3,
+    "week": 4,
+    "date": "2025-09-13",
+    "day": "Saturday",
+    "kickoff": "9a",
+    "home": "Maryland",
+    "away": "Towson",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "SECU Stadium",
+      "lat": 38.9941,
+      "lng": -76.948
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
     "id": "2025-ncaa-401767351",
     "sourceId": 401767351,
     "sourceWeek": 3,
@@ -52,7 +52,7 @@
     "day": "Saturday",
     "kickoff": "10a",
     "home": "Howard",
-    "away": "Morehouse College",
+    "away": "Morehouse",
     "homeDivision": "fcs",
     "awayDivision": "d2",
     "homeLogo": null,
@@ -88,23 +88,45 @@
     "division": "fcs"
   },
   {
-    "id": "2025-ncaa-401762467",
-    "sourceId": 401762467,
+    "id": "2025-ncaa-401767217",
+    "sourceId": 401767217,
     "sourceWeek": 3,
     "week": 4,
     "date": "2025-09-13",
     "day": "Saturday",
     "kickoff": "12:30p",
-    "home": "UTSA",
-    "away": "Incarnate Word",
+    "home": "North Dakota State",
+    "away": "Southeast Missouri State",
+    "homeDivision": "fcs",
+    "awayDivision": "fcs",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2449.png",
+    "awayLogo": null,
+    "venue": {
+      "name": "Fargodome",
+      "lat": 46.9028,
+      "lng": -96.8013
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
+    "id": "2025-ncaa-401754639",
+    "sourceId": 401754639,
+    "sourceWeek": 3,
+    "week": 4,
+    "date": "2025-09-13",
+    "day": "Saturday",
+    "kickoff": "12:30p",
+    "home": "North Carolina",
+    "away": "Richmond",
     "homeDivision": "fbs",
     "awayDivision": "fcs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Alamodome",
-      "lat": 29.4191,
-      "lng": -98.4737
+      "name": "Kenan Stadium",
+      "lat": 35.9096,
+      "lng": -79.0478
     },
     "missingVenue": false,
     "division": "fbs"
@@ -132,28 +154,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401754639",
-    "sourceId": 401754639,
-    "sourceWeek": 3,
-    "week": 4,
-    "date": "2025-09-13",
-    "day": "Saturday",
-    "kickoff": "12:30p",
-    "home": "North Carolina",
-    "away": "Richmond",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Kenan Stadium",
-      "lat": 35.9096,
-      "lng": -79.0478
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401752835",
     "sourceId": 401752835,
     "sourceWeek": 3,
@@ -176,28 +176,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401767217",
-    "sourceId": 401767217,
-    "sourceWeek": 3,
-    "week": 4,
-    "date": "2025-09-13",
-    "day": "Saturday",
-    "kickoff": "12:30p",
-    "home": "North Dakota State",
-    "away": "Southeast Missouri State",
-    "homeDivision": "fcs",
-    "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2449.png",
-    "awayLogo": null,
-    "venue": {
-      "name": "Fargodome",
-      "lat": 46.9028,
-      "lng": -96.8013
-    },
-    "missingVenue": false,
-    "division": "fcs"
-  },
-  {
     "id": "2025-ncaa-401752834",
     "sourceId": 401752834,
     "sourceWeek": 3,
@@ -215,6 +193,28 @@
       "name": "Spartan Stadium",
       "lat": 37.3975,
       "lng": -121.8635
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401762467",
+    "sourceId": 401762467,
+    "sourceWeek": 3,
+    "week": 4,
+    "date": "2025-09-13",
+    "day": "Saturday",
+    "kickoff": "12:30p",
+    "home": "UTSA",
+    "away": "Incarnate Word",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Alamodome",
+      "lat": 29.4191,
+      "lng": -98.4737
     },
     "missingVenue": false,
     "division": "fbs"
@@ -250,7 +250,7 @@
     "day": "Saturday",
     "kickoff": "2p",
     "home": "Alabama State",
-    "away": "Miles College",
+    "away": "Miles",
     "homeDivision": "fcs",
     "awayDivision": "d2",
     "homeLogo": null,
@@ -264,34 +264,12 @@
     "division": "fcs"
   },
   {
-    "id": "2025-ncaa-401767071",
-    "sourceId": 401767071,
-    "sourceWeek": 3,
-    "week": 4,
-    "date": "2025-09-14",
-    "day": "Sunday",
-    "kickoff": "5p",
-    "home": "Cal Poly",
-    "away": "Western Oregon",
-    "homeDivision": "fcs",
-    "awayDivision": "d2",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/13.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2848.png",
-    "venue": {
-      "name": "Alex G. Spanos Stadium",
-      "lat": 35.3005,
-      "lng": -120.6587
-    },
-    "missingVenue": false,
-    "division": "fcs"
-  },
-  {
     "id": "2025-ncaa-401767524",
     "sourceId": 401767524,
     "sourceWeek": 3,
     "week": 4,
-    "date": "2025-09-14",
-    "day": "Sunday",
+    "date": "2025-09-13",
+    "day": "Saturday",
     "kickoff": "5p",
     "home": "Stephen F. Austin",
     "away": "Sul Ross State",
@@ -308,12 +286,34 @@
     "division": "fcs"
   },
   {
+    "id": "2025-ncaa-401767071",
+    "sourceId": 401767071,
+    "sourceWeek": 3,
+    "week": 4,
+    "date": "2025-09-13",
+    "day": "Saturday",
+    "kickoff": "5p",
+    "home": "Cal Poly",
+    "away": "Western Oregon",
+    "homeDivision": "fcs",
+    "awayDivision": "d2",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/13.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2848.png",
+    "venue": {
+      "name": "Alex G. Spanos Stadium",
+      "lat": 35.3005,
+      "lng": -120.6587
+    },
+    "missingVenue": false,
+    "division": "fcs"
+  },
+  {
     "id": "2025-ncaa-401767131",
     "sourceId": 401767131,
     "sourceWeek": 3,
     "week": 4,
-    "date": "2025-09-14",
-    "day": "Sunday",
+    "date": "2025-09-13",
+    "day": "Saturday",
     "kickoff": "6p",
     "home": "Sacramento State",
     "away": "Mercyhurst",
@@ -334,8 +334,8 @@
     "sourceId": 401760369,
     "sourceWeek": 3,
     "week": 4,
-    "date": "2025-09-14",
-    "day": "Sunday",
+    "date": "2025-09-13",
+    "day": "Saturday",
     "kickoff": "7p",
     "home": "Fresno State",
     "away": "Southern",
@@ -356,8 +356,8 @@
     "sourceId": 401760370,
     "sourceWeek": 3,
     "week": 4,
-    "date": "2025-09-14",
-    "day": "Sunday",
+    "date": "2025-09-13",
+    "day": "Saturday",
     "kickoff": "8:59p",
     "home": "Hawai'i",
     "away": "Portland State",

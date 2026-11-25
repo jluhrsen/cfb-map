@@ -4,8 +4,8 @@
     "sourceId": 401760363,
     "sourceWeek": 2,
     "week": 3,
-    "date": "2025-09-06",
-    "day": "Saturday",
+    "date": "2025-09-05",
+    "day": "Friday",
     "kickoff": "6p",
     "home": "Boise State",
     "away": "Eastern Washington",
@@ -110,28 +110,6 @@
     "division": "fcs"
   },
   {
-    "id": "2025-ncaa-401752685",
-    "sourceId": 401752685,
-    "sourceWeek": 2,
-    "week": 3,
-    "date": "2025-09-06",
-    "day": "Saturday",
-    "kickoff": "12:30p",
-    "home": "Georgia",
-    "away": "Austin Peay",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Sanford Stadium",
-      "lat": 33.9498,
-      "lng": -83.3732
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401752815",
     "sourceId": 401752815,
     "sourceWeek": 2,
@@ -171,6 +149,28 @@
       "name": "Neyland Stadium",
       "lat": 35.9551,
       "lng": -83.9252
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401752685",
+    "sourceId": 401752685,
+    "sourceWeek": 2,
+    "week": 3,
+    "date": "2025-09-06",
+    "day": "Saturday",
+    "kickoff": "12:30p",
+    "home": "Georgia",
+    "away": "Austin Peay",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Sanford Stadium",
+      "lat": 33.9498,
+      "lng": -83.3732
     },
     "missingVenue": false,
     "division": "fbs"
@@ -242,28 +242,6 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401754530",
-    "sourceId": 401754530,
-    "sourceWeek": 2,
-    "week": 3,
-    "date": "2025-09-06",
-    "day": "Saturday",
-    "kickoff": "3p",
-    "home": "California",
-    "away": "Texas Southern",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "California Memorial Stadium",
-      "lat": 37.8713,
-      "lng": -122.2507
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401756887",
     "sourceId": 401756887,
     "sourceWeek": 2,
@@ -281,6 +259,28 @@
       "name": "Rice-Eccles Stadium",
       "lat": 40.7597,
       "lng": -111.8478
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2025-ncaa-401754530",
+    "sourceId": 401754530,
+    "sourceWeek": 2,
+    "week": 3,
+    "date": "2025-09-06",
+    "day": "Saturday",
+    "kickoff": "3p",
+    "home": "California",
+    "away": "Texas Southern",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "California Memorial Stadium",
+      "lat": 37.8713,
+      "lng": -122.2507
     },
     "missingVenue": false,
     "division": "fbs"
@@ -356,8 +356,8 @@
     "sourceId": 401767097,
     "sourceWeek": 2,
     "week": 3,
-    "date": "2025-09-07",
-    "day": "Sunday",
+    "date": "2025-09-06",
+    "day": "Saturday",
     "kickoff": "5p",
     "home": "Montana",
     "away": "Central Washington",
@@ -374,34 +374,12 @@
     "division": "fcs"
   },
   {
-    "id": "2025-ncaa-401757231",
-    "sourceId": 401757231,
-    "sourceWeek": 2,
-    "week": 3,
-    "date": "2025-09-07",
-    "day": "Sunday",
-    "kickoff": "6p",
-    "home": "UTEP",
-    "away": "UT Martin",
-    "homeDivision": "fbs",
-    "awayDivision": "fcs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2638.png",
-    "awayLogo": null,
-    "venue": {
-      "name": "Sun Bowl",
-      "lat": 31.7688,
-      "lng": -106.4992
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2025-ncaa-401767292",
     "sourceId": 401767292,
     "sourceWeek": 2,
     "week": 3,
-    "date": "2025-09-07",
-    "day": "Sunday",
+    "date": "2025-09-06",
+    "day": "Saturday",
     "kickoff": "6p",
     "home": "San Diego",
     "away": "Southern Utah",
@@ -418,12 +396,34 @@
     "division": "fcs"
   },
   {
+    "id": "2025-ncaa-401757231",
+    "sourceId": 401757231,
+    "sourceWeek": 2,
+    "week": 3,
+    "date": "2025-09-06",
+    "day": "Saturday",
+    "kickoff": "6p",
+    "home": "UTEP",
+    "away": "UT Martin",
+    "homeDivision": "fbs",
+    "awayDivision": "fcs",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2638.png",
+    "awayLogo": null,
+    "venue": {
+      "name": "Sun Bowl",
+      "lat": 31.7688,
+      "lng": -106.4992
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
     "id": "2025-ncaa-401756879",
     "sourceId": 401756879,
     "sourceWeek": 2,
     "week": 3,
-    "date": "2025-09-07",
-    "day": "Sunday",
+    "date": "2025-09-06",
+    "day": "Saturday",
     "kickoff": "7p",
     "home": "Arizona",
     "away": "Weber State",
@@ -444,8 +444,8 @@
     "sourceId": 401752821,
     "sourceWeek": 2,
     "week": 3,
-    "date": "2025-09-07",
-    "day": "Sunday",
+    "date": "2025-09-06",
+    "day": "Saturday",
     "kickoff": "8p",
     "home": "Washington",
     "away": "UC Davis",

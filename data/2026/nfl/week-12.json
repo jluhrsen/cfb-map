@@ -2,8 +2,8 @@
   {
     "id": "nfl-401873079",
     "week": 12,
-    "date": "2026-11-26",
-    "day": "Thursday",
+    "date": "2026-11-25",
+    "day": "Wednesday",
     "kickoff": "5p",
     "home": "Los Angeles Rams",
     "away": "Green Bay Packers",
@@ -56,8 +56,8 @@
   {
     "id": "nfl-401873082",
     "week": 12,
-    "date": "2026-11-27",
-    "day": "Friday",
+    "date": "2026-11-26",
+    "day": "Thursday",
     "kickoff": "5:20p",
     "home": "Buffalo Bills",
     "away": "Kansas City Chiefs",
@@ -103,24 +103,6 @@
       "name": "Paycor Stadium",
       "lat": 39.0954,
       "lng": -84.516
-    },
-    "missingVenue": false,
-    "division": "nfl"
-  },
-  {
-    "id": "nfl-401873086",
-    "week": 12,
-    "date": "2026-11-29",
-    "day": "Sunday",
-    "kickoff": "10a",
-    "home": "Cleveland Browns",
-    "away": "Las Vegas Raiders",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cle.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lv.png",
-    "venue": {
-      "name": "Huntington Bank Field",
-      "lat": 41.5061,
-      "lng": -81.6995
     },
     "missingVenue": false,
     "division": "nfl"
@@ -180,6 +162,24 @@
     "division": "nfl"
   },
   {
+    "id": "nfl-401873090",
+    "week": 12,
+    "date": "2026-11-29",
+    "day": "Sunday",
+    "kickoff": "10a",
+    "home": "Jacksonville Jaguars",
+    "away": "Tennessee Titans",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/jax.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ten.png",
+    "venue": {
+      "name": "EverBank Stadium",
+      "lat": 30.3239,
+      "lng": -81.6373
+    },
+    "missingVenue": false,
+    "division": "nfl"
+  },
+  {
     "id": "nfl-401873085",
     "week": 12,
     "date": "2026-11-29",
@@ -190,7 +190,7 @@
     "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/hou.png",
     "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/bal.png",
     "venue": {
-      "name": "NRG Stadium",
+      "name": "Reliant Stadium",
       "lat": 29.6847,
       "lng": -95.4107
     },
@@ -198,19 +198,19 @@
     "division": "nfl"
   },
   {
-    "id": "nfl-401873090",
+    "id": "nfl-401873093",
     "week": 12,
     "date": "2026-11-29",
     "day": "Sunday",
     "kickoff": "1:05p",
-    "home": "Jacksonville Jaguars",
-    "away": "Tennessee Titans",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/jax.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ten.png",
+    "home": "Los Angeles Chargers",
+    "away": "New England Patriots",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lac.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ne.png",
     "venue": {
-      "name": "EverBank Stadium",
-      "lat": 30.3239,
-      "lng": -81.6373
+      "name": "SoFi Stadium",
+      "lat": 33.9535,
+      "lng": -118.3392
     },
     "missingVenue": false,
     "division": "nfl"
@@ -252,19 +252,19 @@
     "division": "nfl"
   },
   {
-    "id": "nfl-401873093",
+    "id": "nfl-401873086",
     "week": 12,
-    "date": "2026-11-30",
-    "day": "Monday",
+    "date": "2026-11-29",
+    "day": "Sunday",
     "kickoff": "5:20p",
-    "home": "Los Angeles Chargers",
-    "away": "New England Patriots",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lac.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ne.png",
+    "home": "Cleveland Browns",
+    "away": "Las Vegas Raiders",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cle.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lv.png",
     "venue": {
-      "name": "SoFi Stadium",
-      "lat": 33.9535,
-      "lng": -118.3392
+      "name": "Huntington Bank Field",
+      "lat": 41.5061,
+      "lng": -81.6995
     },
     "missingVenue": false,
     "division": "nfl"
@@ -272,8 +272,8 @@
   {
     "id": "nfl-401873094",
     "week": 12,
-    "date": "2026-12-01",
-    "day": "Tuesday",
+    "date": "2026-11-30",
+    "day": "Monday",
     "kickoff": "5:15p",
     "home": "Tampa Bay Buccaneers",
     "away": "Carolina Panthers",
