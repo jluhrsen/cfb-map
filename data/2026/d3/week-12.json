@@ -66,28 +66,6 @@
     "division": "d3"
   },
   {
-    "id": "2026-ncaa-401934268",
-    "sourceId": 401934268,
-    "sourceWeek": 11,
-    "week": 12,
-    "date": "2026-11-14",
-    "day": "Saturday",
-    "kickoff": "1p",
-    "home": "La Verne",
-    "away": "Whittier",
-    "homeDivision": "d3",
-    "awayDivision": "d3",
-    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/xd9a451s9o7md2nt.png",
-    "awayLogo": null,
-    "venue": {
-      "name": "Ortmayer Stadium",
-      "lat": 34.1008,
-      "lng": -117.7678
-    },
-    "missingVenue": false,
-    "division": "d3"
-  },
-  {
     "id": "2026-ncaa-401908400",
     "sourceId": 401908400,
     "sourceWeek": 11,
@@ -105,28 +83,6 @@
       "name": "Stoffer Family Stadium",
       "lat": 45.3051,
       "lng": -122.9677
-    },
-    "missingVenue": false,
-    "division": "d3"
-  },
-  {
-    "id": "2026-ncaa-401908411",
-    "sourceId": 401908411,
-    "sourceWeek": 11,
-    "week": 12,
-    "date": "2026-11-14",
-    "day": "Saturday",
-    "kickoff": "1p",
-    "home": "Lewis & Clark",
-    "away": "Pacific (OR)",
-    "homeDivision": "d3",
-    "awayDivision": "d3",
-    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/2i62768ao3nlh5wq.png",
-    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/lkxbjwugyaf69m59.png",
-    "venue": {
-      "name": "Griswold Stadium",
-      "lat": 45.4519,
-      "lng": -122.6727
     },
     "missingVenue": false,
     "division": "d3"
@@ -154,6 +110,28 @@
     "division": "d3"
   },
   {
+    "id": "2026-ncaa-401908411",
+    "sourceId": 401908411,
+    "sourceWeek": 11,
+    "week": 12,
+    "date": "2026-11-14",
+    "day": "Saturday",
+    "kickoff": "1p",
+    "home": "Lewis & Clark",
+    "away": "Pacific (OR)",
+    "homeDivision": "d3",
+    "awayDivision": "d3",
+    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/2i62768ao3nlh5wq.png",
+    "awayLogo": "https://cdn.prestosports.com/action/cdn/logos/id/lkxbjwugyaf69m59.png",
+    "venue": {
+      "name": "Griswold Stadium",
+      "lat": 45.4519,
+      "lng": -122.6727
+    },
+    "missingVenue": false,
+    "division": "d3"
+  },
+  {
     "id": "2026-ncaa-401933697",
     "sourceId": 401933697,
     "sourceWeek": 11,
@@ -171,6 +149,28 @@
       "name": "Merritt Field",
       "lat": 34.098,
       "lng": -117.714
+    },
+    "missingVenue": false,
+    "division": "d3"
+  },
+  {
+    "id": "2026-ncaa-401934268",
+    "sourceId": 401934268,
+    "sourceWeek": 11,
+    "week": 12,
+    "date": "2026-11-14",
+    "day": "Saturday",
+    "kickoff": "1p",
+    "home": "La Verne",
+    "away": "Whittier",
+    "homeDivision": "d3",
+    "awayDivision": "d3",
+    "homeLogo": "https://cdn.prestosports.com/action/cdn/logos/id/xd9a451s9o7md2nt.png",
+    "awayLogo": null,
+    "venue": {
+      "name": "Ortmayer Stadium",
+      "lat": 34.1008,
+      "lng": -117.7678
     },
     "missingVenue": false,
     "division": "d3"

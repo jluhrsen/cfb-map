@@ -1,5 +1,41 @@
 [
   {
+    "id": "nfl-401873083",
+    "week": 12,
+    "date": "2026-11-27",
+    "day": "Friday",
+    "kickoff": "12p",
+    "home": "Pittsburgh Steelers",
+    "away": "Denver Broncos",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/pit.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/den.png",
+    "venue": {
+      "name": "Acrisure Stadium",
+      "lat": 40.4468,
+      "lng": -80.0158
+    },
+    "missingVenue": false,
+    "division": "nfl"
+  },
+  {
+    "id": "nfl-401873079",
+    "week": 12,
+    "date": "2026-11-25",
+    "day": "Wednesday",
+    "kickoff": "5p",
+    "home": "Los Angeles Rams",
+    "away": "Green Bay Packers",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lar.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
+    "venue": {
+      "name": "SoFi Stadium",
+      "lat": 33.9535,
+      "lng": -118.3392
+    },
+    "missingVenue": false,
+    "division": "nfl"
+  },
+  {
     "id": "nfl-401873081",
     "week": 12,
     "date": "2026-11-26",
@@ -49,42 +85,6 @@
       "name": "Highmark Stadium",
       "lat": 42.7738,
       "lng": -78.787
-    },
-    "missingVenue": false,
-    "division": "nfl"
-  },
-  {
-    "id": "nfl-401873079",
-    "week": 12,
-    "date": "2026-11-25",
-    "day": "Wednesday",
-    "kickoff": "5p",
-    "home": "Los Angeles Rams",
-    "away": "Green Bay Packers",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lar.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
-    "venue": {
-      "name": "SoFi Stadium",
-      "lat": 33.9535,
-      "lng": -118.3392
-    },
-    "missingVenue": false,
-    "division": "nfl"
-  },
-  {
-    "id": "nfl-401873083",
-    "week": 12,
-    "date": "2026-11-27",
-    "day": "Friday",
-    "kickoff": "12p",
-    "home": "Pittsburgh Steelers",
-    "away": "Denver Broncos",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/pit.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/den.png",
-    "venue": {
-      "name": "Acrisure Stadium",
-      "lat": 40.4468,
-      "lng": -80.0158
     },
     "missingVenue": false,
     "division": "nfl"

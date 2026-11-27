@@ -1,27 +1,5 @@
 [
   {
-    "id": "2026-ncaa-401862840",
-    "sourceId": 401862840,
-    "sourceWeek": 13,
-    "week": 14,
-    "date": "2026-11-27",
-    "day": "Friday",
-    "kickoff": "9a",
-    "home": "UTSA",
-    "away": "Tulsa",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Alamodome",
-      "lat": 29.4191,
-      "lng": -98.4737
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2026-ncaa-401866472",
     "sourceId": 401866472,
     "sourceWeek": 13,
@@ -39,6 +17,28 @@
       "name": "InfoCision Stadium",
       "lat": 41.0726,
       "lng": -81.5084
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401862840",
+    "sourceId": 401862840,
+    "sourceWeek": 13,
+    "week": 14,
+    "date": "2026-11-27",
+    "day": "Friday",
+    "kickoff": "9a",
+    "home": "UTSA",
+    "away": "Tulsa",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Alamodome",
+      "lat": 29.4191,
+      "lng": -98.4737
     },
     "missingVenue": false,
     "division": "fbs"
@@ -66,28 +66,6 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401864549",
-    "sourceId": 401864549,
-    "sourceWeek": 13,
-    "week": 14,
-    "date": "2026-11-27",
-    "day": "Friday",
-    "kickoff": "12:30p",
-    "home": "San José State",
-    "away": "North Dakota State",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/23.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2449.png",
-    "venue": {
-      "name": "CEFCU Stadium",
-      "lat": 37.3197,
-      "lng": -121.8684
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2026-ncaa-401856759",
     "sourceId": 401856759,
     "sourceWeek": 13,
@@ -105,6 +83,28 @@
       "name": "Doak Campbell Stadium",
       "lat": 30.4384,
       "lng": -84.3045
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401864549",
+    "sourceId": 401864549,
+    "sourceWeek": 13,
+    "week": 14,
+    "date": "2026-11-27",
+    "day": "Friday",
+    "kickoff": "12:30p",
+    "home": "San José State",
+    "away": "North Dakota State",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/23.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2449.png",
+    "venue": {
+      "name": "CEFCU Stadium",
+      "lat": 37.3197,
+      "lng": -121.8684
     },
     "missingVenue": false,
     "division": "fbs"
@@ -176,6 +176,28 @@
     "division": "fbs"
   },
   {
+    "id": "2026-ncaa-401858314",
+    "sourceId": 401858314,
+    "sourceWeek": 13,
+    "week": 14,
+    "date": "2026-11-28",
+    "day": "Saturday",
+    "kickoff": "9a",
+    "home": "Syracuse",
+    "away": "Notre Dame",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "JMA Wireless Dome",
+      "lat": 43.0361,
+      "lng": -76.1364
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
     "id": "2026-ncaa-401858540",
     "sourceId": 401858540,
     "sourceWeek": 13,
@@ -193,6 +215,50 @@
       "name": "Ohio Stadium",
       "lat": 40.0018,
       "lng": -83.0197
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401856761",
+    "sourceId": 401856761,
+    "sourceWeek": 13,
+    "week": 14,
+    "date": "2026-11-28",
+    "day": "Saturday",
+    "kickoff": "9a",
+    "home": "Kentucky",
+    "away": "Louisville",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Kroger Field",
+      "lat": 38.022,
+      "lng": -84.5037
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401861969",
+    "sourceId": 401861969,
+    "sourceWeek": 13,
+    "week": 14,
+    "date": "2026-11-28",
+    "day": "Saturday",
+    "kickoff": "9a",
+    "home": "Wyoming",
+    "away": "UConn",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2751.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png",
+    "venue": {
+      "name": "War Memorial Stadium",
+      "lat": 41.307,
+      "lng": -105.5677
     },
     "missingVenue": false,
     "division": "fbs"
@@ -237,72 +303,6 @@
       "name": "Hard Rock Stadium",
       "lat": 25.958,
       "lng": -80.2389
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2026-ncaa-401856761",
-    "sourceId": 401856761,
-    "sourceWeek": 13,
-    "week": 14,
-    "date": "2026-11-28",
-    "day": "Saturday",
-    "kickoff": "9a",
-    "home": "Kentucky",
-    "away": "Louisville",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Kroger Field",
-      "lat": 38.022,
-      "lng": -84.5037
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2026-ncaa-401858314",
-    "sourceId": 401858314,
-    "sourceWeek": 13,
-    "week": 14,
-    "date": "2026-11-28",
-    "day": "Saturday",
-    "kickoff": "9a",
-    "home": "Syracuse",
-    "away": "Notre Dame",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "JMA Wireless Dome",
-      "lat": 43.0361,
-      "lng": -76.1364
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2026-ncaa-401861969",
-    "sourceId": 401861969,
-    "sourceWeek": 13,
-    "week": 14,
-    "date": "2026-11-28",
-    "day": "Saturday",
-    "kickoff": "9a",
-    "home": "Wyoming",
-    "away": "UConn",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2751.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png",
-    "venue": {
-      "name": "War Memorial Stadium",
-      "lat": 41.307,
-      "lng": -105.5677
     },
     "missingVenue": false,
     "division": "fbs"
@@ -374,28 +374,6 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401858317",
-    "sourceId": 401858317,
-    "sourceWeek": 13,
-    "week": 14,
-    "date": "2026-11-28",
-    "day": "Saturday",
-    "kickoff": "12p",
-    "home": "Virginia Tech",
-    "away": "Virginia",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Lane Stadium",
-      "lat": 37.2206,
-      "lng": -80.4183
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2026-ncaa-401856764",
     "sourceId": 401856764,
     "sourceWeek": 13,
@@ -418,89 +396,45 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401856876",
-    "sourceId": 401856876,
+    "id": "2026-ncaa-401858317",
+    "sourceId": 401858317,
     "sourceWeek": 13,
     "week": 14,
     "date": "2026-11-28",
     "day": "Saturday",
-    "kickoff": "12:30p",
-    "home": "BYU",
-    "away": "Cincinnati",
+    "kickoff": "12p",
+    "home": "Virginia Tech",
+    "away": "Virginia",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "LaVell Edwards Stadium",
-      "lat": 40.2578,
-      "lng": -111.6563
+      "name": "Lane Stadium",
+      "lat": 37.2206,
+      "lng": -80.4183
     },
     "missingVenue": false,
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401858539",
-    "sourceId": 401858539,
+    "id": "2026-ncaa-401866475",
+    "sourceId": 401866475,
     "sourceWeek": 13,
     "week": 14,
     "date": "2026-11-28",
     "day": "Saturday",
     "kickoff": "12:30p",
-    "home": "Maryland",
-    "away": "Penn State",
+    "home": "Bowling Green",
+    "away": "Massachusetts",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "SECU Stadium",
-      "lat": 38.9941,
-      "lng": -76.948
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2026-ncaa-401856760",
-    "sourceId": 401856760,
-    "sourceWeek": 13,
-    "week": 14,
-    "date": "2026-11-28",
-    "day": "Saturday",
-    "kickoff": "12:30p",
-    "home": "Georgia",
-    "away": "Georgia Tech",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": null,
-    "awayLogo": null,
-    "venue": {
-      "name": "Sanford Stadium",
-      "lat": 33.9498,
-      "lng": -83.3732
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
-    "id": "2026-ncaa-401858316",
-    "sourceId": 401858316,
-    "sourceWeek": 13,
-    "week": 14,
-    "date": "2026-11-28",
-    "day": "Saturday",
-    "kickoff": "12:30p",
-    "home": "Stanford",
-    "away": "SMU",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/24.png",
-    "awayLogo": null,
-    "venue": {
-      "name": "Stanford Stadium",
-      "lat": 37.4344,
-      "lng": -122.1614
+      "name": "Doyt L. Perry Stadium",
+      "lat": 41.375,
+      "lng": -83.635
     },
     "missingVenue": false,
     "division": "fbs"
@@ -528,23 +462,67 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401858543",
-    "sourceId": 401858543,
+    "id": "2026-ncaa-401856876",
+    "sourceId": 401856876,
     "sourceWeek": 13,
     "week": 14,
     "date": "2026-11-28",
     "day": "Saturday",
     "kickoff": "12:30p",
-    "home": "UCLA",
-    "away": "USC",
+    "home": "BYU",
+    "away": "Cincinnati",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
     "homeLogo": null,
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/30.png",
+    "awayLogo": null,
     "venue": {
-      "name": "Rose Bowl",
-      "lat": 34.1611,
-      "lng": -118.1676
+      "name": "LaVell Edwards Stadium",
+      "lat": 40.2578,
+      "lng": -111.6563
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401858316",
+    "sourceId": 401858316,
+    "sourceWeek": 13,
+    "week": 14,
+    "date": "2026-11-28",
+    "day": "Saturday",
+    "kickoff": "12:30p",
+    "home": "Stanford",
+    "away": "SMU",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/24.png",
+    "awayLogo": null,
+    "venue": {
+      "name": "Stanford Stadium",
+      "lat": 37.4344,
+      "lng": -122.1614
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401856760",
+    "sourceId": 401856760,
+    "sourceWeek": 13,
+    "week": 14,
+    "date": "2026-11-28",
+    "day": "Saturday",
+    "kickoff": "12:30p",
+    "home": "Georgia",
+    "away": "Georgia Tech",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": null,
+    "venue": {
+      "name": "Sanford Stadium",
+      "lat": 33.9498,
+      "lng": -83.3732
     },
     "missingVenue": false,
     "division": "fbs"
@@ -572,23 +550,45 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401866475",
-    "sourceId": 401866475,
+    "id": "2026-ncaa-401858543",
+    "sourceId": 401858543,
     "sourceWeek": 13,
     "week": 14,
     "date": "2026-11-28",
     "day": "Saturday",
     "kickoff": "12:30p",
-    "home": "Bowling Green",
-    "away": "Massachusetts",
+    "home": "UCLA",
+    "away": "USC",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": null,
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/30.png",
+    "venue": {
+      "name": "Rose Bowl",
+      "lat": 34.1611,
+      "lng": -118.1676
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401858539",
+    "sourceId": 401858539,
+    "sourceWeek": 13,
+    "week": 14,
+    "date": "2026-11-28",
+    "day": "Saturday",
+    "kickoff": "12:30p",
+    "home": "Maryland",
+    "away": "Penn State",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Doyt L. Perry Stadium",
-      "lat": 41.375,
-      "lng": -83.635
+      "name": "SECU Stadium",
+      "lat": 38.9941,
+      "lng": -76.948
     },
     "missingVenue": false,
     "division": "fbs"
@@ -836,28 +836,6 @@
     "division": "fbs"
   },
   {
-    "id": "2026-ncaa-401864548",
-    "sourceId": 401864548,
-    "sourceWeek": 13,
-    "week": 14,
-    "date": "2026-11-28",
-    "day": "Saturday",
-    "kickoff": "6p",
-    "home": "UNLV",
-    "away": "Nevada",
-    "homeDivision": "fbs",
-    "awayDivision": "fbs",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2439.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2440.png",
-    "venue": {
-      "name": "Allegiant Stadium",
-      "lat": 36.0909,
-      "lng": -115.1833
-    },
-    "missingVenue": false,
-    "division": "fbs"
-  },
-  {
     "id": "2026-ncaa-401856873",
     "sourceId": 401856873,
     "sourceWeek": 13,
@@ -875,6 +853,28 @@
       "name": "Arizona Stadium",
       "lat": 32.2287,
       "lng": -110.9489
+    },
+    "missingVenue": false,
+    "division": "fbs"
+  },
+  {
+    "id": "2026-ncaa-401864548",
+    "sourceId": 401864548,
+    "sourceWeek": 13,
+    "week": 14,
+    "date": "2026-11-28",
+    "day": "Saturday",
+    "kickoff": "6p",
+    "home": "UNLV",
+    "away": "Nevada",
+    "homeDivision": "fbs",
+    "awayDivision": "fbs",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2439.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2440.png",
+    "venue": {
+      "name": "Allegiant Stadium",
+      "lat": 36.0909,
+      "lng": -115.1833
     },
     "missingVenue": false,
     "division": "fbs"
