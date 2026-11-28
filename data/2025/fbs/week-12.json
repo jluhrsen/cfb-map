@@ -110,23 +110,23 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401754587",
-    "sourceId": 401754587,
+    "id": "2025-ncaa-401752763",
+    "sourceId": 401752763,
     "sourceWeek": 11,
     "week": 12,
     "date": "2025-11-08",
     "day": "Saturday",
     "kickoff": "12:30p",
-    "home": "Miami",
-    "away": "Syracuse",
+    "home": "Missouri",
+    "away": "Texas A&M",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Hard Rock Stadium",
-      "lat": 25.958,
-      "lng": -80.2389
+      "name": "Memorial Stadium",
+      "lat": 38.9628,
+      "lng": -95.2464
     },
     "missingVenue": false,
     "division": "fbs"
@@ -176,23 +176,23 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752763",
-    "sourceId": 401752763,
+    "id": "2025-ncaa-401754587",
+    "sourceId": 401754587,
     "sourceWeek": 11,
     "week": 12,
     "date": "2025-11-08",
     "day": "Saturday",
     "kickoff": "12:30p",
-    "home": "Missouri",
-    "away": "Texas A&M",
+    "home": "Miami",
+    "away": "Syracuse",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Memorial Stadium",
-      "lat": 38.9628,
-      "lng": -95.2464
+      "name": "Hard Rock Stadium",
+      "lat": 25.958,
+      "lng": -80.2389
     },
     "missingVenue": false,
     "division": "fbs"
@@ -308,23 +308,23 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401757166",
-    "sourceId": 401757166,
+    "id": "2025-ncaa-401752760",
+    "sourceId": 401752760,
     "sourceWeek": 11,
     "week": 12,
     "date": "2025-11-08",
     "day": "Saturday",
     "kickoff": "4:30p",
-    "home": "Notre Dame",
-    "away": "Navy",
+    "home": "Kentucky",
+    "away": "Florida",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Notre Dame Stadium",
-      "lat": 41.6997,
-      "lng": -86.2347
+      "name": "Kroger Field",
+      "lat": 38.022,
+      "lng": -84.5037
     },
     "missingVenue": false,
     "division": "fbs"
@@ -352,23 +352,23 @@
     "division": "fbs"
   },
   {
-    "id": "2025-ncaa-401752760",
-    "sourceId": 401752760,
+    "id": "2025-ncaa-401757166",
+    "sourceId": 401757166,
     "sourceWeek": 11,
     "week": 12,
     "date": "2025-11-08",
     "day": "Saturday",
     "kickoff": "4:30p",
-    "home": "Kentucky",
-    "away": "Florida",
+    "home": "Notre Dame",
+    "away": "Navy",
     "homeDivision": "fbs",
     "awayDivision": "fbs",
     "homeLogo": null,
     "awayLogo": null,
     "venue": {
-      "name": "Kroger Field",
-      "lat": 38.022,
-      "lng": -84.5037
+      "name": "Notre Dame Stadium",
+      "lat": 41.6997,
+      "lng": -86.2347
     },
     "missingVenue": false,
     "division": "fbs"

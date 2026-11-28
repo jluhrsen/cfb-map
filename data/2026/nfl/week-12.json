@@ -1,23 +1,5 @@
 [
   {
-    "id": "nfl-401873083",
-    "week": 12,
-    "date": "2026-11-27",
-    "day": "Friday",
-    "kickoff": "12p",
-    "home": "Pittsburgh Steelers",
-    "away": "Denver Broncos",
-    "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/pit.png",
-    "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/den.png",
-    "venue": {
-      "name": "Acrisure Stadium",
-      "lat": 40.4468,
-      "lng": -80.0158
-    },
-    "missingVenue": false,
-    "division": "nfl"
-  },
-  {
     "id": "nfl-401873079",
     "week": 12,
     "date": "2026-11-25",
@@ -85,6 +67,24 @@
       "name": "Highmark Stadium",
       "lat": 42.7738,
       "lng": -78.787
+    },
+    "missingVenue": false,
+    "division": "nfl"
+  },
+  {
+    "id": "nfl-401873083",
+    "week": 12,
+    "date": "2026-11-27",
+    "day": "Friday",
+    "kickoff": "12p",
+    "home": "Pittsburgh Steelers",
+    "away": "Denver Broncos",
+    "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/pit.png",
+    "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/den.png",
+    "venue": {
+      "name": "Acrisure Stadium",
+      "lat": 40.4468,
+      "lng": -80.0158
     },
     "missingVenue": false,
     "division": "nfl"
